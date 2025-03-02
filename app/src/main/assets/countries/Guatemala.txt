@@ -1,0 +1,72 @@
+Guatemala,Barrios_Retalhuleu,14.6765,-91.7235,-6,54
+Guatemala,Barrios_Jalapa,14.5265,-90.1735,-6,55
+Guatemala,Barrios_Suchitepequez,14.5265,-91.3735,-6,54
+Guatemala,Barrios_Quetzaltenango,14.6598,-91.8735,-6,54
+Guatemala,Dorador_Jutiapa,14.46,-89.5733,-6,55
+Guatemala,Escuintla,14.3151,-90.7749,-6,55
+Guatemala,Guatemala City_Guatemala,14.6314,-90.5166,-6,55
+Guatemala,Kaibil Balam_Quiche,15.8607,-90.956,-6,54
+Guatemala,Kaminaljuyu_Guatemala,14.644,-90.5393,-6,55
+Guatemala,Kinal_Peten,17.7107,-89.2326,-6,54
+Guatemala,Kowich Creek_Izabal,15.8607,-88.756,-6,55
+Guatemala,Oaxaqueno_Huehuetenango,15.4778,-92.0556,-6,53
+Guatemala,Obero_Escuintla,14.0464,-90.8192,-6,55
+Guatemala,Obraje_Chiquimula,14.6278,-89.6222,-6,55
+Guatemala,Obraje_El Progreso,14.8111,-90.0389,-6,55
+Guatemala,Obraje_Santa Rosa,14.0392,-90.3742,-6,55
+Guatemala,Ocante_Huehuetenango,15.8944,-91.5222,-6,53
+Guatemala,Ochol_Solola,14.6611,-91.4222,-6,54
+Guatemala,Ocos_Quiche,14.9944,-90.7389,-6,54
+Guatemala,Ocosito_Retalhuleu,14.5944,-91.6556,-6,54
+Guatemala,Ocubila_Huehuetenango,15.3439,-91.397,-6,54
+Guatemala,Ocultun_Peten,17.2444,-90.8056,-6,53
+Guatemala,Ocumbla_Chiquimula,14.7944,-89.3056,-6,55
+Guatemala,Ojechejel_Huehuetenango,15.3111,-91.4556,-6,54
+Guatemala,Ojo de Agua El Coyol_El Progreso,14.8444,-90.0889,-6,55
+Guatemala,Ojo de Agua Escondido_Chiquimula,14.8778,-89.4056,-6,55
+Guatemala,Olintepeque_Quetzaltenango,14.8944,-91.5056,-6,54
+Guatemala,Omagua_Izabal,15.5778,-88.5556,-6,55
+Guatemala,Onandaga_Izabal,15.3611,-88.8056,-6,55
+Guatemala,Oneida_Izabal,15.4444,-88.8222,-6,88
+Guatemala,Onlaj_Huehuetenango,15.6111,-91.6389,-6,53
+Guatemala,Oquen_Chiquimula,14.8111,-89.4056,-6,55
+Guatemala,Oratorio_Santa Rosa,14.2392,-90.1647,-6,55
+Guatemala,Oratorio_Zacapa,14.9611,-89.4222,-6,55
+Guatemala,Orchoj_Jalapa,14.5611,-89.9722,-6,55
+Guatemala,Oregano_Chiquimula,14.8778,-89.4556,-6,55
+Guatemala,Orejas_El Progreso,14.8944,-89.9222,-6,55
+Guatemala,Orizaba_Peten,17.0278,-91.1222,-6,53
+Guatemala,Oscurana_Chiquimula,14.6278,-89.5556,-6,55
+Guatemala,Oscurana_Zacapa,14.9111,-89.6556,-6,55
+Guatemala,Otacingo_Escuintla,14.0036,-90.8825,-6,55
+Guatemala,Ovejero_Jutiapa,14.4444,-89.8556,-6,55
+Guatemala,Oxib Cumbo_Alta Verapaz,15.7944,-90.1722,-6,54
+Guatemala,Quezaltenango_Quetzaltenango,14.8446,-91.5054,-6,54
+Guatemala,Ualantun_Peten,17.195,-89.655,-6,54
+Guatemala,Ucanal_Peten,16.4784,-89.9883,-6,54
+Guatemala,Ulutelac_Huehuetenango,15.945,-91.2383,-6,54
+Guatemala,Usumatlan_Zacapa,14.9617,-89.7716,-6,55
+Guatemala,Ware Creek_Izabal,15.8952,-89.1214,-6,55
+Guatemala,Yajaucu_Huehuetenango,15.6185,-91.3323,-6,54
+Guatemala,Yaki_Izabal,15.3121,-88.9712,-6,55
+Guatemala,Yalantan_Huehuetenango,15.8788,-91.5212,-6,53
+Guatemala,Yalmojan_Peten,16.9788,-89.9712,-6,54
+Guatemala,Yalpina_Peten,17.1788,-90.8212,-6,53
+Guatemala,Yaltutu_Peten,16.4127,-89.4707,-6,54
+Guatemala,Yaoch_Peten,17.3288,-89.1712,-6,54
+Guatemala,Yat_Quiche,14.9788,-91.1879,-6,54
+Guatemala,Yaxa_Peten,17.0788,-89.3712,-6,54
+Guatemala,Yaxjaj_Peten,16.8621,-89.8046,-6,54
+Guatemala,Yisquisis_Huehuetenango,16.0621,-91.4046,-6,53
+Guatemala,Yocon_Chiquimula,14.6454,-89.4212,-6,55
+Guatemala,Yolaquitac_Huehuetenango,15.8454,-91.5379,-6,53
+Guatemala,Yolcultac_Huehuetenango,15.8621,-91.6046,-6,53
+Guatemala,Yolhuitz_Huehuetenango,15.8732,-91.2507,-6,54
+Guatemala,Yolicham_Huehuetenango,15.8454,-91.5546,-6,53
+Guatemala,Yolonquisis_Huehuetenango,15.8954,-91.5546,-6,53
+Guatemala,Yoxacla_Huehuetenango,15.7621,-91.6546,-6,53
+Guatemala,Yuinima_San Marcos,15.1288,-91.9046,-6,54
+Guatemala,Yulacheque_Huehuetenango,15.8121,-91.3712,-6,54
+Guatemala,Yulmacap_Huehuetenango,15.8752,-91.1532,-6,54
+Guatemala,Yupiltepeque_Jutiapa,14.2121,-89.7712,-6,55
+Guatemala,Yzabal_Izabal,15.5121,-88.9879,-6,55

@@ -1,0 +1,85 @@
+Liberia,3A_Grand Bassa,6.0051,-9.7449,0,0
+Liberia,3B_Grand Bassa,6.2551,-9.3282,0,0
+Liberia,Abironda Mountain_Nimba,7.3094,-8.4164,0,0
+Liberia,Agikolazizu_LI05,8.3597,-9.707,0,0
+Liberia,Alabama Camp_LI05,8.1772,-9.9417,0,0
+Liberia,Anchuah Town_Grand Bassa,6.4264,-9.5736,0,0
+Liberia,Andrews Town_LI05,6.9355,-10.6592,0,0
+Liberia,Athol Rock_Maryland,4.3441,-7.6539,0,0
+Liberia,Ayema_LI05,8.2514,-9.5159,0,0
+Liberia,Buchanan_Grand Bassa,5.912,-10.0469,0,0
+Liberia,Ganta_Nimba,7.2453,-8.9741,0,0
+Liberia,Gbarnga_Bong,7.0059,-9.4619,0,0
+Liberia,Harbel_Margibi,6.2901,-10.3371,0,0
+Liberia,Harper_Maryland,4.4271,-7.6229,0,0
+Liberia,Ibrani_Nimba,6.9374,-8.8592,0,0
+Liberia,Igenta_Montserrado,6.6683,-10.587,0,0
+Liberia,Ioto_Bomi,6.6286,-11.0223,0,0
+Liberia,Isaac Town_Margibi,6.6105,-9.9728,0,0
+Liberia,Kakata_Margibi,6.5407,-10.341,0,0
+Liberia,Kakata_Montserrado,6.6126,-10.4596,0,0
+Liberia,Kakata_LI08,6.6774,-10.3226,0,0
+Liberia,Madina_Grand Cape Mount,6.8803,-11.3269,0,0
+Liberia,Madina_Bomi,6.6303,-10.7119,0,0
+Liberia,Madina_LI05,7.0498,-10.503,0,0
+Liberia,Monrovia_Bong,6.6776,-9.6558,0,0
+Liberia,Monrovia_Montserrado,6.3215,-10.7938,0,0
+Liberia,Monrovia Bay_LI08,6.3609,-10.8058,0,0
+Liberia,Monrovia Harbor_Montserrado,6.354,-10.7827,0,0
+Liberia,Monrovia Spriggs Payne_Montserrado,6.3006,-10.7472,0,0
+Liberia,Oberguinea,7.0111,-3.9889,0,0
+Liberia,Ochg Town_Grand Bassa,6.0597,-10.0461,0,0
+Liberia,Ojata_Margibi,6.6278,-10.0722,0,0
+Liberia,Ojo_Nimba,6.4447,-9.017,0,0
+Liberia,Okaibli_Grand Bassa,6.1278,-10.2056,0,0
+Liberia,Okepie_Nimba,6.525,-8.8842,0,0
+Liberia,Okia_LI08,7.0611,-10.7389,0,0
+Liberia,Oko Boli_Nimba,6.8203,-8.8689,0,0
+Liberia,Old Boe_LI02,6.2944,-7.9222,0,0
+Liberia,Old Gbain Town_Nimba,7.1086,-8.785,0,0
+Liberia,Oldman Johnnybli_Grand Bassa,6.2778,-9.9389,0,0
+Liberia,Ololohn_Nimba,6.9872,-8.6845,0,0
+Liberia,Omalu_LI05,6.9405,-10.6867,0,0
+Liberia,Omata_Grand Bassa,6.5042,-9.3511,0,0
+Liberia,Omeli_Nimba,7.1489,-8.672,0,0
+Liberia,Onka Creek_Nimba,7.0411,-8.905,0,0
+Liberia,Operator Camp_Grand Bassa,6.1278,-9.7556,0,0
+Liberia,Ostru_Grand Bassa,6.1111,-10.1722,0,0
+Liberia,Otikehn_Maryland,4.7444,-8.0722,0,0
+Liberia,Ouenzie,8.0778,-9.4056,0,0
+Liberia,Oui_Nimba,7.1611,-8.4722,0,0
+Liberia,Oule River,7.3778,-9.4722,0,0
+Liberia,Outer Patch_Maryland,4.3778,-7.9056,0,0
+Liberia,Outer Rock_Sinoe,5.2444,-9.4222,0,0
+Liberia,Outer Rocks_Maryland,4.3778,-7.7222,0,0
+Liberia,Owen s Gnove_Margibi,6.2769,-10.3245,0,0
+Liberia,Quahn_Nimba,7.0946,-8.5054,0,0
+Liberia,Quai_Nimba,6.9613,-9.0387,0,0
+Liberia,Qualala_Bong,6.8666,-9.7712,0,0
+Liberia,Quanabo River_LI02,5.278,-7.472,0,0
+Liberia,Quehtrayah_Grand Bassa,6.1366,-10.1381,0,0
+Liberia,Quema_Margibi,6.728,-9.9387,0,0
+Liberia,Quemah_Grand Cape Mount,6.9396,-11.2334,0,0
+Liberia,Quiapiple_Nimba,6.6146,-8.529,0,0
+Liberia,Quinie Creek_Bomi,6.5446,-10.8887,0,0
+Liberia,Quittatuaon_Sinoe,5.0035,-8.7801,0,0
+Liberia,Quoi Quoi Ta_Grand Bassa,6.228,-9.622,0,0
+Liberia,Quoyah_Bong,7.2613,-9.1387,0,0
+Liberia,Tapita_Nimba,6.5038,-8.8487,0,0
+Liberia,Tubmanburg_Bomi,6.8824,-10.8056,0,0
+Liberia,Ubah_Nimba,7.1145,-8.4077,0,0
+Liberia,Ufaka_Grand Kru,4.722,-8.2072,0,0
+Liberia,Unification Town_Margibi,6.2598,-10.3511,0,0
+Liberia,Upper Taso_Sinoe,5.1845,-9.2094,0,0
+Liberia,Uro River_Sinoe,4.8117,-8.655,0,0
+Liberia,Utagabli_Grand Bassa,5.8117,-9.8216,0,0
+Liberia,Velokua_LI05,7.0912,-10.6693,0,0
+Liberia,Vena_Margibi,6.7354,-10.0946,0,0
+Liberia,Vengeleta_Bong,6.8285,-10.2549,0,0
+Liberia,Venje Hills_LI02,6.2285,-8.1715,0,0
+Liberia,Vetesu_LI05,8.0785,-9.5882,0,0
+Liberia,Voinjama_LI05,8.4337,-9.736,0,0
+Liberia,Vubadi_LI02,5.7951,-8.5215,0,0
+Liberia,Vui_Nimba,6.6985,-9.079,0,0
+Liberia,Vuwe Creek_LI08,6.3618,-10.3049,0,0
+Liberia,Zwedru_LI02,6.0355,-8.1359,0,0

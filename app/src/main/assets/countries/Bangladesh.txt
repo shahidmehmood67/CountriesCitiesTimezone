@@ -1,0 +1,85 @@
+Bangladesh,Bagdahar,23.8833,90.9667,6,278
+Bangladesh,Bagdahara,25.9333,89.1667,6,275
+Bangladesh,Baliadi,24.0500,90.2000,6,277
+Bangladesh,Barisal,22.7000,90.3667,6,279
+Bangladesh,Barisal River_Barisal,22.6667,90.3500,6,279
+Bangladesh,Barisal Zila_Barisal,22.8000,90.5000,6,279
+Bangladesh,Biswanath,25.7333,89.4833,6,276
+Bangladesh,Brahmanbaria District_Chittagong,23.9833,91.1667,6,278
+Bangladesh,Chittagong,22.3636,91.8033,6,279
+Bangladesh,Chittagong Hill Tract_Chittagong,22.8000,92.3333,6,279
+Bangladesh,Chittagong Hills,23.0000,92.2500,6,279
+Bangladesh,Chittagong Port_Chittagong,22.3333,91.8333,6,279
+Bangladesh,Chittagong Zila_Chittagong,22.4833,91.9667,6,279
+Bangladesh,Comilla_Chittagong,23.4578,91.2044,6,278
+Bangladesh,Dacca Ramna,23.7333,90.4000,6,278
+Bangladesh,Dhaka,23.7231,90.4086,6,278
+Bangladesh,Dhaka Chandragati,24.2167,88.8667,6,277
+Bangladesh,Dhaka District_Dhaka,24.0000,90.5000,6,278
+Bangladesh,Dhakadakshin,24.8167,92.0500,6,277
+Bangladesh,Dhakairhati,23.0667,90.3500,6,278
+Bangladesh,Dhakajhalpara,23.9000,89.0833,6,277
+Bangladesh,Dhakanta,24.7833,89.2667,6,276
+Bangladesh,Dhakargaon,23.5167,90.7500,6,278
+Bangladesh,Dhamura,22.8833,90.2000,6,279
+Bangladesh,Doulatpur,24.7000,90.5500,6,277
+Bangladesh,Feni District,22.9667,91.3167,6,279
+Bangladesh,Gazipur District_Dhaka,25.2500,89.5000,6,276
+Bangladesh,Godagari,24.4667,88.3333,6,276
+Bangladesh,Jessore_Khulna,23.1667,89.2167,6,278
+Bangladesh,Jessore District_Khulna,23.0833,89.1667,6,278
+Bangladesh,Joydebpur_Dhaka,23.9939,90.4308,6,278
+Bangladesh,Joypara_Dhaka,23.6189,90.1261,6,278
+Bangladesh,Khulna,22.8000,89.5500,6,278
+Bangladesh,Khulna District_Khulna,22.5000,89.3333,6,279
+Bangladesh,Khulna Junction,22.8333,89.5500,6,278
+Bangladesh,Noakhali District_Chittagong,22.7500,91.1667,6,279
+Bangladesh,Obhajani,23.8000,89.9500,6,278
+Bangladesh,Ojharpara,23.9667,90.3667,6,278
+Bangladesh,Okarbari,24.9667,88.9500,6,276
+Bangladesh,Old Bansi,23.9167,90.2333,6,278
+Bangladesh,Old Bhairab,22.7167,89.7667,6,279
+Bangladesh,Old Tumchar,22.9167,90.8167,6,279
+Bangladesh,Orabunia,22.5500,89.2833,6,279
+Bangladesh,Orain,23.3500,90.9500,6,278
+Bangladesh,Orthoki Tila,24.8167,91.8167,6,277
+Bangladesh,Osmanpur,23.8167,88.9000,6,278
+Bangladesh,Ostakhan,22.6333,90.1667,6,279
+Bangladesh,Otampur,22.6167,90.4667,6,279
+Bangladesh,Otra,22.8667,90.1667,6,279
+Bangladesh,Pabna,24.0000,89.2500,6,277
+Bangladesh,Qadirpara,21.5000,92.0667,6,280
+Bangladesh,Qasba,22.9500,91.4667,6,279
+Bangladesh,Qazipur,24.9667,89.3333,6,276
+Bangladesh,Qazirnager_BG80,23.2247,90.9519,6,278
+Bangladesh,Quoin Hill,21.0500,92.2000,6,281
+Bangladesh,Rajshahi,24.3667,88.6000,6,277
+Bangladesh,Rangpur,22.9000,89.4667,6,278
+Bangladesh,Santahar,24.8000,88.9833,6,276
+Bangladesh,Sylhet,24.5333,91.8667,6,277
+Bangladesh,Sylhet District_Sylhet,24.9167,91.7667,6,277
+Bangladesh,Sylhet Division_Sylhet,24.5000,91.6667,6,277
+Bangladesh,Tangail,24.2500,89.9167,6,277
+Bangladesh,Tangail District_Dhaka,24.4000,90.0000,6,277
+Bangladesh,Vadrakali,24.9500,89.0167,6,276
+Bangladesh,Vellabaria,23.7333,89.6000,6,278
+Bangladesh,Vishnupur,23.2833,91.0333,6,278
+Bangladesh,Ya-lu-ts ang-pu Chiang,24.0333,90.9833,6,278
+Bangladesh,Yakubpur,23.5000,91.0833,6,278
+Bangladesh,Yakubpur_BG80,22.9261,91.3333,6,279
+Bangladesh,Yambongtong,21.2833,92.5667,6,281
+Bangladesh,Yanchha Khiang,21.7333,92.1500,6,280
+Bangladesh,Yanchhapara,21.6833,92.1833,6,280
+Bangladesh,Yarangchari,23.0667,92.1500,6,279
+Bangladesh,Youthful Lord,22.0833,89.9000,6,279
+Bangladesh,Yusafganj,23.8333,90.5000,6,278
+Bangladesh,Yusufpur,22.4667,89.1333,6,279
+Bangladesh,Zafar Khal,22.0333,89.5667,6,279
+Bangladesh,Zafarpur,23.8000,89.4333,6,277
+Bangladesh,Zaffarpur,24.2500,90.8333,6,277
+Bangladesh,Zazira,24.9000,89.1333,6,276
+Bangladesh,Zigli,24.8333,91.6000,6,277
+Bangladesh,Zinbari,23.1000,90.1333,6,278
+Bangladesh,Zopui,23.6500,92.2333,6,278
+Bangladesh,Zorarganj,22.8500,91.5333,6,279
+Bangladesh,Zulfiquar Channel,21.7500,89.5000,6,279

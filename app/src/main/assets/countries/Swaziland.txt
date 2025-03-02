@@ -1,0 +1,109 @@
+Swaziland,Abercorn,-26.8236,32.143,2,0
+Swaziland,Amanzilukahla,-25.9403,31.743,2,0
+Swaziland,Balegana,-26.0902,31.5765,2,0
+Swaziland,Bambe Inyoni,-25.9735,31.5265,2,0
+Swaziland,Bethany,-26.4902,31.2765,2,0
+Swaziland,Bhunya,-26.5402,31.0265,2,0
+Swaziland,Big Bend,-26.8069,31.9431,2,0
+Swaziland,Bulunga Mountains,-26.6069,31.5598,2,0
+Swaziland,Commissie Nek,-26.3234,31.2432,2,0
+Swaziland,Compound,-25.9568,31.1432,2,0
+Swaziland,Croydon,-26.1901,31.5766,2,0
+Swaziland,Darkton,-26.2233,31.0433,2,0
+Swaziland,Dome,-26.3567,30.9267,2,0
+Swaziland,Dubekeni,-25.7733,31.4267,2,0
+Swaziland,Dwaleni,-27.1567,31.2767,2,0
+Swaziland,Dwaleni Kop,-26.7233,31.3767,2,0
+Swaziland,Emlende,-25.9066,31.1268,2,0
+Swaziland,Ezulwini,-26.4066,31.2101,2,0
+Swaziland,Fahlaza,-27.1731,31.8435,2,0
+Swaziland,Forbes Reef,-26.1565,31.1102,2,0
+Swaziland,Gagu,-26.8397,31.9603,2,0
+Swaziland,Gege_Shiselweni,-26.9397,31.027,2,0
+Swaziland,Goedgegun,-27.1064,31.2103,2,0
+Swaziland,Gollel,-27.3064,31.9103,2,0
+Swaziland,Granvalley,-26.9064,31.2936,2,0
+Swaziland,Havelock Mine,-25.9396,31.1437,2,0
+Swaziland,Hawane Kop,-26.2063,31.1104,2,0
+Swaziland,Herefords,-25.8229,31.5104,2,0
+Swaziland,Hlabeni Kop,-26.9063,31.0437,2,0
+Swaziland,Hlambanyati River,-26.4563,31.2437,2,0
+Swaziland,Hlati Kop,-26.9729,31.4604,2,0
+Swaziland,Hlatikulu District_Shiselweni,-26.9896,31.6771,2,0
+Swaziland,Hlobane,-27.2063,31.4104,2,0
+Swaziland,Hlokohla,-26.4896,31.5104,2,0
+Swaziland,Hlushwane,-27.1896,31.6604,2,0
+Swaziland,Hluti,-27.1896,31.5771,2,0
+Swaziland,Holobela,-26.6896,31.8437,2,0
+Swaziland,Horo,-25.7396,31.4271,2,0
+Swaziland,Imdundu Hill,-26.6395,30.8438,2,0
+Swaziland,Incuba Kop,-25.8395,31.4605,2,0
+Swaziland,Ingwavuma,-26.9562,32.3105,2,0
+Swaziland,Ingwenya,-26.1562,31.0605,2,0
+Swaziland,Inhlonama Kop,-25.7728,31.5438,2,0
+Swaziland,Inkambeni,-26.0895,31.6438,2,0
+Swaziland,Inkonjane Kop,-27.0228,31.0772,2,0
+Swaziland,Intabinezimpise,-25.9062,31.5605,2,0
+Swaziland,Inyetane,-26.5228,32.0272,2,0
+Swaziland,Inyetyan,-26.7728,31.9938,2,0
+Swaziland,Isateki,-26.4728,31.9605,2,0
+Swaziland,Isekupi,-26.3062,31.7105,2,0
+Swaziland,Josane Kop,-26.6561,31.2106,2,0
+Swaziland,Kadake,-26.206,31.044,2,0
+Swaziland,Kalweni Hill,-27.056,31.6274,2,0
+Swaziland,Kanyane Kop,-26.3393,30.994,2,0
+Swaziland,Kinkel Koppies,-26.5226,30.8107,2,0
+Swaziland,Kobolondo Heights,-25.8893,31.2274,2,0
+Swaziland,Kobolondo Peak,-25.8726,31.2774,2,0
+Swaziland,Kopola,-26.356,31.194,2,0
+Swaziland,Krogh,-26.1393,32.1107,2,0
+Swaziland,Kubuta,-26.8726,31.494,2,0
+Swaziland,Kutjeni Hill,-27.1893,31.7274,2,0
+Swaziland,Kwaluseni,-26.4726,31.344,2,0
+Swaziland,Landwado Kop,-26.6559,30.9941,2,0
+Swaziland,Lapanda Kop,-26.7725,31.0608,2,0
+Swaziland,Lobamba,-26.4559,31.2108,2,0
+Swaziland,Lomahasha,-25.9725,32.0108,2,0
+Swaziland,Lomati,-25.8059,31.3608,2,0
+Swaziland,Lubombo District_Lubombo,-26.4059,31.7608,2,0
+Swaziland,Lukonde Kop,-25.8225,31.4441,2,0
+Swaziland,Lutala,-26.0892,31.8275,2,0
+Swaziland,Luzinyane Kop,-26.5892,31.5441,2,0
+Swaziland,Manzini,-26.4724,31.3776,2,0
+Swaziland,Manzini District_Manzini,-26.2391,31.5109,2,0
+Swaziland,Mbabane,-26.3058,31.1442,2,0
+Swaziland,Nsalitshe Kop,-27.2723,31.661,2,0
+Swaziland,Ntandes,-26.6057,31.1777,2,0
+Swaziland,Nyabe,-26.739,31.0943,2,0
+Swaziland,Phuzumoya Station,-26.6555,31.7612,2,0
+Swaziland,Piggs District_Hhohho,-25.9888,31.5112,2,0
+Swaziland,Piggs Peak,-25.9555,31.2612,2,0
+Swaziland,Ponjane Hills,-26.1388,31.3279,2,0
+Swaziland,Poponyane,-25.8221,31.3945,2,0
+Swaziland,Qolweni,-27.0387,31.5113,2,0
+Swaziland,Qolweni Hills,-27.0554,31.4613,2,0
+Swaziland,Rio Sechane,-26.6886,32.3447,2,0
+Swaziland,Rocklands_Hhohho,-25.9386,31.2947,2,0
+Swaziland,Rondspring,-26.8719,31.7114,2,0
+Swaziland,Sibowe,-26.8552,31.4615,2,0
+Swaziland,Tahaneni,-25.9717,31.7283,2,0
+Swaziland,Tumbulomuno,-26.8217,32.1783,2,0
+Swaziland,Ulambongwenya,-26.055,31.295,2,0
+Swaziland,Umanlangaten Hill,-27.155,31.9617,2,0
+Swaziland,Umbanjane Kop,-26.5383,31.5117,2,0
+Swaziland,Umbeloosi Poort,-26.205,32.045,2,0
+Swaziland,Umbuba Kop,-26.6716,31.2784,2,0
+Swaziland,Umbuluzu,-26.2383,31.195,2,0
+Swaziland,Umkomozana,-26.0383,31.1784,2,0
+Swaziland,Umkutshan,-26.6216,31.9617,2,0
+Swaziland,Umtilane,-26.4716,31.2784,2,0
+Swaziland,Umtintegwa,-26.4883,31.8284,2,0
+Swaziland,Umzimneni River,-26.055,31.5617,2,0
+Swaziland,Usutu Mission,-26.5716,31.195,2,0
+Swaziland,Verdun,-26.8382,31.4118,2,0
+Swaziland,Vigisijula,-26.5882,31.6618,2,0
+Swaziland,Vlagati Kop,-26.5715,31.0118,2,0
+Swaziland,Von Wissel,-26.8549,31.9451,2,0
+Swaziland,Vondo Kop,-27.0382,31.1618,2,0
+Swaziland,White Umbuluzi,-26.1214,31.8952,2,0
+Swaziland,Zibe,-27.2711,31.9622,2,0

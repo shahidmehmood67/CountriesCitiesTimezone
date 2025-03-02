@@ -1,0 +1,224 @@
+Uruguay,18 de Julio_Rocha,-33.6784,-53.5451,-3,0
+Uruguay,19 de Abril_Rocha,-34.3618,-54.0618,-3,0
+Uruguay,25 de Agosto_Florida,-34.4067,-56.3972,-3,0
+Uruguay,25 de Mayo_Florida,-34.1842,-56.3344,-3,0
+Uruguay,Daca_Soriano,-33.2233,-58.04,-3,0
+Uruguay,Dayman_Paysandu,-31.54,-57.94,-3,0
+Uruguay,de la Chacra_Durazno,-33.0233,-56.94,-3,0
+Uruguay,de la Isla_Rio Negro,-32.4233,-57.04,-3,0
+Uruguay,de la Tuna Sola_Cerro Largo,-32.49,-53.94,-3,0
+Uruguay,de las Conchas_Durazno,-32.9567,-55.3733,-3,0
+Uruguay,de las Palmas_Rocha,-33.44,-53.7233,-3,0
+Uruguay,De Pando_Canelones,-34.79,-55.8567,-3,0
+Uruguay,del Ceibo_Rocha,-33.54,-53.6067,-3,0
+Uruguay,Del Marco_Rocha,-34.34,-53.74,-3,0
+Uruguay,Del Medio_Florida,-33.94,-55.7067,-3,0
+Uruguay,Del Medio_Soriano,-33.5733,-57.39,-3,0
+Uruguay,del Tala_Artigas,-30.7067,-56.94,-3,0
+Uruguay,del Totoral_Rio Negro,-32.7733,-56.8233,-3,0
+Uruguay,Departamento de Florida_Florida,-33.8233,-55.9067,-3,0
+Uruguay,Departamento de Maldonado_Maldonado,-34.6567,-54.9067,-3,0
+Uruguay,Departamento de Soriano_Soriano,-33.49,-57.74,-3,0
+Uruguay,Descarnado_Canelones,-34.5567,-55.9233,-3,0
+Uruguay,Diablo_Rocha,-34.3567,-53.7567,-3,0
+Uruguay,Dique Maua_Montevideo,-34.9011,-56.1867,-3,0
+Uruguay,Divisa_Artigas,-30.5567,-57.2067,-3,0
+Uruguay,Divisoria_Cerro Largo,-32.44,-54.04,-3,0
+Uruguay,Doctor Alejandro Gallinal_Florida,-33.64,-55.79,-3,0
+Uruguay,Don Carlos_Rocha,-34.34,-53.9733,-3,0
+Uruguay,Don Esteban Chico_Rio Negro,-32.5567,-57.39,-3,0
+Uruguay,Dona Maria_Colonia,-34.1733,-57.1233,-3,0
+Uruguay,Drable_Soriano,-33.6733,-57.54,-3,0
+Uruguay,Duran_Canelones,-34.6592,-56.4364,-3,0
+Uruguay,Duraznito_Flores,-33.59,-56.5733,-3,0
+Uruguay,Durazno_Artigas,-31.0067,-56.94,-3,0
+Uruguay,Durazno,-33.4031,-56.4906,-3,0
+Uruguay,Fagundez_Tacuarembo,-32.4565,-55.1731,-3,0
+Uruguay,Fajina_San Jose,-34.1898,-56.7565,-3,0
+Uruguay,Falagian_Lavalleja,-34.3565,-55.1565,-3,0
+Uruguay,Falso Mandiyu_Artigas,-30.5231,-57.7065,-3,0
+Uruguay,Fangoso_Paysandu,-32.4398,-57.7898,-3,0
+Uruguay,Farias_Artigas,-30.4565,-57.0898,-3,0
+Uruguay,Fariha_Artigas,-30.4398,-56.6731,-3,0
+Uruguay,Faro del Polonio_Rocha,-34.3898,-53.7731,-3,0
+Uruguay,Fea_Paysandu,-31.9731,-57.8231,-3,0
+Uruguay,Fernandez_Tacuarembo,-32.0731,-54.9731,-3,0
+Uruguay,Fernandez_Salto,-31.2065,-56.3065,-3,0
+Uruguay,Ferrer_Florida,-33.4731,-55.5565,-3,0
+Uruguay,Ferro Carril_Montevideo,-34.7898,-56.2065,-3,0
+Uruguay,Fidencio_Salto,-30.7898,-57.6565,-3,0
+Uruguay,Fierro_Cerro Largo,-32.6065,-54.5065,-3,0
+Uruguay,Flor de Maronas_Montevideo,-34.8398,-56.1065,-3,0
+Uruguay,Flores,-33.5731,-56.8231,-3,0
+Uruguay,Floresta_Canelones,-34.7398,-55.6731,-3,0
+Uruguay,Fortaleza San Miguel_Rocha,-33.6731,-53.5231,-3,0
+Uruguay,Fraile Muerto_Cerro Largo,-32.3065,-54.8398,-3,0
+Uruguay,Frances_Lavalleja,-34.5231,-55.4398,-3,0
+Uruguay,Francia_Artigas,-30.6231,-57.3565,-3,0
+Uruguay,Francisco Soca_Canelones,-34.6731,-55.6731,-3,0
+Uruguay,Frasquito_Canelones,-34.7231,-55.9398,-3,0
+Uruguay,Fray Bentos_Rio Negro,-33.1223,-58.2854,-3,0
+Uruguay,Fray Marcos_Lavalleja,-34.1731,-55.7231,-3,0
+Uruguay,Frayle Muerto_Montevideo,-32.5065,-54.5231,-3,0
+Uruguay,Fuerte_Salto,-31.3065,-56.8398,-3,0
+Uruguay,Habas_Canelones,-34.6063,-55.7396,-3,0
+Uruguay,Haedo_Tacuarembo,-31.6563,-56.2896,-3,0
+Uruguay,Haedo_Rio Negro,-32.9729,-57.9729,-3,0
+Uruguay,Heriberto_Tacuarembo,-31.8063,-55.4896,-3,0
+Uruguay,Hernandarias_Florida,-33.6563,-55.8896,-3,0
+Uruguay,Hervidero_Paysandu,-31.5563,-57.9729,-3,0
+Uruguay,Higueras_Durazno,-32.9396,-56.0229,-3,0
+Uruguay,Higueritas_Salto,-31.0563,-56.4896,-3,0
+Uruguay,Horno_Cerro Largo,-32.4563,-54.4063,-3,0
+Uruguay,Horno_San Jose,-34.0463,-56.6357,-3,0
+Uruguay,Horno_Paysandu,-32.2563,-57.2063,-3,0
+Uruguay,Hornos_Flores,-33.4229,-56.5563,-3,0
+Uruguay,Horqueta_Salto,-31.1229,-56.7896,-3,0
+Uruguay,Horqueta_Colonia,-34.0729,-57.1896,-3,0
+Uruguay,Horqueta_Artigas,-30.5063,-57.5896,-3,0
+Uruguay,Horqueta_Rivera,-31.0729,-56.0563,-3,0
+Uruguay,Horqueta del Queguay Chico_Paysandu,-31.9229,-56.8229,-3,0
+Uruguay,Horquetas_Soriano,-33.5896,-58.1229,-3,0
+Uruguay,J. Suarez_Canelones,-34.723,-56.0261,-3,0
+Uruguay,J.E. Rodo_Soriano,-33.6727,-57.5561,-3,0
+Uruguay,J.L. Lacaze_Colonia,-34.4227,-57.4061,-3,0
+Uruguay,Jaboneria_Artigas,-31.8227,-56.1394,-3,0
+Uruguay,Jacinta_Salto,-31.4561,-57.9561,-3,0
+Uruguay,Jaureguiberry_Canelones,-34.7894,-55.3894,-3,0
+Uruguay,Javier de Viana_Artigas,-30.3894,-56.7727,-3,0
+Uruguay,Jimenez_Durazno,-32.9894,-55.7727,-3,0
+Uruguay,Joanico_Canelones,-34.5894,-56.2394,-3,0
+Uruguay,Joaquin Suarez_Canelones,-34.7227,-56.0227,-3,0
+Uruguay,Jose Batlle y Ordonez_Lavalleja,-33.4561,-55.1061,-3,0
+Uruguay,Jose Enrique_Soriano,-33.6394,-57.5227,-3,0
+Uruguay,Jose Ignacio_Maldonado,-34.8394,-54.6227,-3,0
+Uruguay,Juan Isidro_San Jose,-34.0061,-56.8227,-3,0
+Uruguay,Juan J. Castro_Flores,-33.4894,-56.7394,-3,0
+Uruguay,Juan Macedo_Artigas,-30.6394,-56.2894,-3,0
+Uruguay,Juan Soler_San Jose,-34.3086,-56.7947,-3,0
+Uruguay,Juanin_Rio Negro,-32.8061,-58.0561,-3,0
+Uruguay,Julio Maria Sanz_Treinta y Tres,-33.1394,-54.1394,-3,0
+Uruguay,Junca_Durazno,-33.3061,-56.0394,-3,0
+Uruguay,Juncal_Salto,-31.0061,-56.6394,-3,0
+Uruguay,Junco_Salto,-30.8227,-57.3894,-3,0
+Uruguay,Kilometro 77_Florida,-34.2893,-56.3893,-3,0
+Uruguay,Kiyu_San Jose,-34.6393,-56.7393,-3,0
+Uruguay,Melo_Cerro Largo,-32.3558,-54.1724,-3,0
+Uruguay,Melo_Tacuarembo,-32.1058,-54.6724,-3,0
+Uruguay,Mercedes_Salto,-31.3224,-57.6224,-3,0
+Uruguay,Mercedes_Soriano,-33.2449,-58.0083,-3,0
+Uruguay,Minas_Durazno,-32.8724,-56.3058,-3,0
+Uruguay,Minas_Lavalleja,-34.3591,-55.2141,-3,0
+Uruguay,Minas de Callorda_Durazno,-32.8224,-56.4058,-3,0
+Uruguay,Minas de Corrales_Rivera,-31.5724,-55.4558,-3,0
+Uruguay,Minas de Zapucay_Rivera,-31.7058,-55.3224,-3,0
+Uruguay,Minas Vieja_Lavalleja,-34.4224,-55.2058,-3,0
+Uruguay,Montevideo,-34.8472,-56.1599,-3,0
+Uruguay,Montevideo Bay_Montevideo,-34.8766,-56.2019,-3,0
+Uruguay,Montevideo Chico_Tacuarembo,-32.2058,-55.5891,-3,0
+Uruguay,Montevideo Chico_Paysandu,-32.2391,-56.5058,-3,0
+Uruguay,Montevideo Road_Montevideo,-34.9224,-56.2224,-3,0
+Uruguay,Nacurutu Chico_Paysandu,-32.2723,-57.4057,-3,0
+Uruguay,Nacurutu Grande_Paysandu,-32.1723,-57.439,-3,0
+Uruguay,Nandubay_Rio Negro,-32.9057,-57.289,-3,0
+Uruguay,Naquina_Artigas,-30.4557,-57.789,-3,0
+Uruguay,Navarro_Colonia,-34.2723,-57.2723,-3,0
+Uruguay,Negra_Rocha,-34.039,-53.6557,-3,0
+Uruguay,Negros_Maldonado,-34.689,-54.6723,-3,0
+Uruguay,Negros Nanez_Rio Negro,-32.5723,-57.9557,-3,0
+Uruguay,Nicho_Colonia,-34.189,-57.6723,-3,0
+Uruguay,Nieto_Soriano,-33.639,-58.0557,-3,0
+Uruguay,Nogues_Durazno,-32.9723,-55.2057,-3,0
+Uruguay,Noguez_Rocha,-34.639,-54.339,-3,0
+Uruguay,Novillos_Lavalleja,-33.0723,-54.889,-3,0
+Uruguay,Novillos_Tacuarembo,-31.9723,-55.6723,-3,0
+Uruguay,Nueva Helvecia_Colonia,-34.289,-57.2223,-3,0
+Uruguay,Nueva Palmira_Colonia,-33.8723,-58.4057,-3,0
+Uruguay,Nuevo Paris_Montevideo,-34.839,-56.2223,-3,0
+Uruguay,Nutrias_Tacuarembo,-32.0223,-56.2057,-3,0
+Uruguay,Nutrias_Canelones,-34.5557,-55.689,-3,0
+Uruguay,Oeste_Rocha,-34.4556,-54.3389,-3,0
+Uruguay,Ojo de Agua_Cerro Largo,-31.8056,-54.3889,-3,0
+Uruguay,Ojos de Agua_San Jose,-34.7056,-56.3556,-3,0
+Uruguay,Ojos de Agua_Artigas,-30.7056,-57.5222,-3,0
+Uruguay,Ojosmin_Soriano,-33.6389,-57.1556,-3,0
+Uruguay,Ojosmin_Flores,-33.7222,-57.1222,-3,0
+Uruguay,Olimar_Treinta y Tres,-33.2556,-53.8556,-3,0
+Uruguay,Olimar Chico_Treinta y Tres,-33.2222,-54.5056,-3,0
+Uruguay,Olimar Santa Clara_Treinta y Tres,-32.9056,-54.9556,-3,0
+Uruguay,Olivera_Paysandu,-32.3389,-56.5389,-3,0
+Uruguay,Olivera_Salto,-31.1722,-56.9222,-3,0
+Uruguay,Olivera_Soriano,-33.5722,-57.6889,-3,0
+Uruguay,Olivera_Rocha,-33.6056,-53.7056,-3,0
+Uruguay,Olmos_Canelones,-34.6889,-55.8889,-3,0
+Uruguay,Ombu_Florida,-33.7556,-55.6889,-3,0
+Uruguay,Ombu_Artigas,-30.7889,-56.5389,-3,0
+Uruguay,Ombu_Cerro Largo,-31.8056,-54.3222,-3,0
+Uruguay,Ombucitos_Rio Negro,-33.0722,-58.0722,-3,0
+Uruguay,Ombues de Lavalle_Colonia,-33.9056,-57.8222,-3,0
+Uruguay,Ombues de Oribe_Durazno,-33.2889,-56.3389,-3,0
+Uruguay,Oratorio_Rocha,-33.9722,-53.9722,-3,0
+Uruguay,Ordeig_San Jose,-34.6389,-56.7056,-3,0
+Uruguay,Orgoroso_Paysandu,-32.3722,-57.4889,-3,0
+Uruguay,Oribe_Salto,-31.4889,-57.1056,-3,0
+Uruguay,Oro_Treinta y Tres,-33.0389,-54.0389,-3,0
+Uruguay,Ortiz_Lavalleja,-34.3389,-55.3722,-3,0
+Uruguay,Ortiz Bank,-34.6556,-57.3222,-3,0
+Uruguay,Ovejas_Durazno,-33.2556,-55.8056,-3,0
+Uruguay,Ovidio Morato_Paysandu,-32.3722,-56.6722,-3,0
+Uruguay,Punta del Este_Maldonado,-34.9555,-54.9388,-3,0
+Uruguay,Quebracho_Rocha,-33.6554,-54.0387,-3,0
+Uruguay,Quebracho_Artigas,-30.7054,-56.1054,-3,0
+Uruguay,Quebracho_Cerro Largo,-32.672,-54.622,-3,0
+Uruguay,Quebracho_Canelones,-34.6554,-55.472,-3,0
+Uruguay,Quebracho_Salto,-31.1387,-56.1554,-3,0
+Uruguay,Quebracho_Paysandu,-31.9387,-57.872,-3,0
+Uruguay,Quebracho Chico_Paysandu,-31.9554,-57.7887,-3,0
+Uruguay,Quebrada Chico_Tacuarembo,-31.9887,-56.022,-3,0
+Uruguay,Quebrada de los Cuervos_Treinta y Tres,-33.1554,-54.4387,-3,0
+Uruguay,Quebrada Grande_Tacuarembo,-32.172,-56.022,-3,0
+Uruguay,Queguay_Paysandu,-32.072,-57.9054,-3,0
+Uruguay,Queguay Chico_Paysandu,-32.1554,-57.4554,-3,0
+Uruguay,Queguay Grande_Paysandu,-32.1387,-58.1387,-3,0
+Uruguay,Quiebra Yugos_Tacuarembo,-31.6554,-56.1554,-3,0
+Uruguay,Quiebra Yuyos_Cerro Largo,-32.522,-54.772,-3,0
+Uruguay,Quiebra Yuyos_Florida,-33.922,-56.372,-3,0
+Uruguay,Quillay_Tacuarembo,-32.0554,-56.2054,-3,0
+Uruguay,Quinta_Colonia,-34.1387,-57.1554,-3,0
+Uruguay,Quinta_Maldonado,-34.622,-54.8554,-3,0
+Uruguay,Quinta_Canelones,-34.622,-56.4054,-3,0
+Uruguay,Quintana_Canelones,-34.422,-56.222,-3,0
+Uruguay,Quintana_Salto,-31.3887,-56.3554,-3,0
+Uruguay,Quirquincho_Maldonado,-34.5387,-54.922,-3,0
+Uruguay,Rivera,-30.8886,-55.5053,-3,0
+Uruguay,Salto,-31.3718,-57.9552,-3,0
+Uruguay,Salto_Flores,-33.2385,-57.2552,-3,0
+Uruguay,Salto Chico,-31.3552,-57.9718,-3,0
+Uruguay,Salto Grande,-31.2218,-57.9052,-3,0
+Uruguay,Una de Gato_Treinta y Tres,-33.0716,-53.655,-3,0
+Uruguay,Una de Gato_Artigas,-30.7216,-56.805,-3,0
+Uruguay,Una de Gato_Salto,-30.8383,-57.4716,-3,0
+Uruguay,Urioste_Florida,-34.0216,-56.0383,-3,0
+Uruguay,Uvas_Cerro Largo,-32.655,-54.055,-3,0
+Uruguay,Wenceslao Silveira_Montevideo,-32.5048,-54.5714,-3,0
+Uruguay,Yacare_Salto,-31.0546,-57.3546,-3,0
+Uruguay,Yacare_Rio Negro,-33.0212,-58.0546,-3,0
+Uruguay,Yacare_Artigas,-30.5379,-57.4546,-3,0
+Uruguay,Yacare Chico_Artigas,-30.1212,-56.9879,-3,0
+Uruguay,Yacat_Artigas,-30.1046,-56.8879,-3,0
+Uruguay,Yaguan_Rivera,-31.5046,-54.9546,-3,0
+Uruguay,Yaguarete_Rio Negro,-33.1046,-58.2712,-3,0
+Uruguay,Yaguarete Chico_Rio Negro,-33.1379,-58.2546,-3,0
+Uruguay,Yaguari_Tacuarembo,-32.2046,-55.4046,-3,0
+Uruguay,Yala_Salto,-31.3546,-56.3212,-3,0
+Uruguay,Yapeyu_Rio Negro,-33.0379,-57.6046,-3,0
+Uruguay,Yeguada_Rio Negro,-32.9712,-58.0546,-3,0
+Uruguay,Yeguada_Lavalleja,-32.9879,-54.8879,-3,0
+Uruguay,Yerbal_Lavalleja,-33.4879,-54.6546,-3,0
+Uruguay,Yerbal_Treinta y Tres,-33.3046,-54.6879,-3,0
+Uruguay,Yerbal Chico_Treinta y Tres,-33.0879,-54.3879,-3,0
+Uruguay,Yerbalito_Cerro Largo,-32.1379,-53.7046,-3,0
+Uruguay,Yerbalito_Treinta y Tres,-32.9879,-54.4712,-3,0
+Uruguay,Yi_Durazno,-33.3379,-56.4879,-3,0
+Uruguay,Yi,-33.1046,-57.1212,-3,0
+Uruguay,Yucutuja Mini_Artigas,-30.4212,-57.3046,-3,0

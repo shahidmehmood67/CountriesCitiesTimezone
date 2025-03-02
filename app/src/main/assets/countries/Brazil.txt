@@ -1,0 +1,645 @@
+Brazil,10 de Novembro_Santa Catarina,-27.0333,-50.9333,-3,71
+Brazil,13 de Maio_Santa Catarina,-28.5833,-49.1667,-3,71
+Brazil,13 Quedas_Para,0.1167,-56.9167,-3,68
+Brazil,14 de Maio_Mato Grosso do Sul,-22.5333,-54.3500,-3,71
+Brazil,15 de Novembro_Rio Grande do Sul,-28.7500,-53.1000,-3,72
+Brazil,2 de Julho_Bahia,-12.0667,-38.9667,-3,67
+Brazil,2 de Novembro_Rondonia,-8.8500,-62.2833,-3,70
+Brazil,21 de Abril_Rio Grande do Sul,-28.6333,-54.1167,-3,73
+Brazil,23 de Julho_Rio Grande do Sul,-27.9667,-54.6167,-3,73
+Brazil,25 de Julio_Espirito Santo,-19.7667,-40.6000,-3,67
+Brazil,28 de Setembro_Rio Grande do Sul,-29.1000,-51.8667,-3,72
+Brazil,3 Buritys_Rondonia,-12.1667,-60.0833,-3,71
+Brazil,3 de Maio_Rio Grande do Sul,-27.7833,-54.2333,-3,73
+Brazil,3 Ilhas_Minas Gerais,-22.0322,-43.4894,-3,68
+Brazil,3 Vendas_Rio Grande do Sul,-29.8500,-53.0167,-3,72
+Brazil,500 Quilometro 296_Rio Grande do Sul,-30.1667,-56.1833,-3,74
+Brazil,7 Voltas_Mato Grosso do Sul,-21.7833,-55.1833,-3,72
+Brazil,A. Alvarenga_Minas Gerais,-20.7000,-45.3667,-3,68
+Brazil,A. Barauna_Paraiba,-7.1167,-36.9500,-3,67
+Brazil,A. Barbosa_Mato Grosso do Sul,-21.6333,-55.5333,-3,72
+Brazil,A. Cassara_Rondonia,-13.2167,-62.1000,-3,71
+Brazil,A. Oliveira_Mato Grosso do Sul,-19.6833,-55.1833,-3,71
+Brazil,A. Tarraca_Mato Grosso do Sul,-22.3167,-55.0333,-3,72
+Brazil,Aelegrete_Mato Grosso do Sul,-21.3833,-54.7500,-3,71
+Brazil,Afonso_Minas Gerais,-16.4167,-40.8667,-3,67
+Brazil,Alegrete_Rio Grande do Sul,-29.7667,-55.7667,-3,74
+Brazil,Amparo_Sao Paulo,-22.7000,-46.7833,-3,69
+Brazil,Anapolis_Sergipe,-10.7333,-37.8167,-3,66
+Brazil,Anapolis_Sao Paulo,-22.1333,-47.6500,-3,69
+Brazil,Anapolis_Goias,-16.3333,-48.9667,-3,69
+Brazil,Aqui-Ferto_Para,-4.7167,-56.5500,-3,69
+Brazil,Aquidavana_Mato Grosso do Sul,-20.4667,-55.8000,-3,72
+Brazil,Aracaju_Sergipe,-10.9167,-37.0667,-3,66
+Brazil,As Ilhas_Sao Paulo,-23.8167,-45.7167,-3,69
+Brazil,Ascencao,-19.8000,-44.5833,-3,68
+Brazil,Ascuria_Santa Catarina,-26.9667,-49.3667,-3,70
+Brazil,Assacaio_Amazonas,-3.8167,-69.4000,-3,69
+Brazil,Assaizal_Tocantins,-6.4333,-48.3833,-3,69
+Brazil,Assarai_Minas Gerais,-19.5833,-41.4833,-3,67
+Brazil,Assentado_Sao Paulo,-24.8153,-48.2722,-3,70
+Brazil,Assis_Sao Paulo,-22.6667,-50.4167,-3,70
+Brazil,Assis_Ceara,-4.9167,-40.8667,-3,68
+Brazil,Assis Brasil_Acre,-10.9167,-69.5333,-3,71
+Brazil,Assu de Torre_Bahia,-12.5500,-38.0000,-3,66
+Brazil,Assuncao_Amazonas,-5.5697,-61.0958,-3,69
+Brazil,Assuncao_Ceara,-5.8000,-39.1500,-3,67
+Brazil,Astropeia_Sao Paulo,-22.1000,-46.9500,-3,69
+Brazil,Augusto Nicolau_Minas Gerais,-21.6333,-46.4167,-3,69
+Brazil,Augusto Severo_Rio Grande do Norte,-5.9000,-35.2333,-3,67
+Brazil,Aurea_Rio Grande do Sul,-27.7000,-52.0667,-3,72
+Brazil,Aureliopolis_Goias,-17.1500,-48.8000,-3,69
+Brazil,Avare_Sao Paulo,-23.0833,-48.9167,-3,70
+Brazil,Avenida_Bahia,-13.3500,-40.1500,-3,67
+Brazil,Aviacao_Rio Grande do Sul,-29.7333,-53.8500,-3,73
+Brazil,Axioma_Amazonas,-6.7500,-64.5167,-3,70
+Brazil,Axixa_Maranhao,-2.8500,-44.0667,-3,68
+Brazil,Axui_Maranhao,-2.5167,-43.6000,-3,68
+Brazil,Ayapua_Amazonas,-4.4633,-62.0553,-3,69
+Brazil,Aymores_Minas Gerais,-19.5000,-41.0667,-3,67
+Brazil,Aymores_Bahia,-17.8333,-40.1667,-3,67
+Brazil,Ayrao_Amazonas,-2.6269,-60.9500,-3,69
+Brazil,Ayri_Amazonas,-6.9000,-58.2833,-3,69
+Brazil,Ayrosa Galvao_Rio Grande do Sul,-32.0667,-53.1833,-3,73
+Brazil,Ayuruoca_Minas Gerais,-21.9667,-44.6000,-3,68
+Brazil,Azara,-3.7000,-61.4667,-3,69
+Brazil,Azevedo_Espirito Santo,-20.2833,-40.4500,-3,67
+Brazil,Azevedo_Rio Grande do Sul,-29.7000,-51.3333,-3,72
+Brazil,Azevem_Pernambuco,-8.8500,-36.7000,-3,66
+Brazil,Azevem_Paraiba,-6.9667,-38.6167,-3,67
+Brazil,Azul_Roraima,0.9211,-60.4122,-3,68
+Brazil,Bahia_Santa Catarina,-26.8167,-52.0333,-3,71
+Brazil,Bahia_Minas Gerais,-19.9500,-44.5167,-3,68
+Brazil,Barra do Garcas_Mato Grosso,-15.8833,-52.2500,-3,70
+Brazil,Barra do Quarai_Rio Grande do Sul,-30.2167,-57.5500,-3,75
+Brazil,Barretos_Sao Paulo,-20.5500,-48.5500,-3,69
+Brazil,Barretos_Minas Gerais,-20.2833,-43.1667,-3,68
+Brazil,Bauru_Sao Paulo,-22.3167,-49.0667,-3,70
+Brazil,Belem_Para,-1.4500,-48.4833,-3,69
+Brazil,Belem_Rondonia,-9.4500,-62.2833,-3,70
+Brazil,Belem_Amazonas,-4.0414,-69.5278,-3,69
+Brazil,Belem_Paraiba,-7.7500,-38.1333,-3,67
+Brazil,Belem_Rio de Janeiro,-22.9667,-44.2833,-3,68
+Brazil,Belem_Maranhao,-1.8500,-44.8000,-3,68
+Brazil,Belem_Minas Gerais,-21.8983,-43.0089,-3,68
+Brazil,Belem_Bahia,-12.6167,-38.9333,-3,67
+Brazil,Belem_Ceara,-4.5000,-39.6167,-3,68
+Brazil,Belem_Espirito Santo,-18.4667,-39.7333,-3,66
+Brazil,Belem_Alagoas,-9.5833,-36.4167,-3,66
+Brazil,Belem_Pernambuco,-7.9167,-38.4667,-3,67
+Brazil,Belem_Rio Grande do Norte,-5.3500,-35.9667,-3,67
+Brazil,Belem_Piaui,-5.9667,-43.0667,-3,68
+Brazil,Belem_Sergipe,-9.8000,-37.3333,-3,67
+Brazil,Belem_Parana,-23.4333,-51.7333,-3,71
+Brazil,Belem 1_Ceara,-5.1500,-38.4167,-3,67
+Brazil,Belem de Maria_Pernambuco,-8.6167,-35.8500,-3,66
+Brazil,Belem do Bajados_Amazonas,-3.4947,-62.5472,-3,69
+Brazil,Belem do Candeia_Amazonas,-3.5167,-62.4667,-3,69
+Brazil,Belem Novo_Rio Grande do Sul,-30.2000,-51.1667,-3,72
+Brazil,Belem Velho_Rio Grande do Sul,-30.1167,-51.1667,-3,72
+Brazil,Belo Horizonte_Mato Grosso do Sul,-21.3000,-55.9500,-3,72
+Brazil,Belo Horizonte_Espirito Santo,-20.7333,-40.6167,-3,67
+Brazil,Belo Horizonte_Amazonas,-2.6833,-67.5333,-3,68
+Brazil,Belo Horizonte_Para,-5.3000,-52.8667,-3,69
+Brazil,Belo Horizonte_Paraiba,-7.3500,-38.1667,-3,67
+Brazil,Belo Horizonte_Alagoas,-9.8000,-36.3333,-3,66
+Brazil,Belo Horizonte_Rondonia,-11.8833,-64.1667,-3,71
+Brazil,Belo Horizonte_Ceara,-7.5667,-39.3000,-3,67
+Brazil,Belo Horizonte_Tocantins,-10.4833,-49.5167,-3,69
+Brazil,Belo Horizonte_Sergipe,-9.7833,-37.8667,-3,67
+Brazil,Belo Horizonte_Sao Paulo,-21.4167,-47.9333,-3,69
+Brazil,Belo Horizonte_Bahia,-10.1500,-42.2333,-3,68
+Brazil,Belo Horizonte_Minas Gerais,-19.9167,-43.9333,-3,68
+Brazil,Belo Horizonte_Piaui,-7.9500,-41.6833,-3,68
+Brazil,Belo Horizonte,-5.6500,-35.9333,-3,67
+Brazil,Blumenau_Santa Catarina,-26.9333,-49.0500,-3,70
+Brazil,Brasilia_Distrito Federal,-15.7833,-47.9167,-3,69
+Brazil,Brasilia_Rio Grande do Norte,-5.8456,-37.4508,-3,67
+Brazil,Brasilia_Piaui,-3.8947,-42.6942,-3,68
+Brazil,Brasilia_Sao Paulo,-22.4500,-49.2167,-3,70
+Brazil,Brasilia_Maranhao,-3.4439,-42.4856,-3,68
+Brazil,Brasilia_Minas Gerais,-16.2119,-44.4308,-3,68
+Brazil,Brasilia_Parana,-22.7167,51.40,-3,71
+Brazil,Brasilia_Acre,-11.0000,-68.7333,-3,71
+Brazil,Brasilia Legal_Para,-3.8167,-55.6000,-3,69
+Brazil,Campinas_Ceara,-5.1833,-39.0833,-3,67
+Brazil,Campinas_Tocantins,-11.5500,-47.3167,-3,68
+Brazil,Campinas_Goias,-14.3333,-49.1333,-3,69
+Brazil,Campinas_Para,-5.8000,-48.3333,-3,69
+Brazil,Campinas_Piaui,-7.6333,-41.9667,-3,68
+Brazil,Campinas_Rio Grande do Sul,-28.4500,-53.1333,-3,72
+Brazil,Campinas_Mato Grosso do Sul,-19.0167,-56.3500,-3,67
+Brazil,Campinas_Rio de Janeiro,-22.1667,-42.6833,-3,67
+Brazil,Campinas_Santa Catarina,-28.9333,-49.4833,-3,71
+Brazil,Campinas_Alagoas,-9.4667,-36.1500,-3,66
+Brazil,Campinas_Parana,-25.4547,-50.5478,-3,71
+Brazil,Campinas_Bahia,-12.6000,-38.6833,-3,67
+Brazil,Campinas_Amazonas,-3.2833,-61.1000,-4,69
+Brazil,Campinas_Minas Gerais,-21.8667,-46.4333,-3,69
+Brazil,Campinas_Sao Paulo,-22.9000,-47.0833,-3,69
+Brazil,Campinas Belas_Parana,-24.8333,-50.9167,-3,71
+Brazil,Campinas do Piaui_Piaui,-7.6500,-41.8667,-3,68
+Brazil,Campo_Maranhao,-5.0000,-43.4667,-3,68
+Brazil,Campo_Mato Grosso do Sul,-20.4833,-56.1333,-4,72
+Brazil,Campo_Para,-0.8667,-46.8667,-3,69
+Brazil,Campo_Roraima,0.8031,-61.6608,-3,68
+Brazil,Campo_Sao Paulo,-21.3833,-47.0500,-3,69
+Brazil,Campo Grande_Rio de Janeiro,-22.9061,-43.5619,-3,68
+Brazil,Campo Grande_Sergipe,-10.5667,-37.2000,-3,66
+Brazil,Campo Grande_Pernambuco,-7.8500,-35.4000,-3,66
+Brazil,Campo Grande_Bahia,-12.5167,-39.6500,-3,67
+Brazil,Campo Grande_Minas Gerais,-15.5333,-41.5000,-3,67
+Brazil,Campo Grande_Espirito Santo,-20.5500,-40.4667,-3,67
+Brazil,Campo Grande_Piaui,-7.6667,-41.7833,-3,68
+Brazil,Campo Grande_Alagoas,-10.2333,-36.5000,-3,66
+Brazil,Campo Grande_Sao Paulo,-23.9667,-46.3500,-3,69
+Brazil,Campo Grande_Amazonas,-8.7500,-59.2667,-4,70
+Brazil,Campo Grande_Maranhao,-9.6667,-46.3000,-3,68
+Brazil,Campo Grande_Paraiba,-6.9667,-36.9833,-3,67
+Brazil,Campo Grande_Mato Grosso,-16.1667,-56.2667,-3,71
+Brazil,Campo Grande_Ceara,-4.9667,-39.3000,-3,68
+Brazil,Campo Grande_Mato Grosso do Sul,-20.4500,-54.6167,-4,71
+Brazil,Carambei_Parana,-24.9333,-50.0833,-3,70
+Brazil,Caxias do Sul_Rio Grande do Sul,-29.1667,-51.1833,-3,72
+Brazil,Cepa_Bahia,-15.9833,-39.1167,-3,66
+Brazil,Cepa Forte_Bahia,-11.5667,-37.7000,-3,66
+Brazil,Chui_Rio Grande do Sul,-33.7333,-53.3833,-3,74
+Brazil,Chuy_Rio Grande do Sul,-33.6833,-53.4500,-3,74
+Brazil,Claretiana_Goias,-14.0333,-46.6167,-3,68
+Brazil,Claudio_Minas Gerais,-20.4333,-44.7667,-3,68
+Brazil,Clementina_Sao Paulo,-21.5333,-50.4500,-3,70
+Brazil,Clementino Cunha_Minas Gerais,-20.0500,-46.7000,-3,69
+Brazil,Corumba_Sao Paulo,-23.2431,-46.5633,-3,69
+Brazil,Corumba_Bahia,-15.9167,-48.8000,-3,69
+Brazil,Corumba_Mato Grosso do Sul,-19.0167,-57.6500,-4,72
+Brazil,Corumbaiba_Goias,-18.1500,-48.5667,-3,69
+Brazil,Corumbalina_Goias,-17.3167,-48.5000,-3,69
+Brazil,Corumbatahy_Sao Paulo,-22.2333,-47.6333,-3,69
+Brazil,Corumbazul_Goias,-18.2500,-48.8667,-3,69
+Brazil,Crateus_Ceara,-5.2000,-40.7000,-3,68
+Brazil,Cruz Alta_Rio Grande do Sul,-28.6500,-53.6000,-3,72
+Brazil,Cuiaba_Amazonas,-2.5333,-66.3833,-4,68
+Brazil,Cuiaba_Sergipe,-9.7000,-37.8167,-3,67
+Brazil,Cuiaba_Sao Paulo,-22.3000,-52.1000,-3,71
+Brazil,Cuiaba_Mato Grosso,-15.5833,-56.0833,-3,71
+Brazil,Cuiaba_Minas Gerais,-18.4167,-43.8167,-3,68
+Brazil,Curitiba_Parana,-25.4167,-49.2500,-3,70
+Brazil,Djalma Coutinho_Espirito Santo,-20.0333,-40.4500,-3,67
+Brazil,Djalma Dutra_Bahia,-11.4333,-40.6000,-3,67
+Brazil,Djaru Teo_Rondonia,-11.5167,-61.3667,-4,71
+Brazil,Dois Vizinhos_Parana,-25.7833,-53.0833,-3,72
+Brazil,Dourados_Sao Paulo,-22.7333,-50.6167,-3,70
+Brazil,Dourados_Minas Gerais,-19.9000,-48.7000,-3,69
+Brazil,Dourados_Rio Grande do Sul,-29.9000,-52.1000,-3,72
+Brazil,Dourados_Ceara,-4.0833,-38.7333,-3,68
+Brazil,Dourados_Mato Grosso do Sul,-22.2167,-54.8000,-3,72
+Brazil,Esteio_Rio Grande do Sul,-29.8500,-51.1667,-3,72
+Brazil,Farroupilha_Rio Grande do Sul,-29.2333,-51.3500,-3,72
+Brazil,Ferraz de Vasconcelos_Sao Paulo,-23.5333,-46.3667,-3,69
+Brazil,Florianopolis_Santa Catarina,-27.5833,-48.5667,-3,70
+Brazil,Florianopolis_Amazonas,-0.3500,-63.8833,-4,68
+Brazil,Florianopolis_Acre,-7.7000,-72.6500,-5,70
+Brazil,Fortaleza_Ceara,-3.3167,-41.4167,-3,68
+Brazil,Fortaleza_Rio Grande do Sul,-27.4833,-53.4000,-3,72
+Brazil,Fortaleza_Roraima,0.5450,-61.8336,-4,68
+Brazil,Fortaleza_Tocantins,-7.1500,-47.7500,-3,68
+Brazil,Fortaleza_Rondonia,-9.7833,-65.5000,-4,71
+Brazil,Fortaleza_Bahia,-10.5500,-38.6000,-3,67
+Brazil,Fortaleza_Amapa,-0.3667,-52.4500,-3,69
+Brazil,Fortaleza_Piaui,-5.5333,-41.9000,-3,68
+Brazil,Fortaleza_Espirito Santo,-20.3667,-41.4000,-3,67
+Brazil,Fortaleza_Minas Gerais,-16.0167,-41.2667,-3,67
+Brazil,Fortaleza_Maranhao,-6.6667,-42.9167,-3,68
+Brazil,Fortaleza_Acre,-8.9167,-70.8333,-5,70
+Brazil,Fortaleza_Amazonas,-7.7500,-67.8500,-4,70
+Brazil,Fortaleza_Mato Grosso do Sul,-19.8333,-56.1333,-4,71
+Brazil,Fortaleza_Para,-5.5333,-48.3000,-3,69
+Brazil,Fortaleza_Parana,-25.5056,-48.3258,-3,70
+Brazil,Fortaleza de A Nilo Coutinho_Ceara,-5.7000,-40.8000,-3,68
+Brazil,Fortaleza de Sao Joaquim_Roraima,3.0167,-60.4667,-3,68
+Brazil,Fortaleza do Ituxi_Amazonas,-7.4833,-66.3333,-4,70
+Brazil,Fortaleza dos Nogueiras_Maranhao,-6.9000,-46.1500,-3,68
+Brazil,Fortaleza dos Valos_Rio Grande do Sul,-28.8000,-53.2167,-3,72
+Brazil,Foz do Iguacu_Parana,-25.5500,-54.5833,-3,72
+Brazil,Garca_Amapa,1.8667,-50.8000,-3,69
+Brazil,Garca_Ceara,-5.2833,-40.6833,-3,68
+Brazil,Garca_Sao Paulo,-22.2333,-49.6167,-3,70
+Brazil,Garca_Minas Gerais,-20.1833,-45.6667,-3,68
+Brazil,Giboia_Bahia,-9.2500,-41.5833,-3,67
+Brazil,Giguy_Ceara,-4.7667,-37.7667,-3,67
+Brazil,Gijoca dos Bento_Ceara,-2.8500,-40.9500,-3,68
+Brazil,Gijoca dos Lula_Ceara,-2.8333,-40.4333,-3,68
+Brazil,Gil_Rio Grande do Sul,-29.8000,-51.6333,-3,72
+Brazil,Gil_Piaui,-5.5833,-42.6167,-3,68
+Brazil,Gilbues_Piaui,-9.8389,-45.3539,-3,68
+Brazil,Ginete_Minas Gerais,-16.0833,-41.4667,-3,67
+Brazil,Ginga_Piaui,-3.6717,-42.2119,-3,68
+Brazil,Ginimbu_Alagoas,-9.9167,-36.1333,-3,66
+Brazil,Giovani_Minas Gerais,-19.0667,-48.0167,-3,69
+Brazil,Gira_Bahia,-12.7833,-41.2000,-3,67
+Brazil,Gira Mundo_Piaui,-5.1500,-42.4500,-3,68
+Brazil,Giramundo_Maranhao,-3.0133,-42.8611,-3,68
+Brazil,Girao_Mato Grosso,-15.2333,-57.7000,-4,71
+Brazil,Girao_Rondonia,-9.4333,-64.6833,-4,70
+Brazil,Girao de Pedra_Bahia,-13.6833,-40.2833,-3,67
+Brazil,Girau_Ceara,-5.8000,-39.4167,-3,67
+Brazil,Girau_Bahia,-10.2167,-43.4667,-3,68
+Brazil,Gironda_Sao Paulo,-21.4833,-47.7500,-3,69
+Brazil,Giru_Minas Gerais,-16.8333,-41.0667,-3,67
+Brazil,Gissaras_Minas Gerais,-15.7833,-41.2167,-3,67
+Brazil,Glaucilandia_Minas Gerais,-16.8500,-43.7167,-3,68
+Brazil,Glaura_Minas Gerais,-20.3000,-43.6333,-3,68
+Brazil,Gleba Brauna_Mato Grosso,-14.6667,-56.9500,-4,71
+Brazil,Gleba Capem_Mato Grosso,-13.5000,-55.1000,-4,70
+Brazil,Glicerio_Rio de Janeiro,-22.4833,-44.2167,-3,68
+Brazil,Gloria_Rio de Janeiro,-22.1333,-43.9000,-3,68
+Brazil,Gloria_Bahia,-9.1833,-38.3000,-3,67
+Brazil,Gloria_Mato Grosso do Sul,-22.3500,-54.2167,-4,71
+Brazil,Gloria_Minas Gerais,-21.0167,-44.2833,-3,68
+Brazil,Gloria_Espirito Santo,-20.3667,-40.5167,-3,67
+Brazil,Gloria_Acre,-9.7397,-67.6172,-5,71
+Brazil,Gloria de Goyta_Pernambuco,-8.0167,-35.2833,-3,66
+Brazil,Glorinha_Rio Grande do Sul,-29.8667,-50.8000,-3,72
+Brazil,Glucinio_Minas Gerais,-18.2167,-42.3500,-3,67
+Brazil,Glyceria_Sao Paulo,-21.4000,-50.1833,-3,70
+Brazil,Goiania_Goias,-16.6667,-49.2667,-3,69
+Brazil,Guarapuava_Parana,-25.3833,-51.4500,-3,71
+Brazil,Guarulhos_Rio de Janeiro,-21.7333,-41.3333,-3,67
+Brazil,Guarulhos_Sao Paulo,-23.4667,-46.5333,-3,69
+Brazil,Hebron_Ceara,-6.2833,-39.6000,-3,67
+Brazil,Henrique Dias_Pernambuco,-8.2833,-37.1833,-3,67
+Brazil,Hyutanaha_Amazonas,-7.6667,-65.7667,-4,70
+Brazil,Imbituba_Santa Catarina,-28.2333,-48.6667,-3,70
+Brazil,Itapeva_Sao Paulo,-23.2319,-47.7411,-3,69
+Brazil,Jaboticabal_Sao Paulo,-21.2667,-48.3167,-3,69
+Brazil,Jacobina_Bahia,-11.1833,-40.5167,-3,67
+Brazil,Jatai_Goias,-17.8833,-51.7167,-3,70
+Brazil,Jatai_Mato Grosso,-13.3917,-59.8625,-4,71
+Brazil,Jatai_Minas Gerais,-18.8833,-44.1667,-3,68
+Brazil,Jatai_Sao Paulo,-23.5000,-48.9833,-3,70
+Brazil,Jatai_Parana,-23.2167,-50.9667,-3,70
+Brazil,Joao Pessoa_Paraiba,-7.1167,-34.8667,-3,66
+Brazil,Joinville_Santa Catarina,-26.3000,-48.8333,-3,70
+Brazil,Juiz de Fora_Minas Gerais,-21.7517,-43.3528,-3,68
+Brazil,Jundiai_Sao Paulo,-23.1833,-46.8667,-3,69
+Brazil,Jundiai_Rio Grande do Norte,-5.8833,-35.3667,-3,67
+Brazil,Jundiai_Parana,-23.4500,-50.2833,-3,70
+Brazil,Kalore_Parana,-23.7833,-51.6500,-3,71
+Brazil,Kalupna_Amapa,3.4833,-51.6000,-3,69
+Brazil,Kanguelarou Itou,2.8333,-52.4500,-3,69
+Brazil,Kapiting_Para,2.1833,-55.3167,-3,68
+Brazil,Karona,4.1500,-59.7000,-4,68
+Brazil,Kata Fall,4.2833,-59.7167,-4,68
+Brazil,Kelru_Maranhao,-3.2500,-44.3333,-3,68
+Brazil,Keteroco_Mato Grosso,-14.4500,-58.1167,-4,71
+Brazil,Kiepe Island_Bahia,-13.8500,-38.9667,-3,66
+Brazil,Kilometer 11_Sao Paulo,-20.8000,-51.1000,-3,70
+Brazil,Kilometer 194_Rondonia,-9.6500,-65.1833,-4,70
+Brazil,Kilometer 48_Rio Grande do Sul,-30.9833,-54.5500,-3,73
+Brazil,Kilometer 8_Sao Paulo,-21.4833,-47.6333,-3,69
+Brazil,Kilometer Sete_Sao Paulo,-22.0333,-50.4667,-3,70
+Brazil,Kiriri Bank_Para,-0.5333,-48.2500,-3,69
+Brazil,Kraemer_Rio Grande do Sul,-29.3000,-55.3500,-3,73
+Brazil,Kroeff_Rio Grande do Sul,-29.7333,-51.1333,-3,72
+Brazil,Kumparuyamon_Roraima,4.3167,-60.1333,-4,68
+Brazil,Kurutuik Falls,4.7167,-60.0333,-4,68
+Brazil,Lages_Goias,-14.0500,-48.1333,-3,69
+Brazil,Lages_Minas Gerais,-16.5667,-45.9333,-3,68
+Brazil,Lages_Rondonia,-10.4167,-65.3833,-4,71
+Brazil,Lages_Bahia,-10.9333,-42.3500,-3,67
+Brazil,Lages_Rio Grande do Norte,-5.6989,-36.2453,-3,67
+Brazil,Lages_Santa Catarina,-27.8000,-50.3167,-3,71
+Brazil,Lages_Ceara,-6.1000,-39.4500,-3,67
+Brazil,Laguna_Santa Catarina,-28.4833,-48.7833,-3,70
+Brazil,Londrina_Parana,-23.3000,-51.1500,-3,71
+Brazil,Manaus_Maranhao,-1.5000,-46.1833,-3,68
+Brazil,Manaus_Amazonas,-3.1133,-60.0253,-4,69
+Brazil,Maringa_Parana,-23.4167,-51.9167,-3,71
+Brazil,Mogi das Cruzes_Sao Paulo,-23.5167,-46.1833,-3,69
+Brazil,Montenegro_Rio Grande do Sul,-29.7000,-51.4667,-3,72
+Brazil,Montenegro_Amapa,2.0500,-50.8000,-3,69
+Brazil,Natal_Rio Grande do Norte,-5.7833,-35.2167,-3,67
+Brazil,Niteroi_Rio Grande do Sul,-29.9500,-51.1667,-3,72
+Brazil,Niteroi_Sergipe,-9.7667,-37.4333,-3,67
+Brazil,Niteroi_Mato Grosso do Sul,-21.6000,-54.1000,-4,71
+Brazil,Niteroi_Pernambuco,-7.5667,-39.7000,-3,67
+Brazil,Niteroi_Rio de Janeiro,-22.8844,-43.0944,-3,68
+Brazil,Niteroi_Amazonas,-6.7000,-59.1000,-4,69
+Brazil,Oficina_Piaui,-3.5058,-42.2350,-3,68
+Brazil,Oficinas_Rio Grande do Norte,-5.2167,-36.7167,-3,67
+Brazil,Oficinas_Minas Gerais,-17.6333,-41.7167,-3,67
+Brazil,Osasco_Sao Paulo,-23.5667,-46.7833,-3,69
+Brazil,Palmas_Tocantins,-10.2228,-48.2778,-3,69
+Brazil,Paranagua_Amazonas,-3.4500,-66.0500,-4,69
+Brazil,Paranagua_Parana,-25.5167,-48.5000,-3,70
+Brazil,Paranaguacu_Parana,-22.9500,-53.4167,-3,71
+Brazil,Passo Fundo_Rio Grande do Sul,-28.2667,-52.4000,-3,72
+Brazil,Pelotas_Rio Grande do Sul,-31.7667,-52.3333,-3,73
+Brazil,Pernambuco_Amazonas,-7.0167,-71.5333,-4,70
+Brazil,Pernambuco_Minas Gerais,-21.9367,-43.4861,-3,68
+Brazil,Pernambuco_Espirito Santo,-20.9667,-40.8667,-3,67
+Brazil,Pernambuco_Para,-1.4667,-48.0333,-3,69
+Brazil,Pernambuco_Bahia,-12.6833,-43.2167,-3,68
+Brazil,Pernambuco,-8.7833,-37.7000,-3,67
+Brazil,Piracicaba_Sao Paulo,-22.7167,-47.6333,-3,69
+Brazil,Poco Fundo_Minas Gerais,-21.8000,-45.9667,-3,69
+Brazil,Ponta Grossa_Sao Paulo,-23.7667,-45.2333,-3,68
+Brazil,Ponta Grossa_Amapa,1.2000,-49.9167,-3,69
+Brazil,Ponta Grossa_Ceara,-4.6167,-37.5000,-3,67
+Brazil,Ponta Grossa_Santa Catarina,-27.0906,-48.5953,-3,70
+Brazil,Ponta Grossa_Rio Grande do Sul,-30.1833,-51.2500,-3,72
+Brazil,Ponta Grossa_Rio de Janeiro,-22.7667,-41.8833,-3,67
+Brazil,Ponta Grossa_Bahia,-12.5500,-37.9667,-3,66
+Brazil,Ponta Grossa_Maranhao,-1.4167,-45.0000,-3,68
+Brazil,Ponta Grossa_Parana,-25.0833,-50.1500,-3,70
+Brazil,Porto Alegre_Amazonas,-5.9031,-64.3956,-4,69
+Brazil,Porto Alegre_Mato Grosso do Sul,-20.7833,-55.3667,-4,71
+Brazil,Porto Alegre_Acre,-8.4167,-70.7500,-5,70
+Brazil,Porto Alegre_Bahia,-13.2000,-43.7167,-3,68
+Brazil,Porto Alegre_Mato Grosso,-14.7833,-56.1000,-4,70
+Brazil,Porto Alegre_Roraima,-0.8864,-61.9253,-4,68
+Brazil,Porto Alegre_Para,-0.7667,-50.4333,-3,69
+Brazil,Porto Alegre_Minas Gerais,-18.7167,-41.8000,-3,67
+Brazil,Porto Alegre_Rio Grande do Sul,-30.0333,-51.2000,-3,72
+Brazil,Porto Alegre_Maranhao,-5.1500,-43.4833,-3,68
+Brazil,Porto Alegre_Piaui,-6.9500,-44.2000,-3,68
+Brazil,Porto Seguro_Bahia,-16.4333,-39.0833,-3,66
+Brazil,Porto Velho_Rondonia,-8.7667,-63.9000,-4,70
+Brazil,Primavera_Tocantins,-7.5667,-48.4167,-3,69
+Brazil,Primavera_Piaui,-7.9667,-46.5833,-3,68
+Brazil,Primavera_Alagoas,-9.4500,-36.1833,-3,66
+Brazil,Primavera_Mato Grosso do Sul,-19.4333,-55.8167,-4,71
+Brazil,Primavera_Mato Grosso,-15.6833,-54.3667,-4,70
+Brazil,Primavera_Maranhao,-4.4000,-44.9167,-3,68
+Brazil,Primavera_Amazonas,-7.0350,-71.5819,-4,70
+Brazil,Primavera_Sao Paulo,-21.9833,-49.9833,-3,70
+Brazil,Primavera_Pernambuco,-8.3500,-35.3667,-3,66
+Brazil,Primavera_Ceara,-7.6167,-39.2500,-3,67
+Brazil,Primavera_Para,-0.9333,-47.1000,-3,69
+Brazil,Primavera_Parana,-24.3500,-52.9333,-3,71
+Brazil,Primavera_Rio Grande do Norte,-5.6944,-37.2431,-3,67
+Brazil,Primavera_Rondonia,-9.6667,-62.3500,-4,70
+Brazil,Primavera_Bahia,-15.1333,-40.3000,-3,67
+Brazil,Promissao_Sao Paulo,-21.5333,-49.8667,-3,70
+Brazil,Recife_Pernambuco,-8.0500,-34.9000,-3,66
+Brazil,Recife_Para,-1.1667,-46.3333,-3,68
+Brazil,Recife_Amazonas,-6.8792,-71.0631,-4,70
+Brazil,Recife_Bahia,-11.6000,-41.9000,-3,67
+Brazil,Recife Acaripe_Bahia,-16.1833,-38.9167,-3,66
+Brazil,Recife Calcoes de For a_Acre,-17.3000,-39.2167,-5,66
+Brazil,Recife California,-18.0000,-39.0000,-3,66
+Brazil,Recife Coroa Vermelha_Bahia,-17.9667,-39.2167,-3,66
+Brazil,Recife da Sequaratiba_Bahia,-16.2167,-38.9500,-3,66
+Brazil,Recife da Velha_Ceara,-3.6972,-38.5292,-3,68
+Brazil,Recife da Vicosa_Ceara,-17.9833,-39.2500,-5,66
+Brazil,Recife das Preguicas_Maranhao,-2.5000,-42.7667,-3,68
+Brazil,Recife de Guaratibas_Acre,-17.4167,-39.1500,-5,66
+Brazil,Recife de Natal_Rio Grande do Norte,-5.7667,-35.1933,-3,67
+Brazil,Recife do Campo Bom_Santa Catarina,-28.7333,-49.0167,-3,71
+Brazil,Recife do Meireless_Ceara,-3.7111,-38.0000,-3,68
+Brazil,Recife do Prado_Bahia,-17.3667,-39.1667,-3,66
+Brazil,Recife do Silva_Maranhao,-0.5000,-44.3167,-3,68
+Brazil,Recife do Tubarao_Rio Grande do Norte,-4.8333,-36.4500,-3,67
+Brazil,Recife Grande_Ceara,-3.5917,-38.5292,-3,68
+Brazil,Recife Itacepanema_Bahia,-16.2500,-38.9667,-3,66
+Brazil,Recife Joao Dias_Rio Grande do Norte,-4.7500,-36.9833,-3,67
+Brazil,Recife Manoel Luis_Maranhao,-0.8667,-44.2500,-3,68
+Brazil,Recife Olinda_Rio Grande do Norte,-4.8833,-36.3167,-3,67
+Brazil,Recife Sophia_Bahia,-16.5333,-39.0833,-3,66
+Brazil,Recifes Aranguera_Bahia,-17.6667,-39.0167,-3,66
+Brazil,Recifes da Areia_Bahia,-17.6000,-39.0500,-3,66
+Brazil,Recifes da Coroa Alta_Acre,-16.2167,-38.9667,-5,66
+Brazil,Recifes da Pedra Grande_Bahia,-17.7500,-38.9667,-3,66
+Brazil,Recifes das Tainheiras_Para,-1.1167,-48.4667,-3,69
+Brazil,Recifes de Fora_Bahia,-16.4333,-38.9333,-3,66
+Brazil,Recifes de Santana_Maranhao,-2.2667,-43.5333,-3,68
+Brazil,Recifes de Sioba_Rio Grande do Norte,-5.1333,-35.3500,-3,67
+Brazil,Recifes do Fogo_Rio Grande do Norte,-5.2333,-35.2667,-3,67
+Brazil,Recifes Itacolomis_Bahia,-16.8833,-39.0833,-3,66
+Brazil,Recifes Itaipins_Bahia,-14.7833,-39.0167,-3,66
+Brazil,Recifes Pitiassu_Bahia,-16.7667,-39.1000,-3,66
+Brazil,Recifes Rodeador_Ceara,-3.8000,-38.2500,-3,68
+Brazil,Recifes Torres_Santa Catarina,-29.3167,-49.6833,-3,71
+Brazil,Recifes Urca do Minhoto_Rio Grande do Norte,-4.8333,-36.2500,-3,67
+Brazil,Recifese Bancos Lavadeira_Rio Grande do Norte,-4.9167,-36.0000,-3,67
+Brazil,Rio de Janeiro_Bahia,-11.8500,-45.1500,-3,68
+Brazil,Rio de Janeiro_Minas Gerais,-18.0667,-45.0167,-3,68
+Brazil,Rio de Janeiro,-22.9000,-43.2333,-3,68
+Brazil,Rio Grande_Rio Grande do Sul,-32.0333,-52.0833,-3,73
+Brazil,Rondonopolis_Mato Grosso,-16.4667,-54.6333,-4,70
+Brazil,Saboo_Sao Paulo,-23.9333,-46.3500,-3,69
+Brazil,Salvador_Bahia,-12.9833,-38.5167,-3,66
+Brazil,Salvador_Maranhao,-3.3700,-43.4253,-3,68
+Brazil,Salvador_Ceara,-6.5500,-39.6833,-3,67
+Brazil,Salvador_Santa Catarina,-26.4167,-48.8333,-3,70
+Brazil,Salvador_Minas Gerais,-16.2667,-40.5667,-3,67
+Brazil,Salvador_Tocantins,-10.1650,-48.8739,-3,69
+Brazil,Salvador_Rio Grande do Sul,-29.4500,-51.5167,-3,72
+Brazil,Sant Anna do Livramento_Rio Grande do Sul,-30.8833,-55.5167,-3,74
+Brazil,Santa Branca_Sao Paulo,-23.4000,-45.8833,-3,69
+Brazil,Santa Cruz do Sul_Rio Grande do Sul,-29.7167,-52.4333,-3,72
+Brazil,Santa Maria do Bocca do Monte_Rio Grande do Sul,-29.6833,-53.8000,-3,73
+Brazil,Santo Amaro_Sao Paulo,-23.6500,-46.7000,-3,69
+Brazil,Santo Andre_Sao Paulo,-23.6667,-46.5167,-3,69
+Brazil,Santos_Ceara,-7.0333,-39.2833,-3,67
+Brazil,Santos_Minas Gerais,-16.3500,-41.5667,-3,67
+Brazil,Santos_Sao Paulo,-23.9500,-46.3333,-3,69
+Brazil,Santos_Rio Grande do Sul,-32.6500,-52.6000,-3,73
+Brazil,Santos_Piaui,-7.0667,-43.1333,-3,68
+Brazil,Sao Bernardo do Campo_Sao Paulo,-23.7000,-46.5500,-3,69
+Brazil,Sao Borja_Rio Grande do Sul,-28.6500,-56.0000,-3,73
+Brazil,Sao Gabriel_Rio Grande do Sul,-30.3333,-54.3167,-3,73
+Brazil,Sao Jose do Rio Preto_Sao Paulo,-20.8000,-49.3833,-3,70
+Brazil,Sao Jose dos Campos_Sao Paulo,-23.1833,-45.8833,-3,69
+Brazil,Sao Jose dos Campos_Minas Gerais,-22.1667,-45.1000,-3,68
+Brazil,Sao Jose dos Pinhais_Parana,-25.5167,-49.2167,-3,70
+Brazil,Sao Leopoldo_Amazonas,-7.5167,-72.5500,-4,70
+Brazil,Sao Leopoldo_Rio Grande do Sul,-29.7667,-51.1500,-3,72
+Brazil,Sao Luiz_Parana,-25.4833,-49.7333,-3,70
+Brazil,Sao Luiz_Rio Grande do Sul,-28.4000,-54.9667,-3,73
+Brazil,Sao Luiz_Bahia,-10.9167,-45.4500,-3,68
+Brazil,Sao Luiz_Maranhao,-2.5167,-44.2667,-3,68
+Brazil,Sao Luiz_Para,-1.1500,-47.5167,-3,69
+Brazil,Sao Luiz_Mato Grosso do Sul,-19.7000,-55.2833,-4,71
+Brazil,Sao Luiz_Mato Grosso,-16.9333,-57.1000,-4,71
+Brazil,Sao Luiz_Amazonas,-7.4500,-71.9000,-4,70
+Brazil,Sao Luiz_Piaui,-8.9833,-44.0667,-3,68
+Brazil,Sao Luiz_Acre,-10.3000,-67.1333,-5,71
+Brazil,Sao Luiz_Ceara,-4.8333,-38.8333,-3,67
+Brazil,Sao Luiz_Santa Catarina,-28.1833,-48.9500,-3,70
+Brazil,Sao Luiz_Minas Gerais,-21.7167,-42.5833,-3,67
+Brazil,Sao Miguel Paulista_Sao Paulo,-23.5000,-46.4333,-3,69
+Brazil,Sao Paulo,-23.5333,-46.6167,-3,69
+Brazil,Sao Paulo_Santa Catarina,-27.6333,-50.9500,-3,71
+Brazil,Sao Paulo_Pernambuco,-7.9500,-38.4167,-3,67
+Brazil,Sao Paulo_Roraima,3.8000,-61.4000,-4,68
+Brazil,Sao Paulo_Rio Grande do Norte,-6.0000,-36.2000,-3,67
+Brazil,Sao Paulo_Tocantins,-5.7167,-48.1667,-3,69
+Brazil,Sao Paulo_Alagoas,-9.4500,-36.0333,-3,66
+Brazil,Sao Paulo_Rio Grande do Sul,-27.9500,-52.1167,-3,72
+Brazil,Sao Paulo_Amazonas,-4.2500,-57.2500,-4,69
+Brazil,Sao Paulo_Piaui,-5.5667,-42.0667,-3,68
+Brazil,Sao Paulo_Bahia,-13.3000,-39.8833,-3,67
+Brazil,Sao Paulo_Paraiba,-7.6167,-37.0833,-3,67
+Brazil,Sao Paulo_Espirito Santo,-21.0333,-41.0833,-3,67
+Brazil,Sao Paulo_Ceara,-4.7833,-38.7667,-3,67
+Brazil,Sao Paulo_Sergipe,-10.5500,-37.5333,-3,66
+Brazil,Sao Paulo_Maranhao,-2.4667,-45.2000,-3,68
+Brazil,Sao Paulo de Olivenca_Amazonas,-3.4500,-68.8000,-4,69
+Brazil,Sao Paulo do Potenji_Rio Grande do Norte,-5.9167,-35.7500,-3,67
+Brazil,Sao Paulo dos Pinhais_Santa Catarina,-27.8667,-49.0833,-3,70
+Brazil,Sao Paulo I_Parana,-26.2258,-53.6411,-3,72
+Brazil,Sao Paulo II_Parana,-26.2011,-53.6425,-3,72
+Brazil,Sete Lagoas_Minas Gerais,-19.4500,-44.2333,-3,68
+Brazil,Suzano_Sao Paulo,-23.5333,-46.3333,-3,69
+Brazil,Taubate_Sao Paulo,-23.0333,-45.5500,-3,69
+Brazil,Tijuca_Sao Paulo,-22.2167,-47.4833,-3,69
+Brazil,Tijuca_Bahia,-12.7167,-41.5500,-3,67
+Brazil,Tijuca_Rio de Janeiro,-22.9333,-43.2333,-3,68
+Brazil,Tijuca_Rio Grande do Norte,-5.7167,-35.6833,-3,67
+Brazil,Trindade_Roraima,1.0500,-60.0167,-4,68
+Brazil,Trindade_Rio de Janeiro,-22.1000,-41.6000,-3,67
+Brazil,Trindade_Amazonas,-0.2000,-66.8500,-4,68
+Brazil,Trindade_Bahia,-10.5333,-38.3833,-3,67
+Brazil,Trindade_Minas Gerais,-17.9000,-42.2333,-3,67
+Brazil,Trindade_Goias,-16.6667,-49.5000,-3,69
+Brazil,Trindade_Para,-2.1667,-48.4833,-3,69
+Brazil,Trindade_Piaui,-7.9667,-45.5500,-3,68
+Brazil,Trindade_Pernambuco,-7.8000,-40.2833,-3,67
+Brazil,Trindade_Espirito Santo,-20.5250,-29.3250,-3,62
+Brazil,Trindade_Maranhao,-9.2686,-46.7003,-3,68
+Brazil,Trindade_Ceara,-3.0667,-39.9667,-3,68
+Brazil,Trindade_Rio Grande do Sul,-27.4500,-52.9167,-3,72
+Brazil,Tubarao_Santa Catarina,-28.5000,-49.0167,-3,71
+Brazil,Uberlandia_Minas Gerais,-18.9167,-48.3000,-3,69
+Brazil,Uomatoti_Mato Grosso,-14.6667,-58.3333,-4,71
+Brazil,Uruguaiana_Rio Grande do Sul,-29.7500,-57.0833,-3,74
+Brazil,Uruguaiana_Bahia,-16.1833,-39.3000,-3,66
+Brazil,Vicosa_Minas Gerais,-20.7500,-42.8833,-3,67
+Brazil,Victoria_Alagoas,-9.3333,-36.4833,-3,66
+Brazil,Victoria_Sao Paulo,-22.7833,-48.4000,-3,70
+Brazil,Victoria_Rio Grande do Norte,-6.3000,-38.1667,-3,67
+Brazil,Victoria_Pernambuco,-8.1167,-35.3000,-3,66
+Brazil,Victoria_Maranhao,-9.1000,-45.9500,-3,68
+Brazil,Victoria_Espirito Santo,-20.3167,-40.3500,-3,67
+Brazil,Victoria_Minas Gerais,-21.2333,-44.4167,-3,68
+Brazil,Victoria_Para,-2.9000,-52.0167,-3,69
+Brazil,Wagner_Bahia,-12.2167,-41.1833,-3,67
+Brazil,Wagner_Santa Catarina,-26.5333,-49.8333,-3,71
+Brazil,Wanderlandia_Tocantins,-6.8358,-47.7992,-3,68
+Brazil,Waraminduik,4.4500,-59.8167,-4,68
+Brazil,Warnow_Santa Catarina,-26.9667,-49.2833,-3,70
+Brazil,Washington Luiz_Parana,-23.4000,-49.9833,-3,70
+Brazil,Wassari Mountains,1.6667,-59.5000,-4,68
+Brazil,Weik_Rio Grande do Sul,-30.5500,-54.3833,-3,73
+Brazil,Wenceslau Braz_Parana,-23.8500,-49.8000,-3,70
+Brazil,Werneck_Rio de Janeiro,-22.2208,-43.3144,-3,68
+Brazil,Werneck_Pernambuco,-8.0833,-34.9333,-3,66
+Brazil,West Branch_Maranhao,-2.7992,-41.9964,-3,68
+Brazil,West Central,-15.0000,-52.0000,-3,70
+Brazil,wFazenda Maia_Sao Paulo,-22.0000,-52.0667,-3,71
+Brazil,Witmarsum_Santa Catarina,-26.9333,-49.8000,-3,71
+Brazil,Xambioazinho_Tocantins,-6.4325,-48.3819,-3,69
+Brazil,Xambre_Parana,-23.7000,-53.5667,-3,71
+Brazil,Xanxere_Santa Catarina,-26.8833,-52.3833,-3,72
+Brazil,Xapeco_Santa Catarina,-27.1000,-52.6000,-3,72
+Brazil,Xapetuba_Minas Gerais,-18.8667,-48.5667,-3,69
+Brazil,Xapuri_Acre,-10.6500,-68.5167,-5,71
+Brazil,Xapuri_Bahia,-15.2500,-39.4167,-3,67
+Brazil,Xarqueada_Tocantins,-9.4892,-48.3625,-3,69
+Brazil,Xarqueada_Minas Gerais,-17.7167,-40.6667,-3,67
+Brazil,Xarqueda_Rio Grande do Sul,-29.9667,-51.6333,-3,72
+Brazil,Xatelodo_Mato Grosso do Sul,-20.3333,-56.9333,-4,72
+Brazil,Xavantina_Mato Grosso do Sul,-21.2500,-52.8000,-3,71
+Brazil,Xavantina_Mato Grosso,-14.6667,-52.3500,-4,70
+Brazil,Xavantina_Santa Catarina,-27.0833,-52.3333,-3,72
+Brazil,Xavier_Ceara,-5.1500,-40.8167,-3,68
+Brazil,Xaxim_Parana,-24.7333,-53.8167,-3,72
+Brazil,Xerente_Tocantins,-9.5292,-48.3197,-3,69
+Brazil,Xexeu_Pernambuco,-8.8167,-35.6167,-3,66
+Brazil,Xibaua_Amazonas,-4.8792,-66.8981,-4,69
+Brazil,Xilili_Pernambuco,-8.4167,-37.2167,-3,67
+Brazil,Ximinximim_Amapa,1.5333,-54.0000,-3,68
+Brazil,Xingo_Bahia,-9.5667,-38.0667,-3,67
+Brazil,Xingo_Alagoas,-9.4000,-37.9667,-3,67
+Brazil,Xingu_Amazonas,-7.9333,-69.2167,-4,70
+Brazil,Xingu_Piaui,-9.6333,-45.4333,-3,68
+Brazil,Xinxo_Paraiba,-7.7667,-36.8667,-3,67
+Brazil,Xique-Xique_Piaui,-7.7500,-41.7333,-3,68
+Brazil,Xiririca_Sao Paulo,-24.5139,-48.1336,-3,70
+Brazil,Xiru_Mato Grosso do Sul,-21.1833,-56.4333,-4,72
+Brazil,Xixa_Goias,-15.5833,-49.9833,-3,69
+Brazil,Xixa_Bahia,-10.0667,-43.1333,-3,68
+Brazil,Xixas_Maranhao,-3.8258,-42.8092,-3,68
+Brazil,Xixebal_Tocantins,-7.2500,-48.2167,-3,69
+Brazil,Xucuru_Pernambuco,-8.2500,-36.6000,-3,67
+Brazil,Xui_Rio Grande do Sul,-33.7333,-53.3667,-3,74
+Brazil,Xupe_Maranhao,-4.5333,-45.3500,-3,68
+Brazil,Yaco,-9.0500,-68.5667,-4,70
+Brazil,Yacy_Sao Paulo,-20.8833,-49.5500,-3,70
+Brazil,Yaguaron Chico,-31.9500,-53.9500,-3,73
+Brazil,Yara_Roraima,3.4833,-60.0833,-4,68
+Brazil,Yaramonta_Roraima,4.6000,-60.4000,-4,68
+Brazil,Yata_Rondonia,-10.5833,-65.3833,-4,71
+Brazil,Yaua Parana_Roraima,2.3667,-60.8500,-4,68
+Brazil,Yauacana_Amazonas,0.5167,-67.3833,-4,68
+Brazil,Yauarete_Amazonas,0.6333,-69.2000,-4,67
+Brazil,Yaurare_Para,-7.8833,-57.1833,-3,69
+Brazil,Yepe_Sao Paulo,-22.6667,-51.0833,-3,70
+Brazil,Yitapuga_Amazonas,0.3000,-68.6500,-4,67
+Brazil,Ypiranga_Parana,-25.0167,-50.5833,-3,71
+Brazil,Ypiranga_Piaui,-6.8167,-41.7500,-3,68
+Brazil,Ypiranga_Minas Gerais,-18.7500,-44.3667,-3,68
+Brazil,Ypiranga_Rondonia,-10.0167,-62.8667,-4,70
+Brazil,Ypiranga_Amazonas,-7.6667,-67.4167,-4,70
+Brazil,Yporanga_Sao Paulo,-24.5833,-48.5833,-3,70
+Brazil,Yucatan_Para,-6.4667,-54.0500,-3,69
+Brazil,Zabele_Ceara,-7.1833,-39.5833,-3,67
+Brazil,Zabele_Bahia,-12.5000,-39.3833,-3,67
+Brazil,Zabumba_Ceara,-4.1500,-38.1667,-3,67
+Brazil,Zacarias_Sao Paulo,-21.0500,-50.0667,-3,70
+Brazil,Zacarias_Rio de Janeiro,-22.9500,-42.8333,-3,68
+Brazil,Zadilinos_Rio Grande do Norte,-5.3911,-36.9958,-3,67
+Brazil,Zamaicare_Mato Grosso,-14.6333,-58.5500,-4,71
+Brazil,Zamba_Paraiba,-7.1333,-38.1667,-3,67
+Brazil,Zandavali_Santa Catarina,-27.0667,-52.7500,-3,72
+Brazil,Zanette_Mato Grosso do Sul,-19.3167,-57.5667,-4,72
+Brazil,Zarzuela_Rondonia,-13.5500,-60.6000,-4,71
+Brazil,Ze Araujo_Rio Grande do Norte,-5.6000,-35.9833,-3,67
+Brazil,Ze Brito_Bahia,-13.0333,-39.6833,-3,67
+Brazil,Ze Ferreira_Piaui,-6.1667,-42.6500,-3,68
+Brazil,Ze Gomes_Maranhao,-3.6667,-42.7908,-3,68
+Brazil,Ze Gomes_Paraiba,-7.9667,-37.1000,-3,67
+Brazil,Ze Rodrigues_Maranhao,-3.8292,-42.7961,-3,68
+Brazil,Zebele_Paraiba,-8.0667,-37.1000,-3,67
+Brazil,Zebele_Bahia,-12.0167,-40.7500,-3,67
+Brazil,Zebelizinho_Paraiba,-8.0667,-37.1333,-3,67
+Brazil,Zeca_Bahia,-16.0833,-39.4833,-3,66
+Brazil,Zeca Botelho_Minas Gerais,-16.5333,-40.4167,-3,67
+Brazil,Zedeque_Roraima,0.7206,-61.6708,-4,68
+Brazil,Zelandia_Minas Gerais,-19.5333,-47.4167,-3,69
+Brazil,Zelandia_Maranhao,-8.5167,-45.7667,-3,68
+Brazil,Zelia_Bahia,-10.4000,-39.2167,-3,67
+Brazil,Zelinda_Minas Gerais,-22.2333,-44.2667,-3,68
+Brazil,Zeringota_Minas Gerais,-20.9833,-44.8000,-3,68
+Brazil,Zezito_Ceara,-7.2833,-40.0667,-3,67
+Brazil,Zibingatzako Mountain,1.4833,-58.5167,-4,68
+Brazil,Zimbro_Piaui,-8.0667,-42.2833,-3,68
+Brazil,Zimbros_Santa Catarina,-27.1797,-48.5339,-3,70
+Brazil,Zingamoche_Rondonia,-8.7833,-63.9333,-4,70
+Brazil,Zita Bernardes_Minas Gerais,-21.7333,-46.5333,-3,69
+Brazil,Zito Soares_Minas Gerais,-20.1833,-42.7667,-3,67
+Brazil,Zogaias_Minas Gerais,-20.1333,-46.9500,-3,69
+Brazil,Zoilo_Minas Gerais,-21.9986,-43.1986,-3,68
+Brazil,Zolauruina-se_Mato Grosso,-13.9500,-58.7000,-4,71
+Brazil,Zombaria_Pernambuco,-8.2500,-36.6500,-3,67
+Brazil,Zona_Rio Grande do Sul,-28.7333,-55.6000,-3,73
+Brazil,Zona do Triangulo_Minas Gerais,-19.5000,-49.0000,-3,69
+Brazil,Zoro_Bahia,-13.7000,-41.2833,-3,67
+Brazil,Zororo_Parana,-24.2667,-54.2667,-3,72
+Brazil,Zorra_Ceara,-5.8667,-39.5500,-3,67
+Brazil,Zuim_Sao Paulo,-22.8436,-47.7811,-3,69
+Brazil,Zumbi_Maranhao,-5.2333,-43.2000,-3,68
+Brazil,Zumbi_Rio de Janeiro,-22.8167,-43.1833,-3,68
+Brazil,Zumbi_Ceara,-6.3833,-40.2000,-3,67
+Brazil,Zundao_Piaui,-5.1500,-41.9167,-3,68

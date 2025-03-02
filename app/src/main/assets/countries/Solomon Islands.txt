@@ -1,0 +1,54 @@
+Solomon Islands,Aimburu,-8.8903,161.043,11,0
+Solomon Islands,Bia,-10.3569,161.4931,11,0
+Solomon Islands,Byron Bay,-11.2569,166.5098,11,0
+Solomon Islands,Dikona ara,-8.3067,160.8267,11,0
+Solomon Islands,Frindsbury Reef,-4.9898,159.1602,11,0
+Solomon Islands,Honiara,-9.4229,159.9604,11,0
+Solomon Islands,Jagi Island,-8.4061,159.8606,11,0
+Solomon Islands,Jajagho,-8.0061,158.9773,11,0
+Solomon Islands,Jajao,-8.1394,159.3106,11,0
+Solomon Islands,Jaklo,-8.2894,159.7606,11,0
+Solomon Islands,Jalari Bay,-8.5394,157.9773,11,0
+Solomon Islands,Jaraele,-8.5394,159.8606,11,0
+Solomon Islands,Jari Island,-8.0061,156.7606,11,0
+Solomon Islands,Jarihana,-8.2894,159.7273,11,0
+Solomon Islands,Jarinadi,-8.3061,159.7939,11,0
+Solomon Islands,Jarirutu,-8.3227,159.7439,11,0
+Solomon Islands,Jarupcha River,-9.3561,159.6106,11,0
+Solomon Islands,Jejevo,-8.0894,159.1273,11,0
+Solomon Islands,Jiku,-7.1394,157.1939,11,0
+Solomon Islands,Jinjapili,-6.9727,157.1106,11,0
+Solomon Islands,Jiviu Hill,-8.5061,159.8273,11,0
+Solomon Islands,Johokhapi,-8.1061,159.5273,11,0
+Solomon Islands,Jolokubu,-7.9894,158.9606,11,0
+Solomon Islands,Joroveto,-7.7894,156.7106,11,0
+Solomon Islands,Quoin Hill,-9.1054,160.278,11,0
+Solomon Islands,Tulagi Island,-9.0884,160.1616,11,0
+Solomon Islands,Xanana,-8.288,157.3287,11,0
+Solomon Islands,Yandina,-9.1046,159.2288,11,0
+Solomon Islands,Yenton Point,-9.2546,159.6621,11,0
+Solomon Islands,Ysabel,-7.9879,157.0121,11,0
+Solomon Islands,Ysabel Island,-7.9879,159.0121,11,0
+Solomon Islands,Zabana,-7.7878,158.8122,11,0
+Solomon Islands,Zaenane,-8.4711,157.2789,11,0
+Solomon Islands,Zaghi Point,-7.5545,158.7789,11,0
+Solomon Islands,Zaka Islands,-7.3545,158.2122,11,0
+Solomon Islands,Zalembavuru Point,-6.6378,156.5789,11,0
+Solomon Islands,Zambanarungga,-7.1878,157.2955,11,0
+Solomon Islands,Zamore,-7.5045,158.3622,11,0
+Solomon Islands,Zamore Island,-8.2211,157.7789,11,0
+Solomon Islands,Zaoponoe Reef,-7.5045,158.5789,11,0
+Solomon Islands,Zaosodu Reef,-7.5045,158.5455,11,0
+Solomon Islands,Zarepe,-6.9545,156.7289,11,0
+Solomon Islands,Zaribeana,-7.7211,158.6122,11,0
+Solomon Islands,Zaru,-7.0211,157.1289,11,0
+Solomon Islands,Zavanga Lakes,-8.4878,157.4122,11,0
+Solomon Islands,Zavari,-6.8545,156.6122,11,0
+Solomon Islands,Zengiro,-8.0545,159.0455,11,0
+Solomon Islands,Zieta,-8.2545,157.2455,11,0
+Solomon Islands,Ziluzilu Rocks,-6.9545,156.7122,11,0
+Solomon Islands,Zinoa Islands,-6.8878,156.6622,11,0
+Solomon Islands,Zizirae Island,-8.2711,157.4122,11,0
+Solomon Islands,Zoli,-7.6878,158.8455,11,0
+Solomon Islands,Zongga,-7.3211,157.1455,11,0
+Solomon Islands,Zuzuao Point,-7.6545,158.8289,11,0

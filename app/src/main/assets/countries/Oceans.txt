@@ -1,0 +1,114 @@
+Oceans,Adriatisches Meer,43.0097,16.0097,1,0
+Oceans,Aigaion Pelagos,39.0097,25.0097,2,0
+Oceans,Ak Deniz,35.0097,20.0097,-10,0
+Oceans,Alboran Sea,35.6764,-2.9903,0,0
+Oceans,Arabian Gulf,27.0097,51.0097,-10,0
+Oceans,Arabian Sea,20.0097,65.0097,-10,0
+Oceans,Aral skoye More,45.0097,60.0097,-10,0
+Oceans,Asowsches Meer,46.0097,36.0097,-10,0
+Oceans,Barents Hav,74.0098,36.0098,-10,0
+Oceans,Bass Strait,-39.3235,145.5098,-10,0
+Oceans,Bay of Fundy,45.0098,-65.9902,-4,0
+Oceans,Beaufort Sea,70.0098,-134.9902,-10,0
+Oceans,Bellingshausen Sea,-70.9902,-84.9902,-10,0
+Oceans,Beloye More,65.5098,38.0098,-10,0
+Oceans,Belt Sea,55.5098,11.0098,1,0
+Oceans,Bien Dong,15.0098,115.0098,-10,0
+Oceans,Bingala Aw,15.0098,90.0098,-10,0
+Oceans,Bismarck Sea,-3.9902,148.0098,-10,0
+Oceans,Black Sea,43.0098,35.0098,2,0
+Oceans,Bouches de Bonifacio,41.3098,9.2598,1,0
+Oceans,Bristol Channel,51.3431,-4.4902,0,0
+Oceans,Celebes Zee,3.0099,122.0099,8,0
+Oceans,Chukotskoye More,69.0099,-173.9901,-10,0
+Oceans,Danmerkursund,65.01,-27.99,-10,0
+Oceans,Dardanelles,40.26,26.4267,2,0
+Oceans,Davisstraedet,64.01,-56.99,-4,0
+Oceans,Der Kanal,50.01,-0.99,0,0
+Oceans,Dogdo Island,37.26,131.8767,9,0
+Oceans,Dover Strait,51.01,1.51,0,0
+Oceans,East Siberian Sea,74.0101,166.0101,-10,0
+Oceans,Estrecho de Gibraltar,35.9601,-5.5899,0,0
+Oceans,Faeroe Channel,61.0102,-3.9898,0,0
+Oceans,Finskiy Zaliv,60.0102,27.0102,2,0
+Oceans,Flores Sea,-7.9898,121.0102,8,0
+Oceans,Franklin D. Roosevelt Sea,-72.4898,-111.9065,-10,0
+Oceans,Golfo de Panama,8.0103,-79.4897,-10,0
+Oceans,Gronland See,75.0103,-9.9897,-10,0
+Oceans,Gulf of Aqaba,29.0103,34.677,2,0
+Oceans,Gulf of California,28.0103,-111.9897,-10,0
+Oceans,Gulf of Mexico,25.0103,-89.9897,-10,0
+Oceans,Gulf of Oman,25.0103,58.0103,-10,0
+Oceans,Higashi-suido,34.0104,129.5104,9,0
+Oceans,Iberian Sea,40.0105,2.0105,0,0
+Oceans,Inland Sea,34.3438,133.5105,9,0
+Oceans,Inner Sound,57.4272,-5.9228,-10,0
+Oceans,Inside Passage,48.0105,-122.3895,-10,0
+Oceans,Ionian Sea,39.0105,19.0105,1,0
+Oceans,Itameri,56.0105,18.0105,1,0
+Oceans,Jawa Sea,-4.9894,110.0106,-10,0
+Oceans,Jolo See,9.0106,120.0106,8,0
+Oceans,Joseph Bonaparte Gulf,-14.2394,128.5106,9,0
+Oceans,Kamchatka Sea,60.0107,-174.9893,-10,0
+Oceans,Kane Basin,79.5107,-68.9893,-10,0
+Oceans,Karskoye More,76.0107,80.0107,-10,0
+Oceans,Kaspiy Tengizi,42.0107,50.0107,3,0
+Oceans,Kattegat,57.0107,11.0107,1,0
+Oceans,Khalij as Suways,28.1774,33.4607,-10,0
+Oceans,Khawr al Kafka,29.6774,48.844,3,0
+Oceans,Khor al Amaya,29.7607,48.844,3,0
+Oceans,Kiel Bay,54.594,10.594,1,0
+Oceans,Koreyskiy Zaliv,39.0107,124.0107,8,0
+Oceans,Kuroshio Current,40.0107,150.0107,-10,0
+Oceans,Kuroshio-hanryu,30.0107,139.0107,9,0
+Oceans,Kwang Sea,36.0107,124.0107,8,0
+Oceans,Labrador Meer,57.0108,-54.9892,-10,0
+Oceans,Lakshadweep Sea,8.0108,75.0108,5,0
+Oceans,Laptev Sea,76.0108,126.0108,-10,0
+Oceans,Laut Andaman,10.0108,95.0108,-10,0
+Oceans,Laut Arafuru,-8.9892,133.0108,9,0
+Oceans,Laut Bali,-7.7392,115.5108,8,0
+Oceans,Laut Banda,-3.4431,122.7355,8,0
+Oceans,Laut Sawu,-9.6559,122.0108,8,0
+Oceans,Le Golfe de Gascogne,44.0108,-3.9892,0,0
+Oceans,Liman Reki Amura,52.8441,141.5108,-10,0
+Oceans,Lincoln Hav,83.0108,-57.9892,-10,0
+Oceans,Macassar,0.0109,118.5109,8,0
+Oceans,Molucca Sea,0.0109,125.0109,8,0
+Oceans,Ocean Atlantique,10.0111,-24.9889,-10,0
+Oceans,Ocean Pacifique Sud,-44.9889,-129.9889,-10,0
+Oceans,Oceano Indiano,-9.9889,70.0111,-10,0
+Oceans,Okhotsk Current,50.0111,157.0111,-10,0
+Oceans,Old Strait,1.4778,103.8111,7,0
+Oceans,Pasaje de Hoces,-59.9888,-59.9888,-10,0
+Oceans,Philippine Sea,20.0112,135.0112,9,0
+Oceans,Pitt Passage,-2.4888,128.0112,-10,0
+Oceans,Plata River,-34.9888,-56.9888,-4,0
+Oceans,Po Hai,38.5112,120.0112,8,0
+Oceans,Pohjanlahti,63.0112,20.0112,-10,0
+Oceans,Polar Sea,85.0112,0.0112,-10,0
+Oceans,Pomeranian Bay,54.0112,14.2612,1,0
+Oceans,Propontis,40.6779,28.2612,2,0
+Oceans,Riga-bukten,57.5114,23.5947,2,0
+Oceans,Ross Sea,-74.9886,-174.9886,-10,0
+Oceans,Sea of Japan,43.5115,135.7615,9,0
+Oceans,Taiwan Haixia,24.0116,119.0116,8,0
+Oceans,Tasman Sea,-39.9884,160.0116,-10,0
+Oceans,Tatar Strait,50.0116,141.0116,9,0
+Oceans,Teluk Bone,-3.9884,120.6783,8,0
+Oceans,Teluk Tomini,-0.5859,121.1063,8,0
+Oceans,The Straits,37.3449,11.3449,1,0
+Oceans,Tikhiy Okean,0.0116,0.0116,-10,0
+Oceans,Timor-zee,-10.4884,126.0116,-10,0
+Oceans,Torres Strait,-10.4051,142.1783,-10,0
+Oceans,Tsushima Kaikyo,34.0116,129.0116,9,0
+Oceans,Tung Hai,29.0116,125.0116,8,0
+Oceans,Tungunski,55.0116,150.0116,-10,0
+Oceans,Tyosen Kaikyo,34.6783,129.0116,9,0
+Oceans,Tyrrhenian Sea,40.0116,12.0116,1,0
+Oceans,Venetia,45.2618,13.0118,1,0
+Oceans,Versterhavet,55.3451,3.0118,0,0
+Oceans,Vinh Ba Bo,20.0118,108.0118,-10,0
+Oceans,Vinh Thai Lan,10.0118,102.0118,7,0
+Oceans,Zaliv Shelikhova,59.7622,158.0122,-10,0
+Oceans,Zee van Halmahera,-0.9878,129.0122,9,0

@@ -1,0 +1,93 @@
+Cambodia,Batdambang,13.1000,103.2000,7GMT,288
+Cambodia,Ea Drang,13.3167,107.3500,7GMT,288
+Cambodia,Elbow Island,10.6333,103.4667,7GMT,289
+Cambodia,Elech,12.4167,104.7500,7GMT,288
+Cambodia,Elephant Range,11.0000,104.0833,7GMT,289
+Cambodia,Gatille,12.2167,106.9500,7GMT,288
+Cambodia,Ghong Kal,13.9500,103.5833,7GMT,287
+Cambodia,Goeng Phlah,12.3667,106.7000,7GMT,288
+Cambodia,Grand Lac,13.0000,104.0000,7GMT,288
+Cambodia,Ia Hleo,13.2667,107.3667,7GMT,288
+Cambodia,Ile Cone,10.6333,103.3000,7GMT,289
+Cambodia,Ile de Kho Kong,11.3333,103.0000,7GMT,289
+Cambodia,Ile de Kok Sralou,11.4667,103.0000,7GMT,288
+Cambodia,Ile de l Eau,10.4167,103.8000,7GMT,289
+Cambodia,Ile de la Baie,10.5000,103.6000,7GMT,289
+Cambodia,Ile des Fourmis,10.3667,104.3167,7GMT,289
+Cambodia,Ile du Cheval,10.4833,103.6167,7GMT,289
+Cambodia,Ile du Depart,10.7333,103.5500,7GMT,289
+Cambodia,Ile du Milieu_Kaoh Kong,10.8167,103.1833,7GMT,289
+Cambodia,Ile du Milieu_ or CB06,10.4833,103.7667,7GMT,289
+Cambodia,Ile Nord-Ouest,10.5333,103.5500,7GMT,289
+Cambodia,Ile Rocheuse,10.4833,104.1667,7GMT,289
+Cambodia,Ile Ronde,10.5500,103.5500,7GMT,289
+Cambodia,Ile Rong,10.7333,103.2333,7GMT,289
+Cambodia,Ile Rong Sam Lem,10.5667,103.2667,7GMT,289
+Cambodia,Ile Tang,10.2667,103.1167,7GMT,289
+Cambodia,Ilot Cone,11.4333,103.0167,7GMT,288
+Cambodia,Ilot Kusrovie,11.1167,102.8000,7GMT,289
+Cambodia,Ilot Nord,10.8333,103.1833,7GMT,289
+Cambodia,Ilot Sud,10.6667,103.3000,7GMT,289
+Cambodia,Ilot Veer,10.2167,102.8500,7GMT,289
+Cambodia,Ilots de la Comete,10.8500,103.3500,7GMT,289
+Cambodia,Ilots Kussat,11.0500,103.0833,7GMT,289
+Cambodia,Irapedao,12.2167,104.6000,7GMT,288
+Cambodia,Kampong Cham,12.0000,105.4500,7GMT,289
+Cambodia,Kandal,11.5000,104.8333,7GMT,288
+Cambodia,La Ma Sai,12.3833,104.6500,7GMT,288
+Cambodia,La Palkei,12.0833,106.9000,7GMT,288
+Cambodia,Labang Nhai,13.8500,107.0333,7GMT,288
+Cambodia,Labansiek,13.7167,106.9500,7GMT,288
+Cambodia,Lam Nam Phra Mahosot,13.5667,102.8167,7GMT,287
+Cambodia,Lavka,12.6167,107.1333,7GMT,288
+Cambodia,Le Chameau,10.5667,103.3000,7GMT,289
+Cambodia,Leach,12.2667,103.8500,7GMT,288
+Cambodia,Lem Dam,11.4167,103.0167,7GMT,288
+Cambodia,Liep,13.9833,103.7500,7GMT,287
+Cambodia,Loeubet Smach,14.2167,103.5833,7GMT,287
+Cambodia,Loiet,12.5500,106.0000,7GMT,288
+Cambodia,Loloksar,12.5000,103.9167,7GMT,288
+Cambodia,Lomchang,11.0667,104.7667,7GMT,289
+Cambodia,Lomhaeh,11.4667,104.6833,7GMT,288
+Cambodia,Lomnion,13.7500,104.9333,7GMT,287
+Cambodia,Long Mienne,12.7833,103.1333,7GMT,288
+Cambodia,Long Ste,13.4000,103.2500,7GMT,287
+Cambodia,Longoem,11.8833,104.1667,7GMT,288
+Cambodia,Longvek,11.8833,104.7667,7GMT,288
+Cambodia,Louea,13.8333,103.9667,7GMT,287
+Cambodia,Lovea_ or CB01,13.3500,102.9000,7GMT,287
+Cambodia,Lovea_Kampong Spoe,11.3500,104.7333,7GMT,288
+Cambodia,Lovea Chhom,12.7500,104.8333,7GMT,288
+Cambodia,Lovea Te,11.6500,104.4333,7GMT,288
+Cambodia,Loveang,12.3667,104.8000,7GMT,288
+Cambodia,Luc Son,10.4500,104.4500,7GMT,289
+Cambodia,Lumphat,13.5000,106.9833,7GMT,288
+Cambodia,Na Laung,14.0833,106.2000,7GMT,287
+Cambodia,Nakhor-Vat,13.4167,103.8667,7GMT,287
+Cambodia,Nam Lyr,12.5167,107.5333,7GMT,288
+Cambodia,Neak-Luong,11.2667,105.3000,7GMT,289
+Cambodia,Neang Sa Longeach,12.9833,104.5333,7GMT,288
+Cambodia,Neang Sau,12.5500,104.5000,7GMT,288
+Cambodia,Ngong,12.0333,105.0833,7GMT,288
+Cambodia,Nokor Pheas,13.6000,103.7167,7GMT,287
+Cambodia,North Pirate,10.4000,104.3333,7GMT,289
+Cambodia,Nung Takhieng,11.5667,103.0667,7GMT,288
+Cambodia,Ny Pech,12.9167,104.7833,7GMT,288
+Cambodia,Phnom Penh,11.5500,104.9167,7GMT,288
+Cambodia,Siem Reap,11.4000,104.8667,7GMT,289
+Cambodia,Siem Reap_CB16,13.3667,103.8500,7GMT,287
+Cambodia,Ubon Boratit Shoal,11.1333,102.8000,7GMT,289
+Cambodia,Udon,11.8000,104.7500,7GMT,288
+Cambodia,Wat Chek,11.1167,105.7833,7GMT,289
+Cambodia,Wat Ong Kar,11.6167,104.7333,7GMT,288
+Cambodia,Wat Phnom,11.4000,104.4833,7GMT,289
+Cambodia,Wat Ponley,12.4333,104.4500,7GMT,288
+Cambodia,Wat Prean Khe,11.2333,104.5167,7GMT,289
+Cambodia,Xe Kong,13.5333,105.9667,7GMT,288
+Cambodia,Xe Xan,13.5333,105.9500,7GMT,288
+Cambodia,Xom Chen Rosey,11.0000,106.1167,7GMT,289
+Cambodia,Xom Chrok Smach,11.0167,106.1000,7GMT,289
+Cambodia,Xom Dieur,10.9833,106.1167,7GMT,289
+Cambodia,Xom Ly Nhon,10.9667,105.1167,7GMT,289
+Cambodia,Xre Poc,13.5500,106.2667,7GMT,288
+Cambodia,Yok Te Wac,12.6500,107.5667,7GMT,288

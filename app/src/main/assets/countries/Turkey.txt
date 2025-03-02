@@ -1,0 +1,280 @@
+Turkey,Adana,37.0114,35.3386,2,0
+Turkey,Adana_Manisa,38.643,28.893,2,0
+Turkey,Adana Ili_Adana,37.2597,35.4264,2,0
+Turkey,Adanalioglu_Icel,36.843,34.8097,2,0
+Turkey,Adapazari_Sakarya,40.7903,30.413,2,0
+Turkey,Adiyaman,37.7689,38.288,2,0
+Turkey,Afyon,38.7664,30.553,2,0
+Turkey,Afyonkarahisar Vilayeti_Afyon,38.7597,30.6764,2,0
+Turkey,Agri,39.7291,43.0611,2,0
+Turkey,Aksaray,38.3839,34.0386,2,0
+Turkey,Aksaray_Kahramanmaras,37.7264,37.443,2,0
+Turkey,Aksaray Ili_Aksaray,38.5097,33.843,2,0
+Turkey,Aksaray Ovasi,38.3764,33.5264,2,0
+Turkey,Aksehir,38.3672,31.4261,2,0
+Turkey,Alacati_Sinop,41.3764,34.5597,2,0
+Turkey,Alacati Limani_Izmir,38.2483,26.3955,2,0
+Turkey,Alanya_Antalya,36.5622,32.0122,2,0
+Turkey,Alucra_Giresun,40.3305,38.7733,2,0
+Turkey,Amasya_Aydin,37.6097,28.5097,2,0
+Turkey,Ankara,39.9369,32.8741,2,0
+Turkey,Ankara Cayi_Eskisehir,39.8597,31.9264,2,0
+Turkey,Ankara Ili_Ankara,39.9264,32.843,2,0
+Turkey,Antakya_Hatay,36.2086,36.1703,2,0
+Turkey,Antalya,36.9222,30.6994,2,0
+Turkey,Aydin_Afyon,38.5097,30.493,2,0
+Turkey,Aydin Vilayeti_Aydin,37.7597,28.0097,2,0
+Turkey,Bagcilar_Istanbul,41.0534,28.8281,2,0
+Turkey,Bakirkoy_Izmir,38.1265,28.2765,2,0
+Turkey,Balikesir,39.659,27.8959,2,0
+Turkey,Balikesir Ili_Balikesir,39.7598,28.0098,2,0
+Turkey,Balikesir Ovasi_Balikesir,39.6265,28.0931,2,0
+Turkey,Bandirma_Balikesir,40.362,27.9865,2,0
+Turkey,Bartin,41.6456,32.3473,2,0
+Turkey,Batman,37.8926,41.1304,2,0
+Turkey,Batman Ili_Batman,38.0098,41.3431,2,0
+Turkey,Batmansuyu,37.7598,41.0098,2,0
+Turkey,Belek_Antalya,36.8726,31.0654,2,0
+Turkey,Bergama_Izmir,39.1267,27.1937,2,0
+Turkey,Besiktas Deresi_Manisa,38.4931,27.8265,2,0
+Turkey,Beylikova_Eskisehir,39.6967,31.2154,2,0
+Turkey,Biga_Canakkale,40.2379,27.252,2,0
+Turkey,Bilecik,37.6265,42.5431,2,0
+Turkey,Bilecik Ili_Bilecik,40.0098,30.1765,2,0
+Turkey,Bingol Ili_Bingol,39.0931,40.8431,2,0
+Turkey,Birecik_Kahramanmaras,38.2431,36.8931,2,0
+Turkey,Birecik_Sanliurfa,37.0392,38.0001,2,0
+Turkey,Bitlis,38.4106,42.1195,2,0
+Turkey,Bodrum_Mugla,37.0481,27.439,2,0
+Turkey,Bodrum_Icel,36.1765,32.8098,2,0
+Turkey,Bodrum Limani_Mugla,37.0431,27.4431,2,0
+Turkey,Bolu,40.7456,31.6159,2,0
+Turkey,Bolu Vilayeti_Bolu,40.6765,31.5931,2,0
+Turkey,Burdur,37.7301,30.3006,2,0
+Turkey,Burdur Ili_Burdur,37.5098,30.0098,2,0
+Turkey,Bursa_Bolu,40.5931,30.9098,2,0
+Turkey,Bursa,40.2015,29.0709,2,0
+Turkey,Bursa Ili_Bursa,40.1765,29.0931,2,0
+Turkey,Bursa Ovasi_Bursa,40.2431,28.9931,2,0
+Turkey,Bursal_Ankara,39.8076,32.8942,2,0
+Turkey,Buyukcekmece_Istanbul,41.0251,28.5698,2,0
+Turkey,Canakkale,40.1555,26.4163,2,0
+Turkey,Cankiri,40.6066,33.6243,2,0
+Turkey,Cankiri Ili_Cankiri,40.6766,33.4266,2,0
+Turkey,Cankiris_Samsun,41.1266,36.9932,2,0
+Turkey,Cermik_Van,38.7432,43.5766,2,0
+Turkey,Cermik_Malatya,38.7099,38.4599,2,0
+Turkey,Cermik_Erzurum,40.4599,42.4432,2,0
+Turkey,Cermik_Tokat,40.8266,36.6599,2,0
+Turkey,Cermik_Diyarbakir,38.1443,39.4618,2,0
+Turkey,Cesme_Izmir,38.3327,26.3163,2,0
+Turkey,Cesme Koyu_Izmir,38.3343,26.3016,2,0
+Turkey,Corlu_Tekirdag,41.1691,27.8099,2,0
+Turkey,Corum_Hatay,36.5932,36.4432,2,0
+Turkey,Dalaman_Mugla,36.775,28.8142,2,0
+Turkey,Dalyan_Izmir,38.5433,26.8767,2,0
+Turkey,Davutlar_Manisa,38.81,27.3767,2,0
+Turkey,Denizli_Izmir,38.3767,26.76,2,0
+Turkey,Denizli,37.7842,29.0975,2,0
+Turkey,Denizli Ili_Denizli,37.71,29.26,2,0
+Turkey,Develi Dagi_Kayseri,38.31,35.5433,2,0
+Turkey,Diyarbakir,37.9289,40.2206,2,0
+Turkey,Diyarbakir Ili_Diyarbakir,38.01,40.51,2,0
+Turkey,Dursunbey_Balikesir,39.5978,28.6375,2,0
+Turkey,Duzce,41.2767,32.7933,2,0
+Turkey,Duzce Ili_Duzce,40.8433,31.1767,2,0
+Turkey,Edirne_Antalya,36.8268,30.0268,2,0
+Turkey,Edirne,41.6845,26.5709,2,0
+Turkey,Edirne Vilayeti_Edirne,41.2601,26.6768,2,0
+Turkey,Elazig,38.6854,39.2307,2,0
+Turkey,Elazig Vilayeti_Elazig,38.5101,39.5101,2,0
+Turkey,Emir Daglari_Afyon,38.8434,31.2601,2,0
+Turkey,Ephesos_Izmir,37.9434,27.3434,2,0
+Turkey,Ercis_Van,39.034,43.3718,2,0
+Turkey,Erzincan,39.7623,39.5029,2,0
+Turkey,Erzincan Ili_Erzincan,39.7601,39.5101,2,0
+Turkey,Erzurum,39.9187,41.287,2,0
+Turkey,Erzurum Ili_Erzurum,40.0101,41.5101,2,0
+Turkey,Eskisehir,39.7868,30.5307,2,0
+Turkey,Eskisehir Ovasi_Eskisehir,39.8434,30.8434,2,0
+Turkey,Eskisehir Vilayeti_Eskisehir,39.6768,31.1768,2,0
+Turkey,Fethiye_Balikesir,39.7602,27.9102,2,0
+Turkey,Fethiye Limani_Mugla,36.6435,29.1102,2,0
+Turkey,Finike_Antalya,36.3052,30.1508,2,0
+Turkey,Gaziantep,37.0697,37.3928,2,0
+Turkey,Gaziantep Ili_Gaziantep,37.0936,37.3436,2,0
+Turkey,Gebze_Kocaeli,40.8081,29.4409,2,0
+Turkey,Gebze Istasyonu_Kocaeli,40.7936,29.427,2,0
+Turkey,Gemerek Istasyonu_Sivas,39.2436,36.0936,2,0
+Turkey,Gerede_Bolu,40.8111,32.2072,2,0
+Turkey,Giresun_Burdur,37.7436,30.4603,2,0
+Turkey,Hakkari,37.5848,43.7512,2,0
+Turkey,Hakkari Vilayeti_Hakkari,37.5937,44.1771,2,0
+Turkey,Hatay Ili_Hatay,36.5104,36.2604,2,0
+Turkey,Honaz Dagi_Denizli,37.6937,29.3104,2,0
+Turkey,Ikitelli_Istanbul,41.0897,28.793,2,0
+Turkey,Inegol_Bursa,40.0886,29.5238,2,0
+Turkey,Isa_Istanbul,41.1272,29.8272,2,0
+Turkey,Isa,37.7644,31.7877,2,0
+Turkey,Iskenderun_Hatay,36.5922,36.1755,2,0
+Turkey,Isparta,37.7749,30.5627,2,0
+Turkey,Isparta Ili_Isparta,38.0105,31.0105,2,0
+Turkey,Istanbul,41.0291,28.9752,2,0
+Turkey,Istanbul Bogazi_Istanbul,41.0677,29.0538,2,0
+Turkey,Istanbul Ili_Istanbul,41.1772,28.7605,2,0
+Turkey,Istanbul Yarimadasi_Istanbul,41.2605,28.4272,2,0
+Turkey,Izmir,38.4177,27.1608,2,0
+Turkey,Izmir Bogazi_Izmir,38.0438,27.3105,2,0
+Turkey,Izmir Ili_Izmir,38.2605,27.5105,2,0
+Turkey,Izmir Korfezi_Izmir,38.5027,26.8263,2,0
+Turkey,Izmit_Kocaeli,40.7774,29.9274,2,0
+Turkey,Izmit Korfezi_Kocaeli,40.7605,29.5938,2,0
+Turkey,Izmit Limani,40.7494,29.8772,2,0
+Turkey,Iznik_Bursa,40.4391,29.7316,2,0
+Turkey,Jaihun Chai,36.5939,35.5773,2,0
+Turkey,Jambas Burnu_Istanbul,41.0773,28.1273,2,0
+Turkey,Jayas_Ankara,39.9262,32.9731,2,0
+Turkey,Jebel Aaqra_Hatay,35.9606,35.9773,2,0
+Turkey,Jehan_Adana,37.0353,35.8281,2,0
+Turkey,Jesiret ibn Omar_Sirnak,37.342,42.1975,2,0
+Turkey,Jiddeh_Kastamonu,41.9017,33.0145,2,0
+Turkey,Jumru Teresi_Icel,36.8106,34.6106,2,0
+Turkey,Justinianopolis_Kirsehir,39.1564,34.1745,2,0
+Turkey,Kabul,40.094,33.6607,2,0
+Turkey,Kabul_Kastamonu,41.344,34.044,2,0
+Turkey,Kabulbaba_Bursa,40.0274,28.5774,2,0
+Turkey,Kadi Koy_Diyarbakir,38.0274,40.2274,2,0
+Turkey,Kadriye_Izmir,39.1107,27.144,2,0
+Turkey,Kahramanmaras,37.5982,36.9424,2,0
+Turkey,Kahramanmaras Ili_Kahramanmaras,38.0107,37.0107,2,0
+Turkey,Kahramanmaras Ovasi_Kahramanmaras,37.5607,36.9607,2,0
+Turkey,Kalamis Burnu_Mugla,36.6729,27.4482,2,0
+Turkey,Karabuk,41.2607,32.5107,2,0
+Turkey,Karabuk_Antalya,36.5274,30.2774,2,0
+Turkey,Karaman_Izmir,38.1607,28.244,2,0
+Turkey,Kas_Antalya,36.2113,29.6499,2,0
+Turkey,Kastamonu,41.3829,33.7818,2,0
+Turkey,Kastamonu Ili_Kastamonu,41.5107,33.6774,2,0
+Turkey,Kayseri_Kirklareli,41.4107,26.9274,2,0
+Turkey,Kayseri_Sanliurfa,37.744,39.2107,2,0
+Turkey,Kayseri,38.7429,35.496,2,0
+Turkey,Kayseri Burnu_Sinop,41.9774,35.1107,2,0
+Turkey,Kayseri Ili_Kayseri,38.7607,35.9274,2,0
+Turkey,Kemer_Antalya,36.8107,31.4107,2,0
+Turkey,Kilis_Diyarbakir,38.144,40.9607,2,0
+Turkey,Kirikkale,39.856,33.5171,2,0
+Turkey,Kirikkale Ili_Kirikkale,39.844,33.7607,2,0
+Turkey,Kirklareli,41.7424,27.2354,2,0
+Turkey,Kizkalesi_Isparta,37.794,31.4774,2,0
+Turkey,Kocaeli_Balikesir,39.6274,27.5274,2,0
+Turkey,Kocaeli Ili_Kocaeli,40.9274,29.9274,2,0
+Turkey,Konya,37.8763,32.4932,2,0
+Turkey,Konya Ili_Konya,38.1774,32.5107,2,0
+Turkey,Konya Limani_Balikesir,40.4607,27.744,2,0
+Turkey,Konyaalti_Antalya,36.894,30.6774,2,0
+Turkey,Konyalilar_Denizli,37.8121,29.2224,2,0
+Turkey,Kozakli_Hatay,36.494,36.1107,2,0
+Turkey,Krusten,41.3107,31.644,2,0
+Turkey,Kusadasi_Izmir,37.8682,27.2718,2,0
+Turkey,Kutahya,39.4349,29.994,2,0
+Turkey,Luleburgaz_Kirklareli,41.4175,27.3661,2,0
+Turkey,Mahmudiye_Izmir,39.2317,27.2317,2,0
+Turkey,Mahmudiye_Kutahya,39.6442,29.8442,2,0
+Turkey,Malatya_Kutahya,39.2276,30.3442,2,0
+Turkey,Malatya,38.3642,38.3228,2,0
+Turkey,Malatya Ili_Malatya,38.5109,38.0109,2,0
+Turkey,Manavgat_Antalya,36.7976,31.454,2,0
+Turkey,Manisa,38.624,27.437,2,0
+Turkey,Manisa Ili_Manisa,38.8442,28.1776,2,0
+Turkey,Maras_Sanliurfa,36.8381,38.9137,2,0
+Turkey,Mardin_Kayseri,38.5442,35.7442,2,0
+Turkey,Mardin Ili_Mardin,37.4276,40.8442,2,0
+Turkey,Marmaris_Mugla,36.8659,28.2851,2,0
+Turkey,Mecidiyekoy_Manisa,38.8942,27.7109,2,0
+Turkey,Mersin_Trabzon,41.1109,39.4942,2,0
+Turkey,Mersin_Icel,36.7609,34.0109,2,0
+Turkey,Mersin_Ordu,41.1276,37.7942,2,0
+Turkey,Mersin Burnu_Mugla,36.5776,27.9776,2,0
+Turkey,Mersin Korfezi_Izmir,38.2201,26.447,2,0
+Turkey,Mersin Limani,36.8109,34.6609,2,0
+Turkey,Mersincik Adasi_Mugla,36.7803,27.4806,2,0
+Turkey,Mersincik Burnu_Mugla,36.8442,28.0109,2,0
+Turkey,Mersinli Deresi_Mugla,36.6276,29.1276,2,0
+Turkey,Mersinobaturkmenleri_Canakkale,39.9609,26.3942,2,0
+Turkey,Mugla,37.2273,28.3748,2,0
+Turkey,Mugla Ili_Mugla,37.1776,28.5109,2,0
+Turkey,Narledere_Izmir,38.3943,27.011,2,0
+Turkey,Nevsehir,38.636,34.7232,2,0
+Turkey,Nigde,37.9802,34.6935,2,0
+Turkey,Nigde Ili_Nigde,37.8443,34.761,2,0
+Turkey,Nurdagi_Gaziantep,37.1943,36.7277,2,0
+Turkey,Nusaybin_Sanliurfa,37.7443,38.9777,2,0
+Turkey,Ordu,40.9958,37.89,2,0
+Turkey,Ordu_Samsun,41.1111,36.7278,2,0
+Turkey,Ordu Ili_Ordu,40.8444,37.5111,2,0
+Turkey,Osmancik,38.2017,32.1586,2,0
+Turkey,Osmaniye Ili_Osmaniye,37.2611,36.2611,2,0
+Turkey,Pamukkale_Denizli,37.927,29.124,2,0
+Turkey,Pendik_Istanbul,40.8887,29.2626,2,0
+Turkey,Qara Sou,36.2613,36.2113,2,0
+Turkey,Qars,40.6194,43.1088,2,0
+Turkey,Qasab Bay,35.9613,35.928,2,0
+Turkey,Qoussair,35.9446,36.278,2,0
+Turkey,Qul Tepeh_Sanliurfa,36.7249,38.7399,2,0
+Turkey,Rize,41.0322,40.5333,2,0
+Turkey,Rize Ili_Rize,41.0114,41.0114,2,0
+Turkey,Rumelifeneri_Istanbul,41.2447,29.1114,2,0
+Turkey,Rumelihisari_Istanbul,41.1108,29.0856,2,0
+Turkey,Safranbolu,41.2623,32.7057,2,0
+Turkey,Sakarya_Artvin,41.1115,42.0115,2,0
+Turkey,Sakarya_Ankara,39.5148,32.0873,2,0
+Turkey,Sakarya Ili_Sakarya,40.7615,30.5948,2,0
+Turkey,Samsun,41.2982,36.3415,2,0
+Turkey,Samsun_Trabzon,41.0615,39.4615,2,0
+Turkey,Samsun Vilayeti_Samsun,41.2615,36.3448,2,0
+Turkey,Sanliurfa,37.1626,38.8043,2,0
+Turkey,Seferihisar_Izmir,38.2104,26.8523,2,0
+Turkey,Serik_Antalya,36.9284,31.1104,2,0
+Turkey,Side_Antalya,36.7773,31.3957,2,0
+Turkey,Silifke_Icel,36.3893,33.9459,2,0
+Turkey,Silivri_Istanbul,41.0879,28.2698,2,0
+Turkey,Silivri Dagi_Malatya,38.3782,38.5448,2,0
+Turkey,Sirnak Ili_Sirnak,37.5115,42.5115,2,0
+Turkey,Sivas,39.7598,37.0276,2,0
+Turkey,Sivas Ili_Sivas,39.5115,37.4282,2,0
+Turkey,Sogut_Bursa,39.8282,29.0448,2,0
+Turkey,Sorgun_Yozgat,39.8259,35.2018,2,0
+Turkey,Sorgun_Burdur,37.7282,30.4448,2,0
+Turkey,Suhut_Afyon,38.5426,30.5573,2,0
+Turkey,Tatvan_Bitlis,38.5183,42.2933,2,0
+Turkey,Tekirdag,40.9922,27.5266,2,0
+Turkey,Tekirdag Ili_Tekirdag,41.0116,27.5116,2,0
+Turkey,Tokat,40.3255,36.566,2,0
+Turkey,Tokat Ili_Tokat,40.4283,36.5949,2,0
+Turkey,Trabzon,41.0166,39.7385,2,0
+Turkey,Tunceli,39.1205,39.5577,2,0
+Turkey,Umraniye_Isparta,37.9117,30.195,2,0
+Turkey,Urfa Ili_Sanliurfa,37.2617,39.0117,2,0
+Turkey,Usak,38.6917,29.4198,2,0
+Turkey,Uskudar_Istanbul,41.0367,29.0445,2,0
+Turkey,Uzungol_Trabzon,40.6342,40.2989,2,0
+Turkey,Van,38.506,43.3918,2,0
+Turkey,Van Ili_Van,38.5118,43.5118,2,0
+Turkey,Wan,38.653,42.8244,2,0
+Turkey,Wanikoy_Istanbul,41.0786,29.0786,2,0
+Turkey,West Cape_Canakkale,40.3786,26.3286,2,0
+Turkey,Western Arpa-Chay,40.1119,43.6619,2,0
+Turkey,White Cape_Antalya,36.5952,30.6119,2,0
+Turkey,Wiranschehir,40.9786,32.5619,2,0
+Turkey,Wiranschehir_Sanliurfa,37.2472,39.775,2,0
+Turkey,Xanthus_Antalya,36.347,29.3323,2,0
+Turkey,Xenagorae Island_Antalya,36.2264,29.3662,2,0
+Turkey,Xerata Kargan Adasi Reef_Bilecik,37.862,27.262,2,0
+Turkey,Xero Punda_Izmir,38.762,26.8453,2,0
+Turkey,Xeros Islands_Canakkale,40.6287,26.762,2,0
+Turkey,Yalova_Canakkale,40.2788,26.4121,2,0
+Turkey,Yalova,40.6657,29.2968,2,0
+Turkey,Yozgat_Afyon,39.0954,31.0954,2,0
+Turkey,Zeytinburnu_Istanbul,40.9955,28.9122,2,0
+Turkey,Zonguldak,41.4678,31.8019,2,0
+Turkey,Zonguldak Ili_Zonguldak,41.2622,31.8455,2,0

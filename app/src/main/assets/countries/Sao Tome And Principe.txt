@@ -1,0 +1,57 @@
+Sao Tome And Principe,Agua Castelo_Sao Tome,0.4264,6.6264,0,0
+Sao Tome And Principe,Agua Grande_Sao Tome,0.3597,6.743,0,0
+Sao Tome And Principe,Agua Lamas_Sao Tome,0.393,6.643,0,0
+Sao Tome And Principe,Alianca_Sao Tome,0.193,6.6597,0,0
+Sao Tome And Principe,Alto Douro_Sao Tome,0.0597,6.543,0,0
+Sao Tome And Principe,Angobo_Sao Tome,0.1597,6.6764,0,0
+Sao Tome And Principe,Antonio Enes_Principe,1.5597,7.393,0,0
+Sao Tome And Principe,Balsa Voador_Sao Tome,0.1431,6.4931,0,0
+Sao Tome And Principe,Cambuta_Sao Tome,0.2599,6.6932,0,0
+Sao Tome And Principe,Capitu_Sao Tome,0.2099,6.4932,0,0
+Sao Tome And Principe,Castelo_Sao Tome,0.2266,6.7266,0,0
+Sao Tome And Principe,Catraio_Sao Tome,0.2766,6.6766,0,0
+Sao Tome And Principe,Celeste_Sao Tome,0.0932,6.6099,0,0
+Sao Tome And Principe,Chamico_Sao Tome,0.3266,6.6099,0,0
+Sao Tome And Principe,Correio_Principe,1.6099,7.3599,0,0
+Sao Tome And Principe,Cruzeiro_Sao Tome,0.1932,6.6432,0,0
+Sao Tome And Principe,Diogo Vaz_Sao Tome,0.3267,6.51,0,0
+Sao Tome And Principe,Dom Afonso_Sao Tome,0.11,6.61,0,0
+Sao Tome And Principe,Enjale_Sao Tome,0.0434,6.5268,0,0
+Sao Tome And Principe,Estoril_Sao Tome,0.3434,6.5934,0,0
+Sao Tome And Principe,Fernao Dias_Sao Tome,0.4269,6.6935,0,0
+Sao Tome And Principe,Futuro_Principe,1.6769,7.4435,0,0
+Sao Tome And Principe,Gale Rock_Principe,1.7436,7.3936,0,0
+Sao Tome And Principe,Graca_Sao Tome,0.3103,6.6603,0,0
+Sao Tome And Principe,Guarda_Sao Tome,0.3603,6.6103,0,0
+Sao Tome And Principe,Guegue Novo_Sao Tome,0.277,6.727,0,0
+Sao Tome And Principe,Gumbela_Sao Tome,0.0936,6.5603,0,0
+Sao Tome And Principe,Neves_Sao Tome,0.3777,6.561,0,0
+Sao Tome And Principe,Nitreira_Principe,1.6277,7.4277,0,0
+Sao Tome And Principe,Nova Moca_Sao Tome,0.2943,6.6443,0,0
+Sao Tome And Principe,Nova Olinda_Sao Tome,0.261,6.7443,0,0
+Sao Tome And Principe,Novo Destino_Sao Tome,0.3277,6.6443,0,0
+Sao Tome And Principe,Oca_Principe,1.6778,7.4111,0,0
+Sao Tome And Principe,Oque Boi_Principe,1.6444,7.4444,0,0
+Sao Tome And Principe,Oque Daniel_Principe,1.6778,7.3778,0,0
+Sao Tome And Principe,Oque Gaspar_Principe,1.6611,7.4278,0,0
+Sao Tome And Principe,Oque Nazare_Principe,1.6444,7.4111,0,0
+Sao Tome And Principe,Oque Pipi_Principe,1.6111,7.4278,0,0
+Sao Tome And Principe,Oquedelrey_Sao Tome,0.3778,6.7444,0,0
+Sao Tome And Principe,Ribeira Afonso_Sao Tome,0.2114,6.7114,0,0
+Sao Tome And Principe,Ribeira Fria_Principe,1.5947,7.4447,0,0
+Sao Tome And Principe,Ribeira Ize_Principe,1.6947,7.4114,0,0
+Sao Tome And Principe,Ribeira Peixe_Sao Tome,0.0947,6.6281,0,0
+Sao Tome And Principe,Rio Angobo_Sao Tome,0.1614,6.6947,0,0
+Sao Tome And Principe,Rio Cabumbe_Sao Tome,0.2281,6.5281,0,0
+Sao Tome And Principe,Rio do Ouro_Sao Tome,0.3781,6.6614,0,0
+Sao Tome And Principe,Rio Leca_Sao Tome,0.3614,6.5614,0,0
+Sao Tome And Principe,Rio Massacavu_Sao Tome,0.1114,6.5281,0,0
+Sao Tome And Principe,Rio Mata Mina_Sao Tome,0.2781,6.4947,0,0
+Sao Tome And Principe,Rio Melo_Sao Tome,0.3781,6.7281,0,0
+Sao Tome And Principe,Rio Paga Fogo_Sao Tome,0.2947,6.4947,0,0
+Sao Tome And Principe,Rio Portinho_Sao Tome,0.0947,6.5281,0,0
+Sao Tome And Principe,Rio Umbugo_Sao Tome,0.1281,6.6447,0,0
+Sao Tome And Principe,Rio Vouga_Sao Tome,0.3447,6.7114,0,0
+Sao Tome And Principe,Rozema_Sao Tome,0.3614,6.5781,0,0
+Sao Tome And Principe,Sao Tome,0.2115,6.6615,0,0
+Sao Tome And Principe,Vista Alegre_Sao Tome,0.3285,6.6951,0,0

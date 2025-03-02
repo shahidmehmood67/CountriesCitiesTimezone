@@ -1,0 +1,48 @@
+Turks Caicos Islands,Back Salina,21.4598,-71.1235,-5,0
+Turks Caicos Islands,Balfour Town,21.3265,-71.2069,-5,0
+Turks Caicos Islands,Bay Cay,21.9265,-71.8735,-5,0
+Turks Caicos Islands,Belle Isle,21.6598,-72.4569,-5,0
+Turks Caicos Islands,Big Cameron Cay,21.6265,-71.5735,-5,0
+Turks Caicos Islands,Big Cut,21.8431,-71.6569,-5,0
+Turks Caicos Islands,Big Pond,21.7598,-71.6735,-5,0
+Turks Caicos Islands,Booby Island,21.8265,-71.6569,-5,0
+Turks Caicos Islands,Bottle Creek,21.9765,-71.9069,-5,0
+Turks Caicos Islands,Breeches Island,21.3765,-71.0735,-5,0
+Turks Caicos Islands,Breezy Point,21.7265,-71.5069,-5,0
+Turks Caicos Islands,Cockburn Town,21.4766,-71.1234,-5,0
+Turks Caicos Islands,East Bay,21.9101,-71.8566,-5,0
+Turks Caicos Islands,East harbour,21.5101,-71.4899,-5,0
+Turks Caicos Islands,East Side Bay,21.6934,-72.4232,-5,0
+Turks Caicos Islands,Endymion Shoal,21.1268,-71.2899,-5,0
+Turks Caicos Islands,Farm Creek Pond,21.8269,-71.6898,-5,0
+Turks Caicos Islands,Ferguson Cut,21.8435,-71.7398,-5,0
+Turks Caicos Islands,Fish Cays,21.3769,-71.5731,-5,0
+Turks Caicos Islands,Five Cays,21.7435,-72.2398,-5,0
+Turks Caicos Islands,Flamingo Pond,21.9269,-71.9398,-5,0
+Turks Caicos Islands,Fort George,21.8935,-72.1065,-5,0
+Turks Caicos Islands,Juniper Hole,21.8939,-71.8727,-5,0
+Turks Caicos Islands,Lake Catherine,21.6775,-72.4392,-5,0
+Turks Caicos Islands,Les Caiques,21.9441,-71.9559,-5,0
+Turks Caicos Islands,Lorimer Creek,21.7608,-71.5892,-5,0
+Turks Caicos Islands,Lorimers,21.7941,-71.6725,-5,0
+Turks Caicos Islands,North Caicos,21.9443,-71.9723,-5,0
+Turks Caicos Islands,Ocean Hole,21.7278,-71.8222,-5,0
+Turks Caicos Islands,Parrot Cay,21.9445,-72.0555,-5,0
+Turks Caicos Islands,Pear Cay,21.1945,-71.6721,-5,0
+Turks Caicos Islands,Pelican Cay,21.4279,-71.0721,-5,0
+Turks Caicos Islands,Penniston Cay,21.3779,-71.1055,-5,0
+Turks Caicos Islands,Philips Reef,21.7279,-71.3721,-5,0
+Turks Caicos Islands,Plandon Cay,21.5779,-71.4721,-5,0
+Turks Caicos Islands,Proggin Bay,21.7612,-72.3221,-5,0
+Turks Caicos Islands,Providenciales,21.7945,-72.2721,-5,0
+Turks Caicos Islands,Reef Harbour,21.8281,-72.2553,-5,0
+Turks Caicos Islands,Sandy Point,21.9615,-72.0218,-5,0
+Turks Caicos Islands,Seal Cays,21.1782,-71.6218,-5,0
+Turks Caicos Islands,Stake Bank,21.5615,-71.5385,-5,0
+Turks Caicos Islands,Stubbs Cay,21.9282,-72.0885,-5,0
+Turks Caicos Islands,Swimmer Rock,21.0948,-71.5052,-5,0
+Turks Caicos Islands,West Reef,21.7952,-72.4214,-5,0
+Turks Caicos Islands,West Sand Spit,21.3786,-72.1548,-5,0
+Turks Caicos Islands,Whale Breaker,21.0952,-71.5714,-5,0
+Turks Caicos Islands,Wheeland Cut,21.8619,-72.3048,-5,0
+Turks Caicos Islands,Whitby,21.9619,-71.9548,-5,0

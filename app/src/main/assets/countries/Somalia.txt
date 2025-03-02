@@ -1,0 +1,106 @@
+Somalia,Afgoye_Shabeellaha Hoose,2.1597,45.1264,3,0
+Somalia,Afmadoow_Jubbada Hoose,0.5269,42.0808,3,0
+Somalia,Afmadow_Shabeellaha Hoose,0.943,43.6597,3,0
+Somalia,Afmadow_Jubbada Hoose,0.478,42.0933,3,0
+Somalia,Aisimo_Bari,11.643,50.593,3,0
+Somalia,Ateera_Jubbada Hoose,0.2764,41.8264,3,0
+Somalia,Athat Koorda_Woqooyi Galbeed,10.6264,45.443,3,0
+Somalia,Ato_Bakool,4.6264,43.3597,3,0
+Somalia,Baardheere_Gedo,2.3598,42.2765,3,0
+Somalia,Baardheere_Jubbada Hoose,0.2931,42.7598,3,0
+Somalia,Badhan_Sanaag,10.0598,48.3431,3,0
+Somalia,Badhanle_Sanaag,10.4104,47.0217,3,0
+Somalia,Balad Weyn_Hiiraan,4.7598,45.2098,3,0
+Somalia,Baydhabo_Bay,3.1265,43.6598,3,0
+Somalia,Berbera_Woqooyi Galbeed,10.4454,45.0262,3,0
+Somalia,Berbera Plain_Woqooyi Galbeed,10.3431,44.9431,3,0
+Somalia,Borama_Woqooyi Galbeed,9.9431,43.1931,3,0
+Somalia,Borama_Jubbada Hoose,0.5931,43.1931,3,0
+Somalia,Borama_Bay,2.9431,43.7431,3,0
+Somalia,Borama_Gedo,3.4598,42.5598,3,0
+Somalia,Bosaso_Bari,11.2945,49.1923,3,0
+Somalia,Brava_Shabeellaha Hoose,1.1098,44.0598,3,0
+Somalia,Burco_Togdheer,9.5265,45.5431,3,0
+Somalia,Burcoodinle_Mudug,4.8098,48.1598,3,0
+Somalia,Buulo Burte_Hiiraan,3.8598,45.5765,3,0
+Somalia,Cabuud Waaq_Galguduud,6.2266,46.3932,3,0
+Somalia,Carmo_Woqooyi Galbeed,10.2599,43.4599,3,0
+Somalia,Carmo_Sanaag,10.5266,47.6766,3,0
+Somalia,Carmo Gargaro,10.5599,49.0099,3,0
+Somalia,Carmo Xagar_Bari,10.4766,49.0932,3,0
+Somalia,Carmo Xagar_Sanaag,10.4932,48.9599,3,0
+Somalia,Carmoole_Shabeellaha Dhexe,2.8432,45.3766,3,0
+Somalia,Carmoole_Shabeellaha Hoose,1.9266,44.7432,3,0
+Somalia,Carmooy_Shabeellaha Hoose,1.7599,44.4432,3,0
+Somalia,Carmooyin_Sanaag,10.5266,48.9932,3,0
+Somalia,Ceelbuur_Galguduud,4.6932,46.6266,3,0
+Somalia,Chisimayu_Jubbada Hoose,-0.3568,42.5432,3,0
+Somalia,Dhahar_Bari,10.2767,49.7767,3,0
+Somalia,Dhahar_Sanaag,9.76,48.8267,3,0
+Somalia,Diinsoor_Bay,2.41,42.9933,3,0
+Somalia,Dilla_Woqooyi Galbeed,10.3933,43.2433,3,0
+Somalia,Duruksi_Togdheer,8.5267,45.4767,3,0
+Somalia,Erigavo_Sanaag,10.6282,47.3801,3,0
+Somalia,Fiqi Fuliye_Sanaag,9.9935,47.8269,3,0
+Somalia,Gaalkacyo_Mudug,6.7936,47.4436,3,0
+Somalia,Galdagab_Shabeellaha Dhexe,3.277,46.6103,3,0
+Somalia,Gallibaax_Galguduud,3.9436,46.5936,3,0
+Somalia,Garbahaarrey_Gedo,3.3436,42.227,3,0
+Somalia,Garoowe_Nugaal,8.4103,48.477,3,0
+Somalia,Garowe_Nugaal,8.4103,48.5103,3,0
+Somalia,Hargeisa_Woqooyi Galbeed,10.0104,44.0104,3,0
+Somalia,Hargeysa_Jubbada Dhexe,0.461,42.7168,3,0
+Somalia,Hobyo_Mudug,5.3618,48.536,3,0
+Somalia,Huddur Hadama_Bakool,4.1271,43.9104,3,0
+Somalia,Kalabaydh_Togdheer,8.244,47.244,3,0
+Somalia,Kalabaydh_Woqooyi Galbeed,9.6774,43.4774,3,0
+Somalia,Laas Caanood_Bari,10.5941,50.6108,3,0
+Somalia,Laascaanood_Nugaal,8.5108,47.4108,3,0
+Somalia,Mogadishu_Banaadir,2.0776,45.3776,3,0
+Somalia,Palude Bisciaha-Hama_Jubbada Hoose,0.0445,41.4779,3,0
+Somalia,Passo Nord_Jubbada Hoose,-0.3388,42.6445,3,0
+Somalia,Penisola Burgal_Jubbada Hoose,-1.1721,41.9279,3,0
+Somalia,Penisola Gangiule_Jubbada Dhexe,-0.4388,42.4779,3,0
+Somalia,Pic du Doigt_Sanaag,10.7279,46.7945,3,0
+Somalia,Pic Raboteux_Woqooyi Galbeed,10.6445,45.7279,3,0
+Somalia,Pointa Iunda_Jubbada Hoose,-1.2055,41.8779,3,0
+Somalia,Pointa Tartaruga_Jubbada Hoose,-0.3721,42.5612,3,0
+Somalia,Port Durnford_Jubbada Hoose,-1.2055,41.8612,3,0
+Somalia,Port Salamo_Jubbada Hoose,-0.9055,42.1445,3,0
+Somalia,Porto Tanina_Jubbada Hoose,-0.8055,42.2112,3,0
+Somalia,Province of Bakol_Bakool,4.0112,44.0112,3,0
+Somalia,Province of Galgaduud_Galguduud,5.0112,47.0112,3,0
+Somalia,Province of Gedo_Gedo,3.0112,42.0112,3,0
+Somalia,Province of Hiran_Hiiraan,4.0112,45.5112,3,0
+Somalia,Punta Chiembo_Jubbada Hoose,-1.2055,41.8945,3,0
+Somalia,Punta di Mezzo_Nugaal,7.7779,49.8445,3,0
+Somalia,Punta Osbolei_Bari,11.5259,49.9601,3,0
+Somalia,Punto Dentino_Bay,10.3945,51.2779,3,0
+Somalia,Sheikh_Togdheer,9.9448,45.1948,3,0
+Somalia,Somalia,6.0115,48.0115,3,0
+Somalia,Tog Dheer,9.0283,47.1283,3,0
+Somalia,Vaio_Jubbada Hoose,0.4118,42.6118,3,0
+Somalia,Vallata del Darror_Bari,10.3451,50.3451,3,0
+Somalia,Vallata del Nogal_Nugaal,8.5951,48.5951,3,0
+Somalia,Vallata Emat_Bari,9.0951,49.0951,3,0
+Somalia,Vallata Nirich_Bari,8.8951,49.4951,3,0
+Somalia,Valle Boharo_Bari,9.7285,49.0951,3,0
+Somalia,Vel Fallai_Bay,2.3785,43.1285,3,0
+Somalia,Veledei_Jubbada Dhexe,1.4896,42.4201,3,0
+Somalia,Veliya_Sanaag,11.0785,48.7451,3,0
+Somalia,Villaggio Duca Abruzzi_Shabeellaha Dhexe,2.7785,45.5285,3,0
+Somalia,Vittorio d Africa_Shabeellaha Hoose,1.7118,44.6951,3,0
+Somalia,Vulture_Jubbada Hoose,-0.3549,42.6285,3,0
+Somalia,Vuma_Jubbada Hoose,-0.7049,42.3118,3,0
+Somalia,Waaciye_Bari,10.0286,49.0452,3,0
+Somalia,Waajid_Bakool,3.8119,43.2619,3,0
+Somalia,Wajaale_Woqooyi Galbeed,9.5786,43.4952,3,0
+Somalia,Yagoori_Togdheer,8.7621,46.9788,3,0
+Somalia,Yagoori,8.7788,46.9788,3,0
+Somalia,Zabit_Shabeellaha Hoose,2.1289,45.0455,3,0
+Somalia,Zamur_Bay,2.7455,43.4122,3,0
+Somalia,Zarzarre_Shabeellaha Dhexe,2.6122,45.3455,3,0
+Somalia,Zbuel_Bakool,3.5622,43.7622,3,0
+Somalia,Zeco_Mudug,5.4122,47.5289,3,0
+Somalia,Zero Cinquanta_Jubbada Hoose,-0.8211,41.0122,3,0
+Somalia,Zeylac_Woqooyi Galbeed,11.3661,43.4861,3,0

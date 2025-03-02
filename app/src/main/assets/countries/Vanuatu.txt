@@ -1,0 +1,290 @@
+Vanuatu,Camp Chapuis_Sanma,-15.5068,167.1932,11,0
+Vanuatu,Canal du Bruat_Sanma,-15.6068,167.1766,11,0
+Vanuatu,Canal du Segond_Sanma,-15.5401,167.1599,11,0
+Vanuatu,Cap Ashuk_NH10,-16.4068,167.7932,11,0
+Vanuatu,Cap Ashwell_Torba,-13.8234,167.5599,11,0
+Vanuatu,Cap Cone_Shepherd,-16.8401,168.4766,11,0
+Vanuatu,Cap Doucere_NH10,-16.4568,167.8432,11,0
+Vanuatu,Cap du Sud_Sanma,-15.6568,166.8432,11,0
+Vanuatu,Cap Dzele_Sanma,-14.9234,167.0266,11,0
+Vanuatu,Cap Enangiang_Tafea,-19.3234,169.3599,11,0
+Vanuatu,Cap Foreland_NH09,-16.6901,168.1266,11,0
+Vanuatu,Cap Nord_NH10,-15.8734,167.2099,11,0
+Vanuatu,Cap Ririna_NH09,-16.7901,168.4932,11,0
+Vanuatu,Cap Tamitchi_Tafea,-19.2068,169.6099,11,0
+Vanuatu,Cap Taramotou_Tafea,-19.2734,169.5932,11,0
+Vanuatu,Cape Mataavea_Sanma,-15.6234,166.7766,11,0
+Vanuatu,Cape Nahoi_Sanma,-14.6401,166.6266,11,0
+Vanuatu,Cape Raraow_NH08,-17.6234,168.2099,11,0
+Vanuatu,Cape Sinotarip_Sanma,-15.6401,166.8599,11,0
+Vanuatu,Cape Touar_Sanma,-14.9568,166.9766,11,0
+Vanuatu,Cascade de la Sarakata_Sanma,-15.4234,167.1099,11,0
+Vanuatu,Cascade de Nimiraduno_Tafea,-19.5568,169.4099,11,0
+Vanuatu,Cascadede Santa Maria_Torba,-14.2568,167.5599,11,0
+Vanuatu,Casuarina Point_NH12,-15.8568,168.1766,11,0
+Vanuatu,Centre_NH08,-17.7243,168.3105,11,0
+Vanuatu,Chenal de l Est_NH10,-16.4901,167.8432,11,0
+Vanuatu,Chenal du Guichen_Torba,-13.2568,166.5932,11,0
+Vanuatu,Chenal du Nord-Est_NH10,-16.4734,167.8266,11,0
+Vanuatu,Chenal du Sud-Ouest_NH10,-16.5401,167.7766,11,0
+Vanuatu,Ching onponi Point_NH10,-15.9234,167.3432,11,0
+Vanuatu,Chinohouse_NH10,-16.0401,167.3932,11,0
+Vanuatu,Christina Point_Tafea,-18.7568,168.9932,11,0
+Vanuatu,Clemenceau Point_Sanma,-15.5068,167.1766,11,0
+Vanuatu,Cliff Bay_NH06,-15.2901,167.9932,11,0
+Vanuatu,Colline Carree_Sanma,-15.5568,167.0266,11,0
+Vanuatu,Colline de Zirea_NH08,-17.5901,168.3432,11,0
+Vanuatu,Colline Evelyn_NH10,-16.1568,167.3766,11,0
+Vanuatu,Colline Front_Sanma,-15.5401,166.8932,11,0
+Vanuatu,Colline Karriomba_NH10,-16.1234,167.4266,11,0
+Vanuatu,Colline Mackenzie_NH08,-17.7901,168.4266,11,0
+Vanuatu,Colline Noire_NH09,-16.5734,168.1932,11,0
+Vanuatu,Colline Nub_Sanma,-15.6401,166.8099,11,0
+Vanuatu,Colline Wainisi_NH10,-16.1068,167.3932,11,0
+Vanuatu,Constantine Bank,-20.4901,171.3432,11,0
+Vanuatu,Cook Reef_Shepherd,-17.0401,168.2766,11,0
+Vanuatu,Cooks Rock_Tafea,-19.5068,169.4766,11,0
+Vanuatu,Coral Sea,-19.9901,155.0099,11,0
+Vanuatu,Cotamtam_Sanma,-15.3568,166.7766,11,0
+Vanuatu,Crab Bay_NH10,-16.1568,167.5266,11,0
+Vanuatu,Craig Cove_NH05,-16.2568,167.9266,11,0
+Vanuatu,Creek Ai Riviere_NH08,-17.6068,168.2432,11,0
+Vanuatu,Crique Buguta_NH09,-16.8234,168.2599,11,0
+Vanuatu,Cumberland_Sanma,-14.7234,166.6099,11,0
+Vanuatu,Dalahoum_NH05,-16.19,168.16,11,0
+Vanuatu,Dalops_Sanma,-15.0067,166.7933,11,0
+Vanuatu,Dalotaropou_Sanma,-14.9567,166.76,11,0
+Vanuatu,Darbel_NH08,-17.7233,168.31,11,0
+Vanuatu,Day Patches_NH09,-16.8233,168.3433,11,0
+Vanuatu,De Chauliac Bank,-16.6733,167.8433,11,0
+Vanuatu,Delap_NH12,-15.9733,168.21,11,0
+Vanuatu,Deli_NH05,-16.24,168.21,11,0
+Vanuatu,Detroit de Bougainville_NH10,-15.8233,167.1767,11,0
+Vanuatu,Detroit de Selwyn_NH05,-16.0567,168.1933,11,0
+Vanuatu,Deuriv_Torba,-14.3567,167.5433,11,0
+Vanuatu,Devel_NH10,-15.94,167.26,11,0
+Vanuatu,Diamond Passage_Sanma,-15.4567,167.26,11,0
+Vanuatu,Dip Point Anchorage_NH05,-16.2067,167.9433,11,0
+Vanuatu,Dirihi_NH12,-15.6567,168.1767,11,0
+Vanuatu,Dixon Reef_NH10,-16.34,167.36,11,0
+Vanuatu,Dolphin Island_Sanma,-15.0233,167.0933,11,0
+Vanuatu,Donmat_Torba,-13.5067,167.3433,11,0
+Vanuatu,Douane_Sanma,-15.5233,167.16,11,0
+Vanuatu,Doubtful Bay_NH06,-15.29,168.1767,11,0
+Vanuatu,Douen_NH10,-16.3567,167.7767,11,0
+Vanuatu,Dovin Doui_NH06,-15.39,167.7767,11,0
+Vanuatu,Drivai_NH10,-16.44,167.8267,11,0
+Vanuatu,Dudley Channel_Torba,-13.8733,167.5933,11,0
+Vanuatu,Dumanoir Channel_Torba,-13.39,166.66,11,0
+Vanuatu,Faetini_Shepherd,-17.0731,168.3602,11,0
+Vanuatu,Falan_Sanma,-15.3731,167.0435,11,0
+Vanuatu,Falatasa_Sanma,-15.3898,167.0269,11,0
+Vanuatu,Falea_Shepherd,-16.9898,168.6102,11,0
+Vanuatu,Famban_NH05,-16.2065,168.1935,11,0
+Vanuatu,Fanarara_NH05,-16.2065,167.9769,11,0
+Vanuatu,Fanavat_NH10,-16.2898,167.4269,11,0
+Vanuatu,Fandoue_NH06,-15.3065,167.8269,11,0
+Vanuatu,Fanebal_NH05,-16.1731,168.1102,11,0
+Vanuatu,Fanmaramara Point_NH12,-15.9731,168.1935,11,0
+Vanuatu,Fanpatey_NH06,-15.3898,168.1435,11,0
+Vanuatu,Fanrereo_NH05,-16.1398,168.1269,11,0
+Vanuatu,Fantiekon_NH05,-16.1231,168.1602,11,0
+Vanuatu,Farealapa_NH08,-17.4398,168.3602,11,0
+Vanuatu,Faroun_NH10,-16.5065,167.6435,11,0
+Vanuatu,Fate_NH08,-17.6565,168.4269,11,0
+Vanuatu,Fatfosafosa_NH06,-15.1731,168.1102,11,0
+Vanuatu,Fatmar_NH06,-15.8731,168.2102,11,0
+Vanuatu,Fatouleokakoula_NH08,-17.4898,168.4102,11,0
+Vanuatu,Fautem_NH05,-16.2231,167.9435,11,0
+Vanuatu,Favendao_NH06,-15.2565,168.1769,11,0
+Vanuatu,Fedmogkoum_Tafea,-18.8565,169.0269,11,0
+Vanuatu,Fejian Bay_Tafea,-19.5231,169.2769,11,0
+Vanuatu,Filakara_NH09,-16.8065,168.4102,11,0
+Vanuatu,Fingalato_NH06,-15.3398,167.8102,11,0
+Vanuatu,Finoua_NH10,-16.3398,167.7435,11,0
+Vanuatu,Fiourou_Sanma,-15.6231,166.8769,11,0
+Vanuatu,Fitchar_NH10,-16.2565,167.6769,11,0
+Vanuatu,Fona_NH05,-16.1065,168.1269,11,0
+Vanuatu,Fonbeta_NH12,-15.9398,168.2602,11,0
+Vanuatu,Fonte_NH05,-16.1898,167.9935,11,0
+Vanuatu,Fonteng_NH05,-16.1065,168.1935,11,0
+Vanuatu,Fontengro_NH05,-16.1065,168.1769,11,0
+Vanuatu,Fonwe_NH05,-16.0898,168.1602,11,0
+Vanuatu,Fonwor_NH05,-16.1565,168.2102,11,0
+Vanuatu,Forari Bay_NH08,-17.6731,168.5602,11,0
+Vanuatu,Foreas_Torba,-13.9231,167.4602,11,0
+Vanuatu,Foreland_NH09,-16.6731,168.1435,11,0
+Vanuatu,Fortsenal_Sanma,-15.4398,166.8935,11,0
+Vanuatu,Foswaravo_NH06,-15.3731,167.9269,11,0
+Vanuatu,Fousroumbous_Sanma,-15.4398,166.9269,11,0
+Vanuatu,Framnais_NH08,-17.6731,168.2935,11,0
+Vanuatu,Futunah_Tafea,-19.5231,170.2269,11,0
+Vanuatu,Fwimambwetoli_NH06,-15.3065,167.8435,11,0
+Vanuatu,Fwimatal_Sanma,-15.4398,167.0435,11,0
+Vanuatu,Fwimberougou_NH06,-15.3065,167.8602,11,0
+Vanuatu,Garet_Torba,-14.2564,167.5103,11,0
+Vanuatu,Gariroumroum_NH10,-16.123,167.4436,11,0
+Vanuatu,Gavigamana_Torba,-13.123,166.577,11,0
+Vanuatu,Geregon_Torba,-13.9064,167.4603,11,0
+Vanuatu,Geren_NH12,-15.623,168.127,11,0
+Vanuatu,Gilendoungi_NH06,-15.1064,168.077,11,0
+Vanuatu,Gnierenioumen_Torba,-13.6897,167.627,11,0
+Vanuatu,Goat Island_Tafea,-18.6897,169.2936,11,0
+Vanuatu,Gog_Torba,-14.273,167.5103,11,0
+Vanuatu,Goul_NH12,-15.923,168.277,11,0
+Vanuatu,Goulouf_NH12,-15.873,168.277,11,0
+Vanuatu,Gousounransit Point_NH12,-15.973,168.277,11,0
+Vanuatu,Grand Quai_NH08,-17.7414,168.295,11,0
+Vanuatu,Grande de Baie_NH09,-16.673,168.2603,11,0
+Vanuatu,Grande Passe_Torba,-13.2897,166.627,11,0
+Vanuatu,Grande Plaine de Cendres_NH05,-16.2397,168.1436,11,0
+Vanuatu,Green Hill_Tafea,-19.373,169.2936,11,0
+Vanuatu,Green Point_Tafea,-19.623,169.3603,11,0
+Vanuatu,Grempo_Sanma,-15.2564,167.077,11,0
+Vanuatu,Grotte Hitibrong_NH10,-16.2897,167.377,11,0
+Vanuatu,Gwei Ngak Reef_Torba,-13.0564,166.577,11,0
+Vanuatu,Haiite Island_Sanma,-15.4229,167.2604,11,0
+Vanuatu,Halhal_NH05,-16.1063,168.1437,11,0
+Vanuatu,Halos_NH11,-16.5229,168.3604,11,0
+Vanuatu,Halpalak_NH10,-15.9896,167.1937,11,0
+Vanuatu,Hamelinks_NH10,-16.1063,167.4104,11,0
+Vanuatu,Hampet_NH10,-16.1063,167.4437,11,0
+Vanuatu,Hangar_NH05,-16.1563,168.1104,11,0
+Vanuatu,Hapuna River_Sanma,-15.1563,166.8604,11,0
+Vanuatu,Harbelbel_NH10,-16.1896,167.5104,11,0
+Vanuatu,Harimal_NH05,-16.0896,168.1771,11,0
+Vanuatu,Haro Point_Torba,-14.2396,167.4104,11,0
+Vanuatu,Hat Island_Sanma,-15.6229,166.9437,11,0
+Vanuatu,Hat Island_NH08,-17.6396,168.1437,11,0
+Vanuatu,Havannah Harbour_NH08,-17.5729,168.2437,11,0
+Vanuatu,Havoumala_NH10,-16.1563,167.5104,11,0
+Vanuatu,Hawor_NH05,-16.1396,168.1437,11,0
+Vanuatu,Hebel_NH10,-16.2729,167.6604,11,0
+Vanuatu,Helendaa_NH05,-16.2729,168.0104,11,0
+Vanuatu,Hemebouer_NH10,-16.2396,167.6271,11,0
+Vanuatu,Henaff Point_NH10,-15.3396,167.2104,11,0
+Vanuatu,Herat_NH05,-16.3396,168.2104,11,0
+Vanuatu,Hibao_NH09,-16.7563,168.1604,11,0
+Vanuatu,Hideaway Island_NH08,-17.6896,168.2604,11,0
+Vanuatu,Hillard Channel_NH08,-17.6063,168.2271,11,0
+Vanuatu,Hinchinbrook Island_NH08,-17.4229,168.3604,11,0
+Vanuatu,Hiw_Torba,-13.1229,166.5604,11,0
+Vanuatu,Hog Harbour_Sanma,-15.1396,167.1104,11,0
+Vanuatu,Hokoua_Sanma,-14.6563,166.6271,11,0
+Vanuatu,Hokua_Sanma,-14.6896,166.6104,11,0
+Vanuatu,Holen_NH09,-16.5063,168.3271,11,0
+Vanuatu,Homo Bay_NH12,-15.9396,168.1937,11,0
+Vanuatu,Honeram_NH10,-16.1896,167.4937,11,0
+Vanuatu,Hongrai_Tafea,-18.7896,169.1437,11,0
+Vanuatu,Honnfar_NH10,-16.1063,167.3104,11,0
+Vanuatu,Horrok_NH10,-16.1229,167.2937,11,0
+Vanuatu,Hotnonsouban_NH12,-15.7896,168.1771,11,0
+Vanuatu,Houbikou_NH12,-15.7063,168.1437,11,0
+Vanuatu,Houle_NH12,-15.8396,168.2604,11,0
+Vanuatu,Houne_Tafea,-18.8063,169.0104,11,0
+Vanuatu,Hounnbank_NH10,-16.5896,167.4604,11,0
+Vanuatu,Hourma_NH10,-16.5563,167.4937,11,0
+Vanuatu,Jardins de Deuriv_Torba,-14.3394,167.5439,11,0
+Vanuatu,Jasmori_NH06,-14.9061,168.0773,11,0
+Vanuatu,Jononou_NH10,-16.2727,167.5939,11,0
+Vanuatu,Jourdain_Sanma,-15.1561,166.9106,11,0
+Vanuatu,Jowi_NH09,-16.6227,168.1606,11,0
+Vanuatu,Kaintsouro_Sanma,-15.456,166.894,11,0
+Vanuatu,Kaipiloa_Sanma,-15.3893,166.8107,11,0
+Vanuatu,Kakula_NH08,-17.506,168.4107,11,0
+Vanuatu,Kamel Lewawa_NH12,-15.6393,168.1274,11,0
+Vanuatu,Kamelbageo_Sanma,-15.306,167.9774,11,0
+Vanuatu,Kariamaoura_Sanma,-15.7726,166.7274,11,0
+Vanuatu,Karne_NH10,-15.9393,167.3274,11,0
+Vanuatu,Karo_NH10,-16.0226,167.194,11,0
+Vanuatu,Kasserouarou_NH10,-16.2226,167.544,11,0
+Vanuatu,Katbol_NH10,-16.1726,167.4774,11,0
+Vanuatu,Keamu_Tafea,-20.1893,169.8274,11,0
+Vanuatu,Kere_Sanma,-14.706,166.5774,11,0
+Vanuatu,Kereboa_Sanma,-15.2893,166.6607,11,0
+Vanuatu,Kereliou_Torba,-14.306,167.594,11,0
+Vanuatu,Kerenaoura_Sanma,-15.656,166.794,11,0
+Vanuatu,Kerenolas_Sanma,-15.5726,166.7774,11,0
+Vanuatu,Kerentavou_Sanma,-15.4726,166.9107,11,0
+Vanuatu,Kereowia_Sanma,-15.306,166.6607,11,0
+Vanuatu,Kererara_Sanma,-15.6226,166.844,11,0
+Vanuatu,Kereway_Sanma,-15.506,166.7107,11,0
+Vanuatu,Khuneveo_NH10,-16.5226,167.8274,11,0
+Vanuatu,Kindou_NH10,-16.3226,167.394,11,0
+Vanuatu,Kingdove Bay_NH09,-16.6226,168.144,11,0
+Vanuatu,Koimarama_Torba,-13.8893,167.4774,11,0
+Vanuatu,Kole_Sanma,-15.2226,167.1774,11,0
+Vanuatu,Koleakar_Sanma,-14.8393,166.644,11,0
+Vanuatu,Komae_Sanma,-14.706,166.594,11,0
+Vanuatu,Konaekeun_Tafea,-19.4726,169.3107,11,0
+Vanuatu,Koulbaga_NH12,-15.6726,168.144,11,0
+Vanuatu,Koulouwan_Sanma,-15.456,166.8274,11,0
+Vanuatu,Kouroumanpe_Shepherd,-16.8726,168.5607,11,0
+Vanuatu,Kuru_Torba,-14.3393,167.4607,11,0
+Vanuatu,Kuwae_Shepherd,-16.8893,168.5607,11,0
+Vanuatu,Kwakea_Torba,-13.906,167.494,11,0
+Vanuatu,Kwanglav_Torba,-13.7893,167.544,11,0
+Vanuatu,Port Vila_NH08,-17.7388,168.3112,11,0
+Vanuatu,Qakea_Torba,-13.872,167.6113,11,0
+Vanuatu,Quai de la Star_NH08,-17.7404,168.2969,11,0
+Vanuatu,Quion Hill_NH08,-17.5443,168.4446,11,0
+Vanuatu,Qunassoule_Sanma,-15.072,166.628,11,0
+Vanuatu,Quoin Hill_NH08,-17.5387,168.428,11,0
+Vanuatu,Quora_Sanma,-14.822,166.7446,11,0
+Vanuatu,Stade_NH08,-17.7302,168.3132,11,0
+Vanuatu,Star Peak_Torba,-14.4385,168.0615,11,0
+Vanuatu,Steaming Hill Lake_Torba,-14.2718,167.5448,11,0
+Vanuatu,Sugar Loaf Island_Torba,-13.8385,167.7115,11,0
+Vanuatu,Sugarloaf Point_NH09,-16.7552,168.4615,11,0
+Vanuatu,Sulphur Bay_Tafea,-19.5052,169.4615,11,0
+Vanuatu,Sulphur River_Torba,-13.8218,167.5448,11,0
+Vanuatu,Suretimeat_Torba,-13.7718,167.4782,11,0
+Vanuatu,Surundu Bay_Sanma,-15.4552,167.2282,11,0
+Vanuatu,Uduna Passage_NH08,-17.4758,168.3617,11,0
+Vanuatu,Ulveah_NH11,-16.4883,168.3617,11,0
+Vanuatu,Um-Una_Sanma,-15.4716,167.2617,11,0
+Vanuatu,Umpon Yelongi_Tafea,-18.905,169.095,11,0
+Vanuatu,Undine Bay_NH08,-17.505,168.3617,11,0
+Vanuatu,Undine Passage_Sanma,-15.3883,167.245,11,0
+Vanuatu,Unpongkor_Tafea,-18.805,169.0284,11,0
+Vanuatu,Ur_NH10,-16.5883,167.4784,11,0
+Vanuatu,Uranaleilei Reef_NH08,-17.505,168.4339,11,0
+Vanuatu,Urelapa_Sanma,-15.605,167.0284,11,0
+Vanuatu,Ureparapara_Torba,-13.5216,167.345,11,0
+Vanuatu,Uri_NH10,-16.0883,167.4617,11,0
+Vanuatu,Uripiv_NH10,-16.0716,167.4617,11,0
+Vanuatu,Utanlangi_NH08,-17.4216,168.3339,11,0
+Vanuatu,Uvwore_Tafea,-18.7716,169.2784,11,0
+Vanuatu,Yakoukak_Tafea,-19.5379,169.3288,11,0
+Vanuatu,Yakounetikaoulil_Tafea,-19.5046,169.3288,11,0
+Vanuatu,Yamnouroue_Tafea,-18.7546,169.0621,11,0
+Vanuatu,Yanamahou_Tafea,-19.4712,169.4288,11,0
+Vanuatu,Yanamwakel_Tafea,-19.5046,169.4454,11,0
+Vanuatu,Yanaouhiya_Tafea,-19.5212,169.2954,11,0
+Vanuatu,Yanavatang_Tafea,-19.5546,169.4454,11,0
+Vanuatu,Yang abale_NH10,-16.2712,167.4454,11,0
+Vanuatu,Yankoula_Tafea,-19.5212,169.4121,11,0
+Vanuatu,Yankwaneneay_Tafea,-19.6046,169.3621,11,0
+Vanuatu,Yanmileun_Tafea,-19.5379,169.4121,11,0
+Vanuatu,Yaoukouriruang_Tafea,-19.5546,169.3621,11,0
+Vanuatu,Yapimay_Tafea,-19.5546,169.3288,11,0
+Vanuatu,Yapnawitaleng_Tafea,-19.5379,169.3454,11,0
+Vanuatu,Yar_Sanma,-15.0879,167.0954,11,0
+Vanuatu,Yarouareung_Tafea,-19.6379,169.3954,11,0
+Vanuatu,Yarri_Tafea,-18.8046,169.0954,11,0
+Vanuatu,Yasur_Tafea,-19.5212,169.4454,11,0
+Vanuatu,Yates_Sanma,-15.5879,166.9121,11,0
+Vanuatu,Yawi_NH09,-16.6712,168.2788,11,0
+Vanuatu,Yelewar_NH10,-16.2712,167.1621,11,0
+Vanuatu,Yelowouwou_NH05,-16.2712,167.9788,11,0
+Vanuatu,Yemyu Cove_NH09,-16.6379,168.1454,11,0
+Vanuatu,Yeno_NH05,-16.2379,167.9954,11,0
+Vanuatu,Yenseoue_NH05,-16.2879,167.9788,11,0
+Vanuatu,Yentobo_NH05,-16.2879,168.0288,11,0
+Vanuatu,Yerou_Tafea,-19.5712,169.3454,11,0
+Vanuatu,Yetakape_Tafea,-19.6212,169.4621,11,0
+Vanuatu,Yetap_Tafea,-19.5712,169.3288,11,0
+Vanuatu,Yeu Metenia_Torba,-13.1046,166.5621,11,0
+Vanuatu,Yewao Point_Tafea,-19.5212,169.5121,11,0
+Vanuatu,Yimnakayip_Tafea,-19.3879,169.3121,11,0
+Vanuatu,Yokowo_Sanma,-15.2212,166.6788,11,0

@@ -1,0 +1,61 @@
+Anguilla,Anegada Passage,18.5000,-63.6667,-4GMT,65
+Anguilla,Anguillita Island,18.1500,-63.1833,-4GMT,66
+Anguilla,Bendig Bay,18.2000,-63.0833,-4GMT,66
+Anguilla,Bethel,18.2000,-63.1000,-4GMT,66
+Anguilla,Blowing Rock,18.1500,-63.1667,-4GMT,66
+Anguilla,Bungalows,18.1833,-63.1000,-4GMT,66
+Anguilla,Cannifist,18.2333,-63.0167,-4GMT,66
+Anguilla,Captains Bay,18.2500,-62.9833,-4GMT,66
+Anguilla,Cauls Pond,18.2167,-63.0333,-4GMT,66
+Anguilla,Coral Point,18.2833,-62.9500,-4GMT,66
+Anguilla,Cove Bay,18.1667,-63.1333,-4GMT,66
+Anguilla,Cove Pond,18.1667,-63.1500,-4GMT,66
+Anguilla,Crocus Bay,18.2167,-63.0833,-4GMT,66
+Anguilla,Deadman s Bay,18.2833,-62.9333,-4GMT,66
+Anguilla,Deadman s Cay,18.2833,-62.9167,-4GMT,66
+Anguilla,Dog Islet,18.2833,-63.2667,-4GMT,66
+Anguilla,Dowling Shoal,18.2167,-63.1333,-4GMT,66
+Anguilla,East Cay,18.2833,-63.2500,-4GMT,66
+Anguilla,Ebenezer,18.2167,-63.0667,-4GMT,66
+Anguilla,Elsie Bay,18.1833,-63.0500,-4GMT,66
+Anguilla,Flat Cap Point,18.2333,-63.0833,-4GMT,66
+Anguilla,Forest Bay,18.1833,-63.0333,-4GMT,66
+Anguilla,Gibbon Point,18.2333,-63.0000,-4GMT,66
+Anguilla,Gibbons Point,18.1667,-63.0667,-4GMT,66
+Anguilla,Great Bay,18.2667,-63.2500,-4GMT,66
+Anguilla,Grey Pond,18.2333,-62.9833,-4GMT,66
+Anguilla,High Cliff,18.2000,-63.0000,-4GMT,66
+Anguilla,Island Harbour,18.2500,-63.0000,-4GMT,66
+Anguilla,Island Head,18.2667,-63.0000,-4GMT,66
+Anguilla,Junks Hole Bay,18.2500,-62.9667,-4GMT,66
+Anguilla,Katouche Bay,18.2000,-63.0667,-4GMT,66
+Anguilla,Limestone Bay,18.2333,-63.0667,-4GMT,66
+Anguilla,Little Harbour,18.1833,-63.0667,-4GMT,66
+Anguilla,Little Scrub Island,18.3000,-62.9667,-4GMT,66
+Anguilla,Mead Point,18.1833,-63.1333,-4GMT,66
+Anguilla,North Wager,18.2667,-63.1667,-4GMT,66
+Anguilla,Pelican Bay,18.1667,-63.0833,-4GMT,66
+Anguilla,Prickley Pear Cays,18.2667,-63.1833,-4GMT,66
+Anguilla,Rendezvous Bay,18.1667,-63.1167,-4GMT,66
+Anguilla,Rendezvous Pond,18.1833,-63.1167,-4GMT,66
+Anguilla,Rey Hill,18.2000,-63.0333,-4GMT,66
+Anguilla,Sandy Hill Bay,18.2167,-63.0167,-4GMT,66
+Anguilla,Sandy Island,18.2167,-63.1167,-4GMT,66
+Anguilla,Sea Feather Bay,18.2167,-63.0000,-4GMT,66
+Anguilla,Seal Islets,18.2667,-63.1500,-4GMT,66
+Anguilla,Seal Rocks,18.2667,-63.1333,-4GMT,66
+Anguilla,Shaddick Point,18.1667,-63.1000,-4GMT,66
+Anguilla,Shoal Bay,18.1500,-63.1500,-4GMT,66
+Anguilla,Snake Point,18.2833,-62.9667,-4GMT,66
+Anguilla,Sombrero Island,18.6000,-63.4333,-4GMT,65
+Anguilla,Souse Bay,18.2667,-62.9333,-4GMT,66
+Anguilla,The Copse,18.2167,-62.9833,-4GMT,66
+Anguilla,The Fountain,18.2333,-63.0333,-4GMT,66
+Anguilla,The Valley,18.2167,-63.0500,-4GMT,66
+Anguilla,Upper Maunday s Point,18.1500,-63.1333,-4GMT,66
+Anguilla,Upper Shoal Bay,18.2500,-63.0167,-4GMT,66
+Anguilla,Wallblake,18.2000,-63.0500,-4GMT,66
+Anguilla,Warner Point,18.5833,-63.4167,-4GMT,65
+Anguilla,West Cay,18.2667,-63.2833,-4GMT,66
+Anguilla,West Point,18.2667,-62.9500,-4GMT,66
+Anguilla,Windward Point Bay,18.2667,-62.9667,-4GMT,66

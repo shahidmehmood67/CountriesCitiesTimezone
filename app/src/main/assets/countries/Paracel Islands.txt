@@ -1,0 +1,42 @@
+Paracel Islands,Addington Patch_disputed,15.6097,114.4097,7,0
+Paracel Islands,Alida Shoal_PF99,0.993,107.8597,7,0
+Paracel Islands,Amphitrite Group_disputed,16.9764,112.293,7,0
+Paracel Islands,Chan-han T an_disputed,16.3599,112.6766,7,0
+Paracel Islands,Ebeling Reef_PF99,0.4768,107.4268,7,0
+Paracel Islands,Egeria Bank_disputed,16.0268,114.9434,7,0
+Paracel Islands,Fairie Queen_PF99,10.6435,117.6435,7,0
+Paracel Islands,Fancy Wreck Shoal_disputed,9.7269,114.6769,7,0
+Paracel Islands,Farquharson Patches_PF99,11.4102,114.3769,7,0
+Paracel Islands,Gode Shoal_PF99,10.227,118.427,7,0
+Paracel Islands,Guodian Ansha_disputed,15.527,113.777,7,0
+Paracel Islands,I-erh-ti-ssu T an_disputed,16.7772,112.2272,7,0
+Paracel Islands,Ile a l Arbre_disputed,16.9938,112.2772,7,0
+Paracel Islands,Ile du Milieu_disputed,16.9605,112.3272,7,0
+Paracel Islands,Ile Rocheuse_disputed,16.8605,112.3605,7,0
+Paracel Islands,Iron Duke Shoals_PF99,5.0938,114.4938,7,0
+Paracel Islands,K ung-pai An-sha_disputed,15.8107,113.9107,7,0
+Paracel Islands,Kao-chien Shih_disputed,16.5774,112.644,7,0
+Paracel Islands,Kuan-ch a Tao_disputed,16.594,111.7107,7,0
+Paracel Islands,Kuang-hua Chiao_disputed,16.244,111.694,7,0
+Paracel Islands,Lo-hsi An-sha_disputed,15.8608,114.4275,7,0
+Paracel Islands,Maralle Reef_PF99,9.2442,113.6776,7,0
+Paracel Islands,Paibo Ansha_disputed,15.4945,113.8445,7,0
+Paracel Islands,Paracel Islands_disputed,16.5112,112.2612,7,0
+Paracel Islands,Recif Antilope_disputed,16.4781,111.5947,7,0
+Paracel Islands,Richmond Reef_PF99,5.1114,112.7114,7,0
+Paracel Islands,Royalist Bank_PF99,8.1781,105.1781,7,0
+Paracel Islands,Shan-hu Tao_disputed,16.5448,111.6115,7,0
+Paracel Islands,Silk Rock_PF99,5.1282,114.6615,7,0
+Paracel Islands,Tancred Shoal_disputed,15.6949,113.9116,7,0
+Paracel Islands,Tanjung Kring_PF99,6.2116,115.6116,7,0
+Paracel Islands,Tung-sha Tao_PF99,20.7116,116.7283,7,0
+Paracel Islands,Vuladdore Reef_disputed,16.3618,112.0118,7,0
+Paracel Islands,White Sand Spit_PF99,20.6786,116.7119,7,0
+Paracel Islands,Winchester Shoals_PF99,5.7286,115.3286,7,0
+Paracel Islands,Xiane Jiao_PF99,9.8453,115.3453,7,0
+Paracel Islands,Xinyi Jiao_PF99,9.3453,116.012,7,0
+Paracel Islands,Yunghing_disputed,16.8454,112.3454,7,0
+Paracel Islands,Zappe Pass_disputed,16.9789,112.3122,7,0
+Paracel Islands,Zhongjian Dao_disputed,15.7955,111.2122,7,0
+Paracel Islands,Zhongye Qunjiao_PF99,11.2622,114.2622,7,0
+Paracel Islands,Zuid-Chineesche Zee_PF99,15.0122,115.0122,7,0

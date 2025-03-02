@@ -1,0 +1,147 @@
+Argentina,1 de Abril,-37.9167,-58.6167,-3GMT,78
+Argentina,1 de Mayo_Entre Rios,-32.2667,-68.4167,-3GMT,80
+Argentina,1 de Mayo_Chaco,-27.2500,-58.9167,-3GMT,74
+Argentina,10 de Agosto,-35.3000,-61.6667,-3GMT,78
+Argentina,11 de Febrero,-35.2833,-61.6167,-3GMT,78
+Argentina,12 de Agosto,-33.7833,-60.6000,-3GMT,77
+Argentina,12 de Octubre_Chaco,-27.4167,-61.3333,-3GMT,75
+Argentina,12 de Octubre_ Buenos Aires,-35.6000,-60.9000,-3GMT,78
+Argentina,16 de Julio,-37.1833,-60.1667,-3GMT,78
+Argentina,17 de Agosto,-37.9167,-62.9333,-3GMT,80
+Argentina,17 de Octubre,-31.3833,-64.1833,-3GMT,78
+Argentina,2 Cono Truncado,-48.5667,-69.3333,-3GMT,79
+Argentina,2 de Mayo,-27.0333,-54.6500,-3GMT,73
+Argentina,20 de Febrero,-25.4167,-65.5333,-3GMT,76
+Argentina,20 de Setiembre,-32.3833,-59.6667,-3GMT,76
+Argentina,23 de Agosto,-23.7667,-64.6833,-3GMT,75
+Argentina,24 de Febrero,-34.5333,-63.1667,-3GMT,79
+Argentina,25 de Mayo_La Pampa,-37.8000,-67.6833,-3GMT,83
+Argentina,25 de Mayo_Buenos Aires,-35.5000,-60.2500,-3GMT,78
+Argentina,25 de Mayo_San Luis,-34.5000,-65.8333,-3GMT,80
+Argentina,25 de Mayo_Rio Negro,-41.2500,-69.0000,-3GMT,85
+Argentina,25 de Mayo_Chaco,-26.6667,-60.0000,-3GMT,74
+Argentina,25 de Mayo_Santa Fe,-28.0333,-59.4500,-3GMT,75
+Argentina,25 de Mayo_Misiones,-27.4167,-54.6667,-3GMT,73
+Argentina,25 de Mayo_Mendoza,-34.5833,-68.5500,-3GMT,81
+Argentina,25 de Mayo_San Juan,-31.8333,-67.8333,-3GMT,80
+Argentina,28 de Marzo,-28.5833,-62.5000,-3GMT,76
+Argentina,28 de Noviembre,-51.6500,-72.3000,-3GMT,93
+Argentina,28 de Septiembre,-34.6000,-58.6333,-3GMT,76
+Argentina,3 Arboles,-28.2667,-65.0667,-3GMT,77
+Argentina,3 Chorros,-36.6167,-68.5833,-3GMT,82
+Argentina,3 de Febrero,-34.5833,-58.5833,-3GMT,76
+Argentina,3 de Mayo,-32.6667,-68.6167,-3GMT,80
+Argentina,3 Lagunas,-38.9667,-70.4667,-3GMT,85
+Argentina,30 de Agosto,-36.2667,-62.5500,-3GMT,79
+Argentina,4 de Febrero,-33.8000,-61.5833,-3GMT,78
+Argentina,4 de Noviembre,-34.1500,-60.8000,-3GMT,77
+Argentina,6 de Septiembre,-34.6425,-58.6181,-3GMT,76
+Argentina,7 de Abril,-26.2833,-64.4833,-3GMT,76
+Argentina,9 de Julio_Santa Fe,-28.8333,-61.3333,-3GMT,76
+Argentina,9 de Julio_San Luis,-34.5167,-66.1000,-3GMT,80
+Argentina,9 de Julio_Corrientes,-28.8333,-58.8333,-3GMT,75
+Argentina,9 de Julio_San Juan,-31.6500,-68.4000,-3GMT,80
+Argentina,9 de Julio_Buenos Aires,-35.4542,-60.8914,-3GMT,78
+Argentina,9 de Julio_Chaco,-27.0000,-61.3333,-3GMT,75
+Argentina,Bariloche,-41.1500,-71.3000,-3GMT,86
+Argentina,Buenos Aires,-34.5875,-58.6725,-3GMT,76
+Argentina,Buenos Aires Chico,-42.0833,-71.2333,-3GMT,87
+Argentina,Capital Federal,-34.6000,-58.4500,-3GMT,76
+Argentina,Cordoba,-31.4000,-64.1833,-3GMT,78
+Argentina,Cordoba_San Juan,-31.7667,-68.8500,-3GMT,80
+Argentina,Corrientes,-27.4667,-58.8333,-3GMT,74
+Argentina,Formosa,-26.1833,-58.1833,-3GMT,74
+Argentina,Humberto Primero,-33.0333,-61.0333,-3GMT,77
+Argentina,Ituzaingo_Corrientes,-27.6000,-56.6833,-3GMT,73
+Argentina,Ituzaingo_Buenos Aires,-34.6667,-58.6667,-3GMT,76
+Argentina,Jujuy,-24.1833,-65.3000,-3GMT,75
+Argentina,La Pampa_Santa Fe,-33.2500,-61.4833,-3GMT,77
+Argentina,La Pampa_San Luis,-32.3833,-65.6667,-3GMT,79
+Argentina,La Pampa_La Rioja,-29.3000,-67.1333,-3GMT,78
+Argentina,La Pampa_Cordoba,-30.9333,-64.2833,-3GMT,77
+Argentina,La Pampa Grande,-32.3333,-66.3167,-3GMT,79
+Argentina,La Plata_Buenos Aires,-34.9667,-57.8833,-3GMT,76
+Argentina,La Plata_Santa Cruz,-50.6500,-70.0833,-3GMT,90
+Argentina,La Plata_La Rioja,-30.7167,-66.9667,-3GMT,79
+Argentina,La Plata_Salta,-22.3500,-63.5333,-3GMT,74
+Argentina,La Plata_San Luis,-32.0333,-65.9333,-3GMT,79
+Argentina,La Rioja,-29.4333,-66.8500,-3GMT,78
+Argentina,Mar del Plata_Chaco,-25.2667,-60.5167,-3GMT,74
+Argentina,Mar Del Plata_Buenos Aires,-37.9333,-57.5667,-3GMT,77
+Argentina,Mendoza,-28.3833,-64.9333,-3GMT,77
+Argentina,Palermo_Distrito Federal,-34.5833,-58.4167,-3GMT,76
+Argentina,Palermo_Salta,-24.9333,-66.1833,-3GMT,76
+Argentina,Palermo_ntiago del Estero,-27.7500,-63.3500,-3GMT,76
+Argentina,Rosario_Santa Fe,-32.9511,-60.6664,-3GMT,77
+Argentina,Rosario_Jujuy,-22.7333,-64.8000,-3GMT,75
+Argentina,Salta,-24.7833,-65.4167,-3GMT,76
+Argentina,Santa Fe_Salta,-23.4833,-63.4333,-3GMT,75
+Argentina,Santa Fe_Santiago del Estero,-28.1000,-64.6500,-3GMT,77
+Argentina,Santa Fe,-31.6667,-60.8333,-3GMT,76
+Argentina,Santa Felisa,-26.3667,-63.0667,-3GMT,76
+Argentina,Tucuman,-26.8167,-65.2167,-3GMT,76
+Argentina,Tucumana,-28.0667,-66.6167,-3GMT,77
+Argentina,Tucumancito_Formosa,-22.8167,-62.1167,-3GMT,74
+Argentina,Tucumancito_Salta,-23.2000,-63.7000,-3GMT,75
+Argentina,Ubajay_Corrientes,-27.3333,-56.1167,-3GMT,73
+Argentina,Ubajay_Entre Rios,-31.7833,-58.3000,-3GMT,75
+Argentina,Ucacha,-33.0333,-63.5167,-3GMT,78
+Argentina,Uclar,-27.1167,-64.4167,-3GMT,76
+Argentina,Ucle El Mangrullo,-28.1000,-64.9667,-3GMT,77
+Argentina,Ucumaso,-23.2333,-65.2167,-3GMT,75
+Argentina,Udaquilla,-36.5667,-58.5167,-3GMT,77
+Argentina,Udi y Compania,-38.2500,-61.2333,-3GMT,79
+Argentina,Ugarteche,-33.2167,-68.8833,-3GMT,81
+Argentina,Uguay,-28.6500,-57.4833,-3GMT,74
+Argentina,Ulapes,-31.5833,-66.2500,-3GMT,79
+Argentina,Ullun,-31.4833,-68.7000,-3GMT,80
+Argentina,Umamaj,-28.6833,-63.6333,-3GMT,77
+Argentina,Umango,-28.9000,-68.5833,-3GMT,79
+Argentina,Umberto Primo,-30.8667,-61.3667,-3GMT,76
+Argentina,Unanue,-37.5333,-64.3500,-3GMT,81
+Argentina,Unatuya,-28.4667,-62.8333,-3GMT,76
+Argentina,Union_Formosa,-24.0833,-60.5833,-3GMT,74
+Argentina,Union_Santa Fe,-32.6500,-61.3667,-3GMT,77
+Argentina,Unquillo_Cordoba,-31.2333,-64.3167,-3GMT,78
+Argentina,Unzue,-36.1333,-61.0167,-3GMT,78
+Argentina,Upianan,-28.8667,-64.3667,-3GMT,77
+Argentina,Upinango,-28.6833,-66.7833,-3GMT,78
+Argentina,Uquia,-23.3000,-65.3500,-3GMT,75
+Argentina,Uranga,-33.2667,-60.7000,-3GMT,77
+Argentina,Urbano,-33.6500,-61.4500,-3GMT,77
+Argentina,Urdampilleta,-36.4500,-61.4333,-3GMT,79
+Argentina,Urdinarrain,-32.6833,-58.8833,-3GMT,76
+Argentina,Uren Aike,-49.5667,-68.9167,-3GMT,89
+Argentina,Uribelarrea,-35.1233,-58.8883,-3GMT,77
+Argentina,Uriburu_Corrientes,-27.4500,-56.9833,-3GMT,74
+Argentina,Uriburu_La Pampa,-36.5000,-63.8333,-3GMT,80
+Argentina,Uritu Huasi,-29.1333,-63.7500,-3GMT,77
+Argentina,Urizar_Tucuman,-26.6833,-64.6167,-3GMT,76
+Argentina,Urizar_ La Rioja,-31.5500,-65.7833,-3GMT,79
+Argentina,Urquiza,-32.1667,-58.9333,-3GMT,76
+Argentina,Urundel_Jujuy,-23.7167,-64.7833,-3GMT,75
+Argentina,Urundel_Salta,-23.5500,-64.4167,-3GMT,75
+Argentina,Urusmayo,-22.5833,-66.3500,-3GMT,75
+Argentina,Urutau,-25.7000,-63.0667,-3GMT,75
+Argentina,Ushau,-38.6333,-66.0000,-3GMT,82
+Argentina,Ushuaia,-54.8000,-68.3000,-3GMT,92
+Argentina,Usiyal,-34.8000,-66.3167,-3GMT,80
+Argentina,Usno,-30.5667,-67.5333,-3GMT,79
+Argentina,Uspallata,-32.5500,-69.3333,-3GMT,81
+Argentina,Uspallata-Juncal Pass,-32.8333,-70.0833,-3GMT,81
+Argentina,Utracan,-37.2667,-64.5667,-3GMT,81
+Argentina,Uturango_Tucuman,-26.2333,-65.1167,-3GMT,76
+Argentina,Uturusco,-28.2833,-63.9500,-3GMT,77
+Argentina,Uyuvil Olcavil,-28.7167,-67.3167,-3GMT,78
+Argentina,Uzcudum,-44.2167,-66.1500,-3GMT,85
+Argentina,W. Los Santos,-28.5500,-56.7167,-3GMT,74
+Argentina,Walt,-34.9333,-64.3167,-3GMT,79
+Argentina,Wanda,-25.9667,-54.5833,-3GMT,72
+Argentina,Warnes,-34.9167,-60.5167,-3GMT,77
+Argentina,Weisburd,-27.3000,-62.6000,-3GMT,76
+Argentina,Wenceslao Escalante,-33.1667,-62.7500,-3GMT,78
+Argentina,Wheelwright,-33.7833,-61.2167,-3GMT,77
+Argentina,Wilde,-34.7000,-58.3167,-3GMT,76
+Argentina,Wildermuth,-31.9500,-61.4000,-3GMT,77
+Argentina,Winifreda,-36.2500,-64.2333,-3GMT,80
+Argentina,Wirala,-24.8333,-59.1500,-3GMT,74

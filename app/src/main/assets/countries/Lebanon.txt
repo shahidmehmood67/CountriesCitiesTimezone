@@ -1,0 +1,136 @@
+Lebanon,Aitaroun_LE02,33.1253,35.4819,2,0
+Lebanon,Akka_Liban-Nord,34.4264,36.2264,2,0
+Lebanon,Anout_Mont-Liban,33.643,35.5264,2,0
+Lebanon,Ansar_LE02,33.3894,35.3622,2,0
+Lebanon,Baalbek_Beqaa,34.0598,36.1931,2,0
+Lebanon,Baaloul_Beqaa,33.5992,35.759,2,0
+Lebanon,Bakhaoun_Liban-Nord,34.4265,36.0265,2,0
+Lebanon,Barja_Mont-Liban,33.6601,35.4531,2,0
+Lebanon,Beirut_Beyrouth,33.8817,35.5195,2,0
+Lebanon,Beirut International Airport_Mont-Liban,33.8431,35.5098,2,0
+Lebanon,Bent Jbail_LE02,33.1301,35.4423,2,0
+Lebanon,Chehim_Mont-Liban,33.6335,35.4935,2,0
+Lebanon,Dalhoun_Mont-Liban,33.6433,35.4767,2,0
+Lebanon,Falougha_Mont-Liban,33.8435,35.7435,2,0
+Lebanon,Garzuze_Mont-Liban,34.1936,35.677,2,0
+Lebanon,Ghabe_Mont-Liban,33.8936,35.6603,2,0
+Lebanon,Ghabshun_Beqaa,34.227,36.3436,2,0
+Lebanon,Ghabun_Mont-Liban,33.7936,35.6103,2,0
+Lebanon,Gharib Afqa_Mont-Liban,34.0603,35.8936,2,0
+Lebanon,Gharifah_Mont-Liban,33.6456,35.5675,2,0
+Lebanon,Ghazzah_Beqaa,33.6772,35.8347,2,0
+Lebanon,Ghbalah_Mont-Liban,34.0603,35.727,2,0
+Lebanon,Haret Sakhr_Mont-Liban,33.9937,35.6437,2,0
+Lebanon,Ibel es Saqi_LE02,33.3674,35.6438,2,0
+Lebanon,Iddah_Mont-Liban,34.1438,35.6772,2,0
+Lebanon,Ihdin_Liban-Nord,34.3016,35.9755,2,0
+Lebanon,Ihmij_Mont-Liban,34.1272,35.7938,2,0
+Lebanon,Ijd Aabrine_Liban-Nord,34.2772,35.7438,2,0
+Lebanon,Ijdabra_Liban-Nord,34.2605,35.7105,2,0
+Lebanon,Ilman_LE02,33.3105,35.4772,2,0
+Lebanon,Imsiya_LE02,33.1272,35.3772,2,0
+Lebanon,In Nahr_Beqaa,33.8605,36.0938,2,0
+Lebanon,Ind es Saide_Mont-Liban,34.0105,35.7605,2,0
+Lebanon,Ine Maufeck_Mont-Liban,33.8272,35.6605,2,0
+Lebanon,Innsariye_LE02,33.4272,35.2938,2,0
+Lebanon,Iqab al Fuhul_Beqaa,33.6772,35.7272,2,0
+Lebanon,Iqab al Ghurab_Beqaa,33.6141,35.6688,2,0
+Lebanon,Iqab az Zu`rurah_Beqaa,33.5958,35.658,2,0
+Lebanon,Iqab Salih_Beqaa,33.5938,35.8772,2,0
+Lebanon,Iqab `Ajaj_Beqaa,33.6272,35.8938,2,0
+Lebanon,Irmiss_Liban-Sud,33.1552,35.2027,2,0
+Lebanon,Irnaba_Liban-Sud,33.5194,35.4094,2,0
+Lebanon,Irq al Jabal_Beqaa,33.5858,35.648,2,0
+Lebanon,Irzay_LE02,33.3438,35.3105,2,0
+Lebanon,Iskanderuna_Liban-Sud,33.1649,35.1766,2,0
+Lebanon,Istabil_Beqaa,33.7605,35.8938,2,0
+Lebanon,Itrin_Mont-Liban,33.6772,35.5772,2,0
+Lebanon,Izal_Liban-Nord,34.3919,35.9922,2,0
+Lebanon,Izzah_LE02,33.4605,35.4438,2,0
+Lebanon,Izziyat Qana_LE02,33.1938,35.2438,2,0
+Lebanon,Jbail_Mont-Liban,34.1273,35.6606,2,0
+Lebanon,Kafr Hunah_LE02,33.5051,35.601,2,0
+Lebanon,Kafr Shuba_LE02,33.3388,35.7026,2,0
+Lebanon,Labboune_Liban-Sud,33.1091,35.1619,2,0
+Lebanon,Lac de Qaraaoun,33.5761,35.7039,2,0
+Lebanon,Lahlah_Liban-Sud,33.1055,35.1997,2,0
+Lebanon,Lala_Beqaa,33.6108,35.7775,2,0
+Lebanon,Lasa_Mont-Liban,34.0941,35.8608,2,0
+Lebanon,Lawkas_Liban-Nord,34.4775,35.8108,2,0
+Lebanon,Layat al Qaws_Beqaa,33.6211,35.7222,2,0
+Lebanon,Lebanon,33.8441,35.8441,2,0
+Lebanon,Lebqa_Liban-Sud,33.5594,35.463,2,0
+Lebanon,Levant,34.0108,36.0108,2,0
+Lebanon,Libbaya_Beqaa,33.4911,35.7344,2,0
+Lebanon,Lihfid_Mont-Liban,34.1775,35.7941,2,0
+Lebanon,Lisan ath Thawr_Mont-Liban,33.9941,35.8775,2,0
+Lebanon,Lizaq Abu Faru`ah_LE02,33.5414,35.6177,2,0
+Lebanon,Lizaq al Ghanam_Mont-Liban,33.8108,35.7608,2,0
+Lebanon,Lizaq an Nahlah_Mont-Liban,34.1108,35.8275,2,0
+Lebanon,Lizaq at Tawari`_Mont-Liban,34.0108,35.8608,2,0
+Lebanon,Lizaq Mshikha_Mont-Liban,33.8941,35.7441,2,0
+Lebanon,Lubyah_LE02,33.4441,35.2941,2,0
+Lebanon,Lukat `Ayn al `Amud_Beqaa,33.9441,36.0941,2,0
+Lebanon,Lusi_Beqaa,33.6608,35.8441,2,0
+Lebanon,Lusya_Beqaa,33.4608,35.6608,2,0
+Lebanon,Lzaq Bebe_LE02,33.5705,35.5552,2,0
+Lebanon,Lzaq el Hajj_LE02,33.5483,35.6205,2,0
+Lebanon,Naqoura_Liban-Sud,33.1291,35.1507,2,0
+Lebanon,Place de Canons_Mont-Liban,33.9112,35.5112,2,0
+Lebanon,Plaine de Aakkar,34.6612,36.0612,2,0
+Lebanon,Poste Christofmi_LE02,33.4056,35.7279,2,0
+Lebanon,Qabb Ilyas_Beqaa,33.8069,35.8319,2,0
+Lebanon,Sidon_LE02,33.5746,35.3804,2,0
+Lebanon,Tibnin_LE02,33.206,35.4185,2,0
+Lebanon,Tripoli_Liban-Nord,34.4449,35.8616,2,0
+Lebanon,Tyre_LE02,33.2827,35.208,2,0
+Lebanon,Ubays_Beqaa,33.9617,36.095,2,0
+Lebanon,Udaysah_LE02,33.2617,35.545,2,0
+Lebanon,Ukaymah_Beqaa,33.5698,35.7375,2,0
+Lebanon,Ukfur_Liban-Nord,34.2117,35.845,2,0
+Lebanon,Umm al `Amad_Liban-Sud,33.1409,35.1659,2,0
+Lebanon,Umm at Tut_LE02,33.1284,35.2617,2,0
+Lebanon,Umm Ayyub_Beqaa,33.795,35.9117,2,0
+Lebanon,Umm Harithayn_Liban-Nord,34.545,36.295,2,0
+Lebanon,Umm Ya`qub_Liban-Nord,34.4784,35.945,2,0
+Lebanon,Umm `Ufayyah_Liban-Sud,33.1378,35.1775,2,0
+Lebanon,Unaysah_LE02,33.145,35.495,2,0
+Lebanon,Urdan al Bast_Mont-Liban,33.7284,35.695,2,0
+Lebanon,Urdan al Fuqur_LE02,33.3756,35.6089,2,0
+Lebanon,Urdan al Hawa_Beqaa,33.445,35.6784,2,0
+Lebanon,Urdan al Laban_Beqaa,33.5117,35.7784,2,0
+Lebanon,Urdan al Marj_Mont-Liban,34.0117,35.895,2,0
+Lebanon,Urdan as Saqiyah_Beqaa,33.9284,35.8923,2,0
+Lebanon,Urdan ash Shawiyah_Mont-Liban,34.0284,35.8284,2,0
+Lebanon,Urdan `Ayn Bahr_Mont-Liban,34.0784,35.9284,2,0
+Lebanon,Urqub_Liban-Nord,34.395,36.1117,2,0
+Lebanon,ursh an Nuqayri_LE02,33.4103,35.7367,2,0
+Lebanon,uruf al Bi r_LE02,33.4284,35.6617,2,0
+Lebanon,Ushsh ad Dajajah_Beqaa,33.57,35.8075,2,0
+Lebanon,Ushsh al Qaq_Beqaa,34.3784,36.3617,2,0
+Lebanon,Ushsh an Nimri_Liban-Sud,33.1323,35.2203,2,0
+Lebanon,Uyun al Bashir_Beqaa,33.8784,36.2284,2,0
+Lebanon,Uyun al Ghizlan_Liban-Nord,34.4784,36.0284,2,0
+Lebanon,Uyun an Nikha`_Mont-Liban,34.1284,35.845,2,0
+Lebanon,Uyun as Siman_Mont-Liban,33.995,35.845,2,0
+Lebanon,Uyun Qarnub_Beqaa,34.495,36.2784,2,0
+Lebanon,Uyun Quzhah_Beqaa,33.5339,35.8339,2,0
+Lebanon,Uyun Urghush_Beqaa,34.2784,36.145,2,0
+Lebanon,Uyun `Ishash_Liban-Nord,34.4284,35.945,2,0
+Lebanon,Uzayz_LE02,33.195,35.2617,2,0
+Lebanon,valley of Bekaa_Beqaa,33.8451,36.0118,2,0
+Lebanon,Yahfufah_Beqaa,33.8621,36.1288,2,0
+Lebanon,Yahshush_Mont-Liban,34.0788,35.7454,2,0
+Lebanon,Yamle_Liban-Nord,34.2635,36.056,2,0
+Lebanon,Yanta_Beqaa,33.616,35.9574,2,0
+Lebanon,Yanuh_Mont-Liban,34.1121,35.8954,2,0
+Lebanon,Yanuh_LE02,33.2788,35.3121,2,0
+Lebanon,Yarin_Liban-Sud,33.1188,35.2438,2,0
+Lebanon,Yarun_LE02,33.0932,35.4346,2,0
+Lebanon,Yarutah_Mont-Liban,33.7121,35.4454,2,0
+Lebanon,Yatar_LE02,33.1671,35.3424,2,0
+Lebanon,Yazid_Beqaa,33.9954,36.1121,2,0
+Lebanon,Yuhmur_LE02,33.4965,35.6813,2,0
+Lebanon,Yuhmur al Biqa`_Beqaa,33.4954,35.6788,2,0
+Lebanon,Yunin_Beqaa,34.0954,36.2954,2,0
+Lebanon,Zahle_Mont-Liban,33.8619,35.9164,2,0

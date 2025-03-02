@@ -1,0 +1,162 @@
+Uganda,Arua,3.0289,30.9405,3,0
+Uganda,Busia,0.4642,34.0856,3,0
+Uganda,Ejemoruno,1.8601,33.5768,3,0
+Uganda,Ekoit,2.3768,33.6934,3,0
+Uganda,Elephant Sanctuary,2.8434,31.5101,3,0
+Uganda,Entebbe_Kalangala,0.0745,32.457,3,0
+Uganda,Erusi,2.3434,31.1268,3,0
+Uganda,Eti,3.2268,31.0434,3,0
+Uganda,Ewadri,3.1101,30.9601,3,0
+Uganda,Fada,2.5602,30.8769,3,0
+Uganda,Fajao,2.2769,31.7102,3,0
+Uganda,Feilding Bay,0.4769,33.2935,3,0
+Uganda,Fishermans Point,0.4269,33.2269,3,0
+Uganda,Fondu,3.2269,31.8602,3,0
+Uganda,Foroforo,2.6435,30.8935,3,0
+Uganda,Fort Banda,1.2602,32.7602,3,0
+Uganda,Fort Briggs,0.5769,30.9102,3,0
+Uganda,Fort De Winton,0.5769,31.1102,3,0
+Uganda,Fort Edwad,0.2602,30.1269,3,0
+Uganda,Fort George,-0.1231,29.8769,3,0
+Uganda,Fort Grant,0.8602,31.4769,3,0
+Uganda,Fort Kivari,0.3602,30.4435,3,0
+Uganda,Fort Lorne,0.6102,30.4935,3,0
+Uganda,Fort Lwera,-0.0898,30.4269,3,0
+Uganda,Fort Magungo,2.2602,31.5269,3,0
+Uganda,Fort Mruli,1.6435,32.0935,3,0
+Uganda,Fort Ntara,0.0435,30.3769,3,0
+Uganda,Fort Portal_Kabarole,0.7041,30.2766,3,0
+Uganda,Fort Roddy,0.6435,31.0769,3,0
+Uganda,Fort Thruston,0.4133,33.3658,3,0
+Uganda,Fort Wavertree,0.8102,30.4102,3,0
+Uganda,Fululu,0.6102,32.0769,3,0
+Uganda,Fuluma,0.931,34.2716,3,0
+Uganda,Fumbya,1.6269,31.6269,3,0
+Uganda,Fumve Island_Kalangala,-0.4684,32.296,3,0
+Uganda,Fundu,3.0769,31.4602,3,0
+Uganda,Funve,-0.4731,32.3102,3,0
+Uganda,Gulu,2.777,32.3159,3,0
+Uganda,Hakekuba,-1.4063,29.9104,3,0
+Uganda,Hakibale_Kabarole,0.8023,30.4021,3,0
+Uganda,Hakitengya,0.7437,30.0604,3,0
+Uganda,Halo,1.3604,31.1604,3,0
+Uganda,Hambuga,-0.3229,30.4771,3,0
+Uganda,Hamukunga,0.0271,30.0937,3,0
+Uganda,Hankondo,1.3604,30.8937,3,0
+Uganda,Hannington Bay,0.3104,33.4604,3,0
+Uganda,Haragatwe,0.0437,30.3271,3,0
+Uganda,Harugali_Bundibugyo,0.719,30.0504,3,0
+Uganda,Hema,0.9937,30.6771,3,0
+Uganda,Hima_Kasese,0.3593,30.1726,3,0
+Uganda,Hima,0.2604,30.2271,3,0
+Uganda,Hiyagizo,-0.9729,29.7604,3,0
+Uganda,Hoima,1.4271,31.0937,3,0
+Uganda,Hoimo,1.6271,31.1937,3,0
+Uganda,Hoindaga,-0.1063,30.2604,3,0
+Uganda,Holic,3.7921,32.9298,3,0
+Uganda,Homa,1.5271,30.9604,3,0
+Uganda,Hondwa,0.8437,30.7937,3,0
+Uganda,Humiya,0.7771,30.0437,3,0
+Uganda,Jaber_Apac,2.1978,32.36,3,0
+Uganda,Jakawa,3.6439,31.2939,3,0
+Uganda,Janda,0.6773,32.7273,3,0
+Uganda,Jandira,-0.0227,32.0439,3,0
+Uganda,Jantangiri,2.4939,31.7606,3,0
+Uganda,Jantsohachu,2.6439,31.7273,3,0
+Uganda,Janya,0.1939,32.3273,3,0
+Uganda,Jemakunya,-1.0894,31.5773,3,0
+Uganda,Jemba,0.5439,31.7939,3,0
+Uganda,Jeza,0.3939,32.2773,3,0
+Uganda,Jimbi,0.3439,32.2939,3,0
+Uganda,Jinja,0.3273,33.9939,3,0
+Uganda,Jinja District_Jinja,0.5939,33.2606,3,0
+Uganda,Jopakubi,2.4773,30.8106,3,0
+Uganda,Jubiya Forest,-0.2394,31.9773,3,0
+Uganda,Jugangoma,0.3939,31.0939,3,0
+Uganda,Jugula,0.3606,32.5606,3,0
+Uganda,Jukari,3.0606,30.8773,3,0
+Uganda,Jumam,2.4773,31.4273,3,0
+Uganda,Junda,1.1273,32.0273,3,0
+Uganda,Jungo,0.1773,32.4273,3,0
+Uganda,Jurei,3.3439,31.3439,3,0
+Uganda,Jwamba,1.4606,31.9273,3,0
+Uganda,Kampala,0.3263,32.5763,3,0
+Uganda,Kamuli District_Kamuli,1.094,33.2607,3,0
+Uganda,Kasese,0.2407,29.999,3,0
+Uganda,Lira,2.2458,32.9205,3,0
+Uganda,Lugazi,1.0941,32.4275,3,0
+Uganda,Lugazi_Kampala,0.388,32.9305,3,0
+Uganda,Lyantonde_Rakai,-0.3923,31.168,3,0
+Uganda,Mbale,0.2609,32.3442,3,0
+Uganda,Mbale District_Mbale,0.9609,34.3442,3,0
+Uganda,Mbale Plantation,1.0776,34.1942,3,0
+Uganda,Mbale Station,1.0942,34.1609,3,0
+Uganda,Tororo,0.6963,34.1947,3,0
+Uganda,Tororo County,0.7616,34.2116,3,0
+Uganda,Uchebu,2.7117,31.045,3,0
+Uganda,Ugana Passage,0.1503,33.805,3,0
+Uganda,Uganda Protectorate,2.0117,33.0117,3,0
+Uganda,Uguruku,2.8784,31.1117,3,0
+Uganda,Ujei,3.0117,31.045,3,0
+Uganda,Uka,1.0284,34.395,3,0
+Uganda,Ukiti,3.6617,33.545,3,0
+Uganda,Ukutot_Nakapiripirit,1.7153,34.1914,3,0
+Uganda,Uleppi_Arua,2.7856,31.0628,3,0
+Uganda,Uluko,3.0284,30.9784,3,0
+Uganda,Umia Anyema,3.2784,33.2617,3,0
+Uganda,Unyi,2.745,31.1284,3,0
+Uganda,Upe County,1.845,34.9284,3,0
+Uganda,Uriyo,2.1117,33.9117,3,0
+Uganda,Urudri,3.7117,31.8117,3,0
+Uganda,Utumbari,3.2784,31.1617,3,0
+Uganda,Victoria Nyanza,0.0724,33.5196,3,0
+Uganda,Villa Maria_Masaka,-0.1926,31.731,3,0
+Uganda,Virika,0.6451,30.2951,3,0
+Uganda,Volcan Gahinga,-1.3763,29.6537,3,0
+Uganda,Vubyabilenge,0.3451,32.6451,3,0
+Uganda,Vukula_Kamuli,0.9551,33.6343,3,0
+Uganda,Vumba,0.3118,32.9118,3,0
+Uganda,Vumba Bay,0.1285,33.2951,3,0
+Uganda,Vumbe,0.3451,32.1451,3,0
+Uganda,Vur,2.5285,31.1951,3,0
+Uganda,Vura,2.8785,31.0118,3,0
+Uganda,Vura_Nebbi,2.9465,30.9243,3,0
+Uganda,Yamu,2.5954,30.9288,3,0
+Uganda,Yarimbi,0.4621,33.7621,3,0
+Uganda,Yawambi,-0.7712,29.8288,3,0
+Uganda,Yebe,0.189,33.7115,3,0
+Uganda,Yelele,3.1121,34.5788,3,0
+Uganda,Yelula,3.1621,31.3954,3,0
+Uganda,Yembe,0.6074,33.8221,3,0
+Uganda,Yenjere,-0.9879,31.2954,3,0
+Uganda,Yidu,3.2454,31.1288,3,0
+Uganda,Yingibay_Adjumani,3.6293,31.5538,3,0
+Uganda,Yivu,3.2788,30.9954,3,0
+Uganda,Yokaman,3.4788,34.2621,3,0
+Uganda,Yole,3.0954,30.9621,3,0
+Uganda,Yoyo,3.4121,31.3288,3,0
+Uganda,Yubwe Island,0.2538,33.4168,3,0
+Uganda,Yumbe,3.4585,31.2824,3,0
+Uganda,Yumbe District_Yumbe,3.5121,31.3454,3,0
+Uganda,Zaiwa,3.0955,31.9289,3,0
+Uganda,Zambi,1.0622,32.1289,3,0
+Uganda,Zengebe,1.4955,32.5289,3,0
+Uganda,Zerwa,2.9955,30.9789,3,0
+Uganda,Zibira Point,0.1122,33.3122,3,0
+Uganda,Zidok,3.1955,33.5289,3,0
+Uganda,Zigoti_Mubende,0.3961,32.1572,3,0
+Uganda,Zigu Point,-0.2878,32.5789,3,0
+Uganda,Zigulu,0.5455,32.8789,3,0
+Uganda,Zigunga Island,0.095,33.2891,3,0
+Uganda,Zigwe Island,0.3789,31.9789,3,0
+Uganda,Zimwa,0.8622,31.9122,3,0
+Uganda,Zinat,3.0289,33.8622,3,0
+Uganda,Zinga,0.2789,30.3955,3,0
+Uganda,Zingili,2.4789,30.9289,3,0
+Uganda,Zintengeze,0.5122,32.9955,3,0
+Uganda,Zirizi,-0.6711,31.7122,3,0
+Uganda,Ziro_Mukono,-0.0747,33.2258,3,0
+Uganda,Ziro Island,0.118,33.5114,3,0
+Uganda,Zirobwe_Mubende,0.6916,32.7016,3,0
+Uganda,Zoroma Mission,-0.8211,29.8122,3,0
+Uganda,Zulia,4.1372,33.9991,3,0

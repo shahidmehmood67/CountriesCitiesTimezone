@@ -1,0 +1,84 @@
+Isle Of Man,Andreas,54.3764,-4.4236,0,0
+Isle Of Man,Bahama Bank,54.3765,-4.2402,0,0
+Isle Of Man,Ballabeg,54.1098,-4.6735,0,0
+Isle Of Man,Ballacash Bank,54.4431,-4.2235,0,0
+Isle Of Man,Ballakinnag,54.3431,-4.5402,0,0
+Isle Of Man,Ballasalla,54.1098,-4.6235,0,0
+Isle Of Man,Banks Howe,54.1765,-4.4069,0,0
+Isle Of Man,Barony,54.2765,-4.3235,0,0
+Isle Of Man,Bay ny Carrickey,54.0765,-4.7069,0,0
+Isle Of Man,Bishops Court,54.3098,-4.5735,0,0
+Isle Of Man,Bradda Head,54.1098,-4.7569,0,0
+Isle Of Man,Bride,54.3931,-4.3735,0,0
+Isle Of Man,Calf of Man,54.0599,-4.8234,0,0
+Isle Of Man,Calf Sound,54.0599,-4.7901,0,0
+Isle Of Man,Castletown,54.0932,-4.6401,0,0
+Isle Of Man,Castletown Bay,54.0766,-4.6234,0,0
+Isle Of Man,Colby,54.1099,-4.7068,0,0
+Isle Of Man,Craig Rock,54.2766,-4.6568,0,0
+Isle Of Man,Cranstal,54.4099,-4.3568,0,0
+Isle Of Man,Cregneish,54.0766,-4.7568,0,0
+Isle Of Man,Crosby,54.1932,-4.5568,0,0
+Isle Of Man,Dalby Point,54.1933,-4.7233,0,0
+Isle Of Man,Dhoon Glen,54.26,-4.3567,0,0
+Isle Of Man,Dog Mills,54.36,-4.3733,0,0
+Isle Of Man,Douglas,54.16,-4.4733,0,0
+Isle Of Man,Douglas Bay,54.16,-4.44,0,0
+Isle Of Man,Douglas Harbour,54.16,-4.4567,0,0
+Isle Of Man,Elby Point,54.1768,-4.7232,0,0
+Isle Of Man,Fleshwick Bay,54.1269,-4.7398,0,0
+Isle Of Man,Foxdale,54.1769,-4.6065,0,0
+Isle Of Man,Glen Helen,54.227,-4.573,0,0
+Isle Of Man,Glen Maye,54.1936,-4.6897,0,0
+Isle Of Man,Glen Mona,54.277,-4.3564,0,0
+Isle Of Man,Glen Mooar,54.277,-4.5897,0,0
+Isle Of Man,Isle of Man,54.2605,-4.4895,0,0
+Isle Of Man,Jurby,54.3606,-4.5227,0,0
+Isle Of Man,Jurby Head,54.3939,-4.5227,0,0
+Isle Of Man,King William Banks,54.4607,-4.0726,0,0
+Isle Of Man,Kirk Braddan,54.1774,-4.506,0,0
+Isle Of Man,Kirkmichael,54.294,-4.5726,0,0
+Isle Of Man,Langness,54.0608,-4.6059,0,0
+Isle Of Man,Langness Point,54.0608,-4.6225,0,0
+Isle Of Man,Laxey,54.2441,-4.3892,0,0
+Isle Of Man,Laxey Bay,54.2275,-4.3725,0,0
+Isle Of Man,Laxey Glen,54.2441,-4.4059,0,0
+Isle Of Man,Laxey Head,54.2441,-4.3559,0,0
+Isle Of Man,Lezayre,54.3275,-4.4059,0,0
+Isle Of Man,Little Ness,54.1441,-4.4892,0,0
+Isle Of Man,Maughold,54.3109,-4.3058,0,0
+Isle Of Man,Mount Karrin,54.3026,-4.4891,0,0
+Isle Of Man,North Barrule,54.2943,-4.389,0,0
+Isle Of Man,Onchan,54.1944,-4.4389,0,0
+Isle Of Man,Patrick,54.2112,-4.6888,0,0
+Isle Of Man,Peel,54.2445,-4.6888,0,0
+Isle Of Man,Pen-y-parc,53.1612,-5.4388,0,0
+Isle Of Man,Perwick Bay,54.0779,-4.7388,0,0
+Isle Of Man,Point Cranstal,54.3779,-4.3555,0,0
+Isle Of Man,Port Cornah,54.2779,-4.3388,0,0
+Isle Of Man,Port Erin,54.1112,-4.7721,0,0
+Isle Of Man,Port Grenaugh,54.1112,-4.5555,0,0
+Isle Of Man,Port Groudle,54.1945,-4.4055,0,0
+Isle Of Man,Port Mooar,54.2945,-4.3055,0,0
+Isle Of Man,Port Soderick,54.1279,-4.5221,0,0
+Isle Of Man,Ramsey,54.3281,-4.3886,0,0
+Isle Of Man,Ramsey Bay,54.3614,-4.2886,0,0
+Isle Of Man,Rhenas,54.2447,-4.5553,0,0
+Isle Of Man,River Glass,54.1781,-4.4886,0,0
+Isle Of Man,River Neb,54.2281,-4.6886,0,0
+Isle Of Man,Ronaldsway,54.0947,-4.6053,0,0
+Isle Of Man,Rue Point,54.4114,-4.4386,0,0
+Isle Of Man,Saint Anns Head,54.1115,-4.5385,0,0
+Isle Of Man,Saint Germains Station,54.2448,-4.6385,0,0
+Isle Of Man,Saint Johns,54.2115,-4.6218,0,0
+Isle Of Man,Saint Michaels Island,54.0782,-4.5885,0,0
+Isle Of Man,Santon,54.1282,-4.5718,0,0
+Isle Of Man,Scarlet Point,54.0782,-4.6552,0,0
+Isle Of Man,Snaefell,54.2782,-4.4718,0,0
+Isle Of Man,South Barrule,54.1615,-4.6552,0,0
+Isle Of Man,Strunakill Bank,54.4282,-4.3718,0,0
+Isle Of Man,Sulby,54.3282,-4.4718,0,0
+Isle Of Man,Sulby River,54.3448,-4.3718,0,0
+Isle Of Man,The Ayre,54.4116,-4.4051,0,0
+Isle Of Man,Wart Bank,54.0619,-4.7548,0,0
+Isle Of Man,Whitestone Bank,54.4119,-4.3048,0,0

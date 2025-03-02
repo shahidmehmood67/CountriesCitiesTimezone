@@ -1,0 +1,10 @@
+Nauru,Anebare Bay,-0.5236,166.9597,12,0
+Nauru,Anna,-0.4903,166.943,12,0
+Nauru,Baiti District,-0.5069,166.9431,12,0
+Nauru,Boe District,-0.5402,166.9265,12,0
+Nauru,Hansenide Colony,-0.5396,166.9604,12,0
+Nauru,Ijuh,-0.5062,166.9605,12,0
+Nauru,Meneng District,-0.5391,166.9442,12,0
+Nauru,Nauru,-0.5223,166.9443,12,0
+Nauru,Uaboe,-0.505,166.9284,12,0
+Nauru,Yaren,-0.5467,166.9211,12,0

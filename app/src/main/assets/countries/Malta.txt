@@ -1,0 +1,175 @@
+Malta,Adolorata Cemetery,35.8789,14.5097,1,0
+Malta,Ahr-id-Dood,35.9225,14.5175,1,0
+Malta,Ambaxxata Libjana,35.9205,14.5166,1,0
+Malta,Anchor Bay,35.9694,14.3486,1,0
+Malta,Andar ix-Xaghari,36.0486,14.3308,1,0
+Malta,Annunciata Church,35.9597,14.4294,1,0
+Malta,Annunciation Church,35.8597,14.4264,1,0
+Malta,Annunziata Chapel,35.8503,14.4191,1,0
+Malta,Annunziata Church,36.025,14.3453,1,0
+Malta,Arcipelago di Malta,35.9264,14.443,1,0
+Malta,Armier Bay,36.0003,14.3669,1,0
+Malta,Ashiak,35.8586,14.5264,1,0
+Malta,Attard,35.8994,14.4522,1,0
+Malta,Auberge d Aragon,35.9108,14.5214,1,0
+Malta,Auberge de Baviere,35.9111,14.5236,1,0
+Malta,Axrax Point,36.008,14.3766,1,0
+Malta,Azizabad,35.9072,14.5261,1,0
+Malta,Dahla tac- Cawl,36.0361,14.3275,1,0
+Malta,Dahlet il- Fekruna,35.9625,14.3983,1,0
+Malta,Dahlet il- Hmara,36.0278,14.3356,1,0
+Malta,Dahlet Korrot,36.06,14.3256,1,0
+Malta,Dar id-Dwieb,35.9394,14.4392,1,0
+Malta,Dar in-Nahal,35.9156,14.4075,1,0
+Malta,De Rohan Arch,35.8833,14.4592,1,0
+Malta,Deep Water Wharf,35.8967,14.5136,1,0
+Malta,Delij Mahalleh,36.0811,14.2419,1,0
+Malta,Delimara Point,35.83,14.5719,1,0
+Malta,Delimara Point Lighthouse,35.8322,14.5686,1,0
+Malta,Dghaisa Landing,35.8942,14.5306,1,0
+Malta,Dingli,35.8714,14.3922,1,0
+Malta,Dingli Reservoir,35.8664,14.3931,1,0
+Malta,Dockyard Creek,35.8989,14.5289,1,0
+Malta,Dragut Point,35.9172,14.525,1,0
+Malta,Dragut Shoal,35.9186,14.5303,1,0
+Malta,Dun Lanza,35.8839,14.5503,1,0
+Malta,Dwejra,35.9153,14.3936,1,0
+Malta,Dwejra Lines,35.9156,14.3953,1,0
+Malta,Ech Charbine,36.0818,14.2212,1,0
+Malta,El Kadi,35.9501,14.4409,1,0
+Malta,El Kolla,35.9095,14.3948,1,0
+Malta,El Madliena,35.9412,14.4745,1,0
+Malta,El Mghatap,35.9465,14.4579,1,0
+Malta,Ellis Rock,35.8359,14.5462,1,0
+Malta,Emieri,35.9023,14.3759,1,0
+Malta,English Curtain,35.9118,14.5245,1,0
+Malta,Eskalar Redoubt,35.9959,14.3612,1,0
+Malta,Fliegu ta Malta,36.0069,14.3488,1,0
+Malta,Fort Benghisa,35.8191,14.5427,1,0
+Malta,Fort Binjemma,35.9138,14.3727,1,0
+Malta,Fort San Luciano,35.8408,14.5533,1,0
+Malta,Fortizza Pembroke,35.9374,14.4913,1,0
+Malta,Fortizza ta Giorni,35.9238,14.4966,1,0
+Malta,Fuq il-Giegha,36.0188,14.3435,1,0
+Malta,Fuq tal-Gruwa,36.033,14.263,1,0
+Malta,Gzira,35.9161,14.4984,1,0
+Malta,Jebel Ben Jorj,36.045,14.202,1,0
+Malta,Jebel Chantara,35.8523,14.4234,1,0
+Malta,Jebel Ghazzara,35.9425,14.4162,1,0
+Malta,Jebel San Pietru,35.9387,14.4631,1,0
+Malta,Jebel tal Halfa,36.0398,14.3414,1,0
+Malta,Jebel tal Mistra,36.0695,14.3206,1,0
+Malta,Jebel Uardia,35.9539,14.4064,1,0
+Malta,Jebla ta Chiaul,36.0367,14.3264,1,0
+Malta,Jeneina Bay,35.9348,14.3512,1,0
+Malta,Jew ir-Ras,35.8237,14.5492,1,0
+Malta,Jezirah Island,35.9145,14.5134,1,0
+Malta,Jneina Valley,35.9312,14.3537,1,0
+Malta,Jurdan,36.0831,14.2298,1,0
+Malta,Kala,36.0468,14.3201,1,0
+Malta,Kalanka tal- Gidien,35.8321,14.5721,1,0
+Malta,Karraba,35.9382,14.3513,1,0
+Malta,Kasam Barani,35.9682,14.3615,1,0
+Malta,Kmamar tan-Nar,35.8715,14.4393,1,0
+Malta,Kordin,35.8932,14.5171,1,0
+Malta,Krendi,35.8454,14.469,1,0
+Malta,Kuljat,36.0693,14.2515,1,0
+Malta,Kuncizzjoni Church,35.9135,14.4265,1,0
+Malta,Msida,35.9034,14.4937,1,0
+Malta,Nadur,35.9141,14.3818,1,0
+Malta,Nahchil-Bahar,36.0929,14.2452,1,0
+Malta,Nasciar,35.9246,14.4546,1,0
+Malta,Nashar Gap,35.9363,14.451,1,0
+Malta,Neolithic Temples,35.8568,14.5629,1,0
+Malta,Nigred,35.8354,14.4791,1,0
+Malta,Nigret,35.8343,14.4788,1,0
+Malta,North Comino Channel,36.0341,14.3388,1,0
+Malta,Notabile,35.8979,14.4135,1,0
+Malta,Notabile Cathedral,35.8974,14.4149,1,0
+Malta,Nuffara,36.0529,14.2841,1,0
+Malta,Number 1 Dock,35.8929,14.531,1,0
+Malta,Number 4 Dock,35.8907,14.5277,1,0
+Malta,Number 6 Dock,35.896,14.5246,1,0
+Malta,Oil Wharf,35.8961,14.5319,1,0
+Malta,Our Lady of Lourdes Church,36.0364,14.3061,1,0
+Malta,Outer Munxar Rock,35.8614,14.6055,1,0
+Malta,Outer Saint George s Rock,35.9489,14.5097,1,0
+Malta,Paola,35.8843,14.5101,1,0
+Malta,Qala ta Bahar ic-Caghaq,35.953,14.4674,1,0
+Malta,Qala tad- Dwejra,36.058,14.2024,1,0
+Malta,Qasam Bulebel iz-Zghir,35.8816,14.5391,1,0
+Malta,Qasam San Gorg,36.0585,14.2352,1,0
+Malta,Qawra,36.0638,14.2049,1,0
+Malta,Qawra Point,35.9716,14.441,1,0
+Malta,Qawra Tower,35.9705,14.4357,1,0
+Malta,Qormi,35.8896,14.4832,1,0
+Malta,Qrendi Church,35.8457,14.4685,1,0
+Malta,San Gwann,35.9171,14.4876,1,0
+Malta,San Gwann Kavallier,35.8973,14.5343,1,0
+Malta,Sliema,35.924,14.5134,1,0
+Malta,Sliema Point,35.9259,14.5193,1,0
+Malta,Sliema Point Tower,35.9259,14.5184,1,0
+Malta,Uied Dalham,35.8445,14.5411,1,0
+Malta,Uied Ghomor,35.9309,14.5017,1,0
+Malta,Uied il Ghain,35.8753,14.5692,1,0
+Malta,Uied il Mixta,35.8195,14.5411,1,0
+Malta,Uied il Qoton,35.8356,14.5373,1,0
+Malta,Uied Meixiu,35.9381,14.4989,1,0
+Malta,Uied Moqbel,35.8253,14.5081,1,0
+Malta,Uied Musa,35.9978,14.3492,1,0
+Malta,Uied ta Has Saptan,35.8464,14.5289,1,0
+Malta,Uied Xcora,35.8686,14.4717,1,0
+Malta,Uied-Ix Xakka,35.8225,14.5509,1,0
+Malta,Uiet Bufula,35.9573,14.4014,1,0
+Malta,Uiet Sardin,35.9428,14.4228,1,0
+Malta,Uiet- Kan-Notta,35.9503,14.4236,1,0
+Malta,Valhmor Borg,35.8443,14.4435,1,0
+Malta,Valletta,35.9115,14.5265,1,0
+Malta,Valletta Harbours,35.9162,14.5374,1,0
+Malta,Valley ta Cakra,36.0815,14.2457,1,0
+Malta,Valley tal Armla,35.9065,14.4037,1,0
+Malta,Vendome Battery,36.0021,14.3651,1,0
+Malta,Venezia,35.9074,14.4254,1,0
+Malta,Verdala Castle,35.8735,14.4124,1,0
+Malta,Victoria,36.0562,14.2515,1,0
+Malta,Vignacourt Aqueduct,35.9054,14.4674,1,0
+Malta,Villa Comerino,35.9068,14.3815,1,0
+Malta,Villa Rundle,36.0551,14.2543,1,0
+Malta,Vittoriosa,35.904,14.5301,1,0
+Malta,Xaghra,36.062,14.2764,1,0
+Malta,Xaghra ta Lawrenti,35.8726,14.4192,1,0
+Malta,Xaghra ta Liskof,35.8773,14.4184,1,0
+Malta,Xaghra tal-Bahar,35.9634,14.4517,1,0
+Malta,Xaghra tal-Hawwila,36.0648,14.2845,1,0
+Malta,Xaghret Frankin,35.9606,14.4531,1,0
+Malta,Xaghriet ta Fraxku,35.9378,14.4028,1,0
+Malta,Xahgra Point,35.9628,14.4117,1,0
+Malta,Xatt ir-Risq,35.8981,14.5331,1,0
+Malta,Xatt l- Ahmar,36.0309,14.3009,1,0
+Malta,Xatt tal-Knisja,35.8923,14.5078,1,0
+Malta,Xemxija Hill,35.9617,14.3934,1,0
+Malta,Xeuchia,36.0448,14.2701,1,0
+Malta,Xewkija Church,36.0439,14.2728,1,0
+Malta,Xghaira,35.8976,14.5595,1,0
+Malta,Xghajra,35.8489,14.5734,1,0
+Malta,Xlendi Bay,36.0409,14.2259,1,0
+Malta,Xlendi Tower,36.0398,14.2251,1,0
+Malta,Xlendi Valley,36.0437,14.2317,1,0
+Malta,Xorb il Ghagin,35.8537,14.5817,1,0
+Malta,Xorb l-Ghagin,35.8576,14.5748,1,0
+Malta,Xrobb il-Ghagin,35.8526,14.5817,1,0
+Malta,Xwieni Bay,36.0912,14.2601,1,0
+Malta,Zabbar Church,35.8872,14.5461,1,0
+Malta,Zabbar Gate,35.8928,14.5414,1,0
+Malta,Zammitelo Palace,35.9328,14.37,1,0
+Malta,Zaragoza,36.078,14.2108,1,0
+Malta,Zebbieh,35.9325,14.3916,1,0
+Malta,Zebbug,36.0844,14.248,1,0
+Malta,Zebbug Church,36.0822,14.248,1,0
+Malta,Zejtun,35.868,14.5453,1,0
+Malta,Zig,36.0305,14.2744,1,0
+Malta,Zondadari Tower,35.8289,14.5789,1,0
+Malta,Zonkor,35.883,14.5772,1,0
+Malta,Zonqor Point,35.88,14.5869,1,0
+Malta,Zonqor Tower,35.8789,14.5789,1,0
+Malta,Zurrieq Church,35.8428,14.4872,1,0

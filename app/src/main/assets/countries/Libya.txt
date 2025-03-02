@@ -1,0 +1,118 @@
+Libya,Abu `Isa_Az Zawiyah,32.7625,12.64,1,0
+Libya,Agedabia_Ajdabiya,30.7689,20.2328,1,0
+Libya,Agelat_An Nuqat al Khams,32.7666,12.3858,1,0
+Libya,Ajdabiya,30.775,20.2053,1,0
+Libya,Al Asabi`ah_Gharyan,32.043,12.8764,1,0
+Libya,Al Bayda_Ajdabiya,28.3597,18.9764,1,0
+Libya,Al Bayda_LY04,32.7761,21.7514,1,0
+Libya,Al Burayqah_Ajdabiya,30.4264,19.5883,1,0
+Libya,Al Harsha_Az Zawiyah,32.7764,12.6764,1,0
+Libya,Al Jaghbub_Tubruq,29.7597,24.5264,1,0
+Libya,Al Khums,32.6355,14.2541,1,0
+Libya,Al Marj_LY09,32.5097,20.843,1,0
+Libya,Amal Oil Field_Ajdabiya,29.4264,21.1764,1,0
+Libya,Augila_Ajdabiya,29.1178,21.2966,1,0
+Libya,Awjilah_LY25,29.143,21.4597,1,0
+Libya,Az Zantan_Yafran,31.9764,12.2264,1,0
+Libya,Bani Walid_LY18,31.7765,13.9931,1,0
+Libya,Ben Gauad_LY19,30.8098,18.0765,1,0
+Libya,Benghazi_Banghazi,32.1265,20.0765,1,0
+Libya,Bin Jawwad_LY19,30.7931,18.0765,1,0
+Libya,Bordi Sleman_Tubruq,31.7765,25.1098,1,0
+Libya,Brach_Ash Shati,27.5431,14.2931,1,0
+Libya,Derna_Darnah,32.775,22.6492,1,0
+Libya,Dirj_Ghadamis,30.1775,10.4667,1,0
+Libya,Garagara_Sabha,26.5603,13.227,1,0
+Libya,Garian_Gharyan,32.0103,13.0103,1,0
+Libya,Gasr Kiar_Al Khums,32.707,13.8564,1,0
+Libya,Ghadames_Ghadamis,30.1436,9.5103,1,0
+Libya,Ghat_LY23,24.9603,10.1936,1,0
+Libya,Gialo_LY25,29.0436,21.5436,1,0
+Libya,Hon_Al Jufrah,29.1271,15.9437,1,0
+Libya,Hun al Qadimah_Al Jufrah,29.1437,15.9437,1,0
+Libya,Intisar_LY25,28.8438,20.8438,1,0
+Libya,Jakharrah_LY25,29.2273,21.5773,1,0
+Libya,Kabaw_Ghadamis,31.8551,11.3504,1,0
+Libya,Kamun_Gharyan,32.1482,13.0446,1,0
+Libya,Khoms_Al Khums,32.6607,14.2774,1,0
+Libya,Kufra_Al Kufrah,24.1774,23.2607,1,0
+Libya,Mabruk_LY19,30.0109,17.2609,1,0
+Libya,Marada_Ajdabiya,29.2442,19.2276,1,0
+Libya,Masallatah_LY27,32.6276,14.0109,1,0
+Libya,Mazghurah_Yafran,31.9792,11.9826,1,0
+Libya,Mersa Brega_Ajdabiya,30.4106,19.627,1,0
+Libya,Millitah_An Nuqat al Khams,32.8606,12.2495,1,0
+Libya,Misurata_Misratah,32.3892,15.1015,1,0
+Libya,Murzuq,25.9153,13.9081,1,0
+Libya,Nalut_Ghadamis,31.8793,10.9938,1,0
+Libya,Nasmah_LY29,31.3943,13.2943,1,0
+Libya,Om El Araneb_Murzuq,26.1444,14.7611,1,0
+Libya,Ora_Ajdabiya,28.3444,19.5111,1,0
+Libya,Ouadi Etba_Awbari,26.0111,13.5111,1,0
+Libya,Ouchebari_LY24,31.9778,12.0278,1,0
+Libya,Oued Iraouene,26.4778,12.0111,1,0
+Libya,Oued Marksene,30.1611,9.3111,1,0
+Libya,Oued Massine,31.1564,10.2042,1,0
+Libya,Oued Talechout_Murzuq,24.9444,11.8944,1,0
+Libya,Oued Tekouit_Murzuq,25.1278,11.8111,1,0
+Libya,Oum el Far_LY31,32.0611,10.8944,1,0
+Libya,Pabta_Gharyan,32.1687,12.8534,1,0
+Libya,Palaebisca_LY11,32.6445,22.3279,1,0
+Libya,Passo Abahoha_LY23,24.9779,11.3112,1,0
+Libya,Passo di Agalad_Awbari,25.6945,11.4779,1,0
+Libya,Peninsola el- Machbez_LY46,33.1112,11.7612,1,0
+Libya,Phazania,26.0112,14.0112,1,0
+Libya,Phicus_LY04,32.9445,21.6445,1,0
+Libya,Picco Bette_Al Kufrah,22.0112,19.2112,1,0
+Libya,Pisida_An Nuqat al Khams,33.0859,11.7468,1,0
+Libya,Plataea_Darnah,32.3945,23.2445,1,0
+Libya,Plateau d Alaota Kyou_Murzuq,23.0945,14.0945,1,0
+Libya,Port Brega_Ajdabiya,30.4445,19.5945,1,0
+Libya,Porto Ugra_Al Khums,32.5573,14.4504,1,0
+Libya,Posto Trucchi_Al Kufrah,26.0279,22.2445,1,0
+Libya,Province of Benghazi,31.0112,22.5112,1,0
+Libya,Ptolemais_LY09,32.7279,20.9612,1,0
+Libya,Punta_Banghazi,32.1112,20.0779,1,0
+Libya,Punta Biad_Tubruq,32.0612,24.0445,1,0
+Libya,Punta Bomba_Darnah,32.4112,23.1445,1,0
+Libya,Punta Carcura_LY32,31.4945,20.0112,1,0
+Libya,Punta Chersa_Darnah,32.8612,22.4445,1,0
+Libya,Punta del Faro_Banghazi,32.1445,20.0779,1,0
+Libya,Punta Nera_Murzuq,23.2612,18.1279,1,0
+Libya,Punta Tagiura_Tarabulus,32.9079,13.3973,1,0
+Libya,Ras Lanuf_LY19,30.5281,18.5781,1,0
+Libya,Rogeban_Yafran,32.0114,12.1781,1,0
+Libya,Sabratah_An Nuqat al Khams,32.8034,12.4962,1,0
+Libya,Sebha_Sabha,27.0448,14.4448,1,0
+Libya,Sert_Surt,31.2176,16.6062,1,0
+Libya,Shahat_LY36,32.8393,21.8737,1,0
+Libya,Soknah_Al Jufrah,29.0782,15.7948,1,0
+Libya,Stazione di Lmaia_LY15,32.7948,12.8948,1,0
+Libya,Tajurah_Tarabulus,32.8933,13.3622,1,0
+Libya,Tamzawah_Ash Shati,27.5783,14.2283,1,0
+Libya,Tarhuna_Tarhunah,32.4449,13.6449,1,0
+Libya,Tobruk Point_Tubruq,32.0783,24.0283,1,0
+Libya,Traghen_Murzuq,25.9349,14.4322,1,0
+Libya,Tripoli,31.0116,15.0116,1,0
+Libya,Tripoli_Tarabulus,32.9041,13.1916,1,0
+Libya,Tripoli Harbor_Tarabulus,32.9138,13.1974,1,0
+Libya,Tubruq,32.0952,23.988,1,0
+Libya,Ubari_Awbari,26.595,12.7784,1,0
+Libya,Verde_LY04,32.5618,21.7951,1,0
+Libya,Vieux Port_Banghazi,32.1285,20.0618,1,0
+Libya,Vittoriosa_LY36,32.8451,21.8618,1,0
+Libya,Waddan_Al Jufrah,29.1786,16.1452,1,0
+Libya,Yafran,32.0882,12.5435,1,0
+Libya,Yatim Umm Shuwayshah_LY06,32.4621,11.8788,1,0
+Libya,Yedi_Al Kufrah,22.1454,19.6788,1,0
+Libya,Yode_Al Kufrah,22.2288,19.6621,1,0
+Libya,Zawia_Az Zawiyah,32.7603,12.7353,1,0
+Libya,Zella_Al Jufrah,28.5622,17.5955,1,0
+Libya,Zelten_Ajdabiya,28.7622,19.5122,1,0
+Libya,Zelten_LY06,32.9622,11.8789,1,0
+Libya,Zighen_Sabha,27.3622,14.9122,1,0
+Libya,Zintan_Yafran,31.9455,12.2455,1,0
+Libya,Zizaw_Murzuq,25.9122,14.1789,1,0
+Libya,Zleitat el-Gazal_Ajdabiya,31.1789,20.2289,1,0
+Libya,Zliten_Zlitan,32.4789,14.5789,1,0
+Libya,Zuara_An Nuqat al Khams,32.9466,12.0914,1,0

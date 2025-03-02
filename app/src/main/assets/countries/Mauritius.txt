@@ -1,0 +1,141 @@
+Mauritius,Abbe Bank_Riviere du Rempart,-19.907,57.7764,4,0
+Mauritius,Abercrombie_Port Louis,-20.1384,57.5258,4,0
+Mauritius,Agalega,-10.3903,56.6264,4,0
+Mauritius,Agalega Islands,10.4097,56.6264,4,0
+Mauritius,Aigrette Island_Grand Port,-20.4075,57.7364,4,0
+Mauritius,Albion_Black River,-20.1903,57.4264,4,0
+Mauritius,Albion Dock_Port Louis,-20.1389,57.508,4,0
+Mauritius,Alma Hill_Moka,-20.2214,57.5833,4,0
+Mauritius,Amitie_Riviere du Rempart,-20.0997,57.6736,4,0
+Mauritius,Amitie_Pamplemousses,-20.1403,57.5764,4,0
+Mauritius,Anse Ally_Rodrigues,-19.682,63.5097,4,0
+Mauritius,Anse aux Anglais_Rodrigues,-19.6653,63.4403,4,0
+Mauritius,Anse Bambou_Grand Port,-20.3267,57.768,4,0
+Mauritius,Anse Bonserjent_Riviere du Rempart,-20.0195,57.685,4,0
+Mauritius,Anse Colas_Grand Port,-20.3581,57.7097,4,0
+Mauritius,Anse du Bain_Riviere du Rempart,-20.0731,57.7083,4,0
+Mauritius,Anse du Grand Sable_Grand Port,-20.3075,57.7766,4,0
+Mauritius,Anse Grande Vare_Rodrigues,-19.7403,63.4097,4,0
+Mauritius,Anse Jonchee_Grand Port,-20.3395,57.75,4,0
+Mauritius,Anse La Raie_Riviere du Rempart,-19.9789,57.6364,4,0
+Mauritius,Anse Quittor_Rodrigues,-19.757,63.393,4,0
+Mauritius,Anse Raffin_Rodrigues,-19.7347,63.4347,4,0
+Mauritius,Antoinette_Riviere du Rempart,-20.112,57.6439,4,0
+Mauritius,Arcade Point_Savanne,-20.507,57.593,4,0
+Mauritius,Argy_Flacq,-20.1831,57.7419,4,0
+Mauritius,Arsenal Bay_Pamplemousses,-20.0742,57.5164,4,0
+Mauritius,Astrea_Grand Port,-20.3811,57.6386,4,0
+Mauritius,Avocare Island,-16.5903,59.643,4,0
+Mauritius,Beau Bassin_Plaines Wilhems,-20.2096,57.4681,4,0
+Mauritius,Camp Diable_Savanne,-20.4529,57.5888,4,0
+Mauritius,Curepipe_Plaines Wilhems,-20.3223,57.5121,4,0
+Mauritius,Curepipe Road_Plaines Wilhems,-20.2901,57.5266,4,0
+Mauritius,D Esny Point_Grand Port,-20.4136,57.7303,4,0
+Mauritius,Dagotiere_Moka,-20.2344,57.5642,4,0
+Mauritius,Dalais_Grand Port,-20.3872,57.6953,4,0
+Mauritius,Detices River_Grand Port,-20.39,57.71,4,0
+Mauritius,Deux Freres_Flacq,-20.2767,57.7811,4,0
+Mauritius,Dyot Canal_Port Louis,-20.1569,57.4814,4,0
+Mauritius,Eau Bleue_Grand Port,-20.3635,57.6337,4,0
+Mauritius,Eau Coulee,-20.2732,57.5101,4,0
+Mauritius,Eaux Coulee_Plaines Wilhems,-20.2941,57.5276,4,0
+Mauritius,Ebene_Plaines Wilhems,-20.2338,57.4898,4,0
+Mauritius,Ecroignard_Flacq,-20.216,57.7462,4,0
+Mauritius,Ernest Florent_Flacq,-20.2541,57.7693,4,0
+Mauritius,Etoile_Flacq,-20.2943,57.7132,4,0
+Mauritius,Fayence Mountains_Flacq,-20.2304,57.7002,4,0
+Mauritius,Ferney Mill_Grand Port,-20.3509,57.708,4,0
+Mauritius,Flacq,-20.1795,57.7246,4,0
+Mauritius,Flacq Cove_Flacq,-20.1445,57.7538,4,0
+Mauritius,Flacq District_Flacq,-20.2231,57.7269,4,0
+Mauritius,Flacq Point_Flacq,-20.1565,57.7749,4,0
+Mauritius,Flamand Islet_Grand Port,-20.3101,57.8249,4,0
+Mauritius,Flic en Flac_Black River,-20.264,57.3733,4,0
+Mauritius,Floreal_Plaines Wilhems,-20.2898,57.5102,4,0
+Mauritius,Fous Island_Grand Port,-20.3692,57.7908,4,0
+Mauritius,Grand Baie,-19.9978,57.5784,4,0
+Mauritius,Grande Baie_Riviere du Rempart,-20.0033,57.5842,4,0
+Mauritius,Haut de Flacq_Flacq,-20.1924,57.6785,4,0
+Mauritius,Henrietta_Plaines Wilhems,-20.3252,57.4768,4,0
+Mauritius,Herve_Moka,-20.2563,57.6104,4,0
+Mauritius,Highlands_Plaines Wilhems,-20.2643,57.5215,4,0
+Mauritius,Hollandais Point_Flacq,-20.186,57.7868,4,0
+Mauritius,Horseshoe Bight_Grand Port,-20.3729,57.7771,4,0
+Mauritius,Horseshoe Spit_Grand Port,-20.3729,57.7604,4,0
+Mauritius,Jacotet Bay_Savanne,-20.493,57.4506,4,0
+Mauritius,Jennifer Shoal,-7.2727,72.4439,4,0
+Mauritius,Jerome Point_Grand Port,-20.4038,57.7223,4,0
+Mauritius,Jolis Bois_Grand Port,-20.4305,57.5906,4,0
+Mauritius,Jonchee Bar_Grand Port,-20.3561,57.7606,4,0
+Mauritius,Julien_Flacq,-20.2158,57.647,4,0
+Mauritius,Junction Peak_Moka,-20.1969,57.4981,4,0
+Mauritius,Jurancon_Savanne,-20.4811,57.5153,4,0
+Mauritius,Ka Hine_Black River,-20.1765,57.4379,4,0
+Mauritius,Kanaka Crater_Savanne,-20.3924,57.5224,4,0
+Mauritius,Khoyratty_Pamplemousses,-20.1099,57.5582,4,0
+Mauritius,Mahebourg_Grand Port,-20.3972,57.7109,4,0
+Mauritius,Mesnil River,-20.2391,57.4942,4,0
+Mauritius,Mont Ida,-20.228,57.6417,4,0
+Mauritius,Nab Reef_Riviere du Rempart,-19.8054,57.7877,4,0
+Mauritius,Nelsons Island,-5.6723,72.3443,4,0
+Mauritius,New Grove_Grand Port,-20.3976,57.6246,4,0
+Mauritius,Nicolas Bay,-19.689,63.3777,4,0
+Mauritius,Nicoliere Mountains,-20.1534,57.6196,4,0
+Mauritius,Noire_Black River,-20.3529,57.3793,4,0
+Mauritius,North Entrance,-20.3015,57.8154,4,0
+Mauritius,Notre Dame_Pamplemousses,-20.1296,57.5641,4,0
+Mauritius,Nouvelle Decouverte_Moka,-20.1762,57.5929,4,0
+Mauritius,Nouvelle Decouverte_Rodrigues,-19.7001,63.4804,4,0
+Mauritius,Oliva_Flacq,-20.2864,57.7367,4,0
+Mauritius,Oscorne Point_Riviere du Rempart,-19.9958,57.6869,4,0
+Mauritius,Oyster Bay_Rodrigues,-19.6722,63.4278,4,0
+Mauritius,Pereybere_Riviere du Rempart,-19.9794,57.5968,4,0
+Mauritius,Plaine Verte_Port Louis,-20.1424,57.519,4,0
+Mauritius,Port Louis,-20.1507,57.5101,4,0
+Mauritius,Port Louis District_Port Louis,-20.1555,57.5362,4,0
+Mauritius,Quartier Militaire_Moka,-20.2734,57.6263,4,0
+Mauritius,Quatre Bornes_Plaines Wilhems,-20.2531,57.4832,4,0
+Mauritius,Quatre Cocos_Flacq,-20.1887,57.7696,4,0
+Mauritius,Quatre Soeurs_Flacq,-20.2879,57.7819,4,0
+Mauritius,Quatre Vents_Rodrigues,-19.6887,63.4113,4,0
+Mauritius,Quinze Cantons_Plaines Wilhems,-20.2895,57.4838,4,0
+Mauritius,Rose Hill_Plaines Wilhems,-20.2305,57.4814,4,0
+Mauritius,Rose-Hill_Plaines Wilhems,-20.2219,57.4781,4,0
+Mauritius,Sainte Rita,-10.4718,56.7115,4,0
+Mauritius,Solferino_Plaines Wilhems,-20.2793,57.4787,4,0
+Mauritius,Sygangue_Rodrigues,-19.6635,63.4615,4,0
+Mauritius,Terre Rouge_Pamplemousses,-20.1145,57.536,4,0
+Mauritius,Triolet_Pamplemousses,-20.0431,57.5569,4,0
+Mauritius,Union Flacq_Flacq,-20.1927,57.6973,4,0
+Mauritius,Union Maurel_Riviere du Rempart,-20.0075,57.6425,4,0
+Mauritius,Union Vale_Grand Port,-20.4275,57.6586,4,0
+Mauritius,Unite_Flacq,-20.2211,57.6789,4,0
+Mauritius,Vacoa_Plaines Wilhems,-20.2863,57.4901,4,0
+Mauritius,Vacoas Mountains_Black River,-20.3188,57.4604,4,0
+Mauritius,Vacoas Point_Grand Port,-20.4418,57.7049,4,0
+Mauritius,Vacoas Point_Riviere du Rempart,-19.9738,57.5949,4,0
+Mauritius,Vainqueur,-19.6549,63.4785,4,0
+Mauritius,Valentina_Plaines Wilhems,-20.2601,57.5074,4,0
+Mauritius,Valetta_Moka,-20.2401,57.5732,4,0
+Mauritius,Vallee des Pretres_Port Louis,-20.1551,57.5424,4,0
+Mauritius,Vallee Pitot_Port Louis,-20.1529,57.5249,4,0
+Mauritius,Valruche_Savanne,-20.4463,57.4485,4,0
+Mauritius,Valton_Pamplemousses,-20.1401,57.5746,4,0
+Mauritius,Vaquoas Island_Grand Port,-20.3832,57.7754,4,0
+Mauritius,Verdun_Moka,-20.2165,57.5557,4,0
+Mauritius,Verronge,-16.6715,59.6118,4,0
+Mauritius,Vieux Grand Port_Grand Port,-20.3551,57.7182,4,0
+Mauritius,Ville Bague_Pamplemousses,-20.1276,57.6218,4,0
+Mauritius,Ville d Avray_Plaines Wilhems,-20.3246,57.5749,4,0
+Mauritius,Ville Valio_Pamplemousses,-20.0821,57.5157,4,0
+Mauritius,Villebague Canal_Pamplemousses,-20.1215,57.6285,4,0
+Mauritius,Vine Bay,-10.4215,56.6618,4,0
+Mauritius,Virgins Peak,-20.1624,57.5593,4,0
+Mauritius,Vuillemain_Plaines Wilhems,-20.2032,57.4782,4,0
+Mauritius,Vuillemin_Moka,-20.2432,57.5965,4,0
+Mauritius,Wahlalah_Black River,-20.3175,57.4355,4,0
+Mauritius,West Peak_Black River,-20.2937,57.4505,4,0
+Mauritius,West Peak_Flacq,-20.23,57.6961,4,0
+Mauritius,Whale Rock_Pamplemousses,-19.9837,57.5577,4,0
+Mauritius,Wolmar_Black River,-20.2837,57.3788,4,0
+Mauritius,Wooten_Plaines Wilhems,-20.2934,57.5386,4,0

@@ -1,0 +1,42 @@
+Belarus,Brest_Brestskaya Voblasts,52.1000,23.7000,3,152
+Belarus,Ejdymianiszki,55.5833,26.9000,3,159
+Belarus,Ejwidowicze,55.4833,26.9333,3,159
+Belarus,El zhutki,54.7500,27.3500,3,159
+Belarus,Elsk_Homyel skaya Voblasts,51.8000,29.1500,3,161
+Belarus,Es mony,54.0167,29.5500,3,163
+Belarus,Essa,54.8833,28.6667,3,161
+Belarus,Eyminovtsy,53.2167,24.0667,3,153
+Belarus,Eysmonty,53.3667,24.0833,3,153
+Belarus,Eysymonty,53.6667,24.0667,3,153
+Belarus,Eytuny,54.0167,25.4000,3,156
+Belarus,Eyzsvily,54.6333,26.5167,3,158
+Belarus,Farinovo,55.4167,28.6000,3,162
+Belarus,Fastovichi,52.5167,28.4833,3,160
+Belarus,Fed ki,54.9333,29.1000,3,162
+Belarus,Fedotova Buda_Mahilyowskaya Voblasts,53.5681,32.3758,3,167
+Belarus,Fedyuki,53.0667,26.1667,3,156
+Belarus,Felisberg_Mahilyowskaya Voblasts,53.4361,32.1436,3,167
+Belarus,Ferma,55.3500,29.2333,3,163
+Belarus,Filatovka,52.4500,28.6667,3,160
+Belarus,Filatovo,54.3167,29.6333,3,163
+Belarus,Filevichi,53.7833,24.4667,3,154
+Belarus,Filipinenta,54.1667,26.3833,3,157
+Belarus,Filipki,54.6833,27.2500,3,159
+Belarus,Filippovichi,52.9833,26.9167,3,158
+Belarus,Filippovo,55.6667,28.2167,3,161
+Belarus,Fokino,55.1667,30.6333,3,165
+Belarus,Fol vark Gozdawa,54.7833,26.6833,3,158
+Belarus,Fol vark Kukovo,52.8000,26.5500,3,157
+Belarus,Frolovka_Mahilyowskaya Voblasts,53.4194,32.2233,3,167
+Belarus,Frunzyenski Rayon_Minsk Horad,53.9006,27.4950,3,159
+Belarus,Gomel,55.3167,28.7833,3,162
+Belarus,Gomel_Homyel skaya Voblasts,52.4417,30.9833,3,164
+Belarus,Grodno_Hrodzyenskaya Voblasts,53.6814,23.8147,3,153
+Belarus,Iv ye_Hrodzyenskaya Voblasts,53.9278,25.7669,3,156
+Belarus,Iv yevskiy Rayon_Hrodzyenskaya Voblasts,54.0000,25.6667,3,156
+Belarus,Minsk,53.9000,27.5667,3,159
+Belarus,Minsk Oblast_Minskaya Voblasts,54.0000,28.0000,3,160
+Belarus,Minskaye Wzvyshsha,54.0000,27.1667,3,159
+Belarus,Minski Rayon_Minskaya Voblasts,53.8333,27.5833,3,159
+Belarus,Mogilev_Mahilyowskaya Voblasts,53.9139,30.3364,3,164
+Belarus,Vitebsk_Vitsyebskaya Voblasts,55.1925,30.1944,3,164

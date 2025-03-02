@@ -1,0 +1,72 @@
+Angola,1.0 de Maio,-12.6544,13.4786,1GMT,37
+Angola,31 de Janeiro,-6.9000,15.3167,1GMT,40
+Angola,5 de Outubro,-9.5167,17.8167,1GMT,35
+Angola,Augusto,-11.8333,15.4333,1GMT,36
+Angola,Benguela_Huambo,-12.1000,15.2833,1GMT,36
+Angola,Benguela,-12.5783,13.4072,1GMT,38
+Angola,Benguela Bay,-12.6011,13.3397,1GMT,38
+Angola,Benguela Velha,-10.7333,13.7500,1GMT,39
+Angola,Benguela-Bie Plateau,-12.5000,17.0000,1GMT,34
+Angola,Cabinda_Lunda Norte,-8.1667,18.1167,1GMT,35
+Angola,Cabinda,-5.5500,12.2000,1GMT,44
+Angola,D. Antonio,-8.9167,14.9833,1GMT,39
+Angola,D. Ituca,-14.2667,17.1167,1GMT,32
+Angola,Ejito,-11.9611,13.7664,1GMT,38
+Angola,Elomba,-12.6000,15.8667,1GMT,35
+Angola,F. Pires,-12.7000,15.1667,1GMT,36
+Angola,Flamingos River,-15.5500,12.0167,1GMT,37
+Angola,Granja Palmira,-8.5000,13.4167,1GMT,41
+Angola,Henda,-7.6333,15.1167,1GMT,39
+Angola,Hninganja,-12.5183,15.3706,1GMT,36
+Angola,Huambo_Huila,-14.8333,15.3667,1GMT,34
+Angola,Huambo_Uige,-7.5500,15.5333,1GMT,39
+Angola,Huambo_Benguela,-12.5500,14.2500,1GMT,37
+Angola,Huambo,-12.7761,15.7392,1GMT,38
+Angola,Huambo_Cuanza Sul,-11.8500,14.2333,1GMT,37
+Angola,Iloza,-11.7000,23.6500,1GMT,26
+Angola,Jimbe,-11.1167,24.0000,1GMT,24
+Angola,Joao Chilamba,-10.4000,21.5000,1GMT,29
+Angola,Khavango,-11.3000,17.7000,1GMT,34
+Angola,Lobito,-12.3197,13.5997,1GMT,38
+Angola,Lobito_Cuanza Sul,-11.5167,14.5333,1GMT,37
+Angola,Lobito_Benguela,-12.3481,13.5456,1GMT,38
+Angola,Lobito Bay,-12.3247,13.5789,1GMT,38
+Angola,Lobito Point,-12.3167,13.5833,1GMT,38
+Angola,Luanda_Uige,-7.4167,14.8667,1GMT,40
+Angola,Luanda_Cuanza Sul,-11.0500,14.7833,1GMT,37
+Angola,Luanda_Malanje,-9.4833,16.6000,1GMT,36
+Angola,Luanda_Moxico,-11.4333,23.1667,1GMT,27
+Angola,Luanda_Cuanza Norte,-9.2833,14.9333,1GMT,38
+Angola,Luanda,-8.8383,13.2344,1GMT,40
+Angola,Luanda Maiengo,-7.4000,14.8500,1GMT,40
+Angola,Luanda Quibala,-7.4667,14.9167,1GMT,40
+Angola,Luanda Senga,-7.6667,15.2000,1GMT,39
+Angola,Luandai,-12.8333,19.7333,1GMT,30
+Angola,Malongo_Uige,-6.6167,15.0333,1GMT,40
+Angola,Malongo_Cuanza Norte,-8.3500,15.8000,1GMT,38
+Angola,Nuinza,-8.9833,15.5167,1GMT,38
+Angola,Nuncarica,-15.7000,14.0167,1GMT,35
+Angola,Piri,-8.5167,14.4167,1GMT,39
+Angola,Soyo,-6.1333,12.3667,1GMT,44
+Angola,Spiandalo,-12.5514,13.4206,1GMT,38
+Angola,T'chico,-11.7667,14.1167,1GMT,37
+Angola,Travessa,-12.1167,14.0833,1GMT,37
+Angola,Upinde,-11.9500,14.6000,1GMT,37
+Angola,Upula,-11.6833,14.9500,1GMT,37
+Angola,Uremba,-12.0167,15.3000,1GMT,36
+Angola,Waco-Kungo,-11.3500,15.1167,1GMT,37
+Angola,Wama,-12.2333,15.5500,1GMT,36
+Angola,Whales Head,-11.5833,13.7667,1GMT,38
+Angola,Yaca,-11.9667,14.5000,1GMT,37
+Angola,Yamba,-11.9667,14.4667,1GMT,37
+Angola,Yanquira,-11.5833,14.7500,1GMT,37
+Angola,Yatu,-7.1333,14.7500,1GMT,40
+Angola,Yema,-5.7333,12.2833,1GMT,44
+Angola,Yomba,-17.7000,21.8000,1GMT,25
+Angola,Ytumbo,-11.6167,14.1833,1GMT,37
+Angola,Yumbaka,-14.4000,21.6500,1GMT,27
+Angola,Yungue,-11.9500,15.4833,1GMT,36
+Angola,Zondo,-8.4833,15.5667,1GMT,38
+Angola,Zongo,-7.2000,15.5833,1GMT,39
+Angola,Zonzo,-7.6667,14.4667,1GMT,40
+Angola,Zovo,-8.1000,13.3000,1GMT,41

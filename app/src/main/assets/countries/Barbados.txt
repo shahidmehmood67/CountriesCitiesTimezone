@@ -1,0 +1,147 @@
+Barbados,Airy Hill_Saint Joseph,13.1833,-59.5500,-4,67
+Barbados,Alexandra_Saint Lucy,13.2833,-59.6000,-4,67
+Barbados,All Saints Church_Saint Peter,13.2667,-59.6000,-4,67
+Barbados,Allmans_Saint Lucy,13.2667,-59.6333,-4,67
+Barbados,Ananias Point_Christ Church,13.0333,-59.5167,-4,67
+Barbados,Animal Flower Cave_Saint Lucy,13.3333,-59.6000,-4,67
+Barbados,Antilles Flat_Saint Lucy,13.3167,-59.5833,-4,67
+Barbados,Apes Hill_Saint James,13.2167,-59.6000,-4,67
+Barbados,Appleby_Saint James,13.1500,-59.6333,-4,67
+Barbados,Applewhaites_Saint Thomas,13.1667,-59.5667,-4,67
+Barbados,Ashford_Saint John,13.1667,-59.5000,-4,67
+Barbados,Ashton Hall_Saint Peter,13.2500,-59.6333,-4,67
+Barbados,Bakers_Saint Peter,13.2333,-59.6167,-4,67
+Barbados,Belle_Saint Michael,13.1167,-59.5833,-4,67
+Barbados,Belle Hill_Saint Andrew,13.2500,-59.5667,-4,67
+Barbados,Bridgetown_Saint Michael,13.1000,-59.6167,-4,67
+Barbados,Bridgetown Harbour_Saint Michael,13.1000,-59.6333,-4,67
+Barbados,Christ Church,13.0833,-59.5333,-4,67
+Barbados,Dover_Christ Church,13.0500,-59.5667,-4,67
+Barbados,Drax Hall_Saint George,13.1333,-59.5167,-4,67
+Barbados,Dukes_Saint Thomas,13.1833,-59.5833,-4,67
+Barbados,Ealing Park_Christ Church,13.0333,-59.5000,-4,67
+Barbados,East Lynne_Christ Church,13.1167,-59.5333,-4,67
+Barbados,Eastbourne_Saint Philip,13.1167,-59.4333,-4,67
+Barbados,Ebenezer_Saint Philip,13.1167,-59.5000,-4,67
+Barbados,Ebworth_Saint Peter,13.2667,-59.6167,-4,67
+Barbados,Ellerton_Saint George,13.1333,-59.5500,-4,67
+Barbados,Ellesmere_Saint George,13.1500,-59.5333,-4,67
+Barbados,Endeavour_Saint James,13.2000,-59.6000,-4,67
+Barbados,Endeavour_Saint Thomas,13.1667,-59.5833,-4,67
+Barbados,Fairfield_Saint Michael,13.1167,-59.6000,-4,67
+Barbados,Farley Hill_Saint Andrew,13.2667,-59.5833,-4,67
+Barbados,Farmers_Saint Thomas,13.2000,-59.5833,-4,67
+Barbados,Fisher Pond_Saint Thomas,13.1667,-59.5500,-4,67
+Barbados,Fitts_Saint James,13.1333,-59.6333,-4,67
+Barbados,Flatfield_Saint Lucy,13.3167,-59.6000,-4,67
+Barbados,Folkestone Park_Saint James,13.1833,-59.6333,-4,67
+Barbados,Fortescue_Saint Philip,13.1667,-59.4500,-4,67
+Barbados,Foster Hall_Saint Joseph,13.2000,-59.5000,-4,67
+Barbados,Four Roads_Saint Philip,13.1000,-59.4667,-4,67
+Barbados,Friendship Terrace_Saint Michael,13.1333,-59.6000,-4,67
+Barbados,Frizers_Saint Joseph,13.2167,-59.5333,-4,67
+Barbados,Fruitful Hill_Saint Joseph,13.2000,-59.5667,-4,67
+Barbados,Garrison_Saint Michael,13.0667,-59.6000,-4,67
+Barbados,Gemswick_Saint Philip,13.0667,-59.4667,-4,67
+Barbados,Gibbes Bay_Saint Peter,13.2167,-59.6333,-4,67
+Barbados,Goodland_Christ Church,13.0500,-59.5167,-4,67
+Barbados,Graeme Hall Swamp_Christ Church,13.0667,-59.5667,-4,67
+Barbados,Grantley Adams Airport_Christ Church,13.0667,-59.4833,-4,67
+Barbados,Grape Hall_Saint Lucy,13.3167,-59.6333,-4,67
+Barbados,Greens_Saint John,13.1500,-59.5167,-4,67
+Barbados,Greenwich_Saint James,13.1833,-59.6167,-4,67
+Barbados,Hacklestons Cliff_Saint Joseph,13.2000,-59.5167,-4,67
+Barbados,Halton_Saint Philip,13.1333,-59.4833,-4,67
+Barbados,Hannays_Christ Church,13.1000,-59.5167,-4,67
+Barbados,Hanson_Saint George,13.1000,-59.5667,-4,67
+Barbados,Harris_Saint Lucy,13.3000,-59.6167,-4,67
+Barbados,Harrismith_Saint Philip,13.1167,-59.4167,-4,67
+Barbados,Harrison Point_Saint Lucy,13.3000,-59.6500,-4,67
+Barbados,Harrison Reefs,13.3167,-59.6667,-4,67
+Barbados,Harrisons_Saint Lucy,13.3000,-59.6333,-4,67
+Barbados,Haymans Factory_Saint Peter,13.2500,-59.6167,-4,67
+Barbados,Heywoods_Saint Peter,13.2500,-59.6500,-4,67
+Barbados,Highgate_Saint Michael,13.0833,-59.5833,-4,67
+Barbados,Highland_Saint Philip,13.1000,-59.4833,-4,67
+Barbados,Hillaby,13.2167,-59.5833,-4,67
+Barbados,Holders_Saint James,13.1667,-59.6167,-4,67
+Barbados,Holetown_Saint James,13.1833,-59.6500,-4,67
+Barbados,Hothersal_Saint John,13.1833,-59.5000,-4,67
+Barbados,Hoytes_Saint Andrew,13.2167,-59.5667,-4,67
+Barbados,Husbands_Saint James,13.1500,-59.6167,-4,67
+Barbados,Husbands_Saint Lucy,13.2833,-59.6500,-4,67
+Barbados,Inch Marlowe_Christ Church,13.0667,-59.5000,-4,67
+Barbados,Inch Marlowe Swamp_Christ Church,13.0500,-59.5000,-4,67
+Barbados,Indian Ground_Saint Andrew,13.2500,-59.6000,-4,67
+Barbados,Jackmans_Saint Michael,13.1333,-59.5833,-4,67
+Barbados,Jemmotts_Saint Lucy,13.3000,-59.6000,-4,67
+Barbados,Jezreel_Saint Philip,13.1167,-59.4500,-4,67
+Barbados,Kelzer Hill_Christ Church,13.0500,-59.5333,-4,67
+Barbados,Kendal_Saint John,13.1500,-59.5000,-4,67
+Barbados,Kendal Hill_Christ Church,13.0667,-59.5500,-4,67
+Barbados,Kent_Christ Church,13.0833,-59.5500,-4,67
+Barbados,Kirtons_Saint Philip,13.1000,-59.4500,-4,67
+Barbados,Kittridge Point_Saint Philip,13.1500,-59.4167,-4,67
+Barbados,Lakes_Saint Andrew,13.2333,-59.5500,-4,67
+Barbados,Lears_Saint Thomas,13.1500,-59.5833,-4,67
+Barbados,Lemon Arbour_Saint John,13.1667,-59.5333,-4,67
+Barbados,Less Beholden_Saint Andrew,13.2167,-59.5500,-4,67
+Barbados,Little Battaleys_Saint Peter,13.2333,-59.6333,-4,67
+Barbados,Locust Hall_Saint George,13.1500,-59.5667,-4,67
+Barbados,Lower Carlton_Saint James,13.2167,-59.6500,-4,67
+Barbados,Lowlands_Christ Church,13.0833,-59.5167,-4,67
+Barbados,Marley Vale_Saint Philip,13.1500,-59.4333,-4,67
+Barbados,Martins Bay_Saint John,13.1833,-59.4833,-4,67
+Barbados,Maycock_Saint Lucy,13.2833,-59.6333,-4,67
+Barbados,Mount Wilton_Saint Thomas,13.1833,-59.5667,-4,67
+Barbados,Needham Point_Saint Michael,13.0833,-59.6000,-4,67
+Barbados,Neils_Saint Michael,13.1167,-59.5667,-4,67
+Barbados,Nesfield_Saint Lucy,13.2833,-59.6167,-4,67
+Barbados,New Fall Cliff_Saint Philip,13.0833,-59.4500,-4,67
+Barbados,Nicholas Abbey_Saint Peter,13.2833,-59.5833,-4,67
+Barbados,Oistins_Christ Church,13.0667,-59.5333,-4,67
+Barbados,Oughtersons_Saint Philip,13.1333,-59.4667,-4,67
+Barbados,Packers_Christ Church,13.0833,-59.5000,-4,67
+Barbados,Padmore_Saint Philip,13.1167,-59.4667,-4,67
+Barbados,Palmetto Bay_Saint Philip,13.1333,-59.4167,-4,67
+Barbados,Parish Land_Christ Church,13.0667,-59.5167,-4,67
+Barbados,Paynes Bay_Saint Michael,13.1667,-59.6333,-4,67
+Barbados,Pennyhole Rock_Saint Philip,13.0833,-59.4667,-4,67
+Barbados,Pie Corner_Saint Lucy,13.3000,-59.5833,-4,67
+Barbados,Pine_Saint Michael,13.1000,-59.6000,-4,67
+Barbados,Poreys Spring_Saint Thomas,13.1833,-59.6000,-4,67
+Barbados,Prospect_Saint Peter,13.2500,-59.5833,-4,67
+Barbados,Ragged Point_Saint Philip,13.1667,-59.4333,-4,67
+Barbados,Redland_Saint Joseph,13.1833,-59.5333,-4,67
+Barbados,Regency Park_Christ Church,13.0833,-59.5667,-4,67
+Barbados,Rendezvous_Christ Church,13.0667,-59.5833,-4,67
+Barbados,Roach_Saint George,13.1500,-59.5500,-4,67
+Barbados,Roaches_Saint Lucy,13.3167,-59.6167,-4,67
+Barbados,Rosegate_Saint John,13.1667,-59.4833,-4,67
+Barbados,Rouen_Saint Michael,13.1000,-59.5833,-4,67
+Barbados,Rowans_Saint George,13.1333,-59.5667,-4,67
+Barbados,Ruby_Saint Philip,13.1333,-59.4500,-4,67
+Barbados,The Chase_Saint Andrew,13.2667,-59.5667,-4,67
+Barbados,The Choyce_Saint Andrew,13.2833,-59.5667,-4,67
+Barbados,The Crane_Saint Philip,13.1000,-59.4333,-4,67
+Barbados,The Glebe_Saint George,13.1167,-59.5500,-4,67
+Barbados,The Shallows,12.9667,-59.4667,-4,67
+Barbados,Three Houses_Saint Philip,13.1500,-59.4667,-4,67
+Barbados,Trader Bank,13.0500,-59.6500,-4,67
+Barbados,Trents_Saint James,13.2000,-59.6333,-4,67
+Barbados,Turners Hall_Saint Andrew,13.2333,-59.5833,-4,67
+Barbados,Upper Carlton_Saint James,13.2167,-59.6167,-4,67
+Barbados,Upper Parks_Saint Joseph,13.2000,-59.5500,-4,67
+Barbados,Venture_Saint John,13.1833,-59.5167,-4,67
+Barbados,Vineyard_Saint Philip,13.1500,-59.4500,-4,67
+Barbados,Wakefield Tenantry_Saint John,13.1667,-59.5167,-4,67
+Barbados,Walkers Beach_Saint Andrew,13.2500,-59.5500,-4,67
+Barbados,Wanstead_Saint Michael,13.1333,-59.6167,-4,67
+Barbados,Warrens_Saint Michael,13.1500,-59.6000,-4,67
+Barbados,Watts Village_Saint George,13.1000,-59.5333,-4,67
+Barbados,Waverley Cot_Saint George,13.1333,-59.5333,-4,67
+Barbados,Welches_Christ Church,13.0500,-59.5500,-4,67
+Barbados,Wellhouse_Saint Philip,13.1333,-59.4333,-4,67
+Barbados,Windsor,13.1167,-59.5167,-4,67
+Barbados,Woodbourne_Saint Philip,13.0833,-59.4833,-4,67
+Barbados,Yorkshire_Christ Church,13.1000,-59.5000,-4,67

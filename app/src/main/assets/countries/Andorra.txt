@@ -1,0 +1,85 @@
+Andorra,Abarsetar,42.5500,1.6500,1GMT,111
+Andorra,Abarsetar de la Coma,42.6333,1.4833,1GMT,111
+Andorra,Abarsetar de Rialb,42.6500,1.5500,1GMT,111
+Andorra,Agulla de Baiau,42.5833,1.4333,1GMT,111
+Andorra,Aixas,42.4833,1.4667,1GMT,111
+Andorra,Aixirvall,42.4667,1.5000,1GMT,111
+Andorra,Aixovall,42.4667,1.4833,1GMT,111
+Andorra,Alt de l Aspra,42.5167,1.6500,1GMT,111
+Andorra,Alt de la Capa,42.5667,1.4500,1GMT,111
+Andorra,Andorra-la-Vella,42.5000,1.5000,1GMT,111
+Andorra,Arans,42.5833,1.5167,1GMT,111
+Andorra,Artic de Capell,42.5833,1.6000,1GMT,111
+Andorra,Ascobar de Puntal,42.6333,1.5500,1GMT,111
+Andorra,Aspres de Banyell,42.6333,1.5667,1GMT,111
+Andorra,Aspres de la Cebollera,42.6333,1.5833,1GMT,111
+Andorra,Aspres de la Serrera,42.6167,1.6000,1GMT,111
+Andorra,Aspres del Sola de Nadal,42.5167,1.5167,1GMT,111
+Andorra,Aubaderes,42.5000,1.4833,1GMT,111
+Andorra,Auvinya,42.4500,1.5000,1GMT,111
+Andorra,Canillo,42.5667,1.6000,1GMT,111
+Andorra,Devesa del Mas d Alins,42.4500,1.4500,1GMT,111
+Andorra,Drecera de Sant Marti,42.4833,1.5000,1GMT,111
+Andorra,Encamp,42.5333,1.5833,1GMT,111
+Andorra,Galliner,42.5667,1.4667,1GMT,111
+Andorra,Gargantillar,42.5000,1.6500,1GMT,111
+Andorra,Grau d Incles,42.5833,1.6500,1GMT,111
+Andorra,Grau de Coma Pedrosa,42.5833,1.4667,1GMT,111
+Andorra,Grau de la Molina,42.5333,1.6000,1GMT,111
+Andorra,Grau de les Places,42.5500,1.4667,1GMT,111
+Andorra,Grau del Cabrer,42.5667,1.7167,1GMT,112
+Andorra,Grau Roig,42.5333,1.7000,1GMT,111
+Andorra,Jovell,42.5833,1.6333,1GMT,111
+Andorra,Juberrussa,42.4333,1.4833,1GMT,111
+Andorra,Juclar,42.6000,1.7167,1GMT,112
+Andorra,Juverri,42.4333,1.5000,1GMT,111
+Andorra,Les Escaldes,42.5000,1.5333,1GMT,111
+Andorra,Madriu,42.5000,1.6000,1GMT,111
+Andorra,Manyat,42.4833,1.5167,1GMT,111
+Andorra,Marrades de Sorteny,42.6167,1.5500,1GMT,111
+Andorra,Marrades del Bruig,42.6333,1.5000,1GMT,111
+Andorra,Marrades del Siscar,42.5833,1.7167,1GMT,112
+Andorra,Marrades Negres,42.5667,1.7000,1GMT,112
+Andorra,Mas del Diumenge,42.5167,1.5333,1GMT,111
+Andorra,Massolina,42.5000,1.6167,1GMT,111
+Andorra,Meligar d Emportona,42.5333,1.6667,1GMT,111
+Andorra,Mereig,42.5667,1.5833,1GMT,111
+Andorra,Meritxell,42.5500,1.6000,1GMT,111
+Andorra,Molleres,42.5500,1.5833,1GMT,111
+Andorra,Monjol de Cabana Sorda,42.6167,1.6833,1GMT,112
+Andorra,Montagne de l Estanyo,42.6000,1.5833,1GMT,111
+Andorra,Montaup,42.5833,1.5833,1GMT,111
+Andorra,Montmalus,42.5000,1.7000,1GMT,111
+Andorra,Montmantell,42.6000,1.4667,1GMT,111
+Andorra,Nou Fonts,42.4667,1.5333,1GMT,111
+Andorra,Obac d Anyos,42.5333,1.5333,1GMT,111
+Andorra,Obac d Encamp,42.5167,1.6000,1GMT,111
+Andorra,Obac d Envalira,42.5500,1.6833,1GMT,111
+Andorra,Obac d Incles,42.5833,1.6833,1GMT,112
+Andorra,Obac de Canillo,42.5667,1.6333,1GMT,111
+Andorra,Obac de la Cebollera,42.6167,1.5833,1GMT,111
+Andorra,Obac de la Pixistella,42.5500,1.5000,1GMT,111
+Andorra,Obac de Sispony,42.5167,1.4833,1GMT,111
+Andorra,Obac de Soldeu,42.5667,1.6667,1GMT,111
+Andorra,Obac del Mas,42.5667,1.5000,1GMT,111
+Andorra,Obac dels Cortals,42.5167,1.6167,1GMT,111
+Andorra,Obaga d Encampadana,42.5500,1.6167,1GMT,111
+Andorra,Obaga d Enclar,42.5000,1.4667,1GMT,111
+Andorra,Obaga d Ensagents,42.5167,1.6333,1GMT,111
+Andorra,Obaga de Coma Pedrosa,42.5833,1.4500,1GMT,111
+Andorra,Obaga de Juclar,42.6167,1.7000,1GMT,112
+Andorra,Obaga de l Estall Serrer,42.4833,1.6000,1GMT,111
+Andorra,Obaga de la Font dels Pets,42.6000,1.4833,1GMT,111
+Andorra,Obaga de la Llosada,42.5333,1.6167,1GMT,111
+Andorra,Obaga de la Molina,42.4500,1.5167,1GMT,111
+Andorra,Obaga de la Mollerra,42.6000,1.5167,1GMT,111
+Andorra,Obaga de Redort,42.5500,1.5667,1GMT,111
+Andorra,Obaga de Torradella,42.6000,1.6333,1GMT,111
+Andorra,Obaga de Vista,42.4833,1.4500,1GMT,111
+Andorra,Obaga del Bony,42.5000,1.5833,1GMT,111
+Andorra,Obaga dels Pradets,42.4833,1.4333,1GMT,111
+Andorra,Obagues dels Fenerals,42.5000,1.4500,1GMT,111
+Andorra,Obagueta de Canti,42.5667,1.5167,1GMT,111
+Andorra,Ordino,42.6000,1.5500,1GMT,111
+Andorra,Soldeu,42.5833,1.6667,1GMT,112
+Andorra,Xixerella,42.5500,1.4833,1GMT,111

@@ -1,0 +1,68 @@
+El Salvador,Dos Cerros,14.0000,-89.2500,-6GMT,56
+El Salvador,Nacascol,13.8667,-87.9333,-6GMT,56
+El Salvador,Nacaspilo,13.8167,-88.5833,-6GMT,56
+El Salvador,Nahuaterique,14.0500,-88.1500,-6GMT,56
+El Salvador,Nahuizalco,13.7775,-89.7367,-6GMT,55
+El Salvador,Nance Dulce,14.1753,-89.5072,-6GMT,55
+El Salvador,Nance Verde,13.7000,-88.9333,-6GMT,56
+El Salvador,Nancistepeque,13.9900,-89.4147,-6GMT,55
+El Salvador,Natividad_San Salvador,13.9936,-89.2767,-6GMT,56
+El Salvador,Natividad_Santa Ana,14.0000,-89.4667,-6GMT,55
+El Salvador,Navarrete,13.9500,-88.8000,-6GMT,56
+El Salvador,Nazaret,13.6000,-89.2667,-6GMT,56
+El Salvador,Nejapa_San Salvador,13.8147,-89.2314,-6GMT,56
+El Salvador,Nejapa_Ahuachapan,13.8975,-89.8775,-6GMT,55
+El Salvador,Niqueresque,13.8167,-88.5333,-6GMT,56
+El Salvador,Nispero,13.4833,-88.7167,-6GMT,56
+El Salvador,Nombre de Jesus,14.0000,-88.7333,-6GMT,56
+El Salvador,Nonualco,13.5000,-88.8833,-6GMT,56
+El Salvador,Normandia,13.3500,-88.6333,-6GMT,56
+El Salvador,Nueva,13.7333,-89.4000,-6GMT,56
+El Salvador,Nueva Eden,14.0833,-89.3000,-6GMT,56
+El Salvador,Nueva Esparta,13.7836,-87.8386,-6GMT,56
+El Salvador,Nuevo Tepetitan,13.6500,-88.8333,-6GMT,56
+El Salvador,Obraje Nuevo,13.9478,-89.3092,-6GMT,56
+El Salvador,Ochupse Abajo,13.9217,-89.5853,-6GMT,55
+El Salvador,Ochupse Arriba,13.9000,-89.5833,-6GMT,55
+El Salvador,Ocotillo,13.7500,-88.0667,-6GMT,56
+El Salvador,Ojeo,13.7667,-88.4833,-6GMT,56
+El Salvador,Ojo de Agua de Leon,13.2200,-88.1928,-6GMT,56
+El Salvador,Ojushte,13.6167,-88.4833,-6GMT,56
+El Salvador,Olosingo,14.0667,-88.9500,-6GMT,56
+El Salvador,Osicala,13.8000,-88.1500,-6GMT,56
+El Salvador,Ostucal,13.8000,-88.3333,-6GMT,56
+El Salvador,Ozatlan,13.3833,-88.5000,-6GMT,56
+El Salvador,Salvador,13.8333,-88.9167,-6GMT,56
+El Salvador,San Miguel_San Salvador,13.7333,-89.2167,-6GMT,56
+El Salvador,San Miguel_Santa Ana,14.1500,-89.5667,-6GMT,55
+El Salvador,San Miguel Longaniza,13.4667,-88.9333,-6GMT,56
+El Salvador,San Miguel Tobias,14.1167,-89.0167,-6GMT,56
+El Salvador,San Miguelito_Ahuachapan,13.8167,-89.9500,-6GMT,55
+El Salvador,San Miguelito_Santa Ana,13.9858,-89.4483,-6GMT,55
+El Salvador,San Salvador,13.7444,-89.2564,-6GMT,56
+El Salvador,Santa Ana_Chalatenango,14.0333,-88.8000,-6GMT,56
+El Salvador,Santa Ana_San Miguel,13.2592,-88.1758,-6GMT,56
+El Salvador,Santa Ana_Santa Ana,13.9942,-89.5597,-6GMT,55
+El Salvador,Ulapa,13.5167,-88.8833,-6GMT,56
+El Salvador,Umana,13.6167,-88.5500,-6GMT,56
+El Salvador,Upatoro,14.0500,-88.9500,-6GMT,56
+El Salvador,Upire,13.8833,-87.8667,-6GMT,56
+El Salvador,Usulutan,13.3500,-88.4500,-6GMT,56
+El Salvador,Xilobasco,13.8500,-88.8500,-6GMT,56
+El Salvador,Yaguatique,13.3917,-88.1583,-6GMT,56
+El Salvador,Yamabal,13.6667,-88.1667,-6GMT,56
+El Salvador,Yancolo,13.8000,-88.1000,-6GMT,56
+El Salvador,Yologual,13.3000,-87.8333,-6GMT,57
+El Salvador,Yomo,13.5167,-88.4833,-6GMT,56
+El Salvador,Yucuaiquin,13.5500,-88.0000,-6GMT,56
+El Salvador,Yurique,14.1000,-88.8333,-6GMT,56
+El Salvador,Yzalco,13.7447,-89.6731,-6GMT,55
+El Salvador,Zabanetas,14.1500,-89.7000,-6GMT,55
+El Salvador,Zacamil,13.6978,-89.4883,-6GMT,56
+El Salvador,Zacatal,13.8833,-89.4833,-6GMT,55
+El Salvador,Zambombera,13.4500,-89.1000,-6GMT,56
+El Salvador,Zambullido,13.2031,-87.7019,-6GMT,57
+El Salvador,Zanjon El Rosario,13.6894,-89.9894,-6GMT,55
+El Salvador,Zanjon El Salado,13.7403,-90.0736,-6GMT,55
+El Salvador,Zapua,13.8064,-89.8614,-6GMT,55
+El Salvador,Zunca,14.0000,-89.7667,-6GMT,55

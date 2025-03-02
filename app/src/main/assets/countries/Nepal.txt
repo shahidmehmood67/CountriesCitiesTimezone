@@ -1,0 +1,207 @@
+Nepal,Achham,29.0597,81.3097,5.75,0
+Nepal,Aisvalukharka,27.3597,86.7597,5.75,0
+Nepal,Amardaha,26.543,87.5764,5.75,0
+Nepal,Amile,27.9764,82.2097,5.75,0
+Nepal,Amlekhsagunz,27.293,84.993,5.75,0
+Nepal,Amlia,28.793,80.2597,5.75,0
+Nepal,Amphu Labtsa Glacier,27.893,86.943,5.75,0
+Nepal,Amraia,28.693,80.443,5.75,0
+Nepal,Andhi Khola,27.993,83.593,5.75,0
+Nepal,Andrauli,27.5764,84.193,5.75,0
+Nepal,Angbung,27.2764,87.743,5.75,0
+Nepal,Annapurna,28.593,83.9597,5.75,0
+Nepal,Argha,27.9264,83.093,5.75,0
+Nepal,Arghakot,28.0264,83.1097,5.75,0
+Nepal,Arughat Bazar,28.0597,84.8097,5.75,0
+Nepal,Asaina,28.893,80.343,5.75,0
+Nepal,Ataria,28.8097,80.5764,5.75,0
+Nepal,Athmauza,26.4597,87.693,5.75,0
+Nepal,Athpali,29.6597,80.8264,5.75,0
+Nepal,Atrauli,27.1097,85.6264,5.75,0
+Nepal,Aulgurta,28.9264,82.5097,5.75,0
+Nepal,Biratnagar,26.4931,87.2931,5.75,0
+Nepal,Bogri,27.4265,83.3931,5.75,0
+Nepal,Boradandi,28.7265,80.5765,5.75,0
+Nepal,Captainganj,26.4599,87.1266,5.75,0
+Nepal,Dhanusha,26.8433,86.0933,5.75,0
+Nepal,Dharan,26.8267,87.2933,5.75,0
+Nepal,East Number Four,27.2601,87.0934,5.75,0
+Nepal,Emodus Mountains,28.0101,84.0101,5.75,0
+Nepal,Fatehpur,26.7269,86.9269,5.75,0
+Nepal,Fulchok,27.5935,85.4102,5.75,0
+Nepal,Gulmi Tamghas,28.077,83.2603,5.75,0
+Nepal,Hajminia,26.7937,85.3104,5.75,0
+Nepal,Halji,30.1604,81.5271,5.75,0
+Nepal,Handrung,27.3937,87.6271,5.75,0
+Nepal,Hangsari,26.8937,87.5771,5.75,0
+Nepal,Hanumannagar,26.5104,86.8604,5.75,0
+Nepal,Hanumante River,27.6771,85.3771,5.75,0
+Nepal,Haraincha,26.6104,87.3771,5.75,0
+Nepal,Hardia Chauki,27.3104,85.2104,5.75,0
+Nepal,Haria,26.7771,86.8271,5.75,0
+Nepal,Hariharpur Garhi,27.3271,85.4937,5.75,0
+Nepal,Harpur,27.0104,85.5771,5.75,0
+Nepal,Harrebarre,27.8437,82.9771,5.75,0
+Nepal,Harta,27.4771,84.7104,5.75,0
+Nepal,Hatia,27.7437,87.3604,5.75,0
+Nepal,Hatranga,29.4437,80.4104,5.75,0
+Nepal,Helambu,28.0937,85.5937,5.75,0
+Nepal,Hemaganga,27.2604,86.2104,5.75,0
+Nepal,Hetauda,27.4271,85.0437,5.75,0
+Nepal,Hidalwa,26.7104,87.1104,5.75,0
+Nepal,Hilajug,27.8604,86.6604,5.75,0
+Nepal,Himal Chuli,28.4604,84.6437,5.75,0
+Nepal,Himalaya Shan,29.0104,83.0104,5.75,0
+Nepal,Hiunchuli Patan,28.8437,82.6271,5.75,0
+Nepal,Humla,29.9271,81.9271,5.75,0
+Nepal,Humla Karnali,28.7604,81.2771,5.75,0
+Nepal,Ilam,26.9105,87.9438,5.75,0
+Nepal,Illam,26.9272,87.9272,5.75,0
+Nepal,Inarwa,26.5105,86.8438,5.75,0
+Nepal,Indrawati River,27.6438,85.7272,5.75,0
+Nepal,Inner Himalaya,30.0105,80.0105,5.75,0
+Nepal,Irung,28.0272,85.5105,5.75,0
+Nepal,Ismakot,28.1938,83.2105,5.75,0
+Nepal,Ithari,26.6772,87.2938,5.75,0
+Nepal,Jajarkot,28.8439,82.2606,5.75,0
+Nepal,Janakpur Anchal,27.1773,85.9273,5.75,0
+Nepal,Jhapa,26.4939,87.8606,5.75,0
+Nepal,Jhunga,28.6439,81.1606,5.75,0
+Nepal,Jongsang Peak,27.8939,88.1439,5.75,0
+Nepal,Joshipur,28.5773,81.0273,5.75,0
+Nepal,Jumla,29.5106,82.2606,5.75,0
+Nepal,Kapilbastu,27.6774,82.9274,5.75,0
+Nepal,Kathmandu,27.7607,85.4274,5.75,0
+Nepal,Kathmandu Airport,27.7274,85.3774,5.75,0
+Nepal,Kathmandu Valley,27.6774,85.3607,5.75,0
+Nepal,Kathmandu-Kodari Road,27.7607,85.6774,5.75,0
+Nepal,Kinchinjunga,27.7107,88.144,5.75,0
+Nepal,Kiratichhap,27.644,86.0774,5.75,0
+Nepal,Kiratpur,28.6274,80.944,5.75,0
+Nepal,Kirtipur,27.6774,85.294,5.75,0
+Nepal,Lalitpur,27.5941,85.3441,5.75,0
+Nepal,Lekhparajuli,28.4441,81.6441,5.75,0
+Nepal,Lhonak,27.7941,88.0441,5.75,0
+Nepal,Lhotse,27.9775,86.9441,5.75,0
+Nepal,Mingbo,27.8609,86.8109,5.75,0
+Nepal,Nagma,29.211,81.8943,5.75,0
+Nepal,Nagmati Khola,27.7777,85.4443,5.75,0
+Nepal,Nakhu Khola,27.6777,85.311,5.75,0
+Nepal,Nalakankar Pass,30.2777,81.4443,5.75,0
+Nepal,Namai,27.8777,82.5277,5.75,0
+Nepal,Nambo,29.2443,83.961,5.75,0
+Nepal,Namde Goan,29.2777,83.111,5.75,0
+Nepal,Namdu,27.1443,87.7943,5.75,0
+Nepal,Namja La,29.9777,82.5777,5.75,0
+Nepal,Namlang,29.6277,82.461,5.75,0
+Nepal,Namrek,27.2943,87.9443,5.75,0
+Nepal,Nanche Bazar,27.8277,86.7277,5.75,0
+Nepal,Nandpur,27.5777,84.0443,5.75,0
+Nepal,Nang-pu-la Shan-k ou,28.0943,86.611,5.75,0
+Nepal,Nara La,30.0943,81.4277,5.75,0
+Nepal,Narayanghat,27.6943,84.4277,5.75,0
+Nepal,Narayani Anchal,27.4277,85.011,5.75,0
+Nepal,Narcheng,28.5277,83.6943,5.75,0
+Nepal,Nargaon,29.261,80.661,5.75,0
+Nepal,Naubise,27.7277,85.161,5.75,0
+Nepal,Nauranga,28.6943,80.4777,5.75,0
+Nepal,Nawakot,27.9277,85.1777,5.75,0
+Nepal,Nawalparasi,27.6777,83.9277,5.75,0
+Nepal,Nayagaon,28.0943,82.811,5.75,0
+Nepal,Nepa,28.661,81.9277,5.75,0
+Nepal,Nepalganj,28.061,81.6277,5.75,0
+Nepal,Nepaltar,26.911,86.5443,5.75,0
+Nepal,Nepka,29.8443,82.1443,5.75,0
+Nepal,Neta,28.561,81.7943,5.75,0
+Nepal,Neto,29.6943,81.6943,5.75,0
+Nepal,Ngyak,28.461,84.911,5.75,0
+Nepal,Nijgarh,27.211,85.1777,5.75,0
+Nepal,Ninyal,30.1277,81.711,5.75,0
+Nepal,Nisalgaon,29.3943,83.1277,5.75,0
+Nepal,Nougam,27.6777,85.2777,5.75,0
+Nepal,Num,27.561,87.2943,5.75,0
+Nepal,Nup,27.7277,87.861,5.75,0
+Nepal,Nuwaket,28.1443,83.8943,5.75,0
+Nepal,Nuwakot,28.011,83.8443,5.75,0
+Nepal,Odarapur,28.1278,81.5611,5.75,0
+Nepal,Ojna,28.9944,80.7278,5.75,0
+Nepal,Okhaldhunga Bazaar,27.3278,86.5111,5.75,0
+Nepal,Okhaldungga,27.3444,86.4278,5.75,0
+Nepal,Olang,28.2278,84.6111,5.75,0
+Nepal,Oligaon,29.3944,81.3611,5.75,0
+Nepal,Pedo La,29.2112,83.4445,5.75,0
+Nepal,Prangmu,27.1945,87.9279,5.75,0
+Nepal,Pratappur,28.4945,81.3279,5.75,0
+Nepal,Pyuthan,28.0945,82.8445,5.75,0
+Nepal,Qomolangma Feng,27.9946,86.9446,5.75,0
+Nepal,Rabga La,27.8947,87.5447,5.75,0
+Nepal,Rajapur,28.4447,81.0947,5.75,0
+Nepal,Rajbiraj,26.5447,86.7614,5.75,0
+Nepal,Ramdikbana,28.6781,81.5781,5.75,0
+Nepal,Ramechhap,27.4281,86.0947,5.75,0
+Nepal,Ramgarh,28.7614,80.9281,5.75,0
+Nepal,Ramnagar,27.0947,85.0781,5.75,0
+Nepal,Rang Ghat,28.5114,81.7447,5.75,0
+Nepal,Rangeli,26.4781,87.4947,5.75,0
+Nepal,Rangkhung,28.4781,82.5447,5.75,0
+Nepal,Ranibirta,26.6447,87.9947,5.75,0
+Nepal,Ranitar,26.8947,86.9947,5.75,0
+Nepal,Rapti,28.3447,82.5114,5.75,0
+Nepal,Rara,29.5781,82.0781,5.75,0
+Nepal,Rasi,28.9614,82.9114,5.75,0
+Nepal,Raskot,29.2447,81.6614,5.75,0
+Nepal,Rasnadu Village,27.5781,86.2114,5.75,0
+Nepal,Rasua Garhi,28.2947,85.3947,5.75,0
+Nepal,Rauthat,27.0114,85.3447,5.75,0
+Nepal,Rear,27.9114,82.3447,5.75,0
+Nepal,Rehra,27.5947,83.1447,5.75,0
+Nepal,Rijabang,28.4281,82.4781,5.75,0
+Nepal,Rimi,29.1447,82.5781,5.75,0
+Nepal,Ririkot,29.2281,81.2281,5.75,0
+Nepal,Rolpa,28.4281,82.7614,5.75,0
+Nepal,Rolwaling Himal,27.9614,86.3447,5.75,0
+Nepal,Rosi Khola,27.4614,85.8281,5.75,0
+Nepal,Royal Chitwan,27.5947,84.3447,5.75,0
+Nepal,Rukum,28.7614,82.5947,5.75,0
+Nepal,Rumalgaon,28.8447,82.1281,5.75,0
+Nepal,Rummin-dei,27.4947,83.2947,5.75,0
+Nepal,Rupa Tal,28.1614,84.1114,5.75,0
+Nepal,Rupandehi,27.6781,83.4281,5.75,0
+Nepal,Tokna,27.7616,85.3449,5.75,0
+Nepal,Toli,28.9116,81.3449,5.75,0
+Nepal,Topke Gola,27.6616,87.5783,5.75,0
+Nepal,Toridwari,28.8449,82.7449,5.75,0
+Nepal,Udai,28.1784,81.7784,5.75,0
+Nepal,Udayapur Garhi,26.945,86.5284,5.75,0
+Nepal,Udaypur,26.9284,86.6784,5.75,0
+Nepal,Ukta,29.095,82.495,5.75,0
+Nepal,Ulejula,28.545,82.345,5.75,0
+Nepal,Umari,29.095,81.045,5.75,0
+Nepal,Umraro,29.245,80.9284,5.75,0
+Nepal,Umse,27.8784,84.1284,5.75,0
+Nepal,Unapani,29.795,81.9117,5.75,0
+Nepal,Upardang Gadhi,27.7784,84.5784,5.75,0
+Nepal,Uwagaon,28.445,82.8284,5.75,0
+Nepal,Vijayapur Khola,28.1618,84.0451,5.75,0
+Nepal,Vishnupura,27.4785,83.5785,5.75,0
+Nepal,Waleng,27.5119,87.1952,5.75,0
+Nepal,Wali,28.2786,81.9119,5.75,0
+Nepal,Waling,27.9952,83.7786,5.75,0
+Nepal,Walung,27.8286,87.7286,5.75,0
+Nepal,Walungchung Gola,27.6952,87.8119,5.75,0
+Nepal,Wamitaksar,28.1952,83.3119,5.75,0
+Nepal,Wapsa Khani,27.5286,86.7286,5.75,0
+Nepal,Weng-po-la Shan-k ou,27.8452,87.6619,5.75,0
+Nepal,Wu-lei Shan-k ou,30.1119,81.2119,5.75,0
+Nepal,Xarba La,29.3287,84.0953,5.75,0
+Nepal,Yalung Glacier,27.5954,88.0121,5.75,0
+Nepal,Yamju,28.6621,85.0121,5.75,0
+Nepal,Yanang Bhanjyang,29.3788,83.3954,5.75,0
+Nepal,Yang Fu Ring,27.4621,87.9121,5.75,0
+Nepal,Yang-ma-k ang-la Shan-k ou,27.8454,87.7788,5.75,0
+Nepal,Yangar,30.0288,81.6121,5.75,0
+Nepal,Yangbel,27.5454,85.7288,5.75,0
+Nepal,Yapkel,30.0121,81.7454,5.75,0
+Nepal,Yari,30.0788,81.4788,5.75,0
+Nepal,Yarsa,28.0121,85.3288,5.75,0
+Nepal,Yektim,27.2121,87.9288,5.75,0

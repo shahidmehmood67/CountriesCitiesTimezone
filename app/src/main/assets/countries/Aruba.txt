@@ -1,0 +1,71 @@
+Aruba,Barcelona,12.5167,-70.0167,-4GMT,64
+Aruba,Blumond,12.5333,-70.9833,-4GMT,64
+Aruba,Boca Chikitu,12.5667,-69.9833,-4GMT,64
+Aruba,Cas di Paloma,12.4833,-70.0000,-4GMT,64
+Aruba,Cashero,12.5167,-69.9833,-4GMT,64
+Aruba,Casibari,12.5333,-69.9833,-4GMT,64
+Aruba,Ceru Colorado,12.4167,-69.8667,-4GMT,64
+Aruba,Ceru Grandi,12.5833,-70.0167,-4GMT,64
+Aruba,Ceru Pretu,12.4500,-69.9000,-4GMT,64
+Aruba,Cudarebe,12.6167,-70.0667,-4GMT,64
+Aruba,Dacota,12.5000,-70.0167,-4GMT,64
+Aruba,De Vuyst,12.4333,-69.8833,-4GMT,64
+Aruba,Dos Playa,12.5000,-69.9167,-4GMT,64
+Aruba,Druif,12.6000,-70.0167,-4GMT,64
+Aruba,Falcon,12.5333,-70.0167,-4GMT,64
+Aruba,Fontein,12.5000,-69.9000,-4GMT,64
+Aruba,Gasparito,12.5500,-70.0333,-4GMT,64
+Aruba,Gran Tonel,12.4833,-69.9167,-4GMT,64
+Aruba,Habrie,12.5000,-70.0333,-4GMT,64
+Aruba,Hadikoerari,12.5833,-70.0333,-4GMT,64
+Aruba,Haven Barcadera,12.4833,-70.0083,-4GMT,64
+Aruba,Indiaanskop,12.4167,-69.9000,-4GMT,64
+Aruba,Jamanota,12.4833,-69.9333,-4GMT,64
+Aruba,Jan Flemming,12.4833,-69.9667,-4GMT,64
+Aruba,Kaap Bassora,12.4167,-69.8500,-4GMT,64
+Aruba,Kaas di Paloma,12.4833,-70.0167,-4GMT,64
+Aruba,Klein Lagoen,12.4000,-69.8667,-4GMT,64
+Aruba,Lagoen,12.4667,-70.0000,-4GMT,64
+Aruba,Mabon,12.4500,-69.9167,-4GMT,64
+Aruba,Macuarima,12.5000,-69.9667,-4GMT,64
+Aruba,Mahuma,12.5000,-69.9833,-4GMT,64
+Aruba,Malmok,12.6000,-70.0667,-4GMT,64
+Aruba,Matadera,12.5500,-70.0167,-4GMT,64
+Aruba,Meiveld,12.5167,-70.0000,-4GMT,64
+Aruba,Moco,12.5500,-70.0000,-4GMT,64
+Aruba,Nanki,12.4167,-69.8833,-4GMT,64
+Aruba,Noord,12.5667,-70.0167,-4GMT,64
+Aruba,Noord Cura Cabai,12.4500,-69.9333,-4GMT,64
+Aruba,Noordkaap,12.5333,-69.9333,-4GMT,64
+Aruba,Noordwestpunt,12.6167,-70.0500,-4GMT,64
+Aruba,Nune,12.5333,-70.0000,-4GMT,64
+Aruba,Oranjestad,12.5167,-70.0333,-4GMT,64
+Aruba,Palu Marga,12.4667,-69.9000,-4GMT,64
+Aruba,Paradijs,12.5333,-70.0333,-4GMT,64
+Aruba,Poos Chikitoe,12.5667,-70.0667,-4GMT,64
+Aruba,Rincon,12.4667,-69.8667,-4GMT,64
+Aruba,Rooi Awa Marga,12.5333,-69.9500,-4GMT,64
+Aruba,Rooi Bosal,12.4667,-69.9833,-4GMT,64
+Aruba,Rooi Cochi,12.4333,-69.9333,-4GMT,64
+Aruba,Rooi Fluit,12.5167,-69.9333,-4GMT,64
+Aruba,Rooi Frances,12.4667,-69.9667,-4GMT,64
+Aruba,Rooi Lamunchi,12.4500,-69.9500,-4GMT,64
+Aruba,Rooi Master,12.4333,-69.9167,-4GMT,64
+Aruba,Rooi Prikichi,12.5333,-69.9667,-4GMT,64
+Aruba,Rooi Prins,12.4833,-69.9000,-4GMT,64
+Aruba,Rooi Spoki,12.4333,-69.9000,-4GMT,64
+Aruba,Sabana Basora,12.4667,-69.9500,-4GMT,64
+Aruba,Sabania Abao,12.5167,-69.9500,-4GMT,64
+Aruba,Sero Bonchi,12.5000,-69.9333,-4GMT,64
+Aruba,Sero Tijshi,12.4833,-69.9833,-4GMT,64
+Aruba,Sint Arasji,12.6000,-70.0500,-4GMT,64
+Aruba,Smal,12.4333,-69.9500,-4GMT,64
+Aruba,Tanki Cas Ariba,12.5000,-69.9500,-4GMT,64
+Aruba,Turibana,12.5667,-70.0333,-4GMT,64
+Aruba,Urataka,12.5167,-69.9667,-4GMT,64
+Aruba,Urirama,12.5833,-70.0000,-4GMT,64
+Aruba,Vader Piet,12.4667,-69.8833,-4GMT,64
+Aruba,Wariruri,12.5500,-69.9833,-4GMT,64
+Aruba,Wayaca,12.5000,-70.0000,-4GMT,64
+Aruba,Westhaven,12.5167,-70.0500,-4GMT,64
+Aruba,Westpunt,12.6000,-70.0333,-4GMT,64

@@ -1,0 +1,169 @@
+Suriname,Auca_Sipaliwini,4.493,-54.4403,-3,0
+Suriname,Auca_Brokopondo,5.3597,-55.0236,-3,0
+Suriname,Aucaners_Sipaliwini,3.8097,-54.8403,-3,0
+Suriname,Clevia_Commewijne,5.8766,-55.0901,-3,0
+Suriname,Domburg_Wanica,5.71,-55.0733,-3,0
+Suriname,Ede Tabiki,4.2434,-54.3566,-3,0
+Suriname,Eduardkondre_Marowijne,5.4768,-54.0899,-3,0
+Suriname,Eerste Bacoven Polder_Nickerie,5.8934,-56.9399,-3,0
+Suriname,Eiland Kordonsanti_Sipaliwini,4.5101,-55.3399,-3,0
+Suriname,Eiland Sannetje_Brokopondo,5.2101,-55.0732,-3,0
+Suriname,Eilerts de Haan Airstrip_Sipaliwini,3.1101,-56.4566,-3,0
+Suriname,Eilerts de Haan Gebergte_Sipaliwini,3.0101,-56.1566,-3,0
+Suriname,Elisabeth s Hoop_Commewijne,5.9101,-55.0232,-3,0
+Suriname,Emma Rivier_Sipaliwini,3.8601,-54.5232,-3,0
+Suriname,Emponou Tabiki_Sipaliwini,3.5268,-53.9899,-3,0
+Suriname,Ephratha_Commewijne,5.8268,-54.7399,-3,0
+Suriname,Escudo de Guayana,4.0101,-59.9899,-3,0
+Suriname,Fallawatra Rivier_Sipaliwini,5.1102,-56.5065,-3,0
+Suriname,Fember Kreek_Saramacca,5.4602,-55.4398,-3,0
+Suriname,Feroelasi Val_Sipaliwini,4.3935,-55.3898,-3,0
+Suriname,Fijikkoe Prati_Sipaliwini,4.0769,-55.8731,-3,0
+Suriname,Fingribado Kreek_Marowijne,5.5769,-54.4565,-3,0
+Suriname,Fleuve Maroni_Marowijne,5.7602,-53.9565,-3,0
+Suriname,Fobakka-kreek_Brokopondo,4.9935,-54.9731,-3,0
+Suriname,Foendoegottro_Sipaliwini,5.0602,-55.5565,-3,0
+Suriname,Foendoeman Kreek_Brokopondo,5.2769,-55.0731,-3,0
+Suriname,Foengoe Eiland_Sipaliwini,4.7435,-56.1898,-3,0
+Suriname,Foengoe Kreek_Sipaliwini,4.7435,-56.2065,-3,0
+Suriname,Foetoe Kreek_Sipaliwini,4.7602,-56.3565,-3,0
+Suriname,Foetoeswitie Gebergte_Sipaliwini,3.6435,-54.1565,-3,0
+Suriname,Fort Neu-Amsterdam_Commewijne,5.8935,-55.0731,-3,0
+Suriname,Fossiebergi_Brokopondo,5.2269,-55.3231,-3,0
+Suriname,Fransikasaba_Sipaliwini,4.3935,-55.7898,-3,0
+Suriname,Fransman Landing_Sipaliwini,5.2102,-57.0565,-3,0
+Suriname,Frederick Willem IV-val_Sipaliwini,3.4769,-57.6065,-3,0
+Suriname,Frederiks Lust_Commewijne,5.9769,-54.9398,-3,0
+Suriname,Gloria_Nickerie,5.8936,-56.8897,-3,0
+Suriname,Haarlem_Para,5.6604,-55.3229,-3,0
+Suriname,Halte Berlijn_Para,5.4104,-55.2063,-3,0
+Suriname,Hannover_Para,5.5104,-55.1396,-3,0
+Suriname,Harikodja Kreek_Sipaliwini,4.9271,-54.4729,-3,0
+Suriname,Hattioewanna Kreek_Coronie,5.3771,-56.0729,-3,0
+Suriname,Hazzard_Nickerie,5.9271,-56.9396,-3,0
+Suriname,Hebiweri_Sipaliwini,4.4271,-56.5563,-3,0
+Suriname,Hede Kreek_Para,5.5104,-54.6563,-3,0
+Suriname,Helena Christinaweg_Wanica,5.7437,-55.2396,-3,0
+Suriname,Heliba_Sipaliwini,4.7271,-55.5396,-3,0
+Suriname,Hendriksen Kreek,5.6104,-54.6896,-3,0
+Suriname,Hermina Bank_Saramacca,5.9271,-55.9229,-3,0
+Suriname,Herstelling_Commewijne,6.0104,-54.9229,-3,0
+Suriname,Herstellings Kreek_Commewijne,5.6104,-54.7563,-3,0
+Suriname,Hertenrits_Nickerie,5.9104,-56.6396,-3,0
+Suriname,Himkar Kreek_Sipaliwini,4.6437,-56.2563,-3,0
+Suriname,Hoek Galibi_Marowijne,5.7604,-53.9896,-3,0
+Suriname,Hoek van Meerzorg_Commewijne,5.8271,-55.1396,-3,0
+Suriname,Hoepel Kreek_Sipaliwini,5.3604,-56.1229,-3,0
+Suriname,Hok-A-Hing Gebergte_Sipaliwini,4.9771,-54.7563,-3,0
+Suriname,Hoofdkamp_Sipaliwini,2.9771,-55.3563,-3,0
+Suriname,Houttuinweg_Wanica,5.7104,-55.1896,-3,0
+Suriname,Huntley Kreek_Nickerie,5.9437,-56.9063,-3,0
+Suriname,Lelydorp_Wanica,5.7108,-55.2225,-3,0
+Suriname,Lelydorp Project_Para,5.6275,-55.1892,-3,0
+Suriname,Lelydorpweg_Wanica,5.6941,-55.2059,-3,0
+Suriname,Nanni Dam_Nickerie,5.8277,-56.9723,-3,0
+Suriname,Nanni Kreek_Nickerie,5.8943,-57.0723,-3,0
+Suriname,Nanni Meer_Nickerie,5.411,-57.0057,-3,0
+Suriname,Nanni Sluis_Nickerie,5.8943,-57.0557,-3,0
+Suriname,Nason_Sipaliwini,4.8443,-54.4557,-3,0
+Suriname,Nassau Range_Sipaliwini,4.811,-54.589,-3,0
+Suriname,Nederlandisch Guyana,4.011,-55.989,-3,0
+Suriname,Negro Kreek_Sipaliwini,4.411,-56.2557,-3,0
+Suriname,Neti Kreek_Sipaliwini,5.1943,-56.139,-3,0
+Suriname,Nickerie,5.961,-56.9723,-3,0
+Suriname,Nickerie Punt_Nickerie,6.011,-56.989,-3,0
+Suriname,Nickerie River_Sipaliwini,4.7943,-56.7557,-3,0
+Suriname,Nickerie Rivier,5.9943,-56.989,-3,0
+Suriname,Nieuw Bambeij_Sipaliwini,4.3277,-55.4057,-3,0
+Suriname,Nieuw Mocha_Commewijne,5.911,-54.839,-3,0
+Suriname,Nieuw Star Eiland_Brokopondo,5.011,-54.9723,-3,0
+Suriname,Nieuwe Rust_Commewijne,5.5943,-55.0223,-3,0
+Suriname,Nikerie_Nickerie,5.6777,-56.8223,-3,0
+Suriname,Ningre Kreek_Sipaliwini,4.5277,-56.089,-3,0
+Suriname,Ningri Peprekondri,5.4943,-54.6223,-3,0
+Suriname,Nioe-konare_Sipaliwini,4.961,-55.539,-3,0
+Suriname,Njoeboeroe Kreek_Marowijne,5.5777,-54.4223,-3,0
+Suriname,Nonno Soela_Sipaliwini,4.6777,-56.2557,-3,0
+Suriname,Nooitgedacht_Nickerie,5.861,-56.839,-3,0
+Suriname,Noord Kreek_Brokopondo,5.211,-55.3057,-3,0
+Suriname,Novar_Coronie,5.8943,-56.3557,-3,0
+Suriname,Noya Kreek_Nickerie,5.511,-56.5557,-3,0
+Suriname,October Kreek_Nickerie,5.4444,-57.2389,-3,0
+Suriname,Oelemari_Sipaliwini,3.1111,-54.5222,-3,0
+Suriname,Oelemari River_Sipaliwini,3.2278,-54.1389,-3,0
+Suriname,Oemakondre_Brokopondo,4.9444,-55.5389,-3,0
+Suriname,Oeman Kreek_Nickerie,5.5444,-56.7222,-3,0
+Suriname,Oeman Santie_Sipaliwini,4.1778,-55.4222,-3,0
+Suriname,Ojarikoela Kreek_Sipaliwini,3.1444,-54.1889,-3,0
+Suriname,Ojodidde Kreek_Brokopondo,5.2111,-55.3556,-3,0
+Suriname,Omosee Kreek_Sipaliwini,5.3444,-56.1389,-3,0
+Suriname,Onikaikondre_Marowijne,5.4611,-54.0889,-3,0
+Suriname,Onobisi Kreek_Sipaliwini,5.3444,-56.0389,-3,0
+Suriname,Onobo Kreek_Commewijne,5.5611,-54.8056,-3,0
+Suriname,Onverdacht_Para,5.6111,-55.1389,-3,0
+Suriname,Opak Val_Sipaliwini,2.8111,-55.3722,-3,0
+Suriname,Oplanie_Marowijne,5.6944,-54.3222,-3,0
+Suriname,Oppegon Kreek_Sipaliwini,3.9778,-54.8056,-3,0
+Suriname,Oranje Stroom_Marowijne,5.8778,-54.5556,-3,0
+Suriname,Orelana Kreek_Commewijne,5.8944,-54.9556,-3,0
+Suriname,Oroprecaro Kreek_Nickerie,5.5278,-57.1889,-3,0
+Suriname,Otto Savanne_Brokopondo,5.3444,-55.1056,-3,0
+Suriname,Ouamaouetpeu Icholi,2.9611,-54.1722,-3,0
+Suriname,Oude Post Kreek_Nickerie,5.7944,-56.7222,-3,0
+Suriname,Oude Savana Kreek_Nickerie,5.4111,-56.7222,-3,0
+Suriname,Oudemans Kreek_Marowijne,5.7278,-54.6222,-3,0
+Suriname,Ouekoeko Tabiki_Sipaliwini,4.9444,-54.4389,-3,0
+Suriname,Ouman Kasiabra Soula,3.7111,-54.0722,-3,0
+Suriname,Ouroewossoe Pratie_Sipaliwini,4.5111,-55.7389,-3,0
+Suriname,Overtoom_Para,5.5944,-55.1389,-3,0
+Suriname,Ovilonholloi_Marowijne,5.5278,-54.4056,-3,0
+Suriname,Paramaribo,5.8445,-55.1555,-3,0
+Suriname,Phedra_Brokopondo,5.3445,-55.0388,-3,0
+Suriname,Queriman Island_Nickerie,5.778,-57.1554,-3,0
+Suriname,Rac a Rac_Commewijne,5.6447,-55.0386,-3,0
+Suriname,Raleighvallen_Sipaliwini,4.7281,-56.1886,-3,0
+Suriname,Rechter Adampada Kreek_Sipaliwini,4.5114,-56.6219,-3,0
+Suriname,Rechter Pimba Kreek_Sipaliwini,3.4781,-54.9886,-3,0
+Suriname,Rene Soela_Sipaliwini,4.5947,-56.2886,-3,0
+Suriname,Republiek_Para,5.5114,-55.1886,-3,0
+Suriname,Reynsdorp_Commewijne,5.9447,-54.8886,-3,0
+Suriname,Ribanica Kreek_Marowijne,5.4947,-54.6553,-3,0
+Suriname,Ricanau Moffo_Marowijne,5.6947,-54.4053,-3,0
+Suriname,Rijsdijkweg_Para,5.6281,-55.2219,-3,0
+Suriname,Rio Coppename,5.8114,-55.9053,-3,0
+Suriname,Rio Saramacca,5.8614,-55.8719,-3,0
+Suriname,Rio Tapanahoni_Sipaliwini,4.3781,-54.4386,-3,0
+Suriname,River Corentin,5.9614,-57.0886,-3,0
+Suriname,Riviere Awa,4.3781,-54.4219,-3,0
+Suriname,Riviere Litani,3.3114,-54.0886,-3,0
+Suriname,Rooseveltpiek_Sipaliwini,3.3614,-55.1719,-3,0
+Suriname,Rozen Kreek_Sipaliwini,4.8114,-56.1219,-3,0
+Suriname,Rufin Kreek_Sipaliwini,3.6947,-54.0719,-3,0
+Suriname,Uitkijk_Wanica,5.7784,-55.3216,-3,0
+Suriname,Umuru Rapids_Sipaliwini,3.6784,-57.805,-3,0
+Suriname,Unverwacht_Para,5.595,-55.1716,-3,0
+Suriname,Utrecht_Nickerie,5.7617,-56.655,-3,0
+Suriname,Vliegveld Coronie_Coronie,5.8785,-56.3049,-3,0
+Suriname,Yzer Kreek_Sipaliwini,4.8454,-56.1046,-3,0
+Suriname,Zaja Kreek_Sipaliwini,4.3289,-55.3711,-3,0
+Suriname,Zand Kreek_Sipaliwini,3.8622,-54.2211,-3,0
+Suriname,Zand Val_Sipaliwini,4.8122,-57.4211,-3,0
+Suriname,Zanderij_Para,5.4622,-55.1878,-3,0
+Suriname,Zandery_Para,5.4622,-55.1711,-3,0
+Suriname,Zaoe Tabriki_Sipaliwini,3.3955,-54.0378,-3,0
+Suriname,Zeekoe Kreek_Saramacca,5.4955,-55.6045,-3,0
+Suriname,Zeven Broeders Vallen_Sipaliwini,3.5622,-57.4711,-3,0
+Suriname,Ziparij-kreek_Coronie,5.3622,-56.4045,-3,0
+Suriname,Zoelen_Commewijne,5.8955,-55.0545,-3,0
+Suriname,Zoetwater Kanaal_Coronie,5.9289,-56.3211,-3,0
+Suriname,Zoewatta_Brokopondo,4.5622,-55.2878,-3,0
+Suriname,Zohigronpoenta_Sipaliwini,4.0289,-55.8711,-3,0
+Suriname,Zondag Kreek_Sipaliwini,4.4789,-56.0211,-3,0
+Suriname,Zondag Kreek_Coronie,5.8122,-55.6878,-3,0
+Suriname,Zonnevis Kreek_Sipaliwini,5.1955,-56.0711,-3,0
+Suriname,Zorg en Hoop_Paramaribo,5.8289,-55.1878,-3,0
+Suriname,Zorgvliet_Commewijne,5.8622,-55.0211,-3,0
+Suriname,Zoutoa Kreek_Sipaliwini,4.8455,-54.6878,-3,0
+Suriname,Zuid Rivier_Sipaliwini,3.3455,-56.8045,-3,0
+Suriname,Zwamp Kreek_Sipaliwini,5.0289,-56.6878,-3,0
+Suriname,Zwampoekondre_Marowijne,5.3455,-54.1878,-3,0

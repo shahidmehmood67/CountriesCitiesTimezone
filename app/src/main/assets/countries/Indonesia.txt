@@ -1,0 +1,378 @@
+Indonesia,Acasta,1.6500,106.3167,7GMT,293
+Indonesia,Acemanis,-7.1897,112.9633,7GMT,294
+Indonesia,Acheh Head,5.5767,95.2236,7GMT,292
+Indonesia,Achin,4.0000,97.0000,7GMT,293
+Indonesia,Ackgadang,0.8000,99.5667,7GMT,294
+Indonesia,Acobange,-4.6817,120.2700,8GMT,292
+Indonesia,Acok,-6.3114,106.4806,7GMT,295
+Indonesia,Ambon,-3.7167,128.2000,9GMT,292
+Indonesia,Aur,-3.7333,104.2333,7GMT,295
+Indonesia,Babo_Papua,-2.5500,133.4167,9GMT,291
+Indonesia,Babo_Sulawesi Utara,0.8386,123.8822,8GMT,292
+Indonesia,Babo_Aceh,4.2936,97.8806,7GMT,293
+Indonesia,Bali,-8.3333,115.0000,8GMT,294
+Indonesia,Balikpapan,-1.2833,116.8333,8GMT,292
+Indonesia,Banda Aceh,5.5553,95.3178,7GMT,292
+Indonesia,Bandar Lampung,-5.4500,105.2667,7GMT,295
+Indonesia,Bandung_Jawa Barat,-6.3253,106.4914,7GMT,295
+Indonesia,Bandung_Jawa Tengah,-7.2969,110.6489,7GMT,295
+Indonesia,Bandung Dua,-7.0142,112.5125,7GMT,294
+Indonesia,Bandungan_Jawa Timur,-7.1206,112.8617,7GMT,294
+Indonesia,Bandungan_Sulawesi Tengah,0.4997,120.4225,8GMT,292
+Indonesia,Bandungreja,-7.4161,110.3683,7GMT,295
+Indonesia,Bandungrejo,-7.9983,112.6108,7GMT,294
+Indonesia,Bangil,-7.6000,112.7833,7GMT,294
+Indonesia,Bangka Island,-2.2500,106.0000,7GMT,294
+Indonesia,Banjarbaru,-3.4167,114.8333,7GMT,293
+Indonesia,Banjarmasin,-3.3333,114.5833,7GMT,293
+Indonesia,Banjarnegara,-7.3833,109.6833,7GMT,295
+Indonesia,Banten,-6.0317,106.2028,7GMT,295
+Indonesia,Bantul,-7.9000,110.3333,7GMT,295
+Indonesia,Banyuwangi,-8.2000,114.3500,7GMT,294
+Indonesia,Barabai,-2.5833,115.3833,7GMT,293
+Indonesia,Batambak,-7.1011,112.9694,7GMT,294
+Indonesia,Batammatasape,-5.9333,120.5000,8GMT,293
+Indonesia,Batang,-6.9167,109.7500,7GMT,295
+Indonesia,Battam,1.0833,104.0500,7GMT,293
+Indonesia,Baturaden,-7.3000,109.2167,7GMT,295
+Indonesia,Bekasi,-6.2394,106.9928,7GMT,295
+Indonesia,Bekasi River,-6.0550,107.0003,7GMT,295
+Indonesia,Bendulmrisi,-7.3108,112.7419,7GMT,294
+Indonesia,Bengkalis,1.4667,102.1333,7GMT,293
+Indonesia,Bengkulu,-3.8000,102.2667,7GMT,296
+Indonesia,Biak,-1.1667,136.1000,9GMT,292
+Indonesia,Blitar,-8.1000,112.1500,7GMT,295
+Indonesia,Boalemo_Sulawesi Utara,0.5300,122.3475,8GMT,292
+Indonesia,Boalemo_Sulawesi Tengah,-0.5767,123.1511,8GMT,292
+Indonesia,Bogor,-6.1675,106.3514,7GMT,295
+Indonesia,Bogor_Jawa Tengah,-7.1061,110.7319,7GMT,295
+Indonesia,Bojonegoro,-7.1500,111.8667,7GMT,294
+Indonesia,Bontang,0.1333,117.5000,8GMT,292
+Indonesia,Bukittinggi_Sulawesi Utara,1.0686,124.9639,8GMT,292
+Indonesia,Bukittinggi_Sumatera Barat,-0.3167,100.3667,7GMT,295
+Indonesia,Cawas,-7.7500,110.6833,7GMT,295
+Indonesia,Ci Anjur,-6.8167,107.1333,7GMT,295
+Indonesia,Ciamis,-7.3333,108.3500,7GMT,295
+Indonesia,Ciawi,-7.1111,107.4842,7GMT,295
+Indonesia,Cikarang,-6.4075,106.4936,7GMT,295
+Indonesia,Cilacap,-7.7333,109.0000,7GMT,295
+Indonesia,Cilegon,-6.0156,106.0531,7GMT,295
+Indonesia,Cimahi,-6.8806,107.5428,7GMT,295
+Indonesia,Ciputat,-6.2353,106.7008,7GMT,295
+Indonesia,Cirebon,-6.7333,108.5667,7GMT,295
+Indonesia,Ciwandan,-6.0167,105.9500,7GMT,295
+Indonesia,Comal,-6.9167,109.5167,7GMT,295
+Indonesia,Curup,-3.4667,102.5333,7GMT,295
+Indonesia,Demak,-6.8833,110.6333,7GMT,295
+Indonesia,Denpasar,-8.6500,115.2167,8GMT,294
+Indonesia,Depok_Jawa Barat,-7.1292,107.5792,7GMT,295
+Indonesia,Depok_Jawa Tengah,-7.2739,110.2622,7GMT,295
+Indonesia,Djajaratu,-7.3167,108.0667,7GMT,295
+Indonesia,Dumai,1.6833,101.4500,7GMT,293
+Indonesia,Duri_Riau,1.4500,101.2500,7GMT,294
+Indonesia,Duri_Sulawesi Selatan,-4.6994,119.9553,8GMT,293
+Indonesia,Enrekang,-3.5608,119.7692,8GMT,292
+Indonesia,Gantar,-6.5172,107.9803,7GMT,295
+Indonesia,Gantara,-2.0589,120.9261,8GMT,292
+Indonesia,Gantarang,-5.4833,120.0667,8GMT,293
+Indonesia,Garoet,-7.2167,107.9000,7GMT,295
+Indonesia,Garut_Jawa Barat,-6.7850,107.2856,7GMT,295
+Indonesia,Garut_Aceh,5.0833,96.9333,7GMT,292
+Indonesia,Gorontalo,0.5344,123.0617,8GMT,292
+Indonesia,Gresik,-7.1539,112.6561,7GMT,294
+Indonesia,Indonesia,-5.0000,120.0000,8GMT,293
+Indonesia,Indramayu,-6.3333,108.3167,7GMT,295
+Indonesia,Indrapura,3.3000,99.3833,7GMT,293
+Indonesia,Jakarta,-6.1744,106.8294,7GMT,295
+Indonesia,Jakah,-7.3108,110.4092,7GMT,295
+Indonesia,Jambi,-5.4558,119.9906,8GMT,293
+Indonesia,Jayapura,-2.5333,140.7000,9GMT,291
+Indonesia,Jember,-8.1667,113.7000,7GMT,294
+Indonesia,Jombang,-7.5500,112.2333,7GMT,294
+Indonesia,Kaap Tanahmerah,-2.4333,133.1167,9GMT,291
+Indonesia,Kabupaten Karawang,-6.3333,107.3333,7GMT,295
+Indonesia,Kabupaten Sleman,-7.6667,110.5833,7GMT,295
+Indonesia,Karawang_ or ID06,-6.3125,107.2950,7GMT,295
+Indonesia,Karawang_Jawa Barat,-6.4408,106.4694,7GMT,295
+Indonesia,Karawang_Sulawesi Selatan,-4.6653,120.2964,8GMT,292
+Indonesia,Karimun-ketjil,1.1333,103.4000,7GMT,293
+Indonesia,Kasongan,-2.0000,113.3833,7GMT,293
+Indonesia,Kebumen,-7.3606,110.2658,7GMT,295
+Indonesia,Kediri,-7.8167,112.0167,7GMT,294
+Indonesia,Kendari,-3.9450,122.4989,8GMT,292
+Indonesia,Klaten,-7.7000,110.5833,7GMT,295
+Indonesia,Koealatjoekas,-0.4333,104.3000,7GMT,294
+Indonesia,Kotabaru,-3.2333,116.2167,7GMT,293
+Indonesia,Kotabumi,-4.8333,104.9000,7GMT,295
+Indonesia,Krian,-7.4108,112.5814,7GMT,294
+Indonesia,Kualakapuas,-3.1000,114.3500,7GMT,293
+Indonesia,Kualasimpang,4.2833,98.0500,7GMT,293
+Indonesia,Kualatanjung,3.3500,99.4833,7GMT,293
+Indonesia,Kudus,-6.8000,110.8333,7GMT,295
+Indonesia,Kuningan,-6.2300,106.8342,7GMT,295
+Indonesia,Kupang_Nusa Tenggara Timur,-10.1667,123.5833,8GMT,292
+Indonesia,Kupang_Jawa Tengah,-7.2533,110.4081,7GMT,295
+Indonesia,Kuta,-8.7167,115.1833,8GMT,294
+Indonesia,Lamongan,-7.1167,112.4167,7GMT,294
+Indonesia,Lampung,-1.8000,115.0667,7GMT,293
+Indonesia,Lampung Bay,-5.6667,105.3333,7GMT,296
+Indonesia,Langsa,4.4714,97.9664,7GMT,293
+Indonesia,Lhokseumawe,5.1667,97.1333,7GMT,292
+Indonesia,Limboto,0.6269,122.9742,8GMT,292
+Indonesia,Lumajang,-8.1333,113.2167,7GMT,294
+Indonesia,Madiun,-7.6167,111.5167,7GMT,295
+Indonesia,Magelang,-7.4667,110.2167,7GMT,295
+Indonesia,Makasar,-6.2833,106.8667,8GMT,295
+Indonesia,Makassar_Sulawesi Selatan,-5.1464,119.4386,7GMT,293
+Indonesia,Malang,-6.4789,106.6417,7GMT,295
+Indonesia,Malang_Jawa Timur,-7.6675,114.0636,7GMT,294
+Indonesia,Malang_Sulawesi Selatan,-3.6856,119.5658,7GMT,292
+Indonesia,Malang_Jawa Tengah,-7.4828,110.4206,7GMT,295
+Indonesia,Malang Pinggang,-2.6722,110.0844,7GMT,294
+Indonesia,Malangan 1,-7.3811,110.6092,7GMT,295
+Indonesia,Malangbong_Jawa Barat,-6.4517,106.4806,7GMT,295
+Indonesia,Malangbong_Jawa Timur,-7.4617,112.6300,7GMT,294
+Indonesia,Malanggo,0.1500,120.1297,8GMT,292
+Indonesia,Malanggong_Sulawesi Tengah,-1.2858,122.8325,8GMT,292
+Indonesia,Malanghong,-7.0500,108.0833,7GMT,295
+Indonesia,Malangnengah,-6.3325,106.5786,7GMT,295
+Indonesia,Malango,0.5081,121.8283,8GMT,292
+Indonesia,Malangsari,-8.3667,113.9500,7GMT,294
+Indonesia,Malifut,1.1667,127.8333,9GMT,292
+Indonesia,Mamuju,-2.6297,118.8856,7GMT,292
+Indonesia,Manado,1.4925,124.8383,8GMT,292
+Indonesia,Manokwari,-0.8667,134.0833,9GMT,292
+Indonesia,Marangkayu,-0.1333,117.4333,7GMT,292
+Indonesia,Mataram_Nusa Tenggara Barat,-8.5833,116.1167,7GMT,294
+Indonesia,Mataram_Sulawesi Selatan,-2.6117,120.4611,8GMT,292
+Indonesia,Medan,3.5833,98.6667,7GMT,293
+Indonesia,Melak,-0.2333,115.8333,7GMT,292
+Indonesia,Menteng,-6.1664,106.7878,7GMT,295
+Indonesia,Merauke,-8.4667,140.3333,9GMT,290
+Indonesia,Meulaboh,4.1500,96.1333,7GMT,293
+Indonesia,Minas,0.8333,101.4833,7GMT,294
+Indonesia,Mnamuk,-3.5167,126.8333,8GMT,292
+Indonesia,Moearabadak,-0.3333,117.4333,7GMT,292
+Indonesia,Muara Badak,-0.3333,117.4667,7GMT,292
+Indonesia,Muara Jawa,-0.9000,117.2500,7GMT,292
+Indonesia,Nganjuk,-7.6000,111.9167,7GMT,294
+Indonesia,Ngunut,-8.1000,112.0167,7GMT,295
+Indonesia,Nunukan,4.0833,117.6667,8GMT,291
+Indonesia,Nusa Dua,-8.8000,115.2333,7GMT,294
+Indonesia,Pacung,-8.3333,115.1833,7GMT,294
+Indonesia,Padang_Sulawesi Tengah,-0.8742,123.3542,8GMT,292
+Indonesia,Padang_Sumatera Barat,-0.9500,100.3500,7GMT,295
+Indonesia,Padang_Jawa Tengah,-7.0911,110.5672,7GMT,295
+Indonesia,Padang_Kalimantan Barat,-1.6500,108.9167,7GMT,293
+Indonesia,Padang_Aceh,4.0567,97.0703,7GMT,293
+Indonesia,Padang_Sulawesi Selatan,-3.3850,120.3781,8GMT,292
+Indonesia,Padang_Riau,2.9833,105.6667,7GMT,292
+Indonesia,Padang Bank,4.0333,117.9333,7GMT,291
+Indonesia,Padang Kelapa,-3.7333,102.2500,7GMT,296
+Indonesia,Padang Satu,-7.0753,110.4214,7GMT,295
+Indonesia,Padang Tikar-rivier,-0.7000,109.3667,7GMT,293
+Indonesia,Padang-baai,-8.5333,115.5167,7GMT,294
+Indonesia,Padang-wutun,-8.5167,122.8833,8GMT,292
+Indonesia,Padangairdingin,-1.4833,101.3167,7GMT,295
+Indonesia,Padangalai,-0.4667,100.2167,7GMT,295
+Indonesia,Padangguni,-3.7128,121.8772,8GMT,292
+Indonesia,Padangan,-7.1500,111.6000,7GMT,294
+Indonesia,Padangasri,-7.5833,112.4500,7GMT,294
+Indonesia,Padangassetang,-4.9972,119.5206,7GMT,293
+Indonesia,Padangcermin,-5.6167,105.1500,7GMT,296
+Indonesia,Padange,-4.5139,119.5892,7GMT,293
+Indonesia,Padangeng,-4.2475,119.8747,8GMT,292
+Indonesia,Padangganting,-0.5333,100.7000,7GMT,295
+Indonesia,Padanghalaban,-0.0003,99.7067,7GMT,295
+Indonesia,Padangi,2.5667,128.4667,9GMT,292
+Indonesia,Padangisi,-1.4167,121.8333,8GMT,292
+Indonesia,Padangkami,-0.3533,99.9500,7GMT,295
+Indonesia,Padangkelapa,-1.7000,102.8667,7GMT,295
+Indonesia,Padanglawas,-0.6000,100.9000,7GMT,295
+Indonesia,Padangloear,-0.3500,100.3667,7GMT,295
+Indonesia,Padanglura,-3.2214,120.2206,8GMT,292
+Indonesia,Padangnabidang,2.1000,99.6667,7GMT,294
+Indonesia,Padangnegeri,-5.2500,103.9333,7GMT,296
+Indonesia,Padangoenoih,2.6667,95.8000,7GMT,294
+Indonesia,Padangpadang,-3.3833,120.3167,8GMT,292
+Indonesia,Padangpanjang,-0.4500,100.4167,7GMT,295
+Indonesia,Padangsantiago,-0.8858,120.2194,8GMT,292
+Indonesia,Padangsappa,-3.2328,120.2575,8GMT,292
+Indonesia,Padangsarre,-2.6467,120.2181,8GMT,292
+Indonesia,Padangsidimpuan,1.3667,99.2667,7GMT,294
+Indonesia,Padangtangalau,-4.9150,119.6917,8GMT,293
+Indonesia,Padangtarap,0.3833,101.0500,7GMT,294
+Indonesia,Padangtepong,-3.7500,102.8000,7GMT,295
+Indonesia,Padangtidji,5.3667,95.8333,7GMT,292
+Indonesia,Padangtujuh,0.1167,99.8333,7GMT,294
+Indonesia,Padangulaktanding,-3.3667,102.8000,7GMT,295
+Indonesia,Pagaralam,-4.0167,103.2667,7GMT,295
+Indonesia,Palangkaraya,-2.2000,113.8333,7GMT,293
+Indonesia,Palembang,0.7903,120.3400,8GMT,292
+Indonesia,Palembang Puny,-6.8167,105.2167,7GMT,296
+Indonesia,Palembang Rivier,-2.3333,104.9333,7GMT,294
+Indonesia,Palembangan,-6.1611,106.2961,7GMT,295
+Indonesia,Palu_Sulawesi Tengah,-0.9017,119.8597,8GMT,292
+Indonesia,Palu_Nusa Tenggara Timur,-8.3333,121.7167,8GMT,293
+Indonesia,Pamekasan,-7.1667,113.4667,7GMT,294
+Indonesia,Pangkalpinang,-2.1333,106.1333,7GMT,294
+Indonesia,Parepare,-4.0100,119.6269,8GMT,292
+Indonesia,Pasuruan,-7.6333,112.9000,7GMT,294
+Indonesia,Pati,-6.7500,111.0167,7GMT,294
+Indonesia,Pekalongan_Jawa Tengah,-6.8833,109.6667,7GMT,295
+Indonesia,Pekalongan_Lampung,-5.0858,105.3667,7GMT,295
+Indonesia,Pekanbaru,0.5333,101.4500,7GMT,294
+Indonesia,Pelalawan,0.4500,102.0833,7GMT,294
+Indonesia,Pematangsiantar,2.9500,99.0500,7GMT,293
+Indonesia,Ponorogo,-7.8667,111.4500,7GMT,295
+Indonesia,Pontianak,-0.0333,109.3333,7GMT,293
+Indonesia,Prabumulih,-3.4500,104.2500,7GMT,295
+Indonesia,Probolinggo,-7.7500,113.2167,7GMT,294
+Indonesia,Puncak,-7.1100,107.6958,7GMT,295
+Indonesia,Purbalingga,-7.3333,109.5000,7GMT,295
+Indonesia,Purwakarta,-6.5569,107.4389,7GMT,295
+Indonesia,Purwokerto,-7.4167,109.2333,7GMT,295
+Indonesia,Q-Gebergte,-3.7500,140.6667,9GMT,291
+Indonesia,Quaarles Gebergte,-2.9167,119.5000,7GMT,292
+Indonesia,Quain Hill,4.0167,108.2167,7GMT,292
+Indonesia,Quallah Batoo,3.8833,96.7000,7GMT,293
+Indonesia,Quarantine Island,-5.1361,119.3856,7GMT,293
+Indonesia,Queen Olga Reef,-7.1800,112.7294,7GMT,294
+Indonesia,Queen Sophia Strait,-3.8000,133.9000,9GMT,291
+Indonesia,Ragunan,-8.1900,112.6622,7GMT,294
+Indonesia,Riau,-1.7167,105.9333,7GMT,294
+Indonesia,Riauw,1.0000,102.0000,7GMT,294
+Indonesia,Salatiga,-7.3411,110.5153,7GMT,295
+Indonesia,Samarinda,-0.5000,117.1500,8GMT,292
+Indonesia,Sampit,-2.5333,112.9500,7GMT,293
+Indonesia,Sangatta Rif,0.3333,117.7000,7GMT,292
+Indonesia,Sanggau,0.1333,110.6000,7GMT,293
+Indonesia,Sekayu,-2.8500,103.8500,7GMT,295
+Indonesia,Sekupang,1.1333,103.9333,7GMT,293
+Indonesia,Semarang,-7.0114,110.4111,7GMT,295
+Indonesia,Semarang River,-6.9500,110.4000,7GMT,295
+Indonesia,Semarangkai,-0.0167,110.5000,7GMT,293
+Indonesia,Sembayat,-7.0647,112.5747,7GMT,294
+Indonesia,Sengkang,-4.1264,120.0319,8GMT,292
+Indonesia,Serang,-3.0000,129.0000,9GMT,292
+Indonesia,Serang_Sulawesi Selatan,-2.9075,118.8883,7GMT,292
+Indonesia,Serang_Jawa Tengah,-7.1644,110.2686,7GMT,295
+Indonesia,Serpong,-6.3194,106.6664,7GMT,295
+Indonesia,Sidikalang,2.7500,98.3167,7GMT,293
+Indonesia,Sidoarjo_Jawa Timur,-7.4539,112.7203,7GMT,294
+Indonesia,Sidoarjo_Sulawesi Tenggara,-4.0614,122.2953,8GMT,292
+Indonesia,Sidoarjo_Sulawesi Tengah,1.0575,120.8061,8GMT,292
+Indonesia,Simongagrok,-7.3333,112.3500,7GMT,294
+Indonesia,Singkawang,0.9000,109.0000,7GMT,293
+Indonesia,Situbondo,-7.7014,114.0044,7GMT,294
+Indonesia,Solo_Sulawesi Selatan,-2.9606,119.8797,8GMT,292
+Indonesia,Solo_Nusa Tenggara Timur,-9.5250,124.9358,8GMT,292
+Indonesia,Soroako,-2.5183,121.3564,8GMT,292
+Indonesia,Sorong,-0.8833,131.2500,9GMT,292
+Indonesia,Srandakan,-7.9333,110.2500,7GMT,295
+Indonesia,Subanburung,-2.5333,103.4000,7GMT,295
+Indonesia,Sukabumi_ or ID06,-6.9167,106.9272,7GMT,296
+Indonesia,Sukabumi,-4.6167,103.9000,7GMT,296
+Indonesia,Sukabumi_Kalimantan Tengah,-2.6833,111.6167,7GMT,293
+Indonesia,Sulawesi Utara,1.2500,124.8333,8GMT,292
+Indonesia,Sumatera Utara,2.0000,99.0000,7GMT,294
+Indonesia,Sumbawa Besar,-8.5000,117.4333,7GMT,293
+Indonesia,Sumenep,-7.0167,113.8667,7GMT,294
+Indonesia,Sura,-6.0733,106.3867,7GMT,295
+Indonesia,Surabaya,-4.6667,105.7167,7GMT,295
+Indonesia,Surabaya_Jawa Timur,-7.2492,112.7508,7GMT,294
+Indonesia,Surabaya_Jawa Barat,-6.9206,107.6472,7GMT,295
+Indonesia,Surabaya Strait,-7.1764,112.6894,7GMT,294
+Indonesia,Surakarta,-7.5833,110.8333,7GMT,295
+Indonesia,Tabalong River,-2.0500,115.4500,7GMT,293
+Indonesia,Takalar,-5.4242,119.4381,7GMT,293
+Indonesia,Taliwang,-8.7333,116.8667,7GMT,294
+Indonesia,Tangerang,-6.1783,106.6308,7GMT,295
+Indonesia,Tangerangscheweg,-6.1633,106.8033,7GMT,295
+Indonesia,Tanjungbalai,2.9667,99.8000,7GMT,293
+Indonesia,Tanjungpinang,0.9167,104.4500,7GMT,293
+Indonesia,Tarakan,3.3000,117.6333,8GMT,291
+Indonesia,Tasikmalaya,-7.3333,108.2000,7GMT,295
+Indonesia,Tebing Tinggi,4.1333,97.9667,7GMT,293
+Indonesia,Tegal_Jawa Barat,-6.2900,106.4414,7GMT,295
+Indonesia,Tegal_Jawa Tengah,-6.8667,109.1333,7GMT,295
+Indonesia,Tegal_ or ID06,-6.4719,106.9667,7GMT,295
+Indonesia,Tembagapura,-4.3333,137.0000,9GMT,291
+Indonesia,Tembilahan,-0.3167,103.1500,7GMT,294
+Indonesia,Ternate,0.8000,127.4000,8GMT,292
+Indonesia,Timika,-4.7833,136.5333,9GMT,291
+Indonesia,Trenggalek,-8.0500,111.7167,7GMT,295
+Indonesia,Tuban,-8.7333,115.1833,7GMT,294
+Indonesia,Tuban_Jawa Timur,-6.9000,112.0500,7GMT,294
+Indonesia,Tulungagung_Jawa Timur,-8.0667,111.9000,7GMT,295
+Indonesia,Tulungagung_Sulawesi Selatan,-2.5869,120.4378,8GMT,292
+Indonesia,Ubud,-8.5000,115.2667,8GMT,293
+Indonesia,Ujungpandang,-5.1306,119.4069,7GMT,293
+Indonesia,Watan Sopeng,-4.3486,119.8825,8GMT,292
+Indonesia,Wlingi,-8.0833,112.3167,7GMT,294
+Indonesia,Wonosobo,-7.3667,109.9000,7GMT,295
+Indonesia,X-gebergte,-1.1667,120.3333,8GMT,293
+Indonesia,X-keten,-3.3500,137.7500,9GMT,291
+Indonesia,X-rivier,-4.8333,139.4667,9GMT,291
+Indonesia,Xulla,-1.8667,125.3667,8GMT,292
+Indonesia,Yogyakarta,-7.8000,110.3667,7GMT,295
+Indonesia,Z-gebergte,-1.5833,121.0000,8GMT,292
+Indonesia,Z-keten,-3.6667,136.9167,9GMT,291
+Indonesia,Zabibu-rivier,-4.5833,136.0000,9GMT,291
+Indonesia,Zadel Eiland,1.3183,107.0444,7GMT,293
+Indonesia,Zadel Mountain,2.5833,117.4000,7GMT,292
+Indonesia,Zadelberg,-0.2167,131.1833,9GMT,292
+Indonesia,Zami River,-2.6167,140.9167,9GMT,292
+Indonesia,Zand Eiland,-0.6333,128.5167,9GMT,292
+Indonesia,Zand-baai,-7.1833,106.4500,7GMT,296
+Indonesia,Zandbuis Banks,-7.7500,117.2333,7GMT,293
+Indonesia,Zanepa,-3.7167,136.8000,9GMT,291
+Indonesia,Zbais,-9.1406,125.1544,8GMT,292
+Indonesia,Zeegat van Tjilatjap,-7.7500,109.0500,7GMT,295
+Indonesia,Zeemeeuw Reefs,-1.3042,130.4989,9GMT,292
+Indonesia,Zeven-eilanden,-1.9667,130.8000,9GMT,292
+Indonesia,Zij Rivier C,-3.4167,137.2667,9GMT,291
+Indonesia,Zoatalipa,-3.7333,136.9500,9GMT,291
+Indonesia,Zol Buimanuk,-9.1694,125.0289,8GMT,292
+Indonesia,Zol Ilsiot,-9.1058,125.1169,8GMT,292
+Indonesia,Zol Latil,-9.1697,125.2128,8GMT,292
+Indonesia,Zol Latula,-9.1792,125.2294,8GMT,292
+Indonesia,Zol Molis,-9.1217,125.1714,8GMT,292
+Indonesia,Zol Rusan,-8.9956,125.1353,8GMT,292
+Indonesia,Zol Silac,-9.1792,125.2303,8GMT,292
+Indonesia,Zol Wekiik,-9.1725,125.0589,8GMT,292
+Indonesia,Zol Weluli,-9.1031,125.1181,8GMT,292
+Indonesia,Zoutberg,-0.7833,127.7167,9GMT,292
+Indonesia,Zuid Baai,-8.4500,124.0000,8GMT,292
+Indonesia,Zuid Eiland,-5.6667,122.5167,8GMT,292
+Indonesia,Zuid Hooiberg,2.2833,108.9000,7GMT,292
+Indonesia,Zuid Koeltoebai Eiland,-6.8667,134.7333,9GMT,291
+Indonesia,Zuid Lintea,-5.8000,123.9167,8GMT,292
+Indonesia,Zuid Loloda Eilanden,1.6667,127.5000,7GMT,291
+Indonesia,uid Natoena-eilanden,2.7500,109.0000,7GMT,292
+Indonesia,Zuid Rif,-3.4406,122.5033,8GMT,292
+Indonesia,Zuid Saponda,-4.0333,122.7764,8GMT,292
+Indonesia,Zuid Sesajapmond,3.4500,117.5000,7GMT,291
+Indonesia,Zuid Terbang,-7.3667,128.5667,9GMT,292
+Indonesia,Zuid Vaarwater,-4.0208,122.6944,8GMT,292
+Indonesia,Zuid-Broeder,0.5500,103.7667,7GMT,294
+Indonesia,Zuid-Chineesche Zee,15.0000,115.0000,7GMT,288
+Indonesia,Zuid-eiland,-3.0000,107.2500,7GMT,294
+Indonesia,Zuid-Ooster-Eilanden,-6.7500,130.7500,9GMT,291
+Indonesia,Zuid-Passage,0.7208,103.6503,7GMT,293
+Indonesia,Zuid-Wester-Eilanden,-7.4167,128.0000,9GMT,292
+Indonesia,Zuider-Gebergte,0.4667,123.2500,8GMT,292
+Indonesia,Zuidervaarwater,-4.4000,119.2167,7GMT,293
+Indonesia,Zuidhoek,-5.8000,105.1500,7GMT,296
+Indonesia,Zuidoost-Vaarwater,0.5453,103.6572,7GMT,294
+Indonesia,Zuidsteen,-4.4000,115.8167,7GMT,293
+Indonesia,Zuidtop,-3.4000,116.2000,7GMT,293
+Indonesia,Zuidwachter,-5.7000,106.7000,7GMT,295
+Indonesia,Zuidwachter_Sulawesi Tengah,0.0397,119.6192,8GMT,292
+Indonesia,Zuthen Eilanden,-5.8333,105.8000,7GMT,295
+Indonesia,Zwaantjes Reef,-7.4667,113.1333,7GMT,294
+Indonesia,Zwart-vallei,-3.6000,138.4667,9GMT,291
+Indonesia,Zwarte Heuvel,-3.2333,116.2667,7GMT,293
+Indonesia,Zy Rivier A,-3.1000,137.2833,9GMT,291
+Indonesia,Zy-Rivier B,-3.3000,137.2667,9GMT,291
+Indonesia,Zy-Rivier D,-3.3000,137.4667,9GMT,291

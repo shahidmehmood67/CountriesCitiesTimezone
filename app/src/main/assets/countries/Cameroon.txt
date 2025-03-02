@@ -1,0 +1,50 @@
+Cameroon,Bamenda,5.9333,10.1667,1GMT,59
+Cameroon,Bamenda Division,6.0000,10.4167,1GMT,59
+Cameroon,Beka,9.0667,12.8833,1GMT,61
+Cameroon,Bertoua,4.5833,13.6833,1GMT,54
+Cameroon,Dang,4.7500,11.2333,1GMT,56
+Cameroon,Dang-Haoussa,5.9000,13.5000,1GMT,56
+Cameroon,Danga,6.8667,9.6667,1GMT,60
+Cameroon,Dangabissi,10.1500,15.3167,1GMT,61
+Cameroon,Dangala,5.8500,11.4000,1GMT,58
+Cameroon,Dangeli,5.0167,13.8833,1GMT,55
+Cameroon,Dangue,5.0667,14.0000,1GMT,54
+Cameroon,Danguerchem,11.9500,14.9500,1GMT,65
+Cameroon,Danguere,9.1000,13.8667,1GMT,61
+Cameroon,Douala_Littoral,4.0503,9.7000,1GMT,57
+Cameroon,Douala,7.0167,12.6667,1GMT,58
+Cameroon,Garoua_Nord,9.3000,13.4000,1GMT,61
+Cameroon,Garoua,5.1333,14.0000,1GMT,55
+Cameroon,Jamba,8.6167,12.8000,1GMT,61
+Cameroon,Jede,2.3000,12.3167,1GMT,52
+Cameroon,Jessom,5.3333,11.3333,1GMT,57
+Cameroon,Jiiti,4.3333,13.9333,1GMT,54
+Cameroon,Jongbi,6.6833,12.6500,1GMT,58
+Cameroon,Juyi,6.4000,14.3833,1GMT,56
+Cameroon,Kousseri,12.0783,15.0308,1GMT,65
+Cameroon,Kumbo,6.4167,14.7333,1GMT,56
+Cameroon,Kumbo_Nord-Ouest,6.2000,10.6667,1GMT,59
+Cameroon,Limbe,4.0128,9.2203,1GMT,57
+Cameroon,Maroua,5.1500,12.4500,1GMT,56
+Cameroon,Maroua,10.5956,14.3247,1GMT,63
+Cameroon,Ngaoundere,7.3167,13.5833,1GMT,55
+Cameroon,Quoko,6.9333,14.6167,1GMT,57
+Cameroon,Tibati,6.4667,12.6333,1GMT,58
+Cameroon,Ualo,4.4833,14.2667,1GMT,53
+Cameroon,Ubao,8.7833,13.7333,1GMT,60
+Cameroon,Uben Ikang,4.3833,8.9000,1GMT,58
+Cameroon,Udu,4.8333,14.2500,1GMT,54
+Cameroon,Udum-Jarei,10.7833,13.9500,1GMT,64
+Cameroon,Uem,4.1000,10.4333,1GMT,56
+Cameroon,Uibiwa,9.9667,14.8667,1GMT,61
+Cameroon,Ukono,2.5833,9.8333,1GMT,55
+Cameroon,Undo,4.1167,14.3167,1GMT,53
+Cameroon,Uo,2.6833,11.8833,1GMT,53
+Cameroon,Uombe,3.5500,14.8833,1GMT,52
+Cameroon,Uro Mali,8.4667,12.5833,1GMT,61
+Cameroon,Usulabot,2.7333,13.9667,1GMT,51
+Cameroon,Utoandulon,4.6833,8.6333,1GMT,58
+Cameroon,Uven Creek,4.7000,8.6333,1GMT,58
+Cameroon,Vema,4.2000,11.4500,1GMT,56
+Cameroon,Vuchaba,5.2167,13.0833,1GMT,56
+Cameroon,Yaounde,3.8667,11.5167,1GMT,55

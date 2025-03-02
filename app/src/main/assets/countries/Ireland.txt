@@ -1,0 +1,200 @@
+Ireland,Achill Island_Mayo,53.9722,-9.9806,0,0
+Ireland,Arklow_Wicklow,52.8028,-6.1317,0,0
+Ireland,Athlone_Westmeath,53.4325,-7.9275,0,0
+Ireland,Balbriggan_Dublin,53.6226,-6.1721,0,0
+Ireland,Ballaghaderreen_Roscommon,53.9098,-8.5735,0,0
+Ireland,Ballinasloe_Galway,53.3373,-8.2096,0,0
+Ireland,Ballincollig_Cork,51.8931,-8.5735,0,0
+Ireland,Ballinrobe_Mayo,53.6431,-9.2235,0,0
+Ireland,Ballyhaunis_Mayo,53.7765,-8.7569,0,0
+Ireland,Bandon_Cork,51.7567,-8.7327,0,0
+Ireland,Bantry_Cork,51.6931,-9.4402,0,0
+Ireland,Birr_Offaly,53.1012,-7.9035,0,0
+Ireland,Blachardstown_Dublin,53.3979,-6.3658,0,0
+Ireland,Bray_Wicklow,53.2126,-6.0885,0,0
+Ireland,Cahersiveen_Kerry,51.9585,-10.2123,0,0
+Ireland,Carlow,52.8507,-6.9162,0,0
+Ireland,Carrick on Shannon_Leitrim,53.9568,-8.0801,0,0
+Ireland,Castle Troy_Limerick,52.6863,-8.544,0,0
+Ireland,Castlebar_Mayo,53.8599,-9.2901,0,0
+Ireland,Castleisland_Kerry,52.2432,-9.4568,0,0
+Ireland,Cavan_Donegal,54.8324,-7.6884,0,0
+Ireland,Cavan_Monaghan,54.4093,-7.0295,0,0
+Ireland,Cavan,54.0007,-7.3507,0,0
+Ireland,Clonee_Meath,53.4216,-6.4343,0,0
+Ireland,Clonmel_Tipperary,52.3649,-7.694,0,0
+Ireland,Cobh_Cork,51.8671,-8.2893,0,0
+Ireland,Cork,51.9085,-8.4859,0,0
+Ireland,Cork Lough_Cork,51.896,-8.4782,0,0
+Ireland,Dalkey_Dublin,53.2883,-6.0903,0,0
+Ireland,Donegal,54.66,-8.1067,0,0
+Ireland,Donnybrook_Dublin,53.3311,-6.2053,0,0
+Ireland,Drogheda_Louth,53.7289,-6.3378,0,0
+Ireland,Dublin_Tipperary,52.5844,-7.5403,0,0
+Ireland,Dublin,53.3431,-6.2389,0,0
+Ireland,Dublin Bar_Dublin,53.36,-6.1233,0,0
+Ireland,Dublin Bay_Dublin,53.3444,-6.1006,0,0
+Ireland,Dublin Castle_Dublin,53.3433,-6.24,0,0
+Ireland,Dublin Harbour_Dublin,53.36,-6.2067,0,0
+Ireland,Dublin Pike_Cork,51.9403,-8.4542,0,0
+Ireland,Dundalk_Louth,54.01,-6.4067,0,0
+Ireland,Dundrum_Dublin,53.3022,-6.2569,0,0
+Ireland,Ennis_Clare,52.8537,-8.9763,0,0
+Ireland,Enniscorthy_Wexford,52.5109,-6.5477,0,0
+Ireland,Galway,53.2822,-9.0386,0,0
+Ireland,Galway Bay_Galway,53.21,-9.22,0,0
+Ireland,Galway Harbour_Galway,53.277,-9.0397,0,0
+Ireland,Gorey,55.2603,-7.1897,0,0
+Ireland,Gort_Galway,53.0767,-8.8064,0,0
+Ireland,J. F. Kennedy Memorial Park_Wexford,52.3312,-6.8969,0,0
+Ireland,Jackstown_Donegal,55.0392,-8.2605,0,0
+Ireland,Jar Connaught,53.3773,-9.3394,0,0
+Ireland,Jeffrys Wood_Cork,52.2125,-8.2238,0,0
+Ireland,Jenkinstown_Kilkenny,52.7273,-7.2727,0,0
+Ireland,Jerpoint Abbey_Kilkenny,52.522,-7.1469,0,0
+Ireland,Joanstown_Waterford,52.3384,-7.4325,0,0
+Ireland,Jockey Hall_Kildare,53.1428,-6.8077,0,0
+Ireland,Johnduffswood_Carlow,52.7612,-7.0236,0,0
+Ireland,Johns River,52.2773,-7.0894,0,0
+Ireland,Johnsbrook_Meath,53.6792,-6.9475,0,0
+Ireland,Johnstown_Wicklow,52.8406,-6.1186,0,0
+Ireland,Johnstown_Meath,53.4178,-6.8283,0,0
+Ireland,Johnstownbridge_Leitrim,53.8439,-7.8561,0,0
+Ireland,Johnswell_Kilkenny,52.7123,-7.1577,0,0
+Ireland,Jonestown Cross Roads_Offaly,53.3653,-7.045,0,0
+Ireland,Joneville House_Waterford,52.0978,-7.9552,0,0
+Ireland,Jordans Bay_Cork,51.7225,-8.3691,0,0
+Ireland,Jordanstown House_Kilkenny,52.6892,-7.0325,0,0
+Ireland,Joyces River,53.5439,-9.6061,0,0
+Ireland,Judgeville_Westmeath,53.3587,-7.3705,0,0
+Ireland,Julianstown_Meath,53.6878,-6.3086,0,0
+Ireland,Kerry,52.1774,-9.7393,0,0
+Ireland,Kilcock_Kildare,53.4129,-6.6601,0,0
+Ireland,Kilkenny,52.6649,-7.2415,0,0
+Ireland,Killarney_Kerry,52.0607,-9.506,0,0
+Ireland,Killarney_Kilkenny,52.5679,-7.166,0,0
+Ireland,Lagacurry_Donegal,55.3208,-7.3289,0,0
+Ireland,Laytown_Meath,53.6927,-6.2284,0,0
+Ireland,Letterkenny_Donegal,54.9608,-7.7225,0,0
+Ireland,Limerick,52.6755,-8.6123,0,0
+Ireland,Limerick_Wexford,52.7436,-6.2823,0,0
+Ireland,Limerick Canal_Limerick,52.6775,-8.6059,0,0
+Ireland,Limerick Harbour_Limerick,52.6775,-8.6225,0,0
+Ireland,Longford,53.7441,-7.7892,0,0
+Ireland,Lucan_Dublin,53.37,-6.4281,0,0
+Ireland,Mallow_Cork,52.1442,-8.6224,0,0
+Ireland,Manorhamilton_Leitrim,54.3173,-8.1652,0,0
+Ireland,Monaghan,54.2609,-6.9558,0,0
+Ireland,Monasterevin_Kildare,53.1515,-7.0555,0,0
+Ireland,Mullingar_Westmeath,53.5442,-7.3391,0,0
+Ireland,Mullingar_Donegal,54.8162,-7.6655,0,0
+Ireland,Naas_Kildare,53.2268,-6.6559,0,0
+Ireland,Navan_Meath,53.6638,-6.6704,0,0
+Ireland,Nenagh_Tipperary,52.8729,-8.1857,0,0
+Ireland,Newbridge_Kildare,53.1929,-6.7857,0,0
+Ireland,Port Laoise_Laois,53.0434,-7.2888,0,0
+Ireland,Quagmire River,52.078,-9.4054,0,0
+Ireland,Quaker Island,53.5946,-7.9887,0,0
+Ireland,Quakers Cross Roads_Cork,51.6132,-9.0073,0,0
+Ireland,Quarry Cross Roads_Cork,51.8188,-8.8248,0,0
+Ireland,Quarry Lodge_Kerry,52.1419,-9.2806,0,0
+Ireland,Quarry Lough_Monaghan,54.1124,-7.1418,0,0
+Ireland,Quarrymount,53.6113,-8.8554,0,0
+Ireland,Quartertown Upper_Cork,52.1194,-8.6384,0,0
+Ireland,Quay Island_Clare,52.6949,-8.8006,0,0
+Ireland,Queen s Cottage_Kerry,51.9824,-9.5876,0,0
+Ireland,Queensborough_Meath,53.7424,-6.2479,0,0
+Ireland,Queenstown Junction_Cork,51.928,-8.3054,0,0
+Ireland,Querrin_Clare,52.646,-9.584,0,0
+Ireland,Querrin Point_Clare,52.6388,-9.5723,0,0
+Ireland,Quig Lough Reservoir_Monaghan,54.2746,-7.0168,0,0
+Ireland,Quignalahy,54.278,-9.022,0,0
+Ireland,Quignalegan_Mayo,54.1427,-9.0995,0,0
+Ireland,Quilty_Clare,52.8282,-9.4395,0,0
+Ireland,Quinagh_Carlow,52.8266,-6.9243,0,0
+Ireland,Quinn_Clare,52.8299,-8.8556,0,0
+Ireland,Quinsborough_Kildare,53.1782,-7.0481,0,0
+Ireland,Quinsborough House_Clare,52.7044,-8.6179,0,0
+Ireland,Quintagh_Wicklow,53.091,-6.4898,0,0
+Ireland,Quinville Abbey_Clare,52.8377,-8.8534,0,0
+Ireland,Quitrentmountain_Cork,52.2877,-8.4762,0,0
+Ireland,Quivvy Lough,54.1502,-7.3981,0,0
+Ireland,Quoylach Bay_Cork,51.7149,-9.9954,0,0
+Ireland,Raheen_Wexford,52.4064,-6.7861,0,0
+Ireland,Randalstown_Meath,53.695,-6.7033,0,0
+Ireland,Roscommon,53.6447,-8.1719,0,0
+Ireland,Shannon_Clare,52.7154,-8.8527,0,0
+Ireland,Sligo,54.2782,-8.4718,0,0
+Ireland,Tallaght_Dublin,53.2994,-6.3295,0,0
+Ireland,Thurles_Tipperary,52.6935,-7.7906,0,0
+Ireland,Tralee_Kerry,52.2783,-9.7051,0,0
+Ireland,Tralee Bay_Kerry,52.2899,-9.9198,0,0
+Ireland,Tramore_Waterford,52.1705,-7.1348,0,0
+Ireland,Tullamore_Offaly,53.2855,-7.4773,0,0
+Ireland,Uachtar Ard_Galway,53.4284,-9.3216,0,0
+Ireland,Uctough_Cork,52.0184,-8.7811,0,0
+Ireland,Ulla_Limerick,52.5414,-8.2466,0,0
+Ireland,Ullard_Kilkenny,52.5914,-6.9191,0,0
+Ireland,Ullard Bridge_Carlow,52.7228,-6.8144,0,0
+Ireland,Ullid_Kilkenny,52.3261,-7.1969,0,0
+Ireland,Ultans Well_Louth,53.9609,-6.5672,0,0
+Ireland,Umeras House_Kildare,53.1953,-7.0302,0,0
+Ireland,Umfin Island_Donegal,55.1136,-8.3541,0,0
+Ireland,Umgall_Donegal,55.3445,-7.2877,0,0
+Ireland,Umma House,53.4617,-7.6883,0,0
+Ireland,Ummera_Leitrim,54.2053,-8.0647,0,0
+Ireland,Ummeraboy_Cork,52.1481,-9.158,0,0
+Ireland,Ummoon_Mayo,53.9561,-9.0902,0,0
+Ireland,Umrycam_Donegal,55.172,-7.4208,0,0
+Ireland,Umrygar House_Wicklow,52.7098,-6.4819,0,0
+Ireland,Unshin River_Sligo,54.2031,-8.47,0,0
+Ireland,Unshinagh_Leitrim,54.45,-8.3022,0,0
+Ireland,Upper Ballycotteen_Clare,52.9909,-9.4014,0,0
+Ireland,Upper Convamore_Cork,52.1703,-8.3994,0,0
+Ireland,Upper Glanmire_Cork,51.962,-8.4166,0,0
+Ireland,Upperchurch_Tipperary,52.715,-8.0058,0,0
+Ireland,Upton_Cork,51.8039,-8.6616,0,0
+Ireland,Upton Farm_Tipperary,53.0942,-8.1472,0,0
+Ireland,Uragh_Cavan,54.2048,-7.6855,0,0
+Ireland,Urbalreagh_Donegal,55.3481,-7.2736,0,0
+Ireland,Uregare,52.4617,-8.555,0,0
+Ireland,Urelands House_Wexford,52.7473,-6.6108,0,0
+Ireland,Urgllin Glebe_Carlow,52.8442,-6.8561,0,0
+Ireland,Urlaur Lough,53.845,-8.7216,0,0
+Ireland,Urlingford_Kilkenny,52.7323,-7.5708,0,0
+Ireland,Urney House_Offaly,53.2192,-7.2772,0,0
+Ireland,Urraghil_Cork,52.1728,-9.1039,0,0
+Ireland,Urraghry Hill_Galway,53.3114,-8.2677,0,0
+Ireland,Urrahill_Tipperary,52.9584,-8.2633,0,0
+Ireland,Urrin River_Wexford,52.5045,-6.5555,0,0
+Ireland,Urris Hills_Donegal,55.2356,-7.5072,0,0
+Ireland,Uskerty_Kilkenny,52.7939,-7.1466,0,0
+Ireland,Vale of Avoca_Wicklow,52.8504,-6.2068,0,0
+Ireland,Valentia Harbour_Kerry,51.9285,-10.2715,0,0
+Ireland,Valentia Island_Kerry,51.9201,-10.3601,0,0
+Ireland,Valentia River_Kerry,51.944,-10.2663,0,0
+Ireland,Valleyfield House_Laois,52.904,-7.296,0,0
+Ireland,Vances Point_Donegal,55.1604,-7.1413,0,0
+Ireland,Vartry Reservoir_Wicklow,53.069,-6.1949,0,0
+Ireland,Vartry River_Wicklow,53.0146,-6.0435,0,0
+Ireland,Vauchluce Cottage_Limerick,52.6979,-8.3207,0,0
+Ireland,Velvet Strand_Dublin,53.4332,-6.1088,0,0
+Ireland,Ventry_Kerry,52.1443,-10.3551,0,0
+Ireland,Ventry Harbour_Kerry,52.1346,-10.344,0,0
+Ireland,Vermont_Galway,53.4307,-8.5346,0,0
+Ireland,Vermont_Limerick,52.6485,-8.729,0,0
+Ireland,Vermount_Carlow,52.8565,-6.579,0,0
+Ireland,Verolme Cork Dockyard_Cork,51.8607,-8.3118,0,0
+Ireland,Verschoyles Hill_Dublin,53.2743,-6.4243,0,0
+Ireland,Vicarstown_Cork,51.9451,-8.6382,0,0
+Ireland,Vicarstown_Laois,53.061,-7.0768,0,0
+Ireland,Villierstown_Waterford,52.1007,-7.8413,0,0
+Ireland,Vinegar Hill_Wexford,52.516,-6.5343,0,0
+Ireland,Vinnaunmore Rock_Kerry,52.1582,-10.4513,0,0
+Ireland,Violetstown House,53.4951,-7.2715,0,0
+Ireland,Waterford,52.2702,-7.1,0,0
+Ireland,Waterford_Kilkenny,52.2786,-7.1048,0,0
+Ireland,Waterford Harbour,52.1911,-6.9187,0,0
+Ireland,Westport_Mayo,53.8119,-9.5048,0,0
+Ireland,Wexford,52.3461,-6.4456,0,0
+Ireland,Wicklow,52.9869,-6.0375,0,0

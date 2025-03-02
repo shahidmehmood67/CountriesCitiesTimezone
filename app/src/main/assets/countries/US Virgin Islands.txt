@@ -1,0 +1,10 @@
+Us Virgin Islands,Anna s Retreat_Saint Thomas,18.3497,-64.8803,-4,0
+Us Virgin Islands,Charlotte Amalie_Saint Thomas,18.3599,-64.9301,-4,0
+Us Virgin Islands,Charlotte Amalie East_Saint Thomas,18.3499,-64.9001,-4,0
+Us Virgin Islands,Charlotte Amalie West_Saint Thomas,18.3499,-64.9501,-4,0
+Us Virgin Islands,Christiansted_Saint Croix,17.7599,-64.7001,-4,0
+Us Virgin Islands,Cruz Bay_Saint John,18.3499,-64.7901,-4,0
+Us Virgin Islands,Frederiksted_Saint Croix,17.7302,-64.8698,-4,0
+Us Virgin Islands,Frederiksted Southeast_Saint Croix,17.7202,-64.8698,-4,0
+Us Virgin Islands,Grove Place_Saint Croix,17.7403,-64.8197,-4,0
+Us Virgin Islands,Saint Thomas,18.3448,-64.9215,-4,0

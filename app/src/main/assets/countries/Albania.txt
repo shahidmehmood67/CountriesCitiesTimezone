@@ -1,0 +1,36 @@
+Albania,Berat,40.7058,19.9522,1,133
+Albania,Berat Kucove_Berat,40.7667,19.9000,1,133
+Albania,Berat Rreth_Berat,40.6667,20.0000,1,133
+Albania,Beratianos Potamos,40.5833,20.0833,1,133
+Albania,Durres,41.3231,19.4414,1,133
+Albania,Durres Bay_Durres,41.2667,19.4667,1,133
+Albania,Elbasan,41.1125,20.0822,1,134
+Albania,Erzen,41.4350,19.4492,1,133
+Albania,Esanje_Berat,40.6444,19.9906,1,133
+Albania,Kavaja_Durres,41.2000,19.5000,1,133
+Albania,Kavaja_Tirane,41.1856,19.5569,1,133
+Albania,Ngjilishti_Korce,40.4947,20.4733,1,133
+Albania,Ngrancija_Fier,40.6464,19.7231,1,132
+Albania,Nje Bistrice_Vlore,39.9167,20.1167,1,132
+Albania,Nje Maj_Korce,40.7167,20.4167,1,134
+Albania,Nje Maj_Fier,40.7522,19.5750,1,132
+Albania,Pogradec_Korce,40.9025,20.6525,1,134
+Albania,Shkoder,42.0675,19.5131,1,134
+Albania,Shkoder-Shtojri_Shkoder,42.1161,19.5406,1,134
+Albania,Sqele e Patkut_Durres,41.6261,19.5925,1,134
+Albania,Sqelja e Patkut_Durres,41.6261,19.6017,1,134
+Albania,Sqepur_Berat,40.7850,19.8181,1,133
+Albania,Squpurit Pass_Berat,40.7833,19.8167,1,133
+Albania,Tirane,41.3333,19.7833,1,134
+Albania,Tirane Rinas_Durres,41.4167,19.7167,1,134
+Albania,Vlore,40.4667,19.4897,1,132
+Albania,White Drim,41.9167,20.3458,1,135
+Albania,Yefira Hassan Beut_Berat,40.7689,19.8778,1,133
+Albania,Yexulli_Lezhe,41.7528,19.8875,1,134
+Albania,Yiannar_Vlore,39.7025,20.2597,1,132
+Albania,Ymer Efendi_Vlore,39.8642,20.1100,1,132
+Albania,Ymeraj_Fier,40.6686,19.7103,1,132
+Albania,Ymishte-e Gurit_Kukes,41.9083,20.3469,1,135
+Albania,Yrshek_Tirane,41.3461,19.7486,1,134
+Albania,Yzberish_Tirane,41.3244,19.7703,1,134
+Albania,Yzeiraj_Fier,40.5539,19.8119,1,132

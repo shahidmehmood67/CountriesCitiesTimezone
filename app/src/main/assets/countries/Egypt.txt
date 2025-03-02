@@ -1,0 +1,279 @@
+Egypt,1 `Ezbet Has Salib,30.9858,31.0036,2GMT,138
+Egypt,10 Ramadan City,30.3000,31.7500,2GMT,139
+Egypt,257Izbat Ahmad `Ali `Udah,31.2681,31.4542,2GMT,141
+Egypt,Abo-Redis,28.8500,33.2000,2GMT,140
+Egypt,Abou Kir,31.3219,30.0608,2GMT,136
+Egypt,Abu Hammad,30.5336,31.6664,2GMT,139
+Egypt,Abu Rudeis,28.9036,33.1875,2GMT,140
+Egypt,Abu Tisht,26.1200,32.0947,2GMT,122
+Egypt,Abu Zenima,29.0497,33.1036,2GMT,140
+Egypt,Aga,30.8667,31.3333,2GMT,139
+Egypt,Akhmim,26.5667,31.7333,2GMT,123
+Egypt,Al Abqa`ayn,30.8761,30.3519,2GMT,136
+Egypt,Al assaniyah,30.2942,31.1975,2GMT,137
+Egypt,Al Bahriyah,31.1150,30.4744,2GMT,137
+Egypt,Al Basrah,30.8822,29.7767,2GMT,134
+Egypt,Al Mansurah,29.2278,31.0139,2GMT,132
+Egypt,Al Manzalah_Ad Daqahliyah,31.1583,31.9369,2GMT,142
+Egypt,Al Manzalah_Al Qalyubiyah,30.3397,31.2469,2GMT,137
+Egypt,Al Maraghah,26.7000,31.6000,2GMT,123
+Egypt,Al `Arish,31.1244,33.8006,2GMT,149
+Egypt,Alexandria,31.1981,29.9192,2GMT,135
+Egypt,Alexandria Governorate,31.1667,29.8833,2GMT,135
+Egypt,Alexandria Harbour,31.1833,29.8667,2GMT,135
+Egypt,Ar Rishah,30.8233,33.3128,2GMT,147
+Egypt,As Sawwan,30.9211,34.3569,2GMT,151
+Egypt,Ashmun,30.3000,30.9667,2GMT,136
+Egypt,Asiut,27.2167,31.0500,2GMT,124
+Egypt,Assiut,27.3333,30.8333,2GMT,124
+Egypt,Aswan,24.0875,32.8989,2GMT,111
+Egypt,Asyut,27.1828,31.1828,2GMT,124
+Egypt,Ataqa,29.9000,32.4500,2GMT,140
+Egypt,Atris,30.3333,30.8833,2GMT,136
+Egypt,Aulad Saqr,30.9300,31.6964,2GMT,141
+Egypt,Awlad Isma`il,26.6667,31.5500,2GMT,123
+Egypt,Badr_Al Buhayrah,30.5750,30.7111,2GMT,136
+Egypt,Badr_Al Qahirah,30.1336,31.7303,2GMT,138
+Egypt,Bahariya Oasis,28.2500,28.9500,2GMT,122
+Egypt,Baltim,31.5544,31.0903,2GMT,140
+Egypt,Bana Abu Sir,30.8817,31.2364,2GMT,139
+Egypt,Banha,30.4608,31.1875,2GMT,137
+Egypt,Bani Suwayf,29.0639,31.0889,2GMT,132
+Egypt,Basyun,30.9403,30.8139,2GMT,137
+Egypt,Beba,28.9250,30.9833,2GMT,131
+Egypt,Beer al-Abd,31.0167,33.0000,2GMT,146
+Egypt,Belbeis,30.4167,31.5667,2GMT,138
+Egypt,Belbes,30.4333,31.5500,2GMT,138
+Egypt,Benha,30.4333,31.1667,2GMT,137
+Egypt,Beni Mazar,28.5036,30.7992,2GMT,129
+Egypt,Beni Suef,29.0500,31.0333,2GMT,132
+Egypt,Bilqas,31.2131,31.3575,2GMT,140
+Egypt,Bir el Nuss,30.2500,26.3000,2GMT,123
+Egypt,Birimbal el-Gedida,31.1417,31.7128,2GMT,141
+Egypt,Biteina,30.9847,31.1975,2GMT,139
+Egypt,Biyala,31.1744,31.2214,2GMT,140
+Egypt,Burg el `Arab,30.9167,29.5333,2GMT,133
+Egypt,Cairn Point,29.0333,33.1333,2GMT,140
+Egypt,Cairo,30.0500,31.2500,2GMT,136
+Egypt,Cairo Governorate,30.0333,31.2167,2GMT,136
+Egypt,Canal Cassel,24.5167,33.0167,2GMT,115
+Egypt,Canal Haran,24.5500,33.0167,2GMT,115
+Egypt,Cannon Reef,26.6667,34.0000,2GMT,133
+Egypt,Canobus,31.3167,30.0500,2GMT,136
+Egypt,Cape Banas,23.9003,35.7903,2GMT,123
+Egypt,Cara Oasis,29.6000,26.5167,2GMT,121
+Egypt,Carrs Lake,30.2833,32.4667,2GMT,141
+Egypt,Casius Mons,31.2200,33.0725,2GMT,147
+Egypt,Chantier Island,31.2500,32.3167,2GMT,144
+Egypt,Charing Cross,31.2500,27.1167,2GMT,128
+Egypt,Chatby,31.2000,29.9167,2GMT,135
+Egypt,Cheops,29.9833,31.1333,2GMT,135
+Egypt,Chobba Shad-el-Ayun,29.8667,32.6000,2GMT,141
+Egypt,Cicely Hill,29.5167,27.5667,2GMT,123
+Egypt,Cleopatra Beach,31.2269,29.9369,2GMT,136
+Egypt,Colossi of Memnon,25.7167,32.6167,2GMT,121
+Egypt,Conical Hill_Matruh,29.4167,29.8000,2GMT,129
+Egypt,Conical Hill_Al Jizah,28.3833,29.4167,2GMT,124
+Egypt,Contellet Garaiyeh,30.1900,34.4214,2GMT,150
+Egypt,Contra Apollonos,24.9325,32.8919,2GMT,117
+Egypt,Contra Latopolis,25.2836,32.5825,2GMT,119
+Egypt,Coptos,26.0000,32.8167,2GMT,124
+Egypt,Corvette Pass,31.1833,29.8333,2GMT,135
+Egypt,Culloden Reef,31.3667,30.1000,2GMT,136
+Egypt,Cusae,27.4444,30.8167,2GMT,124
+Egypt,Cygnet Rock,23.9000,35.9167,2GMT,123
+Egypt,Cynopolis,28.4750,30.7833,2GMT,129
+Egypt,Dahab,28.4833,34.5000,2GMT,144
+Egypt,Dakahlieh,30.9167,31.5000,2GMT,140
+Egypt,Dakhla,25.5000,29.1667,2GMT,110
+Egypt,Damanhour,31.0333,30.4667,2GMT,137
+Egypt,Damanhur_Asyut,27.3833,30.9500,2GMT,124
+Egypt,Damanhur_Al Qalyubiyah,30.1192,31.2325,2GMT,136
+Egypt,Damas,30.8053,31.3261,2GMT,139
+Egypt,Damietta,31.4194,31.8150,2GMT,142
+Egypt,Damietta Nile,31.5333,31.8500,2GMT,143
+Egypt,Dekernes,31.0883,31.5969,2GMT,141
+Egypt,Dessouk,31.1294,30.6464,2GMT,138
+Egypt,Diarb Negm,30.7542,31.4406,2GMT,139
+Egypt,Domyat,31.3333,31.7500,2GMT,142
+Egypt,Edfu,24.9667,32.8667,2GMT,117
+Egypt,Edkou,31.3056,30.2992,2GMT,137
+Egypt,Egypt,27.0000,30.0000,2GMT,120
+Egypt,El Agami,31.1406,29.7853,2GMT,135
+Egypt,El Alamein,30.5000,28.7500,2GMT,130
+Egypt,El Hammam,30.8333,29.3833,2GMT,133
+Egypt,El Kuraimat,29.2944,31.2183,2GMT,133
+Egypt,El Mahalla el Kubra,31.0333,31.0833,2GMT,139
+Egypt,El-Bagalat,31.1653,31.6275,2GMT,141
+Egypt,El-Mansura,31.0167,31.5000,2GMT,140
+Egypt,El-Manzala,31.1667,31.8333,2GMT,142
+Egypt,El-Nakkariya,30.6000,31.4667,2GMT,139
+Egypt,El-Rehab,30.0622,31.4772,2GMT,137
+Egypt,Esna,25.2931,32.5528,2GMT,118
+Egypt,Fakous,30.7297,31.7972,2GMT,140
+Egypt,Fanar el- Burullus,31.5989,31.0811,2GMT,140
+Egypt,Farshut,26.0550,32.1617,2GMT,122
+Egypt,Fayoum,29.3167,30.8000,2GMT,132
+Egypt,Fowa,31.2025,30.5472,2GMT,137
+Egypt,Gamgara el-Gedida,30.5008,31.2322,2GMT,138
+Egypt,Gharbia,30.8333,31.0000,2GMT,138
+Egypt,Giza,29.7667,31.3000,2GMT,135
+Egypt,Giza Canal,30.0167,31.2333,2GMT,136
+Egypt,Gizai,30.4667,30.8500,2GMT,136
+Egypt,Hehia,30.6700,31.5872,2GMT,139
+Egypt,Heliopolis,30.1000,31.3333,2GMT,137
+Egypt,Helwan,29.8500,31.3333,2GMT,136
+Egypt,Hod el Maarri Qibli,25.8667,32.7833,2GMT,123
+Egypt,Hurghada,27.2500,33.8167,2GMT,135
+Egypt,Ikhtab,30.8375,31.2953,2GMT,139
+Egypt,Iqfahs,28.7833,30.8208,2GMT,130
+Egypt,Ismailia,30.5833,32.2667,2GMT,142
+Egypt,Ismailia Canal,30.0667,31.2667,2GMT,136
+Egypt,Itay al Barud,30.8867,30.6650,2GMT,137
+Egypt,Jirja,26.3458,31.8861,2GMT,122
+Egypt,Jizzayah,30.1842,31.0350,2GMT,136
+Egypt,Kafr ad Dawwar,31.1397,30.1292,2GMT,136
+Egypt,Kafr al-Sheikh,31.2500,30.8333,2GMT,138
+Egypt,Kafr ash Shaykh,31.1114,30.9364,2GMT,138
+Egypt,Kafr el Sheikh_Ash Sharqiyah,30.8006,31.5936,2GMT,140
+Egypt,Kafr el-Sheikh_Kafr ash Shaykh,31.3333,30.8333,2GMT,139
+Egypt,Kafr el-Zaiyat,30.8333,30.8333,2GMT,137
+Egypt,Kafr el-Zayat,30.8206,30.8158,2GMT,137
+Egypt,Kalin,31.0500,30.8333,2GMT,138
+Egypt,Kharga,25.4333,30.5500,2GMT,113
+Egypt,Kharga Oasis,25.2500,30.5833,2GMT,112
+Egypt,Khargah,25.3333,30.5833,2GMT,113
+Egypt,Knm Abu Radi,29.3314,31.1375,2GMT,133
+Egypt,Kom Hamada,30.7333,30.6667,2GMT,136
+Egypt,Luxor,25.6833,32.6500,2GMT,121
+Egypt,Maghagha,28.6486,30.8403,2GMT,130
+Egypt,Mahalla el Kubra,30.9761,31.1669,2GMT,139
+Egypt,Mahallet Abu `Ali el-Qantara,30.9667,31.2000,2GMT,139
+Egypt,Mahallet Misir,31.0178,30.9756,2GMT,138
+Egypt,Mallawi,27.7319,30.8411,2GMT,126
+Egypt,Manfalut,27.3111,30.9694,2GMT,124
+Egypt,Mansoura,31.0431,31.3767,2GMT,140
+Egypt,Mansuria,31.0500,31.4000,2GMT,140
+Egypt,Marsa Abu Dabbab,25.3333,34.7333,2GMT,129
+Egypt,Marsa al `Alam,25.0833,34.9000,2GMT,128
+Egypt,Marsa Matruh,31.3667,27.2333,2GMT,128
+Egypt,Matrouh,30.0000,28.0000,2GMT,126
+Egypt,Ma`adi,29.9667,31.2500,2GMT,136
+Egypt,Menouf,30.4667,30.9333,2GMT,136
+Egypt,Menoufiya,30.5000,31.0000,2GMT,137
+Egypt,Minia,28.4333,30.7000,2GMT,128
+Egypt,Minya,28.1194,30.7444,2GMT,127
+Egypt,Mit Ghamr,30.7167,31.2525,2GMT,138
+Egypt,Mit Habib,30.4497,31.5161,2GMT,138
+Egypt,Mit Habib ash Sharqiyah,30.8797,31.2136,2GMT,139
+Egypt,Mit Salsil,31.1625,31.8119,2GMT,142
+Egypt,Nabaroh,31.0986,31.3047,2GMT,140
+Egypt,Nabq,28.0786,34.4272,2GMT,142
+Egypt,Naga Hamadi,26.0514,32.2386,2GMT,122
+Egypt,Naj` Kawm Jabir,26.1214,32.0336,2GMT,122
+Egypt,Nasr City,30.0667,31.3000,2GMT,136
+Egypt,New Valley,25.0000,29.0000,2GMT,108
+Egypt,North Sinai,31.5000,34.0000,2GMT,151
+Egypt,Nuwaybi` at Tarabin,29.0500,34.6667,2GMT,147
+Egypt,Nuweiba,29.0333,34.6667,2GMT,147
+Egypt,Oasi di Giarabub,29.6833,24.7167,2GMT,118
+Egypt,Oasi di Melfa,29.7667,24.8000,2GMT,118
+Egypt,Oasis Junction,26.0833,32.1000,2GMT,122
+Egypt,oEzbet el- Qirdahi,31.1333,30.2333,2GMT,136
+Egypt,Ofedinah,23.0833,32.6833,2GMT,103
+Egypt,Offeduniya,23.0667,32.6833,2GMT,102
+Egypt,Ogla,29.1833,28.7000,2GMT,125
+Egypt,Om Bogma,28.9914,33.3544,2GMT,141
+Egypt,Om el Zein,30.6478,31.3975,2GMT,139
+Egypt,Om Elgharadeek,29.9167,28.0000,2GMT,126
+Egypt,Ombos_Qina,29.9833,32.7333,2GMT,142
+Egypt,Ombos_Aswan,24.4792,32.9436,2GMT,114
+Egypt,Omm el Kyaman,27.8333,33.5833,2GMT,137
+Egypt,Ophira,28.0000,34.4500,2GMT,142
+Egypt,Owstons Dump,29.4167,28.8667,2GMT,126
+Egypt,Oxford Circus,31.2167,26.0667,2GMT,125
+Egypt,Oxyrynkhos,28.5353,30.6583,2GMT,128
+Egypt,Port Fouad,31.2508,32.3172,2GMT,144
+Egypt,Port Said,31.2667,32.3000,2GMT,144
+Egypt,Port Said Free Zone,31.2167,32.3167,2GMT,144
+Egypt,Port Said Salt Association Limited Lake,31.1797,32.3489,2GMT,144
+Egypt,Pyramid of Onnos,29.8667,31.2167,2GMT,135
+Egypt,Qaha,30.2800,31.2036,2GMT,137
+Egypt,Qarun,29.4167,30.4167,2GMT,131
+Egypt,Qena,25.8333,32.7500,2GMT,123
+Egypt,Qina,26.1700,32.7272,2GMT,125
+Egypt,Quesna Station,30.5500,31.1333,2GMT,137
+Egypt,Qus,25.9167,32.7500,2GMT,123
+Egypt,Qusayr al Qadim,26.1500,34.2500,2GMT,131
+Egypt,Quseir,26.1000,34.2833,2GMT,131
+Egypt,Quwaysina,30.5667,31.1500,2GMT,137
+Egypt,Ra's Abu Bakr,28.5500,32.9333,2GMT,137
+Egypt,Ra's Abu Sawmah,26.8500,33.9833,2GMT,134
+Egypt,Ra's Badran,28.9333,33.1667,2GMT,140
+Egypt,Ra's Bakr,28.4833,32.9500,2GMT,137
+Egypt,Ra's Gharib,28.3553,33.1008,2GMT,137
+Egypt,Ra's Shukhayr,28.1333,33.2667,2GMT,137
+Egypt,Rafah,31.2833,34.2333,2GMT,152
+Egypt,Ras Ghareb,28.3739,33.0628,2GMT,137
+Egypt,Ras Gharib Anchorage,28.3500,33.1000,2GMT,137
+Egypt,Ras Shukhair,28.1342,33.2736,2GMT,137
+Egypt,Ras-el-Hikma,31.1333,27.8333,2GMT,129
+Egypt,Red Sea,25.0000,35.0000,2GMT,128
+Egypt,Red Sea_Al Bahr al Ahmar,26.0000,34.0000,2GMT,129
+Egypt,Rosetta,31.4044,30.4164,2GMT,138
+Egypt,Sadat City,30.3750,30.5003,2GMT,135
+Egypt,Safaga,26.7333,33.9333,2GMT,133
+Egypt,Safaga Island,26.7500,33.9833,2GMT,134
+Egypt,Saint Catherine s Monastery of Mount Sinai,28.5539,33.9733,2GMT,142
+Egypt,Sallum,31.5667,25.1500,2GMT,124
+Egypt,Samalut,28.3000,30.7000,2GMT,128
+Egypt,Samannud,30.9628,31.2444,2GMT,139
+Egypt,Sanbukht,30.9756,31.2903,2GMT,139
+Egypt,Shabin al Qanatir,30.3128,31.3211,2GMT,137
+Egypt,Sharkia,30.8000,31.8000,2GMT,141
+Egypt,Sharm al Shaikh,27.8636,34.2881,2GMT,141
+Egypt,Sharm el- Moiya,27.8544,34.2967,2GMT,141
+Egypt,Sharm el- Naqa,26.9000,33.9667,2GMT,134
+Egypt,Sharm el- Sheikh,27.8519,34.2831,2GMT,141
+Egypt,Shebin al-Kom,30.5586,31.0100,2GMT,137
+Egypt,Sherbin,31.1939,31.5244,2GMT,141
+Egypt,Shoubra,30.0830,31.2333,2GMT,137
+Egypt,Shubra al Khaymah,30.1286,31.2422,2GMT,136
+Egypt,Shubra Khet,31.0281,30.7128,2GMT,137
+Egypt,Sidi Barrani,31.6000,25.9167,2GMT,126
+Egypt,Sidi Salim,31.2719,30.7872,2GMT,138
+Egypt,Siwa,29.1667,25.6667,2GMT,118
+Egypt,Sohag_Suhaj,26.5500,31.6500,2GMT,123
+Egypt,Sohag_Matruh,26.5500,31.7000,2GMT,123
+Egypt,South Sinai,29.0000,34.0000,2GMT,144
+Egypt,Suez,29.9667,32.5500,2GMT,141
+Egypt,Suez Bay,29.9167,32.5333,2GMT,141
+Egypt,Suez Canal,29.9167,32.5500,2GMT,141
+Egypt,Suez Creek,29.9500,32.5667,2GMT,141
+Egypt,Suez Governorate,29.9833,32.5500,2GMT,141
+Egypt,Taba,29.4864,34.9019,2GMT,150
+Egypt,Tahta,26.7681,31.4939,2GMT,123
+Egypt,Tala_Al Minufiyah,30.6819,30.9475,2GMT,137
+Egypt,Tala_Bani Suwayf,28.8792,30.8514,2GMT,130
+Egypt,Talkha,31.0531,31.3739,2GMT,140
+Egypt,Tamit,22.4000,31.7000,2GMT,96
+Egypt,Tanah,31.0353,31.5544,2GMT,140
+Egypt,Tanta,30.7911,30.9981,2GMT,138
+Egypt,Tima,26.9086,31.4328,2GMT,124
+Egypt,Tor,28.2372,33.6139,2GMT,139
+Egypt,Toshka,22.5000,31.8833,2GMT,97
+Egypt,Toukh,30.3483,31.1581,2GMT,137
+Egypt,Verdan Bridge,30.6833,32.3333,2GMT,142
+Egypt,Vetus Hydreuma,24.0500,35.3000,2GMT,121
+Egypt,Victoria College Halt,31.2497,29.9814,2GMT,136
+Egypt,Victorieuse Rock,30.9833,29.4000,2GMT,133
+Egypt,Xois,31.0867,30.9469,2GMT,138
+Egypt,Yasdenia,30.9500,30.0667,2GMT,135
+Egypt,Yihya,31.1711,30.1036,2GMT,136
+Egypt,Yotvat Island,27.9333,34.5667,2GMT,142
+Egypt,Yusri Canal,31.0667,30.0667,2GMT,135
+Egypt,Zagazig,30.5667,31.5000,2GMT,139
+Egypt,Zamalek,30.0667,31.2167,2GMT,136
+Egypt,Zaqaziq,30.5914,31.5103,2GMT,139
+Egypt,Zeit Bay,27.8000,33.5167,2GMT,137
+Egypt,Zifta,30.7136,31.2439,2GMT,138

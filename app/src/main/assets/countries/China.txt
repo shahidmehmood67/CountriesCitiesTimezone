@@ -1,0 +1,258 @@
+China,Anqing,30.5092,117.0506,8GMT,283
+China,Baoding Diqu,38.8667,115.4833,8GMT,279
+China,Baoji,37.5039,117.8592,8GMT,281
+China,Baoji Xian,34.3500,107.3833,8GMT,277
+China,Bei Jiang,23.0333,112.9667,8GMT,285
+China,Beijing,39.9289,116.3883,8GMT,279
+China,Beijing_Shanxi,35.2092,110.7328,8GMT,278
+China,Beijing_Liaoning,39.8825,123.9119,8GMT,283
+China,Beijing Beizhan,39.9467,116.3450,8GMT,279
+China,Beijing Dongzhan,39.9019,116.4883,8GMT,279
+China,Beijing Nanzhan,39.8686,116.3872,8GMT,279
+China,Beijing Paiwuhe,39.2753,117.3683,8GMT,280
+China,Beijing Shi,40.2500,116.5000,8GMT,279
+China,Beijing Zhan,39.9008,116.4228,8GMT,279
+China,Beijinggang,29.3439,112.4903,8GMT,282
+China,Beijingshan,29.5375,118.1000,8GMT,284
+China,Beijingtou,35.1939,109.5808,8GMT,277
+China,Benxi,41.2886,123.7650,8GMT,283
+China,Canton River,22.7700,113.6256,8GMT,285
+China,Ch ang-ch un,42.7469,126.2467,8GMT,284
+China,Ch ang-sha,28.1792,113.1136,8GMT,282
+China,Chang an,23.8833,111.9000,8GMT,284
+China,Changchun,43.8800,125.3228,8GMT,283
+China,Changge,34.2175,113.7689,8GMT,280
+China,Changsha_Hunan,28.2000,112.9667,8GMT,282
+China,Changsha_Guizhou,28.6878,105.9897,8GMT,279
+China,Changsha_Hainan,18.8089,110.0169,8GMT,286
+China,Changsha_Jiangsu,32.4067,121.2808,8GMT,284
+China,Changsha_Anhui,30.7417,117.4639,8GMT,283
+China,Changsha_Guangdong,21.9561,112.8861,8GMT,285
+China,Changsha_Zhejiang,28.3114,121.4192,8GMT,286
+China,Changzhou,32.1639,120.1694,8GMT,284
+China,Chengdu,30.6667,104.0667,8GMT,277
+China,Chongqing,29.5628,106.5528,8GMT,279
+China,Chongqing Shuiku,39.7878,116.0700,8GMT,279
+China,Chongqing Xian,30.6333,103.6667,8GMT,277
+China,Dali,25.7000,100.1833,8GMT,279
+China,Dalian_Fujian,25.6394,119.6858,8GMT,286
+China,Dalian_Hunan,26.4094,110.3339,8GMT,282
+China,Dalian_Liaoning,38.9122,121.6022,8GMT,282
+China,Dalian_Guizhou,28.9833,107.5333,8GMT,280
+China,Dalian_Hebei,36.8547,114.4975,8GMT,279
+China,Dalian_Henan,33.7667,114.9833,8GMT,281
+China,Dalian_Zhejiang,29.1503,120.2272,8GMT,285
+China,Dong an,22.1500,110.9333,8GMT,284
+China,Dongguan,23.0489,113.7447,8GMT,285
+China,Fancheng,33.8667,113.8000,8GMT,280
+China,Foshan,23.0333,113.1167,8GMT,285
+China,Fujian,26.5450,117.8428,8GMT,285
+China,Fuzhou,26.0614,119.3061,8GMT,256
+China,Ganzhou Shi,25.8500,114.9333,8GMT,284
+China,Guan Gou,40.1167,116.4833,8GMT,279
+China,Guanchangxu,20.6206,110.3033,8GMT,285
+China,Guanchao,23.5500,116.6333,8GMT,286
+China,Guandong_Guizhou,25.8361,109.0347,8GMT,282
+China,Guandong_Jiangxi,24.8208,114.9767,8GMT,285
+China,Guandong_Guangxi,22.4333,109.6667,8GMT,284
+China,Guandong Shuiku,23.0964,114.2478,8GMT,285
+China,Guangdong Shan,40.7019,118.4761,8GMT,280
+China,Guangdong Sheng,23.0000,113.0000,8GMT,285
+China,Guangzhou,23.1167,113.2500,8GMT,285
+China,Guangzhouyiyaogongsi,23.6717,113.7039,8GMT,285
+China,Guanzhou,28.5608,108.3381,8GMT,280
+China,Guanzhu,21.7000,111.1667,8GMT,285
+China,Guilin,25.2833,110.2833,8GMT,283
+China,Guma_Hebei,39.6333,118.6500,8GMT,280
+China,Guma_Xinjiang,37.6133,78.2700,8GMT,255
+China,Guzhen,22.6153,113.1758,8GMT,285
+China,Haidian,39.9792,116.2992,8GMT,279
+China,Haikou,20.0458,110.3417,8GMT,285
+China,Handan,36.6006,114.4678,8GMT,279
+China,Hangzhou,30.2553,120.1689,8GMT,285
+China,Hangzhou Shi,30.2500,120.1667,8GMT,285
+China,Harbin,45.7500,126.6500,8GMT,283
+China,Hebao,29.5658,105.5444,8GMT,279
+China,Hebei,25.3692,112.0847,8GMT,283
+China,Hefei,31.8639,117.2808,8GMT,283
+China,Hefei Shi,31.8500,117.2833,8GMT,283
+China,Heilongjiang Sheng,48.0000,128.0000,8GMT,284
+China,Hetaoshu,33.9044,112.2339,8GMT,279
+China,Ho-t ien-chen,37.0997,79.9269,8GMT,257
+China,Houhe,34.2500,113.6608,8GMT,280
+China,Huanggang,23.4328,111.8308,8GMT,284
+China,Huhehot,40.8106,111.6522,8GMT,276
+China,Huizhou,23.0833,114.4000,8GMT,285
+China,Jiamusi,46.8333,130.3500,8GMT,285
+China,Jilin,45.2544,131.2397,8GMT,286
+China,Jinan,36.6683,116.9972,8GMT,281
+China,Jinhua,26.5833,106.5667,8GMT,281
+China,Jinjiang,24.8178,118.5764,8GMT,286
+China,Jinzhou,39.1000,121.7167,8GMT,282
+China,Jiujiang,29.7333,115.9833,8GMT,283
+China,Kaifeng,34.7911,114.3483,8GMT,280
+China,Kargalik,37.8850,77.4131,8GMT,254
+China,Kashgar,39.3914,76.0400,8GMT,251
+China,Kashi,39.4547,75.9797,8GMT,251
+China,Kashi Shi,39.4833,75.9667,8GMT,250
+China,Kashing,30.7656,120.7483,8GMT,284
+China,Keqiao,30.0686,120.4708,8GMT,285
+China,Kunming,25.0389,102.7183,8GMT,280
+China,Kunshan,31.3844,120.9514,8GMT,285
+China,Langfang,39.5097,116.6947,8GMT,279
+China,Lanzhou,36.0564,103.7922,8GMT,274
+China,Lanzhou Shi,36.0500,103.6833,8GMT,274
+China,Linyi,35.0631,118.3428,8GMT,282
+China,Longgang,23.9972,116.2300,8GMT,285
+China,Nanchang,28.6833,115.8833,8GMT,283
+China,Nanjing_Guangdong,23.3403,116.2908,8GMT,286
+China,Nanjing_Jiangxi,24.7000,114.3833,8GMT,284
+China,Nanjing_Fujian,24.0450,117.8631,8GMT,286
+China,Nanjing_Jiangsu,32.0617,118.7778,8GMT,283
+China,Nanjing_Hunan,27.1186,110.5931,8GMT,282
+China,Nanjing Shi,32.0500,118.7833,8GMT,283
+China,Nanjing Xian,24.5167,117.3500,8GMT,285
+China,Nanjing Xizhan,32.0994,118.7403,8GMT,283
+China,Nanjing Zhan,32.0889,118.7911,8GMT,283
+China,Nanjinggang,29.3333,113.0919,8GMT,282
+China,Nanjingjiazhuang,32.4500,120.3667,8GMT,284
+China,Nanjingkou,24.9031,114.8467,8GMT,284
+China,Nanjingqiao,26.3633,112.6944,8GMT,283
+China,Nanjingtang,38.1925,115.6261,8GMT,279
+China,Nanjingtou,25.5142,118.9697,8GMT,286
+China,Nanjinguan,30.7608,111.2811,8GMT,281
+China,Nanjingzhuang,39.9333,112.7117,8GMT,277
+China,Nanjingzi,40.9478,121.6794,8GMT,282
+China,Nanning,22.8167,108.3167,8GMT,283
+China,Nantong_Fujian,25.9475,119.2547,8GMT,286
+China,Nantong_Jiangsu,32.0303,120.8747,8GMT,284
+China,Ningbo,29.8750,121.5419,8GMT,285
+China,Ningbo Shi,29.8833,121.5500,8GMT,285
+China,Penglai,37.8086,120.7508,8GMT,282
+China,Pudong_Guangdong,24.1486,112.2572,8GMT,284
+China,Pudong_Shandong,36.4489,120.3156,8GMT,283
+China,Pudong_Shanxi,37.0269,112.1697,8GMT,278
+China,Pudong_Zhejiang,28.0486,120.6308,8GMT,285
+China,Pudong_Guizhou,26.1686,108.9894,8GMT,282
+China,Pudong_Shanghai,31.2394,121.5039,8GMT,285
+China,Qing Dao,36.4889,120.9972,8GMT,283
+China,Qingdao,36.0986,120.3719,8GMT,283
+China,Qingdao Shi,36.0667,120.3167,8GMT,283
+China,Qinghai,25.8083,106.0750,8GMT,281
+China,Qinghai Hu,37.0069,100.1047,8GMT,271
+China,Qinghai Nanshan,36.5833,100.0000,8GMT,271
+China,Qinghai Sheng,36.0000,96.0000,8GMT,269
+China,Qinghaihu,36.8383,100.8208,8GMT,272
+China,Quanzhou,24.9139,118.5858,8GMT,286
+China,Quanzhou Shi,24.9150,118.5853,8GMT,286
+China,Rui an,27.7814,120.6283,8GMT,286
+China,Sanya,18.2431,109.5050,8GMT,286
+China,Shache,38.4167,77.2406,8GMT,253
+China,Shache Xian,38.4000,77.2500,8GMT,253
+China,Shachenchi,36.3342,115.7864,8GMT,280
+China,Shacheng_Fujian,27.1653,120.4200,8GMT,286
+China,Shacheng_Hebei,40.3914,115.5114,8GMT,278
+China,Shacheng Gang,27.1569,120.4425,8GMT,286
+China,Shang-hai,31.0050,121.4086,8GMT,285
+China,Shanghai,31.2222,121.4581,8GMT,285
+China,Shanghai Shan,30.4847,122.3731,8GMT,285
+China,Shanghai Station,31.2531,121.4544,8GMT,285
+China,Shanghai Xian,31.1167,121.3667,8GMT,285
+China,Shanghai Xizhan,31.2681,121.3919,8GMT,285
+China,Shanghaimiao Muchang,38.2167,106.8167,8GMT,274
+China,Shanghainongchang,32.9667,120.7167,8GMT,284
+China,Shanghaitang,30.7000,120.0333,8GMT,284
+China,Shantou,23.3667,116.6667,8GMT,286
+China,Shaoxing,30.0017,120.5811,8GMT,284
+China,Shekou,22.4964,113.9200,8GMT,285
+China,Shenyang_Liaoning,41.7922,123.4328,8GMT,283
+China,Shenyang_Guangdong,23.3950,116.4283,8GMT,286
+China,Shenyang_Jilin,43.6333,124.0500,8GMT,282
+China,Shenyang Zhan,41.7833,123.3922,8GMT,282
+China,Shenyangdong Zhan,41.8178,123.5133,8GMT,283
+China,Shenyangtai,32.4242,113.7803,8GMT,281
+China,Shenyangxi Zhan,41.8386,123.3197,8GMT,282
+China,Shenzhen_Guangdong,22.5218,114.1218,8GMT,284
+China,Shenzhen_Zhejiang,29.4200,121.3392,8GMT,285
+China,Shenzhen Shuiku,22.5667,114.1333,8GMT,285
+China,Shenzhen Wan,22.4447,113.8992,8GMT,285
+China,Shenzhengqiaocun,27.7064,115.4714,8GMT,284
+China,Shihezi,44.3000,86.0333,8GMT,254
+China,Shijiazhuang_Zhejiang,30.6239,121.0936,8GMT,285
+China,Shijiazhuang_Jiangsu,32.4650,121.0803,8GMT,284
+China,Shijiazhuang_Hebei,38.0414,114.4786,8GMT,279
+China,Shijiazhuang_Shanxi,39.5050,114.1472,8GMT,278
+China,Shijiazhuang_Henan,35.8961,113.7019,8GMT,279
+China,Shishi_Fujian,25.3161,118.5597,8GMT,286
+China,Shishi_Anhui,29.5417,118.4458,8GMT,284
+China,Shishi_Jiangsu,31.9417,119.1139,8GMT,284
+China,Shishi_Hunan,25.7333,112.4000,8GMT,283
+China,Shishi_Zhejiang,28.8689,118.9067,8GMT,285
+China,Shishi Shi,24.7397,118.4258,8GMT,286
+China,Shunde,22.8408,113.2453,8GMT,285
+China,Suzhou_Anhui,33.6361,116.9789,8GMT,282
+China,Suzhou_Jiangsu,31.3114,120.6181,8GMT,284
+China,Suzhou_Gansu,39.7667,98.5667,8GMT,268
+China,Suzhou Shi,31.3000,120.6167,8GMT,284
+China,Taizhou,28.8500,121.1167,8GMT,285
+China,Tianjin,39.1422,117.1767,8GMT,280
+China,Tianjin Shi,39.1333,117.2000,8GMT,280
+China,Urumqi,43.8000,87.5833,8GMT,256
+China,Urumqi He,43.5500,87.3500,8GMT,256
+China,Wenzhou_Zhejiang,28.0192,120.6544,8GMT,286
+China,Wenzhou_Fujian,24.1456,117.6489,8GMT,286
+China,Wenzhou Dao,27.9625,120.8881,8GMT,286
+China,Wenzhou Jiao,27.9850,120.9636,8GMT,286
+China,Wenzhou Qiantan,27.9372,120.9269,8GMT,286
+China,Wenzhou Wan,27.9167,121.2500,8GMT,286
+China,Wenzhouzhi,29.7100,122.0072,8GMT,286
+China,Wu Jiang,29.7167,107.4000,8GMT,279
+China,Wu Xi,27.6833,119.9667,8GMT,285
+China,Wu-ch ang,30.3333,114.1167,8GMT,282
+China,Wuhan,30.5833,114.2667,8GMT,282
+China,Wuhang,30.4978,120.2594,8GMT,285
+China,Wujiang Shi,31.1575,120.6417,8GMT,285
+China,Wuxi_Hunan,28.2661,110.0583,8GMT,281
+China,Wuxi_Sichuan,30.9667,100.2167,8GMT,276
+China,Wuxi_Anhui,30.5667,118.4500,8GMT,284
+China,Wuxi_Chongqing,31.4667,109.6000,8GMT,279
+China,Wuxi_Jiangsu,31.5772,120.2939,8GMT,284
+China,Wuxi_Fujian,27.5075,119.6950,8GMT,285
+China,Wuxi_Zhejiang,28.0708,119.5550,8GMT,285
+China,Wuzhi,35.0956,113.3900,8GMT,279
+China,Xi'an_Zhejiang,27.9833,120.4000,8GMT,285
+China,Xi an_Shaanx,34.2622,108.9378,8GMT,278
+China,Xi'an Shi,34.2667,108.9000,8GMT,278
+China,Xiamen_Shanxi,36.8167,111.7000,8GMT,278
+China,Xiamen_Fujian,24.4675,118.0931,8GMT,286
+China,Xiamen Dao,24.4933,118.1311,8GMT,286
+China,Xiamen Shi,24.4600,118.0789,8GMT,286
+China,Xian Xian,38.2000,116.1167,8GMT,280
+China,Xinjiang_Hunan,26.4758,109.6508,8GMT,282
+China,Xinjiang_Shanxi,35.6128,111.2178,8GMT,278
+China,Xinjiang_Zhejiang,30.4333,120.4333,8GMT,285
+China,Xinjiang_Guangdong,24.4667,113.8333,8GMT,284
+China,Xinjiang_Jiangxi,27.8797,115.3492,8GMT,283
+China,Xinjiang_Liaoning,41.4053,125.5278,8GMT,284
+China,Xinjiang Uygur Zizhiqu,42.5692,85.4561,8GMT,256
+China,Xuancheng,30.9525,118.7553,8GMT,284
+China,Xuchang Shi,34.0167,113.8167,8GMT,280
+China,Xunhua Salarzu Zizhixian,35.8333,102.4333,8GMT,273
+China,Xuzhou,34.2669,117.1917,8GMT,282
+China,Xuzhou Shi,34.2667,117.1833,8GMT,282
+China,Yangzhou_Jiangsu,32.3972,119.4358,8GMT,284
+China,Yangzhou_Jiangxi,29.1667,115.3667,8GMT,283
+China,Yangzhou_Shaanxi,33.2222,107.5392,8GMT,278
+China,Yantai,37.5333,121.4000,8GMT,283
+China,Yichang,30.7144,111.2847,8GMT,281
+China,Yiwu_Zhejiang,29.3086,120.0697,8GMT,285
+China,Yiwu_Yunnan,21.9833,101.4667,8GMT,282
+China,Yiwu_Xinjiang,43.2500,94.5833,8GMT,282
+China,Zaozhuang,34.8640,117.5542,8GMT,282
+China,Zaozhuang Shi,34.8833,117.5667,8GMT,282
+China,Zhejiang,29.0000,120.0000,8GMT,285
+China,Zhengzhou,34.7578,113.6486,8GMT,280
+China,Zhongshan,21.3203,110.5886,8GMT,285
+China,Zhoukou Shi,33.6333,114.6333,8GMT,281
+China,Zhuhai,113.5678,113.5678,8GMT,285
+China,Zhuozhou,39.4811,115.9633,8GMT,279

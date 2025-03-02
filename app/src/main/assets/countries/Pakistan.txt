@@ -1,0 +1,241 @@
+Pakistan,Abbottabad,34.1222,73.1333,5GMT,255
+Pakistan,Adezai,33.7833, 71.5833,5GMT,255
+Pakistan,Ahmadpur East,29.1500,71.2667,5GMT,262
+Pakistan,Alipur,29.4264,70.8778,5GMT,261
+Pakistan,Alizai,31.0000,69.2000,5GMT,257
+Pakistan,Alpuri,34.9000,72.6500,5GMT,254
+Pakistan,Arifwala,30.2833,73.0667,5GMT,262
+Pakistan,Askole,35.6833,75.8167,5GMT,256
+Pakistan,Attock,33.8742,72.2414,5GMT,255
+Pakistan,Ayubia,34.6611, 72.1875,5GMT,254
+Pakistan,Bada Khel,32.9558,70.6628,5GMT,255
+Pakistan,Badin,24.6500,68.8333,5GMT,269
+Pakistan,Bagh,30.6267,67.7106,5GMT,257
+Pakistan,Bahawalnagar,29.9833,73.2667,5GMT,262
+Pakistan,Bahawalpur,30.5333,71.9833,5GMT,260
+Pakistan,Banda Daud Shah,33.2667,71.1833,5GMT,255
+Pakistan,Bannu,32.9869,70.6069,5GMT,255
+Pakistan,Battagram, 34.1556, 73.4667,5GMT,256
+Pakistan,Bhakkar,28.7139,70.9333,5GMT,263
+Pakistan,Bhalwal,32.2694,72.8806,5GMT,258
+Pakistan,Bhera,34.4181,72.8861,5GMT,255
+Pakistan,Bhimber,32.9833,74.0667,5GMT,258
+Pakistan,Bhirkan,27.8514,68.7778,5GMT,263
+Pakistan,Bunji (or Boanzhi),35.6667,74.6000,5GMT,254
+Pakistan,Burewala,30.3944,72.9194,5GMT,261
+Pakistan,Chak,27.8722,68.8222,5GMT,263
+Pakistan,Chakdara,34.6472,72.0306,5GMT,254
+Pakistan,Chakwal,33.0967,72.6239,5GMT,257
+Pakistan,Chalt (Nagar),36.2500,74.3333,5GMT,253
+Pakistan,Chaman,30.4500,67.0667,5GMT,256
+Pakistan,Charsadda,34.1453,71.7308,5GMT,254
+Pakistan,Chichawatni,30.5333,72.7000,5GMT,261
+Pakistan,Chilas,35.4333,74.0833,5GMT,254
+Pakistan,Chillianwala,32.6333,73.5819,5GMT,258
+Pakistan,Chiniot,31.6167,72.5000,5GMT,259
+Pakistan,Chiran,34.8333,73.0472,5GMT,254
+Pakistan,Chishtian,29.8000,72.8667,5GMT,262
+Pakistan,Chitral,35.8833,71.9000,5GMT,252
+Pakistan,Dadu,24.6167,68.1667,5GMT,269
+Pakistan,Daggar,33.1981,71.1433,5GMT,255
+Pakistan,Dargai,33.6597,71.0056,5GMT,254
+Pakistan,Darya Khan,32.8517,70.7167,5GMT,255
+Pakistan,Darya Khan,34.6889,72.6639,5GMT,254
+Pakistan,Daska,32.3500,74.4167,5GMT,259
+Pakistan,Dera Allah Yar,31.4522,69.4636,5GMT,257
+Pakistan,Dera Ghazi Khan,30.0561,70.6344,5GMT,260
+Pakistan,Dera Ismail Khan,31.8333,70.9000,5GMT,257
+Pakistan,Dera Murad Jamali,28.5500,68.2167,5GMT,261
+Pakistan,Dhaular,31.2167,72.5833,5GMT,260
+Pakistan,Digri,25.0389,69.2333,5GMT,269
+Pakistan,Dina,33.0333,73.6000,5GMT,258
+Pakistan,Dinga,31.9292,73.6667,5GMT,259
+Pakistan,Dipalpur,30.6667,73.6500,5GMT,261
+Pakistan,Diplo,24.4667,69.5833,5GMT,270
+Pakistan,Dir,35.2908,71.8311,5GMT,252
+Pakistan,Doaba,34.2639,71.5806,5GMT,254
+Pakistan,Dokri,26.9486,68.1917,5GMT,264
+Pakistan,Drosh,35.5581,71.7925,5GMT,252
+Pakistan,Faisalabad,31.4167,73.0833,5GMT,260
+Pakistan,Fateh Jang,33.2172,72.7106,5GMT,256
+Pakistan,Gakuch,36.1667,73.7500,5GMT,253
+Pakistan,Ghotki,28.0167,69.3167,5GMT,263
+Pakistan,Gilgit,35.7500,74.5000,5GMT,254
+Pakistan,Gojra,33.2833,73.3500,5GMT,257
+Pakistan,Gurikot,35.2833,74.8333,5GMT,255
+Pakistan,Gujar Khan,33.2333,72.9833,5GMT,257
+Pakistan,Gujranwala,32.1500,74.1833,5GMT,259
+Pakistan,Gujrat,32.3506,71.2908,5GMT,257
+Pakistan,Gulmit,36.3667,74.8500,5GMT,254
+Pakistan,Gwadar,25.1156,62.3283,5GMT,265
+Pakistan,Hafizabad,31.4000,73.4667,5GMT,260
+Pakistan,Hallu,27.0667,67.3083,5GMT,263
+Pakistan,Hangu,33.5328,71.0600,5GMT,254
+Pakistan,Haripur,33.9972,72.9336,5GMT,255
+Pakistan,Haroonabad,29.6133,73.1389,5GMT,263
+Pakistan,Hasilpur,29.7122,72.5553,5GMT,262
+Pakistan,Hattian,30.5094,73.3308,5GMT,261
+Pakistan,Hubdu Kaur,26.4833,66.0181,5GMT,264
+Pakistan,Hyderabad,25.3583,68.4000,5GMT,268
+Pakistan,Ishkuman,36.5333,73.8167,5GMT,252
+Pakistan,Islamabad,33.6844,73.0479,5GMT,0
+Pakistan,Islamkot,24.7000,70.1833,5GMT,270
+Pakistan,Jacobabad,28.2444,68.3569,5GMT,262
+Pakistan,Jaglot,35.6667,73.4000,5GMT,253
+Pakistan,Jalalpur Jattan,32.6333,74.2000,5GMT,259
+Pakistan,Jampur,30.0333,71.4333,5GMT,261
+Pakistan,Jamrud,34.0014,71.3797,5GMT,254
+Pakistan,Jamshoro,25.4333,68.3333,5GMT,267
+Pakistan,jandola,32.3364,70.1183,5GMT,256
+Pakistan,Jaranwala,31.3667,73.4500,5GMT,260
+Pakistan,Jauharabad,32.2842,72.2786,5GMT,258
+Pakistan,Jhang,32.3500,73.4000,5GMT,258
+Pakistan,Jhelum,32.5694,73.0667,5GMT,258
+Pakistan,Jungshahi,24.8572,67.7725,5GMT,268
+Pakistan,Kalabagh,32.9667,71.5667,5GMT,256
+Pakistan,Kalat, 25.3931,64.0303,5GMT,265
+Pakistan,Kamalia,30.7333,72.6500,5GMT,260
+Pakistan,Kamoke,31.9744,74.2244,5GMT,260
+Pakistan,Kandhkot,28.2194,69.1833,5GMT,262
+Pakistan,Kandiaro,25.3556,69.5083,5GMT,268
+Pakistan,Karachi,24.8667,67.0500,5GMT,268
+Pakistan,Karak,33.1200,71.0947,5GMT,255
+Pakistan,Karimabad (Hunza),28.4333,69.4167,5GMT,262
+Pakistan,Kashmore,28.4333,69.5833,5GMT,262
+Pakistan,Kasur,31.0903,74.4083,5GMT,261
+Pakistan,Keti Bandar,24.1167,67.4167,5GMT,270
+Pakistan,Khairpur,28.0583,69.7083,5GMT,263
+Pakistan,Khanabad,34.9667,72.4667,5GMT,253
+Pakistan,Khanewal,30.3000,71.9333,5GMT,261
+Pakistan,Khanpur,31.4778,72.0931,5GMT,259
+Pakistan,Kharan,29.6917,67.1958,5GMT,258
+Pakistan,Kharian,32.7667,73.7167,5GMT,258
+Pakistan,Khuiratta,33.3500,74.0333,5GMT,257
+Pakistan,Khushab,30.3833,72.5806,5GMT,261
+Pakistan,Khuzdar,27.8000,66.6000,5GMT,261
+Pakistan,Kohat,33.7111,72.0025,5GMT,255
+Pakistan,Kot Addu,30.4700,70.9644,5GMT,260
+Pakistan,Kotli,32.5556,74.5028,5GMT,259
+Pakistan,Kotri,28.0125,68.1625,5GMT,262
+Pakistan,Kulachi,32.0333,70.3667,5GMT,256
+Pakistan,Lahore,31.5497,74.3436,5GMT,260
+Pakistan,Lakki Marwat,32.6903,70.8347,5GMT,256
+Pakistan,Lalamusa,32.7000,73.9667,5GMT,258
+Pakistan,Landi Kotal,34.1011,71.1456,5GMT,254
+Pakistan,Larkana,27.5972,68.2500,5GMT,263
+Pakistan,Latamber,33.1092,70.8675,5GMT,255
+Pakistan,Liaquat Pur,28.5458,70.8667,5GMT,263
+Pakistan,Lodhran,29.8708,72.7458,5GMT,262
+Pakistan,Loralai,30.3667,68.6000,5GMT,258
+Pakistan,Maamuri,29.9158,70.5644,5GMT,260
+Pakistan,Madaman,32.9336,70.5744,5GMT,255
+Pakistan,Mailsi,29.8003,72.1758,5GMT,262
+Pakistan,Malakwal,32.9167,72.4000,5GMT,257
+Pakistan,Mandi Bahauddin,32.5833,73.5000,5GMT,258
+Pakistan,Mangla Dam,33.1500,73.6500,5GMT,257
+Pakistan,Mansehra,34.3333,73.2000,5GMT,255
+Pakistan,Mardan,34.2000,72.0333,5GMT,254
+Pakistan,Mastuj,36.2833,72.5167,5GMT,252
+Pakistan,Mastung,29.8000,66.8500,5GMT,257
+Pakistan,Matiari,25.6000,68.4500,5GMT,267
+Pakistan,Mehar,27.2306,67.7708,5GMT,263
+Pakistan,Mehrabpur,28.2333,68.4500,5GMT,262
+Pakistan,Mian Channu,30.4500,72.3667,5GMT,261
+Pakistan,Mianwali,32.6125,71.7500,5GMT,257
+Pakistan,Mingora,34.7833,72.3667,5GMT,254
+Pakistan,Mir Ali,33.0172,70.2908,5GMT,255
+Pakistan,Miranshah,30.5806,71.5264,5GMT,260
+Pakistan,Mirpur,28.5333,67.7333,5GMT,261
+Pakistan,Mirpur Khas,25.5458,69.0708,5GMT,268
+Pakistan,Misgar,36.7761,74.7656,5GMT,253
+Pakistan,Mithani,29.0833,67.7667,5GMT,260
+Pakistan,Mithi,24.3333,69.0167,5GMT,270
+Pakistan,Moro,26.6556,67.9778,5GMT,265
+Pakistan,Multan,30.1956,71.4753,5GMT,261
+Pakistan,Muridke,31.8025,74.2617,5GMT,260
+Pakistan,Murree,33.9000,73.4000,5GMT,256
+Pakistan,Muzaffarabad,32.2750,72.4950,5GMT,258
+Pakistan,Muzaffargarh,30.5833,71.6667,5GMT,260
+Pakistan,Nagarparkar,24.3667,70.7500,5GMT,271
+Pakistan,Narowal,32.0167,32.0167,5GMT,258
+Pakistan,Nasirabad,27.7333,68.8167,5GMT,263
+Pakistan,Naudero,27.6708,68.3417,5GMT,263
+Pakistan,Naushahro Feroze,26.8333,68.1167,5GMT,264
+Pakistan,Naushara,33.2169,72.2425,5GMT,256
+Pakistan,Nawabshah,26.2500,68.4167,5GMT,266
+Pakistan,Nazimabad,24.9128,67.0244,5GMT,268
+Pakistan,Nowshera,34.0153,71.9747,5GMT,255
+Pakistan,Nushki,29.5500,66.0167,5GMT,257
+Pakistan,Okara,30.8081,73.4458,5GMT,261
+Pakistan,Paharpur,32.1022,70.9700,5GMT,257
+Pakistan,Pakpattan,30.3500,73.4000,5GMT,262
+Pakistan,Parachinar,33.8992,70.1008,5GMT,253
+Pakistan,Pasni,25.2639,63.4744,5GMT,265
+Pakistan,Passu,36.4667,74.9000,5GMT,254
+Pakistan,Pattoki,31.0167,73.8500,5GMT,261
+Pakistan,Peshawar,34.0083,71.5728,5GMT,254
+Pakistan,Pir Mahal,30.7667,72.4333,5GMT,260
+Pakistan,Qaimpur,28.5278,70.3403,5GMT,263
+Pakistan,Qambar,27.1667,67.6000,5GMT,263
+Pakistan,Qasimabad,30.5000,72.6000,5GMT,261
+Pakistan,Qila Didar Singh,32.1333,74.0167,5GMT,259
+Pakistan,Quetta,30.2000,67.0000,5GMT,257
+Pakistan,Rabwah,31.7558,72.9197,5GMT,259
+Pakistan,Rahim Yar Khan,28.4167,70.3000,5GMT,263
+Pakistan,Raiwind,31.2544,74.2178,5GMT,261
+Pakistan,Rajanpur,28.9111,70.1056,5GMT,262
+Pakistan,Rajo Khanani,24.9833,68.8500,5GMT,269
+Pakistan,Ranipur,27.2889,68.5044,5GMT,264
+Pakistan,Ratodero,27.7514,68.2833,5GMT,263
+Pakistan,Rawala Kot,33.8667,73.7667,5GMT,256
+Pakistan,Rawalpindi,33.6000,73.0667,5GMT,256
+Pakistan,Razmak,32.6886,69.8356,5GMT,255
+Pakistan,Renala Khurd,30.8833,73.6000,5GMT,261
+Pakistan,Rohri,26.2833,67.7417,5GMT,265
+Pakistan,Sadda,32.5833,74.5500,5GMT,259
+Pakistan,Sadiqabad,28.3000,70.1333,5GMT,263
+Pakistan,Sahiwal,30.6667,73.1000,5GMT,261
+Pakistan,Saidu Sharif,34.7500,72.3500,5GMT,254
+Pakistan,Sakrand,26.1333,68.2667,5GMT,266
+Pakistan,Sanghar,28.1833,68.2833,5GMT,262
+Pakistan,Sangla Hill,31.7167,73.3833,5GMT,259
+Pakistan,Sarai Alamgir,32.9000,73.7500,5GMT,258
+Pakistan,Sargodha,32.0836,72.6711,5GMT,258
+Pakistan,Shahbandar,24.1667,67.9000,5GMT,270
+Pakistan,Shahdadkot,27.8389,67.8750,5GMT,262
+Pakistan,Shahdadpur,25.9667,68.6367,5GMT,266
+Pakistan,Shahpur Chakar,26.1500,68.6500,5GMT,266
+Pakistan,Shakargarr,32.2667,75.1667,5GMT,260
+Pakistan,Sheikhupura,31.6667,74.0000,5GMT,260
+Pakistan,Shikarpur,28.0556,68.7500,5GMT,263
+Pakistan,Shimshal,36.4786,74.8825,5GMT,254
+Pakistan,Shorkot,31.9097,70.8772,5GMT,257
+Pakistan,Sialkot,32.5750,74.4167,5GMT,259
+Pakistan,Sibi,29.5500,67.8833,5GMT,259
+Pakistan,Siranwali,32.1667,74.4667,5GMT,260
+Pakistan,Skardu,35.3000,75.6167,5GMT,256
+Pakistan,Sohawa,33.2000,73.0708,5GMT,257
+Pakistan,Soianwala,32.2500,73.7000,5GMT,259
+Pakistan,Sukkur,27.7972,68.7500,5GMT,263
+Pakistan,Swabi,34.1167,72.4667,5GMT,255
+Pakistan,Swat,35.3783,72.1797,5GMT,253
+Pakistan,Talagang,33.0728,71.9322,5GMT,256
+Pakistan,Tando Adam,25.7667,68.6667,5GMT,267
+Pakistan,Tando Allahyar,25.5069,68.6667,5GMT,267
+Pakistan,Tando Mohammad Khan,25.1333,68.5333,5GMT,268
+Pakistan,Tangi,33.9472,72.0061,5GMT,255
+Pakistan,Tangwani,28.2833,69.0000,5GMT,262
+Pakistan,Tank,32.2167,70.3833,5GMT,256
+Pakistan,Taxila,33.7597,72.8375,5GMT,256
+Pakistan,Thall,33.3644,70.5478,5GMT,254
+Pakistan,Thatta,31.3139,73.9569,5GMT,261
+Pakistan,Timergara,34.8272,71.8383,5GMT,253
+Pakistan,Toba Tek Singh,30.9667,72.4833,5GMT,260
+Pakistan,Tordher,33.9911,72.2867,5GMT,255
+Pakistan,Turbat,26.0028,63.0506,5GMT,263
+Pakistan,Umerkot,28.4931,70.0972,5GMT,263
+Pakistan,Usta Mohammad,28.1833,68.0500,5GMT,262
+Pakistan,Vehari,30.0333,72.3500,5GMT,261
+Pakistan,Wana,32.6583,74.1181,5GMT,259
+Pakistan,Warah,27.4583,67.7417,5GMT,263
+Pakistan,Zhob,31.3581,69.4633,5GMT,257

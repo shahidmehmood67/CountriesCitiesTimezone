@@ -1,0 +1,312 @@
+Botswana,Ad Ao Island,-19.4000,23.4167,2,22
+Botswana,Adjutant Vley,-20.6667,21.5167,2,24
+Botswana,Aha,-19.7833,21.1000,2,25
+Botswana,Ai Ao Island,-19.5667,22.9333,2,23
+Botswana,Aphiri,-22.5500,27.5333,2,16
+Botswana,Araruamis,-22.0167,20.6833,2,25
+Botswana,Artesia,-24.0500,26.3333,2,17
+Botswana,Atholl Holme_South East,-24.7506,25.8756,2,18
+Botswana,Babusi_South East,-24.6781,25.9169,2,18
+Botswana,Bachuhura Vlei,-21.8667,25.8167,2,18
+Botswana,Badungwe,-23.2500,27.0167,2,17
+Botswana,Baralong Farms,-25.6667,25.5000,2,18
+Botswana,Bikwe Hill,-22.7000,26.9167,2,17
+Botswana,Bobo Island,-19.6667,23.1000,2,23
+Botswana,Bobonong,-21.9667,28.3333,2,15
+Botswana,Bogo Gobo,-26.6500,21.9167,2,22
+Botswana,Bohelo Batwana Pan,-23.8833,21.4333,2,23
+Botswana,Boitshoko_South East,-24.6614,25.9261,2,18
+Botswana,Bokaa,-24.4500,26.0167,2,17
+Botswana,Bokspits,-26.9000,20.7000,2,23
+Botswana,Bokwi Island,-19.6667,23.1667,2,23
+Botswana,Bonwapitse,-23.2500,26.7500,2,17
+Botswana,Borakanelo_South East,-24.6592,25.9161,2,18
+Botswana,Borokwe Island,-19.4667,23.2667,2,22
+Botswana,Boshwelakhosi,-24.4333,25.9500,2,18
+Botswana,Botlhuku Pan,-24.3333,21.7333,2,23
+Botswana,Botswelelo_South East,-24.6567,25.9233,2,18
+Botswana,Breslaudrif,-22.2500,29.0167,2,14
+Botswana,Broadhurst_South East,-24.6408,25.9211,2,18
+Botswana,Buitsivango,-21.9000,21.3833,2,24
+Botswana,Central District_Central,-22.0000,26.0000,2,18
+Botswana,Chadibi,-22.9833,27.5500,2,16
+Botswana,Chainyane Pan,-25.5167,25.3167,2,18
+Botswana,Chakahire,-18.4500,21.2167,2,25
+Botswana,Chakamakwe Pan,-23.9500,22.2000,2,22
+Botswana,Chakane Pan,-22.7333,27.0000,2,17
+Botswana,Chalmers Well,-26.8333,21.3500,2,22
+Botswana,Chamka,-19.5000,22.2833,2,24
+Botswana,Chanokha Drift Rapids,-20.1667,23.6333,2,22
+Botswana,Chawe Pan,-24.0500,22.0500,2,22
+Botswana,Chichales,-19.4167,22.4500,2,24
+Botswana,Chiro Pan,-19.4667,23.9333,2,22
+Botswana,Chobe District_ or BC02,-18.5000,25.0000,2,21
+Botswana,Chobe National Park,-18.6667,24.5000,2,21
+Botswana,Chokana,-22.5667,27.7833,2,16
+Botswana,Chor-he-samuke,-20.7333,24.4167,2,21
+Botswana,Chuaning,-25.5500,24.9500,2,18
+Botswana,Chuaning Pan,-25.5167,24.9833,2,18
+Botswana,Chuchwa,-24.1667,21.4000,2,23
+Botswana,Chuchwani Pan,-24.1500,21.4167,2,23
+Botswana,Chuela,-23.0167,27.2167,2,16
+Botswana,Chukudu Kraal,-22.4500,23.3833,2,21
+Botswana,Chukudu Pan,-22.4167,23.4000,2,21
+Botswana,Chukukana,-24.8500,25.5167,2,18
+Botswana,Chukutsa Pan,-21.2833,25.0167,2,20
+Botswana,Chuma,-20.6500,24.9167,2,20
+Botswana,Chwainyana Hill,-25.6000,24.9833,2,18
+Botswana,Chwapong Hills,-22.5833,27.5000,2,16
+Botswana,Chwarelangwana,-19.5833,23.2000,2,23
+Botswana,Chwete Kop,-24.4667,25.6167,2,18
+Botswana,Cream of Tartar Pan,-18.8167,25.8167,2,20
+Botswana,Cresta Lodge_South East,-24.6825,25.9089,2,18
+Botswana,Crocodile Pools_South East,-24.7508,25.7703,2,18
+Botswana,Cwaing,-22.9833,26.8667,2,17
+Botswana,Damara,-22.1000,22.4500,2,23
+Botswana,Dauga,-20.7667,24.4000,2,21
+Botswana,Deception,-21.4833,23.8667,2,21
+Botswana,Deka,-18.0667,26.7000,2,19
+Botswana,Dekar,-21.5333,21.9333,2,23
+Botswana,Demarara,-20.4167,22.7500,2,23
+Botswana,Denman Rural Training Center_South East,-24.5814,25.9414,2,18
+Botswana,Detoie,-21.5500,25.6667,2,19
+Botswana,Dibete,-23.7500,26.4833,2,17
+Botswana,Dibiti Kop,-23.7833,26.5333,2,17
+Botswana,Dichaobe Ramokwena,-18.4833,21.9833,2,24
+Botswana,Dikabi,-22.4167,27.2167,2,17
+Botswana,Dikabia Spruit,-22.5333,27.2667,2,16
+Botswana,Dikomu di Kai,-24.8667,24.6167,2,19
+Botswana,Dikongyane,-24.2833,25.2667,2,18
+Botswana,Dilalelo_South East,-24.6642,25.9206,2,18
+Botswana,Dilichwane Kop,-22.2500,27.2333,2,17
+Botswana,Dimaphuti,-22.2833,28.8000,2,15
+Botswana,Dinokana,-22.9167,27.5667,2,16
+Botswana,Diremogolo Hill_Kweneng,-24.6425,25.8008,2,18
+Botswana,Dirolos,-20.1167,23.1667,2,22
+Botswana,Ditauana,-21.9333,26.9500,2,17
+Botswana,Ditsinane,-21.4167,25.8333,2,19
+Botswana,Dobe,-19.5667,21.0333,2,25
+Botswana,Dodo,-18.7500,25.4000,2,20
+Botswana,Domtchetchu Pan,-19.2667,26.0667,2,19
+Botswana,Dotama Pan,-19.7333,26.4333,2,18
+Botswana,Dow Meer,-21.2500,24.6667,2,20
+Botswana,Draai Pan,-22.4500,21.9000,2,23
+Botswana,Dugamcha,-18.4000,21.5667,2,25
+Botswana,Dukwe,-20.5833,26.4167,2,18
+Botswana,Duma,-18.7500,22.7667,2,23
+Botswana,Dumadumana_Kweneng,-24.5872,25.8744,2,18
+Botswana,Dunkaka,-22.2333,22.6833,2,22
+Botswana,Dutlwe,-23.9833,23.9000,2,20
+Botswana,Dwaha,-20.9333,24.6500,2,20
+Botswana,Dzivanini,-19.9000,26.5000,2,18
+Botswana,Dzivanini Pan,-19.7833,26.5667,2,18
+Botswana,Elebe,-22.6000,27.9667,2,16
+Botswana,Elephant Vlei,-18.9667,21.8167,2,24
+Botswana,Fefden,-26.8000,20.9000,2,23
+Botswana,Five Dunes,-26.8333,21.0000,2,23
+Botswana,Foley,-21.6833,27.3167,2,17
+Botswana,Forest Hill_South East,-24.6889,25.8606,2,18
+Botswana,Francistown,-21.1667,27.5167,2,17
+Botswana,Francistown District_North East,-21.0000,27.5000,2,17
+Botswana,Gabane_Kweneng,-24.6667,25.7822,2,18
+Botswana,Gabasari Island,-20.6333,25.1833,2,20
+Botswana,Gaborone_South East,-24.6464,25.9119,2,18
+Botswana,Gaborone Block_South East,-24.6667,25.9167,2,18
+Botswana,Gaborone Dam_South East,-24.7183,25.8947,2,18
+Botswana,Gaborone Industrial Site_South East,-24.6708,25.9044,2,18
+Botswana,Gerufa,-19.2000,25.9500,2,19
+Botswana,Ghanziland,-21.5000,21.5000,2,24
+Botswana,Great Makalakari Lake,-20.6667,25.6667,2,19
+Botswana,Gukwa Pan,-23.1833,20.9500,2,24
+Botswana,Habakobis,-22.0500,20.6333,2,25
+Botswana,Habangan,-20.5667,27.5500,2,17
+Botswana,Haina,-20.7167,23.4667,2,22
+Botswana,Hakobis Pan,-20.4167,21.0333,2,25
+Botswana,Hendricks Vlei,-19.1333,25.9000,2,19
+Botswana,Hildavale,-25.3667,25.6167,2,18
+Botswana,Honye,-24.9500,24.8000,2,19
+Botswana,Hukuntsi,-24.0000,21.7500,2,23
+Botswana,Hunghukwe,-23.4333,21.2500,2,23
+Botswana,Ikwaka,-18.9000,22.3667,2,24
+Botswana,Inkangwe,-24.0167,25.8000,2,18
+Botswana,Inkonane Pan,-21.9167,25.8833,2,18
+Botswana,Ironstone Kopje,-25.2333,24.0833,2,20
+Botswana,Jakops,-21.0333,24.3667,2,21
+Botswana,Janeng,-25.4167,25.5500,2,18
+Botswana,Jerewa Pan,-19.4333,26.1667,2,19
+Botswana,Joani,-20.1333,24.5000,2,21
+Botswana,Jolleys Pan,-18.8333,25.8333,2,19
+Botswana,Joverega,-19.1333,24.2500,2,21
+Botswana,Jwaneng,-24.5833,24.7000,2,19
+Botswana,Kang,-23.7500,22.8333,2,21
+Botswana,Labani,-20.2500,24.0667,2,21
+Botswana,Lechomos,-18.9500,22.8333,2,23
+Botswana,Lefatsis,-18.6667,22.0667,2,24
+Botswana,Leftka,-24.7833,25.6667,2,18
+Botswana,Legwe,-17.9833,24.2167,2,22
+Botswana,Lehwerane,-25.8500,22.3333,2,21
+Botswana,Lekala,-22.7833,27.6167,2,16
+Botswana,Lenake,-23.7500,24.5833,2,19
+Botswana,Letlakara,-22.6833,26.6333,2,17
+Botswana,Letlhajweng_Kweneng,-24.5353,25.8842,2,18
+Botswana,Letlhakane,-21.4167,25.5833,2,19
+Botswana,Letlhakeng,-24.0667,25.0333,2,19
+Botswana,Letsili,-21.9667,28.5167,2,15
+Botswana,Lime Pan,-23.3333,25.7833,2,18
+Botswana,Limone Pan,-22.7167,27.0167,2,17
+Botswana,Limpopa Pan,-19.8833,26.3167,2,18
+Botswana,Little Sisuma Pan,-18.3500,24.1500,2,22
+Botswana,Lobatse,-25.2167,25.6667,2,18
+Botswana,Lobatse Block,-25.1667,25.7000,2,18
+Botswana,Lobilos,-18.8500,22.6500,2,24
+Botswana,Lohohane Hill,-26.1000,22.3833,2,21
+Botswana,Lohohane Pan,-26.1167,22.4167,2,21
+Botswana,Lohoklane,-21.8833,25.7667,2,19
+Botswana,Lokala,-23.9833,26.6833,2,17
+Botswana,Lokerane,-24.8833,24.6667,2,19
+Botswana,Lokhohat,-24.9167,25.7500,2,18
+Botswana,Lokokane Pan,-21.9833,25.9000,2,18
+Botswana,Lokwabe,-24.1667,21.8333,2,22
+Botswana,Lolale,-24.6333,23.5167,2,20
+Botswana,Lonetree Pan,-20.4500,24.8833,2,20
+Botswana,Lotlakani,-25.0833,25.4333,2,18
+Botswana,Lotsane,-22.7000,28.1667,2,15
+Botswana,Lupani,-22.6167,27.0500,2,17
+Botswana,Lutlhe,-23.9667,23.8167,2,20
+Botswana,Lyshuma River,-17.8167,25.2833,2,21
+Botswana,Mahalapye,-23.0667,26.8333,2,17
+Botswana,Maun,-19.9833,23.4167,2,22
+Botswana,Maunatlala,-22.5667,27.5667,2,16
+Botswana,Molepolole,-24.4167,25.5333,2,18
+Botswana,Nakala Tlou Pan,-24.1833,22.3500,2,22
+Botswana,Naledi_South East,-24.6817,25.9025,2,18
+Botswana,Namakha Island,-19.5000,23.5333,2,22
+Botswana,Namasseri,-18.6333,22.1500,2,24
+Botswana,Nami Pan,-24.2333,21.2500,2,23
+Botswana,Namissa Drift,-20.4167,24.3667,2,21
+Botswana,Nata,-20.2333,26.1667,2,19
+Botswana,National Stadium_South East,-24.6567,25.9328,2,18
+Botswana,Nekati,-20.0833,26.0167,2,19
+Botswana,Nemtungu Pan,-19.7000,26.4000,2,18
+Botswana,Ngamaseri,-18.5833,21.9333,2,25
+Botswana,Ngami,-20.5000,22.6667,2,23
+Botswana,Ngamiland,-20.5000,22.5000,2,23
+Botswana,Ngamiland District_North West,-20.0000,22.5000,2,23
+Botswana,Ngaru Pan,-18.2667,24.2333,2,22
+Botswana,Nghabe,-20.4000,22.9667,2,23
+Botswana,Ngiana,-18.5333,21.4667,2,25
+Botswana,Ngoga,-19.3500,23.2500,2,23
+Botswana,Ngoma Pan,-18.6667,24.1333,2,22
+Botswana,Ngunungu Pan,-18.7167,24.0500,2,22
+Botswana,Ngwaketsi_Southern,-25.0000,25.0000,2,19
+Botswana,Ngwala,-20.4667,24.5167,2,21
+Botswana,Ngwanalekau Hills,-20.8500,22.7333,2,23
+Botswana,Ngwasha Pan,-19.5500,26.1667,2,19
+Botswana,Ngwezumba,-17.9167,25.2000,2,21
+Botswana,Njinga,-18.7833,22.7333,2,23
+Botswana,Nkoehaphiri_Kweneng,-24.6250,25.8322,2,18
+Botswana,Nkoyaphiri_Kweneng,-24.6322,25.8314,2,18
+Botswana,Noang,-24.3500,22.7333,2,21
+Botswana,Nojane,-23.1667,20.2667,2,25
+Botswana,Nokanen,-19.6667,22.2667,2,24
+Botswana,Northern Bechuanaland,-22.0000,24.0000,2,21
+Botswana,Notwani,-24.7500,25.8167,2,18
+Botswana,Notwani_South East,-24.7119,25.9522,2,17
+Botswana,Ntabis,-20.0500,23.3667,2,22
+Botswana,Ntwetwe Pan,-20.5833,25.5000,2,19
+Botswana,Nwali,-23.0833,20.2167,2,25
+Botswana,Nwanaeanoka,-18.9000,22.6667,2,23
+Botswana,Nwatle,-23.7500,21.1333,2,23
+Botswana,Nyeruku Pan,-18.7500,24.0500,2,22
+Botswana,Ochwe,-23.1667,21.0000,2,24
+Botswana,Odanakumadona,-20.8833,24.75,2,20
+Botswana,Odeake Pan,-20.0833,25.2833,2,20
+Botswana,Okovanggo Basin,-19.5000,23.0000,2,23
+Botswana,Okwa,-22.4167,21.9000,2,22
+Botswana,Okwani Hill,-25.9667,22.4167,2,21
+Botswana,Old Tati,-21.5167,27.8000,2,16
+Botswana,Olifants Kloof,-22.1833,20.0833,2,25
+Botswana,Omagaga,-20.3500,24.3167,2,21
+Botswana,Omdrai,-20.0833,21.9000,2,24
+Botswana,Ootsi Siding,-25.0167,25.7333,2,18
+Botswana,Orapa,-21.2833,25.3667,2,19
+Botswana,Pakwe,-22.2000,28.5667,2,15
+Botswana,Palapshwe,-22.5667,27.3000,2,16
+Botswana,Palatswe,-22.5500,27.1333,2,17
+Botswana,Palla Road,-23.4000,26.6667,2,17
+Botswana,Palmiet Pan,-21.1667,22.2500,2,23
+Botswana,Pamashaba,-22.4333,26.7667,2,17
+Botswana,Pandamatenga,-18.2667,25.6500,2,20
+Botswana,Papamara,-21.8667,26.4500,2,18
+Botswana,Papane Hill,-24.4333,26.0833,2,17
+Botswana,Paranatungu,-18.0500,24.2667,2,22
+Botswana,Pataletsaba Hills,-24.7500,25.5833,2,18
+Botswana,Patlana,-20.5500,22.4167,2,23
+Botswana,Penhalonga,-21.3500,27.6833,2,16
+Botswana,Pepani Pan,-23.9167,21.8333,2,23
+Botswana,Pepascheem,-22.3167,25.9000,2,18
+Botswana,Pepe,-22.1333,28.6667,2,15
+Botswana,Phakalane Estate_South East,-24.5689,25.9836,2,17
+Botswana,Phala,-23.7500,26.9500,2,17
+Botswana,Phologolo_South East,-24.6517,25.9258,2,18
+Botswana,Phukumakahu,-20.7000,24.4167,2,21
+Botswana,Pikwe-Selibe,-22.0167,27.8333,2,16
+Botswana,Pilane,-24.4500,26.1333,2,17
+Botswana,Pilikwe,-22.7833,27.2333,2,16
+Botswana,Pitsane,-25.4667,25.5833,2,18
+Botswana,Piwaning,-22.2000,28.4833,2,15
+Botswana,Polontswa,-24.5333,20.4000,2,24
+Botswana,Poto Poto Vlei,-18.6667,24.8333,2,21
+Botswana,Puduhuche Pan,-24.1000,21.5000,2,23
+Botswana,Puluhelo,-19.7000,23.6833,2,22
+Botswana,Putimolonwane Pan,-21.2500,24.8833,2,20
+Botswana,Radisele,-22.8167,27.0000,2,17
+Botswana,Raiher Vlei,-20.0167,22.1333,2,24
+Botswana,Rakabochwa,-22.8333,26.7167,2,17
+Botswana,Rakhuna,-25.5667,25.5833,2,18
+Botswana,Rakops,-21.0500,24.4167,2,20
+Botswana,Rakuku,-19.5167,23.8667,2,22
+Botswana,Ramakonami,-22.9333,27.4667,2,16
+Botswana,Ramaphato,-24.7167,25.5167,2,18
+Botswana,Ramaquabane,-20.5833,27.6500,2,17
+Botswana,Rammu,-19.9167,22.6500,2,23
+Botswana,Ramokgwebana,-21.5667,28.0000,2,16
+Botswana,Ramoselwana,-23.6000,26.0500,2,18
+Botswana,Ramotsaodi,-19.7833,22.3333,2,24
+Botswana,Ramoutsa,-24.8667,25.8167,2,18
+Botswana,Ranchupile Pan,-25.4667,25.3333,2,18
+Botswana,Ranku_Kweneng,-24.7086,25.7694,2,18
+Botswana,Ranku Hill_Kweneng,-24.6997,25.7625,2,18
+Botswana,Rantsadi,-20.0333,22.5000,2,23
+Botswana,Ranwanalenaus,-19.5833,22.7833,2,23
+Botswana,Rasemong Hills_Kweneng,-24.7458,25.7683,2,18
+Botswana,Ratolo,-22.6833,27.5833,2,16
+Botswana,Rempo,-24.7500,20.4333,2,24
+Botswana,River Daukha,-20.1333,23.3833,2,22
+Botswana,Rocks,-21.8500,27.6500,2,16
+Botswana,Rooibock Laagte,-20.3333,21.2500,2,25
+Botswana,Serowe,-22.3833,26.7167,2,17
+Botswana,Ukwi Pan,-23.4500,20.4500,2,24
+Botswana,University of Botswana_South East,-24.6611,25.9317,2,18
+Botswana,Vaalpens Pan,-25.4000,25.2500,2,18
+Botswana,Venter,-19.6000,21.0667,2,25
+Botswana,Vilnoa,-18.3167,21.4833,2,25
+Botswana,Vlei,-25.1333,25.4667,2,18
+Botswana,Vukwe,-21.0333,27.3167,2,17
+Botswana,Wegdraai,-25.3333,23.5000,2,20
+Botswana,Werda,-25.2667,23.2833,2,20
+Botswana,Werribee_South East,-24.7442,25.9058,2,18
+Botswana,Wheeler Vley,-20.6167,21.4167,2,24
+Botswana,Wia Pan,-18.7667,24.3667,2,21
+Botswana,Wildebeeskop,-24.6833,26.1833,2,17
+Botswana,Wolf Hills,-21.3333,27.5000,2,17
+Botswana,Xgara Island,-19.1500,22.4333,2,24
+Botswana,Xgi Vlei,-21.2000,23.5000,2,22
+Botswana,Xhane,-20.2333,25.0667,2,20
+Botswana,Yafhubenyana Pan,-20.0833,25.5167,2,19
+Botswana,Yomyu Vlei,-19.9833,21.4667,2,24
+Botswana,Zebra Vlei,-19.0167,21.5833,2,25
+Botswana,Zonye Pan,-23.8000,21.2500,2,23
+Botswana,Zuni,-23.9167,23.5833,2,21
+Botswana,Zuwe,-23.0500,24.8333,2,19
+Botswana,Zweizwe,-18.6000,24.3667,2,21

@@ -1,0 +1,128 @@
+Nigeria,Abeokuta_Ogun,7.1597,3.3597,1,0
+Nigeria,Abia State_Abia,5.4264,7.5097,1,0
+Nigeria,Abuja_Abuja Federal Capital Territory,9.093,7.543,1,0
+Nigeria,Abuja,9.2597,6.943,1,0
+Nigeria,Abuja Capital Territory_Abuja Federal Capital Territory,8.843,7.1764,1,0
+Nigeria,Abuja Native Area Number 1,9.1264,7.3097,1,0
+Nigeria,Abujaga,6.8264,6.643,1,0
+Nigeria,Agege_Lagos,6.6316,3.3355,1,0
+Nigeria,Ago Iwoye,6.9597,3.9264,1,0
+Nigeria,Agunrege,8.4097,3.4097,1,0
+Nigeria,Azare_Bauchi,11.688,10.2016,1,0
+Nigeria,Bauchi,10.3256,9.854,1,0
+Nigeria,Bauchi State_Bauchi,10.5098,10.0098,1,0
+Nigeria,Benin_Edo,6.3431,5.6431,1,0
+Nigeria,Benin City,6.3265,5.6098,1,0
+Nigeria,Bida,9.0931,6.0265,1,0
+Nigeria,Birnin-Kebbi_Kebbi,12.4637,4.2073,1,0
+Nigeria,Bonny,4.4431,7.1765,1,0
+Nigeria,Borno State_Borno,11.5098,13.0098,1,0
+Nigeria,Bwari,9.2931,7.3931,1,0
+Nigeria,Calabar_Cross River,4.9599,8.3266,1,0
+Nigeria,Daho,11.6767,9.21,1,0
+Nigeria,Damaturu_Yobe,11.7586,11.9739,1,0
+Nigeria,Dutse_Jigawa,11.7875,9.3442,1,0
+Nigeria,Ede,7.1601,7.5434,1,0
+Nigeria,Eket,4.6601,7.9434,1,0
+Nigeria,Gombe,10.2997,11.182,1,0
+Nigeria,Gusau_Zamfara,12.1745,6.677,1,0
+Nigeria,Gusau,12.177,6.7103,1,0
+Nigeria,Gwarinpa,9.1097,7.4184,1,0
+Nigeria,Hadejia_Jigawa,12.4585,10.054,1,0
+Nigeria,Hadejia,12.8437,10.8604,1,0
+Nigeria,Ibadan_Oyo,7.3983,3.9069,1,0
+Nigeria,Ibadan,7.2605,4.3938,1,0
+Nigeria,Ibadan Native Area,7.1438,4.2272,1,0
+Nigeria,Ijebu Igbo,6.9772,4.0105,1,0
+Nigeria,Ijebu Ode,6.8272,3.9438,1,0
+Nigeria,Ikeja_Lagos,6.6072,3.3536,1,0
+Nigeria,Ikorodu,6.6272,3.5272,1,0
+Nigeria,Ile-Ife,7.4772,4.5772,1,0
+Nigeria,Ilesha,9.0105,3.5605,1,0
+Nigeria,Ilesha_(NI18,7.6272,4.7438,1,0
+Nigeria,Ilesha Native Area,7.4105,4.9438,1,0
+Nigeria,Ilorin_Kwara,8.5105,4.5605,1,0
+Nigeria,Ilorin,10.8938,4.0272,1,0
+Nigeria,Ilorin Native Area Number 12,9.1438,4.8938,1,0
+Nigeria,Ilorin Native Area Number 3,8.1938,5.3605,1,0
+Nigeria,Ilorin Native Area Number 4,8.0938,4.5272,1,0
+Nigeria,Iseyin,7.9772,3.6105,1,0
+Nigeria,Iwo,8.3105,5.0438,1,0
+Nigeria,Jos_Plateau,9.9273,8.9106,1,0
+Nigeria,Jos Plateau,10.0106,9.5106,1,0
+Nigeria,Kaduna,10.5338,7.451,1,0
+Nigeria,Kaduna South,10.4726,7.4379,1,0
+Nigeria,Kaduna State_Kaduna,10.344,7.7607,1,0
+Nigeria,Kano,13.044,4.4107,1,0
+Nigeria,Kano State_Kano,11.5107,8.5107,1,0
+Nigeria,Kano Stream,9.3274,8.044,1,0
+Nigeria,Kanoma,10.644,6.3107,1,0
+Nigeria,Kanoma_Zamfara,12.2424,6.3157,1,0
+Nigeria,Kanoma Hill,12.244,6.294,1,0
+Nigeria,Kanon Kabawa,7.9607,10.0774,1,0
+Nigeria,Katsina,13.0085,7.6101,1,0
+Nigeria,Kebbi_Sokoto,12.1363,4.7463,1,0
+Nigeria,Kebbi State_Kebbi,11.5107,4.0107,1,0
+Nigeria,Kontagora_Niger,10.411,5.4804,1,0
+Nigeria,Kubuwa,11.944,10.2274,1,0
+Nigeria,Kwara State_Kwara,8.5107,5.0107,1,0
+Nigeria,Lagos,6.4639,3.4066,1,0
+Nigeria,Lagos Creek,5.8608,5.1775,1,0
+Nigeria,Lagos Harbour_Lagos,6.4586,3.3966,1,0
+Nigeria,Lagos Island_Lagos,6.4652,3.4027,1,0
+Nigeria,Lagos Lagoon,6.5441,3.5941,1,0
+Nigeria,Lagos State_Lagos,6.5941,3.7608,1,0
+Nigeria,Lagos-Ikeja_Lagos,6.5941,3.3441,1,0
+Nigeria,Maiduguri_Borno,11.8559,13.1709,1,0
+Nigeria,Maiduguri,10.8109,11.3442,1,0
+Nigeria,Mina,11.3276,8.7609,1,0
+Nigeria,Minna_Niger,9.6248,6.5678,1,0
+Nigeria,Mushin_Lagos,6.5401,3.3659,1,0
+Nigeria,Ogbomosho_(NI18,8.1444,4.2778,1,0
+Nigeria,Ogun State_Ogun,7.0111,3.5944,1,0
+Nigeria,Omupo,8.2778,4.8111,1,0
+Nigeria,Onitsha,6.1778,6.7944,1,0
+Nigeria,Osogbo_Osun,7.7778,4.5778,1,0
+Nigeria,Oyo State_Oyo,8.0111,4.0111,1,0
+Nigeria,Port Harcourt,4.8612,7.0279,1,0
+Nigeria,Port Harcourt_Rivers,4.8004,7.0098,1,0
+Nigeria,Qlobawa,12.6446,4.9113,1,0
+Nigeria,Quaibo Obuyo_(NI34,4.9391,7.2591,1,0
+Nigeria,Quaibo River,4.5446,7.9946,1,0
+Nigeria,Queens Town,4.4946,7.578,1,0
+Nigeria,Quo Ibo Mission,4.5946,7.978,1,0
+Nigeria,Quree,9.828,8.5946,1,0
+Nigeria,Qurzan Maikuka,12.328,7.3446,1,0
+Nigeria,Rano,11.5614,8.5947,1,0
+Nigeria,Shagamu_Ogun,6.8615,3.6615,1,0
+Nigeria,Sokoto,13.0629,5.2429,1,0
+Nigeria,Umuahia_Abia,5.545,7.495,1,0
+Nigeria,Vaarikpa,7.0618,8.9785,1,0
+Nigeria,Vabak,9.2285,8.3451,1,0
+Nigeria,Valave,7.2118,8.9285,1,0
+Nigeria,Vampire Creek,4.7285,5.5785,1,0
+Nigeria,Vasimindi,10.1618,13.1285,1,0
+Nigeria,Vassa,7.8951,9.5785,1,0
+Nigeria,Vavum,8.7951,11.5451,1,0
+Nigeria,Vel,7.2451,8.9951,1,0
+Nigeria,Vembe,7.3285,8.5118,1,0
+Nigeria,Vendu Nage,8.8118,11.3951,1,0
+Nigeria,Venour Point,4.6785,8.3285,1,0
+Nigeria,Viashoma,7.1118,8.9951,1,0
+Nigeria,Victoria Island_Lagos,6.4421,3.4324,1,0
+Nigeria,Vikityor,7.2785,8.6618,1,0
+Nigeria,Vimpera,7.2618,10.0951,1,0
+Nigeria,Visik,10.9118,13.6451,1,0
+Nigeria,Vokuna,10.1451,13.1785,1,0
+Nigeria,Vom,9.7451,8.7951,1,0
+Nigeria,Vom Hills,9.6785,8.7451,1,0
+Nigeria,Vulam,10.5951,12.2118,1,0
+Nigeria,Vung,10.5785,12.1618,1,0
+Nigeria,Wari,8.9786,12.7952,1,0
+Nigeria,Warri,4.3119,6.2619,1,0
+Nigeria,Warri Point,5.4119,5.4786,1,0
+Nigeria,Yola_Adamawa,9.2121,12.4954,1,0
+Nigeria,Yola,11.6788,7.9954,1,0
+Nigeria,Zaria,11.2622,4.2789,1,0
+Nigeria,Zhirangwa,10.4455,12.2789,1,0
+Nigeria,Zumba,9.9455,6.8289,1,0

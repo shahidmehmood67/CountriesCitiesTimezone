@@ -1,0 +1,112 @@
+North Korea,Daisanto-do,38.81,125.76,9,0
+North Korea,Dogetsu_Hwanghae-namdo,37.9106,126.3989,9,0
+North Korea,Donggi Dong_Hwanghae-namdo,38.0567,125.7969,9,0
+North Korea,East Haeju,38.0434,125.7434,9,0
+North Korea,Eian_Hamgyong-bukto,41.2657,129.5029,9,0
+North Korea,Eikan-do_Hamgyong-bukto,42.4362,129.6945,9,0
+North Korea,Eiko_Hamgyong-namdo,39.5579,127.2534,9,0
+North Korea,Eiko-gun_Hamgyong-namdo,39.5101,127.3434,9,0
+North Korea,Eisanshi_P yongan-bukto,40.1495,124.8259,9,0
+North Korea,Eizyu_P yongan-namdo,39.3168,125.6054,9,0
+North Korea,Embon-do_Hamgyong-bukto,41.5182,129.6584,9,0
+North Korea,Enan_Hwanghae-namdo,37.919,126.1712,9,0
+North Korea,Enbon-ri_Hamgyong-namdo,40.2745,128.6243,9,0
+North Korea,Endai-ho_Hamgyong-bukto,41.6273,129.5923,9,0
+North Korea,Engando_Yanggang-do,41.5795,128.8184,9,0
+North Korea,Enkai-suiri-chosuichi,37.8934,126.0601,9,0
+North Korea,Enmokutan,40.3768,126.3268,9,0
+North Korea,Ennan-ri_Kangwon-do,38.5801,127.3243,9,0
+North Korea,Ensen-kaku_Kangwon-do,39.3212,127.4651,9,0
+North Korea,Ensui-do_Hamgyong-bukto,41.9787,129.0943,9,0
+North Korea,Entaizan_P yongan-bukto,39.7934,124.5768,9,0
+North Korea,Entan,38.1768,125.7434,9,0
+North Korea,Entan-sen_Hwanghae-namdo,38.1654,125.7382,9,0
+North Korea,Faeyu-dong_P yongan-bukto,40.3083,125.5808,9,0
+North Korea,Fankochi_Hwanghae-namdo,37.6866,125.366,9,0
+North Korea,Fontina Point_Najin Sonbong-si,42.2583,130.4133,9,0
+North Korea,Fu-gan_Hamgyong-namdo,39.9674,127.9283,9,0
+North Korea,Fu-to,39.2935,127.5769,9,0
+North Korea,Fuho-do_P yongan-bukto,40.4524,124.9555,9,0
+North Korea,Fuho-ri_Hwanghae-namdo,37.8377,125.6052,9,0
+North Korea,Fuindo_Hamgyong-bukto,42.5219,130.0466,9,0
+North Korea,Fuji-nojo-chosuichi_P yongan-bukto,40.0702,124.8485,9,0
+North Korea,Fujindo-san_Hwanghae-bukto,38.5396,126.2471,9,0
+North Korea,Fujo,38.2102,124.8769,9,0
+North Korea,Fujo-ri_Hwanghae-namdo,38.3891,125.6244,9,0
+North Korea,Fukkei-ri_Kangwon-do,38.4558,127.2696,9,0
+North Korea,Fuko-sen,39.7269,124.8935,9,0
+North Korea,Fukudai-sen_Hamgyong-namdo,40.4524,128.9157,9,0
+North Korea,Fukukei_Kangwon-do,38.4485,127.2741,9,0
+North Korea,Fukyo-do_Hamgyong-bukto,42.0416,129.9652,9,0
+North Korea,Funai-ri_Yanggang-do,41.3355,127.758,9,0
+North Korea,Funei_Hamgyong-bukto,42.0766,129.7144,9,0
+North Korea,Fusei-ri,40.3435,127.2935,9,0
+North Korea,Fusen Reservoir_Hamgyong-namdo,40.6216,127.5519,9,0
+North Korea,Fusen-ko_Yanggang-do,41.138,127.528,9,0
+North Korea,Fusenkohan,40.5602,127.5769,9,0
+North Korea,Fusenrei,40.4102,127.5769,9,0
+North Korea,Fushitsugan-tan_Najin Sonbong-si,42.2713,130.6185,9,0
+North Korea,Fusho-ri_Hamgyong-namdo,40.086,128.2305,9,0
+North Korea,Futempo_Yanggang-do,41.5294,128.3096,9,0
+North Korea,Futo-ri_Yanggang-do,41.316,128.4652,9,0
+North Korea,Futoku-ri_Hamgyong-namdo,39.6577,127.4988,9,0
+North Korea,Futsu-ko,39.0121,125.7113,9,0
+North Korea,Futsuryu-ko_P yongan-namdo,39.2513,126.0488,9,0
+North Korea,Fuzan-do_Yanggang-do,41.506,127.1999,9,0
+North Korea,Hamhung_Hamgyong-namdo,39.9223,127.5512,9,0
+North Korea,Hungnam,39.8437,127.6437,9,0
+North Korea,Hungnam_Hamgyong-namdo,39.8421,127.629,9,0
+North Korea,Hungnam-hang_Hamgyong-namdo,39.8418,127.6343,9,0
+North Korea,Hungnam-kuyok,39.8437,127.6771,9,0
+North Korea,Hungnam-ni,39.9271,127.4771,9,0
+North Korea,Hungnam-ni_Hwanghae-namdo,38.3673,125.1296,9,0
+North Korea,Hungnam-ni_Hamgyong-namdo,39.8626,127.5043,9,0
+North Korea,Hungnam-son_Hamgyong-namdo,39.911,127.5454,9,0
+North Korea,Jimmujo_Yanggang-do,41.98,128.3223,9,0
+North Korea,Joba-do_Kaesong-si,38.1564,126.8684,9,0
+North Korea,Josohei_Yanggang-do,41.467,128.5231,9,0
+North Korea,Kaesong_Kaesong-si,37.981,126.5271,9,0
+North Korea,l-kol_Hamgyong-namdo,40.173,128.5222,9,0
+North Korea,llgon-dong_Najin Sonbong-si,42.2352,130.1038,9,0
+North Korea,Lo-ri_Hwanghae-bukto,38.2183,126.4266,9,0
+North Korea,Lpsok-tong_Hwanghae-bukto,38.758,126.7694,9,0
+North Korea,Lundy Island_Hwanghae-namdo,37.7744,125.9127,9,0
+North Korea,Pyongyang_P yongyang-si,39.0306,125.7659,9,0
+North Korea,Seoul River,37.7615,126.1948,9,0
+North Korea,Sinuiju_P yongan-bukto,40.0951,124.4193,9,0
+North Korea,Sinuiju-pu,40.1115,124.4282,9,0
+North Korea,Wonsan_Kaesong-si,37.9447,126.5466,9,0
+North Korea,Wonsan_Kangwon-do,39.1752,127.4958,9,0
+North Korea,Wonsan,39.9286,124.5619,9,0
+North Korea,Wonsan-bu,39.1786,127.3952,9,0
+North Korea,Wonsan-dong_P yongan-bukto,39.7025,125.3886,9,0
+North Korea,Wonsan-dong_Hwanghae-bukto,38.3322,125.9552,9,0
+North Korea,Wonsan-dong,39.7619,124.8786,9,0
+North Korea,Wonsan-dong_Hamgyong-bukto,42.4363,129.8874,9,0
+North Korea,Wonsan-dong_P yongan-namdo,39.2613,126.0205,9,0
+North Korea,Wonsan-hang_Kangwon-do,39.1777,127.4708,9,0
+North Korea,Wonsan-ni,39.8786,127.5452,9,0
+North Korea,Wonsan-ni_Kangwon-do,39.028,127.1775,9,0
+North Korea,Wonsan-ni_P yongan-namdo,38.8561,125.2455,9,0
+North Korea,Wonsan-ni_Hwanghae-namdo,38.098,126.3858,9,0
+North Korea,Wonsan-yok_Kangwon-do,39.1741,127.425,9,0
+North Korea,Wonsandok-san_Hamgyong-namdo,40.5488,129.0816,9,0
+North Korea,Wonsang_P yongan-bukto,39.6552,125.1905,9,0
+North Korea,Wonsang,40.2786,127.6619,9,0
+North Korea,Wonsang-ni_Hamgyong-namdo,40.3922,128.4563,9,0
+North Korea,Wonsang-ni,39.8952,127.4619,9,0
+North Korea,Zaigu-son_Hamgyong-bukto,40.6289,129.1789,9,0
+North Korea,Zaiin-ri,40.2622,127.2955,9,0
+North Korea,Zenseki-ne_Hamgyong-bukto,40.9983,129.7469,9,0
+North Korea,Zensen_Chagang-do,40.698,126.4714,9,0
+North Korea,Zenshin,40.0289,127.9789,9,0
+North Korea,Zensyo To_Hamgyong-namdo,39.958,127.9083,9,0
+North Korea,Zizyo_Chagang-do,41.473,126.6536,9,0
+North Korea,Zokkoji_Hamgyong-namdo,40.1483,128.4683,9,0
+North Korea,Zui_Yanggang-do,40.8155,127.9589,9,0
+North Korea,Zuiko,38.4622,126.1622,9,0
+North Korea,Zuiko-gun_Hwanghae-bukto,38.5122,126.1789,9,0
+North Korea,Zuiko-ko_Hwanghae-bukto,38.4561,125.7166,9,0
+North Korea,Zyo-suira To_P yongan-namdo,38.7325,125.1261,9,0
+North Korea,Zyokan San,40.1122,128.3955,9,0
+North Korea,Zyosin_Hamgyong-bukto,40.7622,129.1789,9,0

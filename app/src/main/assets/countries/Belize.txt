@@ -1,0 +1,293 @@
+Belize,Aberdeen_Belize,17.1167,-88.4000,-6,55
+Belize,Adams Eddy_Cayo,17.2500,-88.5833,-6,55
+Belize,Aguacate Creek_Toledo,16.1619,-89.0531,-6,55
+Belize,Aguacate Creek_Stann Creek,16.8167,-88.4167,-6,55
+Belize,Alexanders_Cayo,17.0833,-88.9333,-6,54
+Belize,All Pines_Stann Creek,16.7833,-88.2833,-6,55
+Belize,Alligator Point_Orange Walk,17.7000,-88.6333,-6,54
+Belize,Ambergris Cay_Belize,18.0000,-87.9333,-6,55
+Belize,American Camp_Toledo,16.2833,-89.1000,-6,55
+Belize,Andersons Camp_Orange Walk,17.7167,-89.0167,-6,54
+Belize,Antelope Hill_Stann Creek,16.9333,-88.4000,-6,55
+Belize,Arabato Camp_Cayo,16.6167,-89.0500,-6,55
+Belize,Arena Blanca Creek_Stann Creek,17.0333,-88.3167,-6,55
+Belize,Arroyo Ceibo Chico_Cayo,16.5544,-89.1167,-6,55
+Belize,Arroyo del Guarda_Cayo,17.1214,-89.1392,-6,54
+Belize,August Pine Ridge_Orange Walk,17.9667,-88.7167,-6,54
+Belize,Augustine_Cayo,16.9667,-88.9833,-6,54
+Belize,Balize,17.2500,-88.7500,-6,54
+Belize,Belize City_Belize,17.4833,-88.1833,-6,55
+Belize,Belmopan_Cayo,17.2500,-88.7667,-6,54
+Belize,Dangriga Lighthouse_Stann Creek,16.9667,-88.2167,-6,55
+Belize,Dew Creek_Belize,17.2333,-88.3833,-6,55
+Belize,Dolores_Toledo,15.9833,-89.2000,-6,55
+Belize,East Snake Cay_Toledo,16.2000,-88.5000,-6,55
+Belize,Edenthal_Orange Walk,17.9167,-88.9667,-6,54
+Belize,Eiley_Belize,17.7000,-88.4833,-6,54
+Belize,El Arenal_Cayo,17.0167,-89.1500,-6,54
+Belize,El Brazo_Orange Walk,18.2000,-88.6167,-6,54
+Belize,El Cayo_Cayo,17.1561,-89.0714,-6,54
+Belize,El Posito_Orange Walk,17.9667,-88.6333,-6,54
+Belize,El Remate_Corozal,18.2000,-88.4333,-6,54
+Belize,El Retiro Camp_Cayo,16.7186,-89.1403,-6,54
+Belize,El Thermo Camp_Cayo,16.9528,-89.1467,-6,54
+Belize,El Tigre_Cayo,16.7833,-89.1167,-6,54
+Belize,Elbow Cays_Stann Creek,16.6667,-88.1667,-6,55
+Belize,Eldorado_Toledo,16.1500,-88.8667,-6,55
+Belize,Ellen Broaster Work_Belize,17.6000,-88.5833,-6,54
+Belize,Ellen Cut_Stann Creek,16.7833,-88.0667,-6,55
+Belize,Encalada Potrero_Orange Walk,17.9000,-89.1000,-6,54
+Belize,English Cay_Belize,17.3167,-88.0167,-6,55
+Belize,English Cay Channel_Belize,17.3333,-88.0667,-6,55
+Belize,English Cay Lighthouse_Belize,17.3167,-88.0333,-6,55
+Belize,Entrada de Mato_Belize,17.9833,-88.9000,-6,54
+Belize,Entrada San Pedro_Belize,17.9000,-87.9500,-6,55
+Belize,Erindale_Belize,17.4833,-88.5667,-6,54
+Belize,Ernesto Creek_Belize,17.9167,-88.2667,-6,54
+Belize,Esperanza_Toledo,16.4833,-88.8667,-6,55
+Belize,Esperanza_Orange Walk,17.3667,-89.1333,-6,54
+Belize,Esperanza_Cayo,16.8936,-89.1564,-6,54
+Belize,Esperanza Camp_Toledo,16.4172,-89.0231,-6,55
+Belize,Esperanza Creek_Belize,17.9500,-88.3167,-6,54
+Belize,Esso Landing_Toledo,16.1500,-88.7667,-6,55
+Belize,Estero_Corozal,18.4000,-88.5000,-6,54
+Belize,Estevez,17.9000,-88.3833,-6,54
+Belize,Estrecho de Bacalar Chico,18.2000,-87.8833,-6,55
+Belize,Estrella_Corozal,18.2833,-88.4500,-6,54
+Belize,Fabers Lagoon_Belize,17.4667,-88.2500,-6,55
+Belize,Fabers Lagoon,17.9667,-88.3333,-6,54
+Belize,Falle Cay_Belize,17.4500,-88.0667,-6,55
+Belize,False Cay_Stann Creek,16.6000,-88.3333,-6,55
+Belize,False Cay Bight_Stann Creek,16.6167,-88.3333,-6,55
+Belize,False Creek_Stann Creek,16.9667,-88.4000,-6,55
+Belize,False Point_Stann Creek,16.5833,-88.3500,-6,55
+Belize,False Sittee Point_Stann Creek,16.8333,-88.2500,-6,55
+Belize,Fanny Young Creek_Stann Creek,16.8000,-88.3333,-6,55
+Belize,Farls Bogue_Belize,17.4333,-88.0500,-6,55
+Belize,Ferguson Bank_Belize,17.4333,-88.2833,-6,55
+Belize,Fermin Reyes_Cayo,17.2589,-89.0536,-6,54
+Belize,Fireburn_Corozal,18.2000,-88.2000,-6,54
+Belize,First Creek_Stann Creek,16.9667,-88.4333,-6,55
+Belize,Fishers Bight_Belize,17.1833,-88.3333,-6,55
+Belize,Five Blues Lake_Cayo,17.1167,-88.5833,-6,55
+Belize,Floral Park_Cayo,17.2000,-88.9500,-6,54
+Belize,Flour Camp_Corozal,18.0333,-88.1500,-6,54
+Belize,Flour Camp Creek_Stann Creek,16.6000,-88.3833,-6,55
+Belize,Flour Landing_Cayo,17.0469,-89.0603,-6,54
+Belize,Fork Camp_Cayo,16.5167,-89.0500,-6,55
+Belize,Forward Cairn_Cayo,16.9167,-88.9167,-6,54
+Belize,Four Mile Lagoon_Corozal,18.4500,-88.3833,-6,54
+Belize,Fowl Guts Creek_Stann Creek,16.8500,-88.3167,-6,55
+Belize,Fowlers Work_Cayo,17.2167,-89.1167,-6,54
+Belize,Frank Knoll Beacon_Belize,17.4000,-88.2000,-6,55
+Belize,Franks Eddy_Cayo,17.2500,-88.6333,-6,55
+Belize,Freetown Area_Stann Creek,16.8167,-88.2833,-6,55
+Belize,Freetown Sibun_Belize,17.4167,-88.3500,-6,55
+Belize,Fresco_Belize,17.1500,-88.5333,-6,55
+Belize,Freshwater Creek_Belize,17.3667,-88.3500,-6,55
+Belize,Freshwater Creek_Cayo,17.4333,-88.6667,-6,54
+Belize,Freshwater Creek Lagoon_Stann Creek,16.8667,-88.3000,-6,55
+Belize,Freshwater Hill_Belize,17.3500,-88.3833,-6,55
+Belize,Funk Cay_Stann Creek,16.5333,-88.0667,-6,55
+Belize,Half Moon Cay_Belize,17.2000,-87.5333,-6,55
+Belize,Halfway Beacon_Belize,17.3667,-88.1500,-6,55
+Belize,Hamidli Creek Settlement_Toledo,16.2167,-88.9000,-6,55
+Belize,Hanging Rock_Cayo,17.2167,-88.7833,-6,54
+Belize,Harley Point_Belize,17.2167,-88.3333,-6,55
+Belize,Harvest Cay_Stann Creek,16.4667,-88.4000,-6,55
+Belize,Harvest Cay Work_Toledo,16.4667,-88.4667,-6,55
+Belize,Harvest Hill_Toledo,16.4833,-88.4000,-6,55
+Belize,Hatchet Cay_Stann Creek,16.4500,-88.0667,-6,55
+Belize,Hattieville_Belize,17.4500,-88.3833,-6,55
+Belize,Haulover_Belize,17.5333,-88.2333,-6,55
+Belize,Havana Creek_Stann Creek,16.9500,-88.2167,-6,55
+Belize,Hawiia_Toledo,16.2661,-89.0950,-6,55
+Belize,Hector Creek_Belize,17.4500,-88.3500,-6,55
+Belize,Hector Creek Lagoon_Belize,17.4500,-88.3333,-6,55
+Belize,Hellgate_Cayo,17.2333,-88.6000,-6,55
+Belize,Hellgate_Toledo,16.3667,-88.8000,-6,55
+Belize,Hellgate Cut_Toledo,16.4333,-88.8500,-6,55
+Belize,Hemsley Creek_Stann Creek,16.6000,-88.3667,-6,55
+Belize,Hen and Chicken Cays_Belize,17.5667,-88.2167,-6,55
+Belize,Hercules_Stann Creek,16.5167,-88.4000,-6,55
+Belize,Hermitage_Cayo,17.1542,-89.0347,-6,54
+Belize,Hiccattee Creek_Toledo,15.9167,-89.1833,-6,55
+Belize,Hicks Cayes_Belize,17.6667,-88.1333,-6,55
+Belize,Hidden Valley Falls_Cayo,17.0500,-88.8333,-6,54
+Belize,Hillbank_Cayo,17.1200,-89.0439,-6,54
+Belize,Hillbank Laguana_Orange Walk,17.6667,-88.6500,-6,54
+Belize,Hinchasones_Toledo,16.1333,-89.0500,-6,55
+Belize,Hobente Rio_Toledo,16.0500,-88.8500,-6,55
+Belize,Holec Camp_Cayo,16.6469,-89.1017,-6,55
+Belize,Hollow Valley_Stann Creek,17.0667,-88.5333,-6,55
+Belize,Honey Camp Jib_Orange Walk,18.0333,-88.4500,-6,54
+Belize,Hoyuk_Orange Walk,17.5333,-89.0333,-6,54
+Belize,Hughes Estate_Stann Creek,16.7500,-88.3667,-6,55
+Belize,Humming Bird Gap_Stann Creek,17.0500,-88.5500,-6,55
+Belize,Hunting Cay_Toledo,16.1000,-88.2667,-6,55
+Belize,Icacos Road_Toledo,16.2167,-88.6833,-6,55
+Belize,Iedro Redondo Creek_Toledo,16.6333,-88.5833,-6,55
+Belize,Iguana Cay_Belize,17.7000,-88.2500,-6,55
+Belize,Iguana Creek_Cayo,17.2333,-88.9167,-6,54
+Belize,Iguana Creek Bank_Cayo,17.2167,-88.9167,-6,54
+Belize,Indian Creek,17.2667,-88.5667,-6,55
+Belize,Indian Creek_Toledo,16.3500,-88.8000,-6,55
+Belize,Inner Channel_Stann Creek,16.6167,-88.2833,-6,55
+Belize,Irish Creek_Orange Walk,17.6500,-88.6500,-6,54
+Belize,Isabella_Belize,17.5833,-88.5333,-6,54
+Belize,Isla_Orange Walk,18.0000,-88.7833,-6,54
+Belize,Isla Albion_Orange Walk,18.1333,-88.6833,-6,54
+Belize,Isla Turneffe_Belize,17.3333,-87.8667,-6,55
+Belize,Ixcanha_Orange Walk,18.0000,-88.3500,-6,54
+Belize,Jacinto Creek_Toledo,16.2000,-88.8333,-6,55
+Belize,Jacinto Landing_Toledo,16.1667,-88.8500,-6,55
+Belize,Jalacle Creek_Toledo,16.1667,-88.1000,-6,55
+Belize,Jalacte_Toledo,16.1581,-89.1467,-6,55
+Belize,Joe Goff s Pine Ridge_Belize,17.8167,-88.4667,-6,54
+Belize,Joe Wagner Boom_Belize,17.4167,-88.3667,-6,55
+Belize,John Jose Creek_Stann Creek,17.0000,-88.2333,-6,55
+Belize,John Piles Creek_Corozal,18.2833,-88.3500,-6,54
+Belize,Joventud_Toledo,16.1172,-89.1700,-6,55
+Belize,Joyful Creek_Stann Creek,17.0167,-88.4667,-6,55
+Belize,Juan Gongora Creek_Cayo,17.3000,-88.9500,-6,54
+Belize,Kate s Lagoon_Orange Walk,17.9833,-88.4667,-6,54
+Belize,Kaway Camp_Orange Walk,17.3667,-89.0500,-6,54
+Belize,Kaxil Uinic_Orange Walk,17.5500,-89.1000,-6,54
+Belize,Kaxil Unic_Orange Walk,17.5333,-89.1333,-6,54
+Belize,Kendal_Stann Creek,16.8167,-88.3667,-6,55
+Belize,King s Run_Belize,17.6500,-88.4167,-6,54
+Belize,Kinloch s Camp_Cayo,16.8833,-88.8833,-6,55
+Belize,Kitty Bank_Cayo,17.3167,-88.7500,-6,54
+Belize,Ladyville_Belize,17.5500,-88.1167,-6,55
+Belize,Nafreda_Toledo,16.2333,-88.9833,-6,55
+Belize,Nago Bank_Belize,17.8667,-88.2833,-6,54
+Belize,Nancy Perry_Corozal,18.2667,-88.3833,-6,54
+Belize,Naranial_Orange Walk,17.5167,-88.9500,-6,54
+Belize,Naranjal Burgos_Orange Walk,18.1667,-88.5500,-6,54
+Belize,Narrows_Toledo,16.5000,-88.3333,-6,55
+Belize,Narrows_Orange Walk,18.1667,-88.5333,-6,54
+Belize,Narrows Branch,18.1833,-88.4833,-6,54
+Belize,Narrows Forest Reserve_Orange Walk,18.2000,-88.5500,-6,54
+Belize,Narrows Landing_Orange Walk,18.1667,-88.5000,-6,54
+Belize,Nasario Perez_Cayo,16.4231,-89.1272,-6,55
+Belize,Negroman_Cayo,17.0819,-89.0817,-6,54
+Belize,Nelly Creek_Stann Creek,17.0833,-88.3167,-6,55
+Belize,Nelson Hill_Toledo,16.5000,-88.6667,-6,55
+Belize,Neuendorf_Orange Walk,17.9000,-88.8833,-6,54
+Belize,Neustadt_Orange Walk,17.9000,-89.0333,-6,54
+Belize,New Bight_Belize,17.2667,-87.8500,-6,55
+Belize,New Campa Chico_Stann Creek,16.7000,-88.6000,-6,55
+Belize,New River Bight_Corozal,18.3667,-88.3500,-6,54
+Belize,New Windsor_Belize,17.5500,-88.3500,-6,55
+Belize,Nicholas Cut_Toledo,16.1000,-88.2500,-6,55
+Belize,Nim Li Punit_Toledo,16.2500,-88.8667,-6,55
+Belize,Nimu Punit_Toledo,16.3167,-88.8000,-6,55
+Belize,Noh Mul_Orange Walk,18.2167,-88.5833,-6,54
+Belize,Nohock Ek_Cayo,17.1167,-89.1000,-6,54
+Belize,Norland_Cayo,17.1667,-89.0000,-6,54
+Belize,Norport Airstrip_Cayo,17.1833,-89.0000,-6,54
+Belize,North Drowned Cay_Belize,17.5000,-88.1500,-6,55
+Belize,North Fork_Stann Creek,16.7167,-88.6333,-6,55
+Belize,Northeast Cay_Belize,16.7500,-87.7667,-6,55
+Belize,Northeast Cay_Stann Creek,16.6667,-88.1833,-6,55
+Belize,Northeast Sapodilla Cay_Belize,16.1333,-88.2333,-6,55
+Belize,Northeast Spit_Belize,17.3833,-88.0833,-6,55
+Belize,Northeast Spit Beacon_Belize,17.3667,-88.0833,-6,55
+Belize,Northern Bogue_Belize,17.4167,-87.8167,-6,55
+Belize,Northern Bulkhead_Corozal,18.0167,-88.2000,-6,54
+Belize,Northern Lagoon_Belize,17.4833,-87.8333,-6,55
+Belize,Northern Two Cays_Belize,17.4333,-87.5000,-6,55
+Belize,Norval Cay_Stann Creek,16.7000,-88.1500,-6,55
+Belize,Number 4 Cave,17.1500,-88.5500,-6,55
+Belize,Number 5 Cave,17.1333,-88.5500,-6,55
+Belize,Number Fifty_Corozal,18.0667,-88.2500,-6,54
+Belize,Number Fifty-Two_Corozal,18.1500,-88.2500,-6,54
+Belize,Oak Burn_Cayo,17.0333,-88.9667,-6,54
+Belize,Old Campa Chico_Stann Creek,16.7167,-88.6000,-6,55
+Belize,Old San Pastor Camp_Cayo,16.7192,-89.0094,-6,55
+Belize,Orange Walk Airstrip_Orange Walk,18.0667,-88.5500,-6,54
+Belize,Otoxha_Toledo,16.0247,-89.1797,-6,55
+Belize,Oyster Banks_Stann Creek,16.4167,-88.4333,-6,55
+Belize,Quaco Creek_Cayo,17.2500,-88.8500,-6,54
+Belize,Quam Bank_Stann Creek,16.7667,-88.4667,-6,55
+Belize,Quam Hill_Orange Walk,17.6983,-89.0125,-6,54
+Belize,Quamina Cay_Stann Creek,16.6333,-88.2167,-6,55
+Belize,Quamina Creek_Belize,17.1667,-88.3167,-6,55
+Belize,Quarry Hill_Stann Creek,16.9833,-88.3500,-6,55
+Belize,Quartz Ridge_Toledo,16.4000,-89.0833,-6,55
+Belize,Quashie Banner Creek_Belize,17.8833,-88.2667,-6,54
+Belize,Quashie Point_Belize,17.8833,-88.2333,-6,54
+Belize,Quashie Trap_Belize,17.2167,-88.3167,-6,55
+Belize,Quashie Trap Lagoon_Belize,17.2000,-88.3167,-6,55
+Belize,Quatro Leguas_Orange Walk,17.9000,-88.9667,-6,54
+Belize,Quebrada de Oro Camp_Toledo,16.5167,-88.8000,-6,55
+Belize,Queen Cay Entrance_Stann Creek,16.4500,-88.0000,-6,55
+Belize,Queen Cays_Stann Creek,16.4333,-88.0333,-6,55
+Belize,Uncle Sam_Stann Creek,16.8000,-88.3500,-6,55
+Belize,Union Camp_Cayo,16.6275,-89.0189,-6,55
+Belize,Union Camp_Toledo,16.3964,-89.1419,-6,55
+Belize,Unitedville_Cayo,17.2000,-88.9333,-6,54
+Belize,Upper Freshwater Creek_Toledo,16.3333,-88.6000,-6,55
+Belize,Upper Half Kentucky_Stann Creek,16.8333,-88.3833,-6,55
+Belize,Upper Half Ossory_Stann Creek,16.9333,-88.4667,-6,55
+Belize,Uxbentun_Toledo,16.2667,-88.9667,-6,55
+Belize,Vaca_Cayo,17.0325,-89.0633,-6,54
+Belize,Vaca Falls_Cayo,17.0500,-89.0500,-6,54
+Belize,Vaca River_Cayo,17.1667,-89.0667,-6,54
+Belize,Vachel Keene_Toledo,17.0167,-88.8167,-6,55
+Belize,Valentin Camp_Cayo,16.7664,-89.1625,-6,54
+Belize,Vaquaros_Orange Walk,17.9500,-88.7667,-6,54
+Belize,Vaqueros Creek_Cayo,17.0333,-88.9833,-6,54
+Belize,Ventura Creek_Belize,17.3000,-88.5167,-6,55
+Belize,Victoria Creek_Orange Walk,17.8333,-88.9500,-6,54
+Belize,Victoria Falls_Orange Walk,17.7569,-89.0358,-6,54
+Belize,Vieras Creek_Toledo,16.0000,-88.9833,-6,55
+Belize,Village Bight_Stann Creek,16.8833,-88.2667,-6,55
+Belize,Viper Rocks_Stann Creek,16.5167,-88.2167,-6,55
+Belize,Waca Falls_Cayo,17.0333,-89.0667,-6,54
+Belize,Waddy_Orange Walk,17.8833,-88.6000,-6,54
+Belize,Wagner Creek_Stann Creek,17.0667,-88.3333,-6,55
+Belize,Wagner Lagoon_Belize,17.3000,-88.3333,-6,55
+Belize,Waha Leaf Camp_Toledo,16.5833,-88.6333,-6,55
+Belize,Waha Leaf Creek_Toledo,16.5667,-88.6167,-6,55
+Belize,Walton Creek_Belize,17.6333,-88.3833,-6,55
+Belize,Wamil_Orange Walk,17.5333,-88.9333,-6,54
+Belize,Wamil Creek_Orange Walk,17.6500,-88.8833,-6,54
+Belize,Warree Bight_Corozal,18.3333,-88.2167,-6,54
+Belize,Warree Camp_Orange Walk,17.9833,-88.3000,-6,54
+Belize,Warrie Creek_Toledo,16.3667,-88.7000,-6,55
+Belize,Warrie Creek_Corozal,18.0167,-88.3167,-6,54
+Belize,Water Cay Spit_Belize,17.3500,-88.0667,-6,55
+Belize,Waterhole Camp_Cayo,17.0167,-89.0667,-6,54
+Belize,Watters Bank_Belize,17.3000,-88.3500,-6,55
+Belize,Wee Wee Cay_Stann Creek,16.7500,-88.1333,-6,55
+Belize,Westward Patch Beacon_Belize,17.4167,-88.1833,-6,55
+Belize,White Grounds Spit_Belize,17.3833,-88.1167,-6,55
+Belize,White Grounds Spit Beacon_Belize,17.3667,-88.1000,-6,55
+Belize,Wild Cane Cay_Toledo,16.1833,-88.6333,-6,55
+Belize,Will Edwards Lagoon_Belize,17.9333,-88.1833,-6,55
+Belize,Willows Bank_Belize,17.5167,-88.5667,-6,54
+Belize,Wippan Cay_Stann Creek,16.5333,-88.2167,-6,55
+Belize,Woman Pond_Belize,17.7667,-88.4167,-6,54
+Belize,Xaibe_Corozal,18.3833,-88.4333,-6,54
+Belize,Xaxe Venic Road_Orange Walk,17.5167,-88.9833,-6,54
+Belize,Xcanluum_Corozal,18.3833,-88.4500,-6,54
+Belize,Xcopen_Orange Walk,18.1667,-88.6833,-6,54
+Belize,Xpicilha_Toledo,16.0286,-89.2133,-6,55
+Belize,Xpicilha Indian Reservation_Toledo,16.0186,-89.2122,-6,55
+Belize,Xunantanich_Cayo,17.0833,-89.1333,-6,54
+Belize,Yaccos Lagoon_Toledo,16.2667,-88.6000,-6,55
+Belize,Yaha Creek_Cayo,17.2167,-88.5667,-6,55
+Belize,Yalbac_Cayo,17.3667,-88.9333,-6,54
+Belize,Yalbac Hills_Orange Walk,17.4167,-88.9500,-6,54
+Belize,Yalbac-San Jose Road_Orange Walk,17.4167,-88.9667,-6,54
+Belize,Yalback Creek,17.4000,-88.8833,-6,54
+Belize,Ycacos Point_Toledo,16.2333,-88.5833,-6,55
+Belize,Yemeri Creek_Stann Creek,16.9333,-88.2333,-6,55
+Belize,Yo Chen_Corozal,18.3500,-88.4833,-6,54
+Belize,Yo Swamp_Corozal,18.0500,-88.3667,-6,54
+Belize,Zapotillos Cut_Toledo,16.0833,-88.2667,-6,55
+Belize,Zayden Creek_Cayo,16.8606,-89.0311,-6,54
+Belize,Zibal Camp_Orange Walk,17.3667,-89.0333,-6,54
+Belize,Zompopero_Orange Walk,17.4167,-89.1333,-6,54
+Belize,Zuniga Creek_Stann Creek,16.6333,-88.4333,-6,55

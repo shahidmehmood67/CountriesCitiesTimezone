@@ -1,0 +1,66 @@
+Ecuador,10 de Agosto,-1.2667,-80.3833,-5GMT,66
+Ecuador,24 de Mayo,-1.2667,-80.4333,-5GMT,66
+Ecuador,25 de Junio,-2.8594,-77.6364,-5GMT,67
+Ecuador,26 de Agosto,-2.8797,-77.6711,-5GMT,67
+Ecuador,28 de Mayo,-3.6328,-78.9244,-5GMT,68
+Ecuador,Ambato,-1.2500,-78.6167,-5GMT,67
+Ecuador,Cuenca,-2.8833,-78.9833,-5GMT,67
+Ecuador,Esmeraldas_Guayas,-1.8667,-79.8000,-5GMT,67
+Ecuador,Esmeraldas_Azuay,-3.3333,-79.4000,-5GMT,67
+Ecuador,Esmeraldas Libre,0.0775,-76.8836,-5GMT,66
+Ecuador,Guayaquil,-2.1667,-79.9000,-5GMT,67
+Ecuador,Kaank Chico,-2.8717,-77.8681,-5GMT,67
+Ecuador,Kampan Naint,-3.0425,-77.9189,-5GMT,68
+Ecuador,Kaniants,-2.7278,-77.5408,-5GMT,67
+Ecuador,Kapantinentza,-2.6783,-77.4767,-5GMT,67
+Ecuador,Kaputna,-3.0169,-77.9217,-5GMT,67
+Ecuador,Kashaints,-2.7000,-77.5350,-5GMT,67
+Ecuador,Kaspaimi,-2.8225,-77.7081,-5GMT,67
+Ecuador,Kayamas,-2.9161,-77.8628,-5GMT,67
+Ecuador,Kicker Rock,-0.7667,-89.5167,-5GMT,64
+Ecuador,Koango,-3.0994,-78.2253,-5GMT,67
+Ecuador,Kuchints,-2.5875,-77.0906,-5GMT,67
+Ecuador,Kunchai,-2.7544,-77.7856,-5GMT,67
+Ecuador,Machala,-3.2667,-79.9667,-5GMT,67
+Ecuador,Manta,-0.9500,-80.7333,-5GMT,66
+Ecuador,Portoviejo_Manabi,-1.0500,-80.4500,-5GMT,66
+Ecuador,Portoviejo_El Oro,-3.7167,79.6167,-5GMT,68
+Ecuador,Quito,-0.2167,-78.5000,-5GMT,66
+Ecuador,Quito Basin,0.0000,-78.3333,-5GMT,66
+Ecuador,Quitocucho,-1.3667,-78.5833,-5GMT,67
+Ecuador,Quitoloma,-1.6333,-78.7333,-5GMT,67
+Ecuador,Salinas_El Oro,-3.3833,-80.3167,-5GMT,67
+Ecuador,Salinas_Bolivar,-1.4000,-79.0167,-5GMT,67
+Ecuador,Salinas_Manabi,-0.6333,-80.3000,-5GMT,66
+Ecuador,Salinas_Guayas,-2.9500,-80.1333,-5GMT,67
+Ecuador,Salinas_Imbabura,0.5500,-78.1333,-5GMT,66
+Ecuador,Salinas Point,-3.0667,-80.2667,-5GMT,67
+Ecuador,Ubillas,-0.4333,-78.3833,-5GMT,66
+Ecuador,Ubillus,-0.4167,-78.3833,-5GMT,66
+Ecuador,Uchupucun,-2.7333,-78.8333,-5GMT,67
+Ecuador,Uculoma,-2.5667,-78.9333,-5GMT,67
+Ecuador,Ucumarina,-2.6667,-78.6333,-5GMT,67
+Ecuador,Udushapa,-3.4167,-79.1333,-5GMT,68
+Ecuador,Uimbi,0.9500,-78.7833,-5GMT,66
+Ecuador,Ulba,-1.4000,-78.3667,-5GMT,67
+Ecuador,Ulchayacu Grande,-2.9833,-79.0333,-5GMT,67
+Ecuador,Unagua,-0.5333,-78.5667,-5GMT,66
+Ecuador,Union y Progreso,0.0831,-76.8908,-5GMT,66
+Ecuador,Upayacu,-0.0667,-78.5833,-5GMT,66
+Ecuador,Urbina_Tungurahua,-1.1500,-78.5500,-5GMT,67
+Ecuador,Urbina_Carchi,0.8167,-77.6667,-5GMT,66
+Ecuador,Urcuqui,0.4333,-78.2000,-5GMT,66
+Ecuador,Urcusique,-0.6500,-77.8167,-5GMT,66
+Ecuador,Uspud,-2.8500,-78.7500,-5GMT,67
+Ecuador,Utuana,-4.3833,-79.7000,-5GMT,68
+Ecuador,Uyachuli,-0.0833,-78.5000,-5GMT,66
+Ecuador,Warintza,-3.1847,-78.2703,-5GMT,68
+Ecuador,Waruints,-2.6133,-77.2186,-5GMT,67
+Ecuador,Wasekentza,-2.5481,-77.1978,-5GMT,67
+Ecuador,Wawaim,-2.8567,-77.9844,-5GMT,67
+Ecuador,Weeknunka,-2.8647,-77.5164,-5GMT,67
+Ecuador,West Cutucu,-2.7500,-78.0833,-5GMT,67
+Ecuador,Western Lowlands,-1.0000,-80.0000,-5GMT,66
+Ecuador,Wichimi,-2.7411,-77.3683,-5GMT,67
+Ecuador,Yerovi,-0.8167,-78.6000,-5GMT,66
+Ecuador,Zidmad,-2.9333,-78.9000,-5GMT,67

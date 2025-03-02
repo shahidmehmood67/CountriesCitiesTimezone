@@ -1,0 +1,179 @@
+Fiji,Abootoena_Eastern,-18.9236,-178.507,12,281
+Fiji,Abootolema_Eastern,-18.957,-178.4736,12,281
+Fiji,Adolphus Reef_Northern,-16.2736,-179.307,12,284
+Fiji,Agate Island_Western,-17.1903,177.193,12,283
+Fiji,Aiwa Island_Eastern,-18.307,-178.6903,12,282
+Fiji,Alacrity Cays_Western,-17.7403,177.393,12,283
+Fiji,Alacrity Passage_Eastern,-18.7903,178.4764,12,281
+Fiji,Alacrity Rocks,-18.8736,178.4597,12,281
+Fiji,Alden Island_Western,-17.607,177.043,12,283
+Fiji,Alewalangimevu Point_Northern,-16.757,179.9264,12,284
+Fiji,Aliwa Creek_Northern,-16.757,178.6264,12,284
+Fiji,Alumbasanga Creek_Western,-17.7236,177.8097,12,283
+Fiji,American Passage_Eastern,-17.157,-178.707,12,283
+Fiji,Anatunga Island_Northern,-16.607,178.6764,12,284
+Fiji,Anda Tavie,-19.057,178.2264,12,281
+Fiji,Andavathi Passage,-17.2236,-179.007,12,283
+Fiji,Anganasiti Pass_Eastern,-19.1903,179.793,12,281
+Fiji,Angasa_Eastern,-18.9403,-178.4236,12,281
+Fiji,Angata_Western,-17.007,177.343,12,283
+Fiji,Annan_Western,-17.2903,178.2264,12,283
+Fiji,Anutha Levu,-17.757,178.793,12,282
+Fiji,Anutha Point_Northern,-16.5736,179.593,12,284
+Fiji,Ardmore_Northern,-16.9236,179.9097,12,283
+Fiji,Argo Reefs_Northern,-18.157,-178.407,12,282
+Fiji,Aroua_Eastern,-17.7236,-178.6403,12,282
+Fiji,Arua,-19.157,179.7597,12,281
+Fiji,Asawa Island_Western,-16.6736,177.5764,12,284
+Fiji,Avea,-17.1903,-178.8903,12,283
+Fiji,Azata_Northern,-17.2403,-179.5236,12,283
+Fiji,Ba_Western,-17.6569,177.6765,12,283
+Fiji,Bacon Island_Eastern,-17.9902,-178.4069,12,282
+Fiji,Bulia_Eastern,-18.8402,178.5431,12,281
+Fiji,Cakau-momo_Eastern,-17.6401,179.2766,12,283
+Fiji,Caukuvu Bay_Northern,-16.8068,178.2932,12,284
+Fiji,Chaptal Islands_Western,-17.5568,177.0766,12,283
+Fiji,Charlotte Bank,-11.7734,173.2266,12,289
+Fiji,Chicobea_Northern,-15.7234,-179.9068,12,285
+Fiji,Ciacia,-17.7401,-179.2901,12,282
+Fiji,Cobia_Northern,-16.4401,-179.6568,12,284
+Fiji,Cocks Shoal_Northern,-16.1401,-179.7068,12,284
+Fiji,Cocoanut Point_Northern,-16.9734,178.7099,12,283
+Fiji,Colvocoressis,-18.7568,178.5432,12,281
+Fiji,Cukini_Northern,-16.3734,179.2099,12,284
+Fiji,Curacoa Rock_Western,-17.7568,177.3099,12,283
+Fiji,Curling Island_Eastern,-17.1734,-178.8901,12,283
+Fiji,Dagai,-19.09,178.0267,12,281
+Fiji,Elevuka Creek_Western,-17.5232,177.6934,12,283
+Fiji,Elizabeth Cove_Northern,-16.4566,-179.9732,12,284
+Fiji,Eloto Creek_Western,-16.8899,177.4434,12,284
+Fiji,Enkaba_Eastern,-18.8566,-178.8899,12,281
+Fiji,Eramasi_Western,-17.6232,178.1601,12,283
+Fiji,Esa_Northern,-16.3399,179.6268,12,284
+Fiji,Esk Reef,-19.0899,178.2268,12,281
+Fiji,Exploring Isles_Eastern,-17.2399,-178.8566,12,283
+Fiji,Faun Harbour_Northern,-16.7231,179.7269,12,284
+Fiji,Feavarere,-12.5065,177.0602,12,288
+Fiji,Feejee,-17.9898,178.0102,12,282
+Fiji,Fiji Plateau,-16.9898,179.0102,12,283
+Fiji,Fiji-Becken,-25.9898,175.0102,12,274
+Fiji,Florida Reefs_Northern,-16.5231,-179.9231,12,284
+Fiji,Flyingfish Reef of Wilkes_Central,-18.5898,177.8102,12,282
+Fiji,Fort Carnarvon_Western,-17.8731,177.7935,12,282
+Fiji,Frigate Passage_Central,-18.4231,177.9602,12,282
+Fiji,Fuagfua,-12.4898,177.0769,12,288
+Fiji,Fulanga Island,-19.1231,-178.5565,12,281
+Fiji,Fulanga Passage_Eastern,-18.9898,-178.6565,12,281
+Fiji,Fulia,-12.4898,177.1102,12,288
+Fiji,Galatea_Northern,-16.673,179.2936,12,284
+Fiji,Galligarua,-19.1564,179.7936,12,281
+Fiji,Galoa,-19.073,178.1936,12,281
+Fiji,Galoa_Eastern,-19.0897,178.1936,12,281
+Fiji,Galoa_Northern,-16.6064,178.6936,12,284
+Fiji,Gangway Rocks_Northern,-16.6064,-179.823,12,284
+Fiji,Gasele,-18.9397,178.3103,12,281
+Fiji,Goa_Eastern,-18.023,179.3103,12,282
+Fiji,Goat Islet_Northern,-16.7564,-179.973,12,284
+Fiji,Goddard Reefs_Central,-17.7064,178.7103,12,283
+Fiji,Gordon Reef of Wilkes_Eastern,-17.6564,-178.523,12,283
+Fiji,Granby Harbour_Central,-18.2397,177.877,12,282
+Fiji,Graves Point_Northern,-16.223,179.5436,12,284
+Fiji,Great Astrolabe Reef_Eastern,-18.8564,178.527,12,281
+Fiji,Grenville Island,-12.4897,177.0936,12,288
+Fiji,Hadow Island_Eastern,-17.3563,-178.8729,12,283
+Fiji,Halafa,-12.4896,177.0271,12,288
+Fiji,Hales Reef_Central,-17.5563,178.4937,12,283
+Fiji,Harness Reef_Central,-17.7563,178.7271,12,282
+Fiji,Hattana,-12.4729,176.9771,12,288
+Fiji,Hauameamea Island,-12.4729,177.1271,12,288
+Fiji,Havre Trough,-19.9896,-176.9896,12,279
+Fiji,Hawkins Reef of Wilkes_Eastern,-17.7896,-178.6563,12,282
+Fiji,Hazel Holme Bank,-12.8063,174.0604,12,288
+Fiji,Heemskercq Reefs_Northern,-16.4063,-179.4396,12,284
+Fiji,Herald Bay,-17.9729,179.2437,12,282
+Fiji,Herald Passage,-18.7563,178.4771,12,281
+Fiji,Herald Roadstead,-18.5396,179.9604,12,281
+Fiji,Herald Sound,-18.9729,-179.8729,12,281
+Fiji,Hillsborough_Northern,-16.9229,179.9604,12,283
+Fiji,Hoflua,-12.4896,176.9437,12,288
+Fiji,Hofvea,-12.4729,177.0771,12,288
+Fiji,Holmes Island_Northern,-16.4896,-179.6896,12,284
+Fiji,Holmhurst_Northern,-16.9396,179.9271,12,283
+Fiji,Hood Reef_Eastern,-17.4396,177.5937,12,283
+Fiji,Hope Reef,-19.0396,178.1104,12,281
+Fiji,Hua,-12.4729,177.1104,12,288
+Fiji,Hunter Ridge,-21.4896,174.5104,12,279
+Fiji,Husia,-12.5063,177.1437,12,288
+Fiji,Iambu_Northern,-16.4895,-179.7062,12,284
+Fiji,Ilo Reef_Western,-17.3395,177.1272,12,283
+Fiji,Indrawannga_Western,-17.1728,177.2105,12,283
+Fiji,Itai Island_Western,-17.6395,177.2605,12,283
+Fiji,Itumuta,-12.4895,177.0438,12,288
+Fiji,Ituteu,-12.5062,177.0438,12,288
+Fiji,Iuatuainambuli Creek,-19.1062,178.1438,12,281
+Fiji,Ivavo Creek_Western,-18.1062,177.6772,12,282
+Fiji,Ivilevu Creek_Western,-18.0728,177.6272,12,282
+Fiji,Ivimbelo Creek,-17.2895,179.3938,12,283
+Fiji,Ivindua Island_Northern,-16.2062,179.8605,12,284
+Fiji,Iviraramba_Central,-18.2395,178.0272,12,282
+Fiji,Jabeia_Western,-16.9227,177.3773,12,284
+Fiji,Jeffreys Bank,-16.8561,-178.7394,12,284
+Fiji,John Wesley Bluffs,-19.0394,178.1273,12,281
+Fiji,Johns Reef_Western,-17.7394,177.4273,12,283
+Fiji,Jolmea,-12.4727,177.0606,12,288
+Fiji,Joro Point,-12.5061,177.1273,12,288
+Fiji,Joske Reef_Central,-18.1561,178.3273,12,282
+Fiji,Jubilee Shoal_Northern,-16.3561,179.3106,12,284
+Fiji,Juju,-12.5061,177.0939,12,288
+Fiji,Koronivia_Central,-18.0393,178.544,12,282
+Fiji,Labasa_Northern,-16.4059,179.3775,12,284
+Fiji,Lautoka_Western,-17.6059,177.4775,12,283
+Fiji,Nadi_Northern,-16.9557,178.7943,12,283
+Fiji,Nadi_Western,-17.789,177.3943,12,283
+Fiji,Nasinu_Northern,-16.7557,179.4943,12,284
+Fiji,Oloi Creek_Central,-17.9889,178.6444,12,282
+Fiji,Palmer Island_Western,-17.7221,177.1445,12,283
+Fiji,Pandora Bank,-12.1721,172.0945,12,288
+Fiji,Pearl Reef,-19.1055,178.2279,12,288
+Fiji,Peile Reef_Central,-18.1221,178.3445,12,282
+Fiji,Penang_Western,-17.3555,178.1612,12,283
+Fiji,Penang Mill_Western,-17.3555,178.1779,12,283
+Fiji,Penguin Bank,-11.4721,175.4945,12,289
+Fiji,Pepjei Point,-12.5055,177.1112,12,288
+Fiji,Perry Island_Western,-17.6721,177.1112,12,283
+Fiji,Pickering Peak_Western,-17.8721,177.5779,12,282
+Fiji,Pilia_Western,-17.6555,177.4612,12,283
+Fiji,Pillar Hill_Western,-18.1721,177.6612,12,282
+Fiji,Pinan Reef_Northern,-16.4055,-179.5388,12,284
+Fiji,Pinder Reefs_Western,-17.5888,177.4112,12,283
+Fiji,Plowright Reef_Central,-17.5888,178.5112,12,283
+Fiji,Porpoise Shoal_Western,-17.0221,177.0445,12,283
+Fiji,Port Refuge of Wilkes_Eastern,-19.1721,-178.4555,12,280
+Fiji,Province of Lomaiviti,-17.6555,178.8112,12,283
+Fiji,Qalim Point,-18.222,177.7946,12,282
+Fiji,Qamea_Northern,-16.7554,-179.7554,12,284
+Fiji,Qasibale,-18.7887,178.5113,12,281
+Fiji,Qelelevu_Northern,-16.072,-179.272,12,285
+Fiji,Qilaqila,-17.1387,-179.0387,12,283
+Fiji,Quali Mari_Western,-18.0054,177.6113,12,282
+Fiji,Queens Wharf,-17.672,178.8446,12,283
+Fiji,Quele_Northern,-16.072,-179.1387,12,285
+Fiji,Quinin Reef of Wilkes,-17.722,-178.8554,12,282
+Fiji,Quoin Hill_Eastern,-19.0887,-178.572,12,281
+Fiji,Samambula_Central,-18.1052,178.4615,12,282
+Fiji,Samambula East_Central,-18.1052,178.4782,12,282
+Fiji,Samambula River_Central,-18.1052,178.4948,12,282
+Fiji,Sigatoka_Western,-18.1718,177.5282,12,282
+Fiji,Suva_Central,-18.1218,178.4282,12,282
+Fiji,Suva Cemetery_Central,-18.1052,178.4448,12,282
+Fiji,Suva Creek_Western,-17.4552,178.1448,12,283
+Fiji,Suva Point_Central,-18.1552,178.4448,12,282
+Fiji,Suva Ward_Central,-18.1218,178.4448,12,282
+Fiji,Suvani Creek_Northern,-16.5385,179.2448,12,284
+Fiji,Suvasuva_Northern,-16.7718,179.3948,12,284
+Fiji,Suvasuvatuindamu_Western,-17.4052,178.0782,12,283
+Fiji,Suvaviti_Central,-18.0885,178.5948,12,282
+Fiji,Suvavou_Central,-18.1052,178.4282,12,282
+Fiji,Taveuni Island_Northern,-16.8384,-179.9551,12,284
+Fiji,Tavua,-17.2884,179.3783,12,283
+Fiji,Zephyr Reef,-16.0211,-177.1045,12,285

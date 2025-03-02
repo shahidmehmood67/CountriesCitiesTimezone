@@ -1,0 +1,112 @@
+Mauritania,Baraini,15.6265,-9.5402,0,0
+Mauritania,Bouir Tores,17.0598,-15.7235,0,0
+Mauritania,Boumdeit,17.4431,-11.3402,0,0
+Mauritania,Boutilimit,16.9265,-15.6902,0,0
+Mauritania,Boutilimit_Trarza,17.5598,-14.6902,0,0
+Mauritania,Iguerm,17.8105,-15.2395,0,0
+Mauritania,Iniefrar,17.2438,-15.5562,0,0
+Mauritania,Jabra,16.8106,-9.7561,0,0
+Mauritania,Jafen,20.3939,-6.4727,0,0
+Mauritania,Jafie,16.6439,-10.5394,0,0
+Mauritania,Jamra,16.2273,-9.3394,0,0
+Mauritania,Jararia,17.2439,-15.1394,0,0
+Mauritania,Jatourou,16.5606,-7.2561,0,0
+Mauritania,Jeimamet,16.5773,-10.5227,0,0
+Mauritania,Jelaye,16.9106,-14.2561,0,0
+Mauritania,Jelfaye,19.2106,-11.2227,0,0
+Mauritania,Jellalyin,16.7273,-6.4894,0,0
+Mauritania,Jembe,17.7939,-8.6061,0,0
+Mauritania,Jeneifisa,20.6106,-14.0894,0,0
+Mauritania,Jeygui,15.6439,-7.2227,0,0
+Mauritania,Jeymama,15.5439,-7.2894,0,0
+Mauritania,Jirana,15.6106,-7.0561,0,0
+Mauritania,Jmoyat,17.0273,-8.4227,0,0
+Mauritania,Joida,17.6273,-12.2394,0,0
+Mauritania,Joide,16.7273,-13.9227,0,0
+Mauritania,Jorf,20.2606,-15.6894,0,0
+Mauritania,Joua el Aiouj,21.2606,-16.6227,0,0
+Mauritania,Jouali,19.9773,-13.0727,0,0
+Mauritania,Joumanie,15.6106,-8.7227,0,0
+Mauritania,Jraif,20.8439,-12.4227,0,0
+Mauritania,Jraifia,22.5439,-11.7561,0,0
+Mauritania,Jreif,16.3439,-11.1394,0,0
+Mauritania,Kaedi_Gorgol,16.1607,-13.4893,0,0
+Mauritania,Kiffa_Assaba,16.6274,-11.3893,0,0
+Mauritania,Kiffa,16.5107,-11.3726,0,0
+Mauritania,Mabrouk,16.9276,-14.7224,0,0
+Mauritania,Mabrouk-Noir,16.2776,-11.0224,0,0
+Mauritania,Mabrouka,15.5276,-6.8058,0,0
+Mauritania,Magta-lahjar_Brakna,17.0109,-13.4891,0,0
+Mauritania,Mederdra,16.9276,-15.6391,0,0
+Mauritania,Nouadhibou_Dakhlet Nouadhibou,20.911,-17.0557,0,0
+Mauritania,Nouadhibou,17.9777,-15.339,0,0
+Mauritania,Nouakchott_Trarza,18.0974,-15.9643,0,0
+Mauritania,Oued Boularat,16.6778,-12.6222,0,0
+Mauritania,Quatrieme Region,15.7613,-12.9887,0,0
+Mauritania,Quediat Iyil,22.6446,-12.5387,0,0
+Mauritania,Quercset el Mulud,21.1113,-16.5054,0,0
+Mauritania,Queue des Sfariat,24.0446,-11.3887,0,0
+Mauritania,Rosso_Trarza,16.5114,-15.8053,0,0
+Mauritania,Uad Aauinat Um Ferquic,25.895,-9.705,0,0
+Mauritania,Uad Aguetil,20.3117,-12.8716,0,0
+Mauritania,Uad Amgaues El Hadyi,20.745,-16.405,0,0
+Mauritania,Uad Atui,20.0784,-15.9716,0,0
+Mauritania,Uad Ben Tili,25.8117,-9.5216,0,0
+Mauritania,Uad el Hamra,26.595,-8.4216,0,0
+Mauritania,Uad Legreidguen,25.9784,-10.5883,0,0
+Mauritania,Uad Lemmuil-lihien,26.7784,-8.6216,0,0
+Mauritania,Uad Tenebrut,20.595,-15.9883,0,0
+Mauritania,Uad Tuerga,22.6784,-12.855,0,0
+Mauritania,Uad Um Edferat,23.2617,-12.5883,0,0
+Mauritania,Udeiat Chareih,26.1284,-11.055,0,0
+Mauritania,Udeiat Lejbei,25.9617,-8.8216,0,0
+Mauritania,Um Aguaba,21.095,-12.705,0,0
+Mauritania,Um Arraguem,22.8784,-12.1883,0,0
+Mauritania,Um Jesama,20.545,-13.6216,0,0
+Mauritania,Um Laaueitgat,20.3284,-15.8383,0,0
+Mauritania,Valade Dionabe,17.1951,-12.6549,0,0
+Mauritania,Vallee de Tasarat,20.6951,-14.0382,0,0
+Mauritania,Vallee du Taskass,17.7951,-11.1049,0,0
+Mauritania,Vani,15.9451,-7.7382,0,0
+Mauritania,Vannvane,16.3285,-13.9049,0,0
+Mauritania,Velidiare,16.4285,-13.8882,0,0
+Mauritania,Vendou Diabi,16.4451,-13.9215,0,0
+Mauritania,Vendou Gode,15.6285,-9.2715,0,0
+Mauritania,Vendou Karekare,16.3451,-13.2882,0,0
+Mauritania,Vendou Kole,15.6785,-9.2382,0,0
+Mauritania,Venedou Seno,15.5285,-12.4049,0,0
+Mauritania,Vete Ile,15.9285,-7.8049,0,0
+Mauritania,Vile,15.9451,-7.0882,0,0
+Mauritania,Vinde Aboidi,16.4118,-13.9049,0,0
+Mauritania,Vinde Aire,15.9951,-12.6215,0,0
+Mauritania,Vinde Guibi,15.3451,-12.5549,0,0
+Mauritania,Vinde Lelel,15.5451,-12.6215,0,0
+Mauritania,Vinde Mbordi,16.0618,-12.7049,0,0
+Mauritania,Vindetile,15.5451,-12.9049,0,0
+Mauritania,Vindi Boke,15.4285,-12.4049,0,0
+Mauritania,Vinnde Diambi,16.3285,-13.1382,0,0
+Mauritania,Voutour,15.7618,-6.9715,0,0
+Mauritania,Wainat Tlamid,15.8119,-7.8381,0,0
+Mauritania,Walata_Hodh Ech Chargui,17.3119,-7.0214,0,0
+Mauritania,Warardra,21.1952,-13.0381,0,0
+Mauritania,Warba,15.7286,-7.2548,0,0
+Mauritania,Wed Amore,16.6452,-7.3214,0,0
+Mauritania,Wed Archan,16.0619,-7.4881,0,0
+Mauritania,Wed Berbere,16.9619,-7.3881,0,0
+Mauritania,Wed Khneg Deba,22.7452,-12.6881,0,0
+Mauritania,Wed Kounta,22.7286,-12.6381,0,0
+Mauritania,Wed Nema,16.6286,-7.2214,0,0
+Mauritania,Wed Sbei,16.0952,-7.3381,0,0
+Mauritania,Wompou,15.1452,-12.7048,0,0
+Mauritania,Yare,17.5621,-14.2879,0,0
+Mauritania,Yarhref,18.3954,-12.1712,0,0
+Mauritania,Yengui,15.6954,-7.9546,0,0
+Mauritania,Yeni,15.8121,-12.3546,0,0
+Mauritania,Yero Djibel,16.0288,-12.8379,0,0
+Mauritania,Yerokole,14.8954,-12.4046,0,0
+Mauritania,Yinkik,15.7788,-8.7712,0,0
+Mauritania,Ynk,17.9621,-12.9879,0,0
+Mauritania,Youdlane,19.2954,-13.2212,0,0
+Mauritania,Youm,16.9288,-15.9379,0,0
+Mauritania,Youmane Yire,15.5954,-13.0712,0,0
+Mauritania,Zoueiratt_Tiris Zemmour,22.7122,-12.4711,0,0

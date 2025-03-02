@@ -1,0 +1,92 @@
+Saint Lucia,Canaries,13.9099,-61.0568,-4,0
+Saint Lucia,Castries,14.0099,-60.9901,-4,0
+Saint Lucia,Castries Harbour_Castries,14.0266,-60.9901,-4,0
+Saint Lucia,Castries River_Castries,14.0266,-60.9734,-4,0
+Saint Lucia,Des Bateaux Islet_Dennery,13.91,-60.8567,-4,0
+Saint Lucia,Eau Piquant_Vieux-Fort,13.7601,-60.9232,-4,0
+Saint Lucia,Epouge Bay_Gros-Islet,14.0934,-60.9066,-4,0
+Saint Lucia,Esperance Estate_Soufriere,13.8434,-61.0232,-4,0
+Saint Lucia,Esperance River,14.0601,-60.8899,-4,0
+Saint Lucia,Feree Bay_Castries,13.9935,-61.0065,-4,0
+Saint Lucia,Ferrand_Castries,13.9769,-60.9731,-4,0
+Saint Lucia,Fond Assor_Dauphin,13.9935,-60.9065,-4,0
+Saint Lucia,Fond Bay_Praslin,13.8435,-60.8731,-4,0
+Saint Lucia,Fond Blanc_Vieux-Fort,13.7019,-60.9148,-4,0
+Saint Lucia,Fond d Or River_Dennery,13.9269,-60.8731,-4,0
+Saint Lucia,Forestiere_Castries,13.9769,-60.9398,-4,0
+Saint Lucia,Fort Charlotte_Castries,13.9935,-60.9898,-4,0
+Saint Lucia,Foureur Islet_Gros-Islet,14.0769,-60.9731,-4,0
+Saint Lucia,Fous Islet_Gros-Islet,14.0769,-60.8898,-4,0
+Saint Lucia,Frigate_Praslin,13.8769,-60.8731,-4,0
+Saint Lucia,Gouti Cove_Gros-Islet,14.0603,-60.9564,-4,0
+Saint Lucia,H Erelle_Laborie,13.7604,-60.9729,-4,0
+Saint Lucia,Hardie Point_Gros-Islet,14.1104,-60.9063,-4,0
+Saint Lucia,Haut Morne_Castries,13.9937,-60.9563,-4,0
+Saint Lucia,Hellene_Praslin,13.7937,-60.9063,-4,0
+Saint Lucia,Hewanorra_Vieux-Fort,13.7271,-60.9229,-4,0
+Saint Lucia,Hope Estate_Vieux-Fort,13.7604,-60.9396,-4,0
+Saint Lucia,Ile des Ramiers_Gros-Islet,14.0938,-60.9562,-4,0
+Saint Lucia,Incommode_Castries,13.9938,-60.9728,-4,0
+Saint Lucia,Islet du Choc_Castries,14.0438,-60.9562,-4,0
+Saint Lucia,Islet Maria_Vieux-Fort,13.7272,-60.9062,-4,0
+Saint Lucia,Ivrogne River,13.7938,-61.0562,-4,0
+Saint Lucia,Jalousie_Soufriere,13.8273,-61.0394,-4,0
+Saint Lucia,Jambon Bay_Soufriere,13.8773,-61.0561,-4,0
+Saint Lucia,Jean Baptiste_Anse-la-Raye,13.9439,-60.9894,-4,0
+Saint Lucia,L Angere Point_Micoud,13.8108,-60.8892,-4,0
+Saint Lucia,La Borne_Dauphin,14.0441,-60.9059,-4,0
+Saint Lucia,La Retraite_Vieux-Fort,13.7608,-60.9559,-4,0
+Saint Lucia,La Tourney_Vieux-Fort,13.7441,-60.9392,-4,0
+Saint Lucia,Micoud,13.8276,-60.8891,-4,0
+Saint Lucia,Morne Doudon_Castries,14.0109,-60.9558,-4,0
+Saint Lucia,Noir Bay_Laborie,13.7443,-60.9723,-4,0
+Saint Lucia,Old Settlement_Praslin,13.8944,-60.8889,-4,0
+Saint Lucia,Orange Point_Anse-la-Raye,13.9444,-61.0222,-4,0
+Saint Lucia,Orangerie_Praslin,13.8611,-60.9056,-4,0
+Saint Lucia,Patience_Praslin,13.8612,-60.8888,-4,0
+Saint Lucia,Quarter of Dennery_Dennery,13.928,-60.9054,-4,0
+Saint Lucia,Ravine Bethel_Micoud,13.7947,-60.8719,-4,0
+Saint Lucia,Ravine Courtois,13.8447,-60.9053,-4,0
+Saint Lucia,Ravine Languedoc_Vieux-Fort,13.7447,-60.9553,-4,0
+Saint Lucia,Reduit_Gros-Islet,14.0781,-60.9386,-4,0
+Saint Lucia,Resinard_Castries,13.9947,-60.9219,-4,0
+Saint Lucia,Reunion_Choiseul,13.7781,-61.0219,-4,0
+Saint Lucia,Riche Fond_Dennery,13.9447,-60.9053,-4,0
+Saint Lucia,River Doree_Choiseul,13.7614,-61.0219,-4,0
+Saint Lucia,Roblot_Choiseul,13.8114,-61.0053,-4,0
+Saint Lucia,Rousea_Anse-la-Raye,13.9614,-61.0219,-4,0
+Saint Lucia,Saint Phillip_Soufriere,13.8448,-61.0052,-4,0
+Saint Lucia,Saint Vincent Passage,13.5115,-60.9885,-4,0
+Saint Lucia,Salibus Point_Micoud,13.7615,-60.8885,-4,0
+Saint Lucia,Saline Point_Gros-Islet,14.1115,-60.9218,-4,0
+Saint Lucia,Saltibus_Laborie,13.8115,-60.9885,-4,0
+Saint Lucia,Sarot_Castries,13.9448,-60.9718,-4,0
+Saint Lucia,Savannes_Vieux-Fort,13.7782,-60.9218,-4,0
+Saint Lucia,Savannes_Micoud,13.7782,-60.9052,-4,0
+Saint Lucia,Scorpion Island_Micoud,13.7615,-60.9052,-4,0
+Saint Lucia,Smugglers Cove_Gros-Islet,14.0948,-60.9385,-4,0
+Saint Lucia,Sorciere River_Dauphin,13.9948,-60.8552,-4,0
+Saint Lucia,Soucis_Castries,13.9782,-60.9885,-4,0
+Saint Lucia,Soufriere,13.8615,-61.0385,-4,0
+Saint Lucia,Soufriere Bay_Soufriere,13.8615,-61.0552,-4,0
+Saint Lucia,Tapion Shoal_Castries,14.0269,-60.9951,-4,0
+Saint Lucia,Tariti Point_Dauphin,14.0116,-60.8717,-4,0
+Saint Lucia,Terrefallee_Castries,13.9616,-60.9884,-4,0
+Saint Lucia,Theodorine_Anse-la-Raye,13.9283,-61.0217,-4,0
+Saint Lucia,Trou Barbet River_Choiseul,13.7949,-61.0384,-4,0
+Saint Lucia,Trou Gascon_Gros-Islet,14.0783,-60.9551,-4,0
+Saint Lucia,Trou Gras Point_Praslin,13.8616,-60.8717,-4,0
+Saint Lucia,Trou Grauval_Gros-Islet,14.0616,-60.8717,-4,0
+Saint Lucia,Trou Halhal_Dennery,13.9616,-60.8551,-4,0
+Saint Lucia,Trou Requin_Castries,13.9783,-61.0051,-4,0
+Saint Lucia,Trou Rolland_Castries,13.9616,-61.0051,-4,0
+Saint Lucia,Trou Zombie_Praslin,13.8949,-60.8717,-4,0
+Saint Lucia,Troumasse_Micoud,13.8283,-60.9051,-4,0
+Saint Lucia,Troumassee River_Micoud,13.8116,-60.8717,-4,0
+Saint Lucia,Venus Estate_Anse-la-Raye,13.9285,-61.0049,-4,0
+Saint Lucia,Vieille Ville Bay_Castries,14.0271,-60.9821,-4,0
+Saint Lucia,Vieux Fort_Vieux-Fort,13.7285,-60.9382,-4,0
+Saint Lucia,Vigie_Castries,14.0451,-61.0049,-4,0
+Saint Lucia,White Cross_Anse-la-Raye,13.9452,-61.0381,-4,0
+Saint Lucia,Woodlands Estate_Vieux-Fort,13.8119,-60.9548,-4,0
+Saint Lucia,Yvrogne_Soufriere,13.8121,-61.0546,-4,0

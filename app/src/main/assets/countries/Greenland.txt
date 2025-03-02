@@ -1,0 +1,48 @@
+Greenland,16 September Gletscher_Ostgronland,66.2716,-36.4951,-3,93
+Greenland,5 Maj Soen_Nordgronland,81.2053,-26.6614,-3,110
+Greenland,Astro Pynt_Nordgronland,76.5575,-68.8331,-3,67
+Greenland,Axeblade_Nordgronland,81.4264,-53.4903,-3,83
+Greenland,B.G. Schley Fjord_Nordgronland,82.8598,-24.9902,-3,112
+Greenland,Edla Skaer_Ostgronland,73.8934,-19.9566,-3,113
+Greenland,Holsteinsborg_Vestgronland,66.9437,-53.6729,-3,78
+Greenland,Jyske Aas_Nordgronland,81.5439,-24.0727,-3,113
+Greenland,Kap Farvel_Vestgronland,59.7899,-43.901,-3,84
+Greenland,McCormick Bugt_Nordgronland,78.2442,-72.7558,-3,64
+Greenland,Nanortalik_Vestgronland,60.1277,-45.2057,-3,83
+Greenland,Ngigtoq_Vestgronland,60.7443,-46.3557,-3,82
+Greenland,Nord_Nordgronland,81.7277,-17.789,-3,119
+Greenland,Nuuk_Vestgronland,64.1943,-51.739,-3,79
+Greenland,W. Bishop So_Ostgronland,76.3286,-18.8214,-3,116
+Greenland,W. Lynge Skaer_Ostgronland,76.7286,-18.5214,-3,116
+Greenland,Walrus Bay_Ostgronland,70.5119,-22.0381,-3,110
+Greenland,Wandel Dal_Nordgronland,82.2619,-35.2381,-3,102
+Greenland,Wechmar Point_Nordgronland,76.8686,-70.8012,-3,65
+Greenland,Wegener Oer_Nordgronland,80.6786,-17.3214,-3,119
+Greenland,Wendel Pynt_Ostgronland,76.7619,-18.6881,-3,116
+Greenland,Wild Sound_Nordgronland,83.3119,-40.9881,-3,97
+Greenland,Wilkins Nunatakker_Ostgronland,74.1119,-27.2381,-3,106
+Greenland,Wollaston Forland_Ostgronland,74.5119,-19.9881,-3,114
+Greenland,Wyckoff Land_Nordgronland,82.8452,-24.4881,-3,113
+Greenland,Yderbugten_Ostgronland,76.8288,-18.4879,-3,116
+Greenland,Yderdalen_Ostgronland,73.8621,-20.3712,-3,113
+Greenland,Yderste Parry Skaer_Vestgronland,69.1454,-53.8712,-3,79
+Greenland,Ydre Oer_Vestgronland,60.7621,-48.3879,-3,81
+Greenland,Ydun Gletscher_Nordgronland,83.2621,-28.1546,-3,109
+Greenland,Ydun Gletscher_Ostgronland,63.7288,-40.9712,-3,88
+Greenland,Ygdrasil_Ostgronland,63.3288,-42.2712,-3,87
+Greenland,Ymer Bjerg_Ostgronland,65.6121,-37.7379,-3,92
+Greenland,Ymer Gletscher_Nordgronland,82.6621,-35.9879,-3,101
+Greenland,Ymer Nunatak_Ostgronland,77.4621,-24.6046,-3,110
+Greenland,Ymer O_Ostgronland,73.1621,-24.3212,-3,109
+Greenland,Yngvar Knutzons Fjeld_Ostgronland,73.9454,-23.7546,-3,110
+Greenland,Yngvar Nielsen Brae_Nordgronland,76.3468,-64.1257,-3,71
+Greenland,Young Sund_Ostgronland,74.3288,-20.3379,-3,113
+Greenland,Yrsas Fjord_Ostgronland,63.2621,-41.2212,-3,88
+Greenland,Zachariaes Brae_Ostgronland,78.9289,-21.1545,-3,115
+Greenland,Zackenberg_Ostgronland,74.5122,-20.7545,-3,113
+Greenland,Zackenberg Bay_Ostgronland,74.4622,-20.6545,-3,113
+Greenland,Zamiteselv_Ostgronland,70.8789,-22.6711,-3,109
+Greenland,Zebrafjaeld_Ostgronland,64.3455,-40.7711,-3,89
+Greenland,Zig-Zag Dalen_Nordgronland,81.0122,-25.9878,-3,111
+Greenland,Zoolog Elv_Nordgronland,82.1955,-30.9878,-3,106
+Greenland,Zoologdalen_Ostgronland,73.3289,-24.2878,-3,109

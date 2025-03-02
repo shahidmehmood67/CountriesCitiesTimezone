@@ -1,0 +1,195 @@
+Cape Verde,Achada Baleia,15.0500,-23.4833,-1GMT,74
+Cape Verde,Achada Bargado,15.0833,-23.5667,-1GMT,74
+Cape Verde,Achada Bel Bel,15.1500,-23.6000,-1GMT,74
+Cape Verde,Achada Carreira,15.2833,-23.7333,-1GMT,74
+Cape Verde,Achada Grande,14.9833,-24.3167,-1GMT,74
+Cape Verde,Achada Monte,15.2333,-23.6500,-1GMT,74
+Cape Verde,Achada Vianga,15.1167,-23.5667,-1GMT,74
+Cape Verde,Achadinha,15.2333,-23.7167,-1GMT,74
+Cape Verde,Agua das Fortes,16.9667,-25.2167,-1GMT,74
+Cape Verde,Alcatraz,15.2167,-23.1167,-1GMT,74
+Cape Verde,Amador,16.1167,-22.8333,-1GMT,74
+Cape Verde,Areia Branca,16.9000,-24.9667,-1GMT,74
+Cape Verde,Assomada,15.1000,-23.6833,-1GMT,74
+Cape Verde,Atalaia,15.0333,-24.4000,-1GMT,74
+Cape Verde,Bafureira,16.1833,-22.8333,-1GMT,74
+Cape Verde,Baia Berreiros,16.5500,-24.0667,-1GMT,74
+Cape Verde,Baia da Agua Amargosa,16.6000,-24.0500,-1GMT,74
+Cape Verde,Baia da Cruzinha,17.1667,-25.1833,-1GMT,75
+Cape Verde,Baia da Figueira Lapa,15.2667,-23.1167,-1GMT,74
+Cape Verde,Baia da Palmeira,16.7500,-22.9833,-1GMT,75
+Cape Verde,Baia da Ribeira Alta,17.1667,-25.2167,-1GMT,75
+Cape Verde,Baia da Teodora,16.2000,-22.9333,-1GMT,74
+Cape Verde,Baia de Fiura,16.8500,-22.9167,-1GMT,75
+Cape Verde,Baia de Joaquim Petinha,16.7167,-22.9833,-1GMT,75
+Cape Verde,Baia de Salamansa,16.9167,-24.9500,-1GMT,75
+Cape Verde,Baia de Santana,15.2833,-23.2333,-1GMT,74
+Cape Verde,Baia de Sao Pedro,16.8167,-25.0667,-1GMT,74
+Cape Verde,Baia do Chao Bom,15.2500,-23.7667,-1GMT,74
+Cape Verde,Baia Entre Picos,16.8833,-25.0667,-1GMT,74
+Cape Verde,Baia Passo de Pau,16.9167,-25.2667,-1GMT,74
+Cape Verde,Baixa do Espechim,16.6833,-24.3500,-1GMT,74
+Cape Verde,Baixo de Joao Valente,15.8000,-23.1833,-1GMT,74
+Cape Verde,Baixo Galeao,15.3500,-23.1667,-1GMT,74
+Cape Verde,Baleia,14.8500,-24.7000,-1GMT,73
+Cape Verde,Baluarte,15.0000,-24.4000,-1GMT,74
+Cape Verde,Barbasco,17.1833,-25.0500,-1GMT,75
+Cape Verde,Barreiro,15.1333,-23.1667,-1GMT,74
+Cape Verde,Beirona,16.6833,-22.9333,-1GMT,75
+Cape Verde,Bela Vista,16.8000,-22.9667,-1GMT,75
+Cape Verde,Boa Ventura,16.1333,-22.9000,-1GMT,74
+Cape Verde,Boca do Inferno,15.0167,-23.7500,-1GMT,74
+Cape Verde,Bomfim,16.7000,-22.9000,-1GMT,75
+Cape Verde,Bonita,17.0833,-25.3167,-1GMT,75
+Cape Verde,Botija,17.0500,-25.3333,-1GMT,75
+Cape Verde,Dacabalaio,14.8500,-24.3333,-1GMT,73
+Cape Verde,Derrubado,16.2333,-22.8000,-1GMT,74
+Cape Verde,Egreja,15.0333,-24.3333,-1GMT,74
+Cape Verde,Endriano,17.1167,-25.1833,-1GMT,75
+Cape Verde,Escabecada,17.1333,-25.1500,-1GMT,75
+Cape Verde,Escada,16.5833,-24.3667,-1GMT,74
+Cape Verde,Esgamaleiro,17.1167,-25.1500,-1GMT,75
+Cape Verde,Espadana,17.1000,-25.1667,-1GMT,75
+Cape Verde,Espigao da Calheta,17.0333,-25.0333,-1GMT,75
+Cape Verde,Espingueira,16.2167,-22.8000,-1GMT,74
+Cape Verde,Estancia Braz,16.6667,-24.3167,-1GMT,74
+Cape Verde,Faja,14.8667,-24.7500,-1GMT,73
+Cape Verde,Fajasinha,15.0500,-24.3500,-1GMT,74
+Cape Verde,Fajazinha,17.1500,-25.1667,-1GMT,75
+Cape Verde,Fanade,17.1333,-25.1667,-1GMT,75
+Cape Verde,Fazenda Real,16.8667,-24.9500,-1GMT,74
+Cape Verde,Feijoal,16.7500,-22.9000,-1GMT,75
+Cape Verde,Figueira da Naus,15.1833,-23.7333,-1GMT,74
+Cape Verde,Figueira de Coxe,16.6333,-24.2167,-1GMT,74
+Cape Verde,Figueira Pavao,14.8500,-24.3167,-1GMT,73
+Cape Verde,Figueira Seca,15.1500,-23.1500,-1GMT,74
+Cape Verde,Fio do Monte Vermelho,15.0500,-24.3833,-1GMT,74
+Cape Verde,Fogao,16.0833,-22.8500,-1GMT,74
+Cape Verde,Fontainhas,16.5833,-24.3333,-1GMT,74
+Cape Verde,Fonte Aleixo,14.8333,-24.3667,-1GMT,73
+Cape Verde,Forno,14.8833,-24.4500,-1GMT,73
+Cape Verde,Fundo das Figueiras,16.1500,-22.7333,-1GMT,74
+Cape Verde,Furno,14.8833,-24.6833,-1GMT,73
+Cape Verde,Galinheiros,15.0000,-24.4500,-1GMT,74
+Cape Verde,Gata,16.2000,-22.7167,-1GMT,74
+Cape Verde,Gatas,16.9000,-24.9167,-1GMT,74
+Cape Verde,Goa Alto,16.8500,-24.9167,-1GMT,74
+Cape Verde,Goa Baixo,16.8500,-24.9000,-1GMT,74
+Cape Verde,Gouveia,14.9333,-23.6833,-1GMT,74
+Cape Verde,Ilha Brava,14.8667,-24.7167,-1GMT,73
+Cape Verde,Ilha da Boa Vista,16.0833,-22.8333,-1GMT,74
+Cape Verde,Ilha de Maio,15.2500,-23.1667,-1GMT,74
+Cape Verde,Ilha de Santa Luzia,16.7667,-24.7500,-1GMT,74
+Cape Verde,Ilha de Santiago,15.0833,-23.6667,-1GMT,74
+Cape Verde,Ilha de Sao Nicolau,16.5833,-24.2500,-1GMT,74
+Cape Verde,Ilha de Sao Vicente,16.8333,-25.0000,-1GMT,74
+Cape Verde,Ilha do Sal,16.7500,-22.9167,-1GMT,75
+Cape Verde,Ilhado Fogo,14.9167,-24.4167,-1GMT,74
+Cape Verde,Ilhas do Cabo Verde,16.0000,-24.0000,-1GMT,74
+Cape Verde,Ilhas do Sotavento,15.0000,-23.5833,-1GMT,74
+Cape Verde,Ilheu da Areia,14.8833,-24.7333,-1GMT,73
+Cape Verde,Ilheu da Fragata,16.6333,-22.8833,-1GMT,75
+Cape Verde,Ilheu de Baixo,14.9667,-24.7000,-1GMT,73
+Cape Verde,Ilheu de Cima,14.9667,-24.6500,-1GMT,74
+Cape Verde,Ilheu de Rabo de Junco,16.7000,-23.0000,-1GMT,75
+Cape Verde,Ilheu de Sal Rei,16.1667,-22.9333,-1GMT,74
+Cape Verde,Ilheu do Baluarte,16.1500,-22.6667,-1GMT,74
+Cape Verde,Ilheu do Boi,17.1333,-24.9833,-1GMT,75
+Cape Verde,Ilheu do Galeao,16.2167,-22.7167,-1GMT,74
+Cape Verde,Ilheu do Guisinho,16.7500,-24.7667,-1GMT,74
+Cape Verde,Ilheu dos Passaros,16.9167,-25.0167,-1GMT,74
+Cape Verde,Ilheu Razo,16.6167,-24.6000,-1GMT,74
+Cape Verde,Ilheus do Chano,16.7000,-22.8833,-1GMT,75
+Cape Verde,Ilheus do Rombo,14.9667,-24.6667,-1GMT,74
+Cape Verde,Janelas,17.1167,-25.0000,-1GMT,75
+Cape Verde,Joao Barroza,16.0167,-22.7500,-1GMT,74
+Cape Verde,Joao Daninha,16.9667,-25.2333,-1GMT,74
+Cape Verde,Joao Galego,16.1500,-22.7500,-1GMT,74
+Cape Verde,Juncalinho,16.6167,-24.1333,-1GMT,74
+Cape Verde,Lagarica,14.9167,-24.4667,-1GMT,73
+Cape Verde,Lagoa,15.1333,-23.1500,-1GMT,74
+Cape Verde,Lagoa Atras,15.0167,-24.3333,-1GMT,74
+Cape Verde,Laje Branca,15.3167,-23.1500,-1GMT,74
+Cape Verde,Lajedo dos Espargos,16.7333,-22.9333,-1GMT,75
+Cape Verde,Lapa Cachorro,15.2667,-23.7000,-1GMT,74
+Cape Verde,Lazaretto,16.8667,-25.0333,-1GMT,74
+Cape Verde,Leiro,17.0000,-25.2000,-1GMT,75
+Cape Verde,Lombo das Dancas,16.9833,-25.2167,-1GMT,74
+Cape Verde,Lombo de Figueira,17.1000,-25.0667,-1GMT,75
+Cape Verde,Lombo do Mar,17.1167,-25.1667,-1GMT,75
+Cape Verde,Lugar Novo,14.9333,-24.4833,-1GMT,74
+Cape Verde,Luzia Nunes,14.8667,-24.4500,-1GMT,73
+Cape Verde,Madeiral,16.8333,-24.9500,-1GMT,74
+Cape Verde,Martiana,17.1000,-25.2500,-1GMT,75
+Cape Verde,Mateuzinho,16.8500,-24.9333,-1GMT,74
+Cape Verde,Miguel Pires,17.0833,-25.2333,-1GMT,75
+Cape Verde,Mindelo,16.8833,-25.0000,-1GMT,74
+Cape Verde,Mira-Mira,14.9667,-24.4500,-1GMT,74
+Cape Verde,Moia Moia,15.0167,-23.4667,-1GMT,74
+Cape Verde,Montagarro,14.9500,-23.5167,-1GMT,74
+Cape Verde,Monte Antonio Gomes,16.8833,-24.9333,-1GMT,74
+Cape Verde,Monte Carneiro,17.0333,-25.2667,-1GMT,75
+Cape Verde,Monte Feada,17.0167,-25.2333,-1GMT,75
+Cape Verde,Monte Feijao Branco,17.1000,-25.2167,-1GMT,75
+Cape Verde,Monte Henrique,15.1667,-23.7333,-1GMT,74
+Cape Verde,Monte Joana,17.1667,-25.0500,-1GMT,75
+Cape Verde,Monte Losna,14.9000,-24.3833,-1GMT,73
+Cape Verde,Monte Pedroso,15.1667,-23.7500,-1GMT,74
+Cape Verde,Monte Ribeirinha,16.8333,-25.1000,-1GMT,74
+Cape Verde,Monte Semedo,15.2167,-23.7333,-1GMT,74
+Cape Verde,Monte Sobrado,14.9000,-24.3667,-1GMT,73
+Cape Verde,Monte Tagarrinho,15.0667,-23.7167,-1GMT,74
+Cape Verde,Monte Tortolho,14.9167,-24.3333,-1GMT,74
+Cape Verde,Monte Vermelho,14.8333,-24.3333,-1GMT,73
+Cape Verde,Montinho,15.2167,-23.7167,-1GMT,74
+Cape Verde,Morrinho,15.2667,-23.2333,-1GMT,74
+Cape Verde,Morro da Areia Point,16.0833,-22.9667,-1GMT,74
+Cape Verde,Morros Domingos Santos,17.0167,-25.2667,-1GMT,75
+Cape Verde,Nha Marco,16.7000,-22.9500,-1GMT,75
+Cape Verde,Nhuco,14.9333,-24.4500,-1GMT,74
+Cape Verde,Nora,15.0167,-23.5500,-1GMT,74
+Cape Verde,North Point,16.8667,-22.9333,-1GMT,75
+Cape Verde,Nossa Senhora do Monte,14.8500,-24.7167,-1GMT,73
+Cape Verde,Orgaos,15.0667,-23.6167,-1GMT,74
+Cape Verde,Ortelao,16.6167,-24.3667,-1GMT,74
+Cape Verde,Praia,14.9167,-23.5167,-1GMT,74
+Cape Verde,Praia da Chave,16.1000,-22.9167,-1GMT,74
+Cape Verde,Queimada,16.6333,-24.3167,-1GMT,74
+Cape Verde,Sacramento,15.0500,-23.5667,-1GMT,74
+Cape Verde,Sal Rei,16.1833,-22.9167,-1GMT,74
+Cape Verde,Salamanza,16.9000,-24.9500,-1GMT,74
+Cape Verde,Santa Cruz,15.1333,-23.5667,-1GMT,74
+Cape Verde,Santa Luzia,16.8167,-24.9167,-1GMT,74
+Cape Verde,Santo Antonio,15.2667,-23.1333,-1GMT,74
+Cape Verde,Sao Filipe,14.9000,-24.5167,-1GMT,73
+Cape Verde,Sao Joao,14.9500,-23.6667,-1GMT,74
+Cape Verde,Sao Jorge,15.0167,-24.4333,-1GMT,74
+Cape Verde,Sao Martinho,14.9167,-23.5833,-1GMT,74
+Cape Verde,Sao Tiago,15.1333,-23.5333,-1GMT,74
+Cape Verde,Selada,17.1000,-25.2667,-1GMT,75
+Cape Verde,Seladinha,16.9667,-25.3167,-1GMT,74
+Cape Verde,Serra da Malagueta,15.1667,-23.7000,-1GMT,74
+Cape Verde,Serra do Pico de Antonia,15.0500,-23.6500,-1GMT,74
+Cape Verde,Sinagoga,17.1833,-25.0333,-1GMT,75
+Cape Verde,Sol Point,17.2000,-25.1000,-1GMT,75
+Cape Verde,Tabuadinha,17.0833,-25.1667,-1GMT,75
+Cape Verde,Tabuga,17.0167,-25.2000,-1GMT,75
+Cape Verde,Telha,16.5667,-24.3667,-1GMT,74
+Cape Verde,Tongom,14.9167,-24.4833,-1GMT,73
+Cape Verde,Tope Calheta,16.8667,-25.0667,-1GMT,74
+Cape Verde,Tope de Caixa,16.8167,-25.0000,-1GMT,74
+Cape Verde,Tope Suzana,16.8833,-25.0500,-1GMT,74
+Cape Verde,Trindade,14.9500,-23.5667,-1GMT,74
+Cape Verde,Urzeleiros,17.0833,-25.2000,-1GMT,75
+Cape Verde,Vale da Custa,14.9833,-23.4833,-1GMT,74
+Cape Verde,Velha,14.9167,-23.6167,-1GMT,74
+Cape Verde,Vermelharia Grande Point,16.4833,-24.3167,-1GMT,74
+Cape Verde,Vicente Dias,14.8833,-24.4667,-1GMT,73
+Cape Verde,Vila da Ribeira Brava,16.6167,-24.3000,-1GMT,74
+Cape Verde,Vila do Maio,15.1333,-23.2167,-1GMT,74
+Cape Verde,Vila do Porto Novo,17.0333,-25.0667,-1GMT,75
+Cape Verde,Vila do Tarrafal,15.2833,-23.7667,-1GMT,74
+Cape Verde,Vila Nova,14.9333,-23.5167,-1GMT,74
+Cape Verde,Vinagre,14.8667,-24.7000,-1GMT,73
+Cape Verde,Vulcao,14.9333,-24.3500,-1GMT,74
+Cape Verde,Xa Xa,15.2000,-23.6667,-1GMT,74

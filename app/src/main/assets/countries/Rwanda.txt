@@ -1,0 +1,169 @@
+Rwanda,Agasasa_Butare,-2.3806,29.9619,2,0
+Rwanda,Agatare_Butare,-2.74,29.8097,2,0
+Rwanda,Agatete,-2.3561,30.2575,2,0
+Rwanda,Agatobwe_Butare,-2.6414,29.5914,2,0
+Rwanda,Agatwi,-1.875,30.0783,2,0
+Rwanda,Akagogo_Butare,-2.657,29.6264,2,0
+Rwanda,Akanyaru,-2.0659,30.0275,2,0
+Rwanda,Akayanza_Butare,-2.7342,29.6803,2,0
+Rwanda,Akummba_Gitarama,-1.9703,29.8344,2,0
+Rwanda,Aubanda_Kibuye,-2.007,29.6264,2,0
+Rwanda,Butare_Gitarama,-2.2538,29.8173,2,0
+Rwanda,Butare,-2.5869,29.7479,2,0
+Rwanda,Byimana_Gitarama,-2.1652,29.7423,2,0
+Rwanda,Byumba,-1.5677,30.0723,2,0
+Rwanda,Dahwe_Butare,-2.6064,29.8664,2,0
+Rwanda,Dendezi_Cyangugu,-2.4372,29.0736,2,0
+Rwanda,Djambwe_Cyangugu,-2.595,29.0239,2,0
+Rwanda,Donde_Kigali,-1.7067,30.41,2,0
+Rwanda,Ducundura_Cyangugu,-2.2981,29.2981,2,0
+Rwanda,Duha_Kigali,-1.875,30.3586,2,0
+Rwanda,Dusego_Gitarama,-2.1514,29.6944,2,0
+Rwanda,Falinkanda_Kigali,-2.3042,30.1555,2,0
+Rwanda,Foret Naturale de Mukura_Kibuye,-1.9798,29.5371,2,0
+Rwanda,Foret Naturelle de Gishwati_Gisenyi,-1.774,29.438,2,0
+Rwanda,Foret Naturelle de Nyungwe,-2.4801,29.1913,2,0
+Rwanda,Fumbwe_Kigali,-1.8565,30.2885,2,0
+Rwanda,Funda_Gisenyi,-1.6923,29.3158,2,0
+Rwanda,Hakasiru_Ruhengeri,-1.4729,29.9104,2,0
+Rwanda,Hanika_Gitarama,-2.3274,29.7635,2,0
+Rwanda,Hanika_Cyangugu,-2.2904,29.1951,2,0
+Rwanda,Higiro_Butare,-2.7785,29.7521,2,0
+Rwanda,Hindiro_Gisenyi,-1.8077,29.6496,2,0
+Rwanda,Hubingo,-1.8463,30.0185,2,0
+Rwanda,Humule_Byumba,-1.6696,30.3212,2,0
+Rwanda,Hunga_Byumba,-1.4985,30.164,2,0
+Rwanda,Huye_Butare,-2.5704,29.7221,2,0
+Rwanda,Ibanda_Cyangugu,-2.4228,29.1938,2,0
+Rwanda,Ile Gihaya_Cyangugu,-2.4326,28.8991,2,0
+Rwanda,Ile Ikibiti_Gisenyi,-1.9734,29.3083,2,0
+Rwanda,Ile Munanira_Ruhengeri,-1.4228,29.7938,2,0
+Rwanda,Ile Murgwa_Cyangugu,-2.3228,29.0772,2,0
+Rwanda,Ile Murumbi_Cyangugu,-2.2178,29.1905,2,0
+Rwanda,Ile Mushinye_Gisenyi,-1.9314,29.3272,2,0
+Rwanda,Ile Muzira_Kibuye,-2.2398,29.1955,2,0
+Rwanda,Ile Nkombo_Cyangugu,-2.3817,28.9202,2,0
+Rwanda,Ile Nyamirundi_Gisenyi,-1.8145,29.2858,2,0
+Rwanda,Ile Nyankira_Kibuye,-2.0767,29.2752,2,0
+Rwanda,Ile Ruzi_Cyangugu,-2.2742,29.1449,2,0
+Rwanda,Ile Sasa_Cyangugu,-2.3198,29.0155,2,0
+Rwanda,Ile Shangwe_Cyangugu,-2.3692,29.0697,2,0
+Rwanda,Ile Tembabagoyi_Kibuye,-2.0034,29.318,2,0
+Rwanda,Ile Udushivire_Kibuye,-2.0728,29.2772,2,0
+Rwanda,Ilembe_Gisenyi,-1.6395,29.4105,2,0
+Rwanda,Isumo_Kigali,-2.0609,30.2227,2,0
+Rwanda,Isumo_Butare,-2.3831,29.9638,2,0
+Rwanda,Isumu_Kigali,-1.9395,30.2438,2,0
+Rwanda,Jari_Kigali,-1.903,30.0392,2,0
+Rwanda,Jimbu_Gikongoro,-2.2755,29.4587,2,0
+Rwanda,Joma_Butare,-2.7561,29.8273,2,0
+Rwanda,Jomba_Ruhengeri,-1.5727,29.7273,2,0
+Rwanda,Jomba_Gisenyi,-1.9166,29.6298,2,0
+Rwanda,Juru_Kigali,-2.0852,30.227,2,0
+Rwanda,Jurwe_Butare,-2.5025,29.8545,2,0
+Rwanda,Jurwe_Kigali,-1.8916,30.1953,2,0
+Rwanda,Kigali_Butare,-2.2893,29.9607,2,0
+Rwanda,Kigali,-1.9579,30.1485,2,0
+Rwanda,Leberu_Kigali,-2.1892,30.1108,2,0
+Rwanda,Lemera_Gikongoro,-2.4392,29.5608,2,0
+Rwanda,Lemere_Gikongoro,-2.3536,29.6102,2,0
+Rwanda,Obiendo,-1.0461,30.4836,2,0
+Rwanda,Parc des Birunga,-1.4838,29.4893,2,0
+Rwanda,Parc National de l Akagera,-1.6555,30.6779,2,0
+Rwanda,Pindura_Cyangugu,-2.4705,29.2434,2,0
+Rwanda,Plaine Nyaruhuru_Kibungo,-1.8555,30.6445,2,0
+Rwanda,Plaine Urwuya_Kibungo,-1.7888,30.6612,2,0
+Rwanda,Plateau Chyuru_Byumba,-1.6299,30.1451,2,0
+Rwanda,Plateau Kaniga_Byumba,-1.3938,30.0759,2,0
+Rwanda,Plateau Ngarama_Byumba,-1.493,30.2301,2,0
+Rwanda,Prefecture de Byumba_Byumba,-1.4888,30.1779,2,0
+Rwanda,Prefecture de Gisenyi_Gisenyi,-1.7388,29.5112,2,0
+Rwanda,Prefecture de Gitarama_Gitarama,-1.9888,29.5945,2,0
+Rwanda,Prefecture de Kibungo_Kibungo,-1.9888,30.5945,2,0
+Rwanda,Prefecture de Ruhengeri_Ruhengeri,-1.5721,29.6779,2,0
+Rwanda,Prefegitura ya Cyangugu_Cyangugu,-2.4888,29.1779,2,0
+Rwanda,Prefegitura ya Gikongoro_Gikongoro,-2.4888,29.5112,2,0
+Rwanda,Prefegitura ya Kibuye_Kibuye,-2.1555,29.4279,2,0
+Rwanda,Prefegitura ya Kigali_Kigali,-1.9888,29.6779,2,0
+Rwanda,Sabinskyi_Gisenyi,-1.7463,29.6723,2,0
+Rwanda,Sangaza_Kibungo,-2.1543,30.3796,2,0
+Rwanda,Sharr_Butare,-2.3457,29.8598,2,0
+Rwanda,Sheke_Butare,-2.4718,29.7282,2,0
+Rwanda,Shenga_Kigali,-1.8385,30.2782,2,0
+Rwanda,Shololo_Gikongoro,-2.7385,29.5115,2,0
+Rwanda,Susa_Ruhengeri,-1.5157,29.6443,2,0
+Rwanda,Taba_Gitarama,-1.9348,29.9105,2,0
+Rwanda,Taba_Ruhengeri,-1.6217,29.5949,2,0
+Rwanda,Tabagwe_Byumba,-1.2742,30.2183,2,0
+Rwanda,Takwe_Gitarama,-2.0217,29.7949,2,0
+Rwanda,Tambwe_Gitarama,-2.2087,29.8108,2,0
+Rwanda,Tanda_Kigali,-1.7717,30.2616,2,0
+Rwanda,Tandalukara,-1.5384,29.8783,2,0
+Rwanda,Tangabo_Gikongoro,-2.6703,29.4424,2,0
+Rwanda,Tangaro_Cyangugu,-2.5528,29.1947,2,0
+Rwanda,Tare_Butare,-2.5226,29.7094,2,0
+Rwanda,Tare_Kigali,-1.704,29.926,2,0
+Rwanda,Tare_Gikongoro,-2.4892,29.4988,2,0
+Rwanda,Tema_Kibuye,-2.2076,29.3752,2,0
+Rwanda,Tembero_Ruhengeri,-1.3551,29.7283,2,0
+Rwanda,Tongati_Kibuye,-2.1717,29.5116,2,0
+Rwanda,Tovu_Byumba,-1.3717,30.1283,2,0
+Rwanda,Tshandjuma_Kibungo,-2.122,30.6688,2,0
+Rwanda,Tshanzozo_Byumba,-1.222,30.3124,2,0
+Rwanda,Tsharubindi_Ruhengeri,-1.4217,29.5616,2,0
+Rwanda,Tshato_Cyangugu,-2.5384,28.9449,2,0
+Rwanda,Tshatshika_Kigali,-1.8431,29.8991,2,0
+Rwanda,Tshewazimbuzi_Butare,-2.4717,29.3783,2,0
+Rwanda,Tsheya_Byumba,-1.5884,30.1283,2,0
+Rwanda,Tshibumba_Byumba,-1.4384,30.2116,2,0
+Rwanda,Tshihoho,-1.6417,29.8916,2,0
+Rwanda,Tshimpondwe_Gitarama,-1.8498,29.8255,2,0
+Rwanda,Tshinzinga,-1.1051,30.3449,2,0
+Rwanda,Tshinzovu_Kibungo,-2.0303,30.571,2,0
+Rwanda,Tshobe_Gitarama,-2.1217,29.8783,2,0
+Rwanda,Tshonyonyo_Kigali,-1.8106,29.9766,2,0
+Rwanda,Tshumba_Gitarama,-1.9717,29.7783,2,0
+Rwanda,Tshungo_Gitarama,-2.0551,29.7949,2,0
+Rwanda,Tshyabariza_Gitarama,-2.0562,30.0063,2,0
+Rwanda,Tshyabyavi_Ruhengeri,-1.4051,29.6283,2,0
+Rwanda,Tshyondo_Byumba,-1.4384,30.1283,2,0
+Rwanda,Tshyugaro_Kigali,-2.1051,30.0616,2,0
+Rwanda,Tubungo_Ruhengeri,-1.6523,29.6247,2,0
+Rwanda,Tumba_Byumba,-1.6828,29.9599,2,0
+Rwanda,Tumba_Butare,-2.6217,29.7449,2,0
+Rwanda,Tunani_Gikongoro,-2.3217,29.5449,2,0
+Rwanda,Tunoluti_Kibungo,-2.2217,30.4949,2,0
+Rwanda,Twinyoni,-2.6717,29.3449,2,0
+Rwanda,Twumba_Kibuye,-2.2317,29.3749,2,0
+Rwanda,Umufu_Gikongoro,-2.705,29.3617,2,0
+Rwanda,Umwige,-1.8289,30.4959,2,0
+Rwanda,Unganba_Ruhengeri,-1.7369,29.7217,2,0
+Rwanda,Ungu_Ruhengeri,-1.455,29.545,2,0
+Rwanda,Urufunzo-Akagera_Kibungo,-2.0633,30.4495,2,0
+Rwanda,Ururumanza_Gitarama,-2.1466,29.8775,2,0
+Rwanda,Urwanda_Kigali,-2.3239,30.1606,2,0
+Rwanda,Urwuya_Butare,-2.5994,29.7811,2,0
+Rwanda,Uwagahunga_Gikongoro,-2.7666,29.41,2,0
+Rwanda,Uwamabende,-2.4716,29.4284,2,0
+Rwanda,Uwinka_Gikongoro,-2.5722,29.4681,2,0
+Rwanda,Uwinkomo_Gikongoro,-2.4936,29.46,2,0
+Rwanda,Vallee Nizanye_Kibungo,-2.0007,30.5818,2,0
+Rwanda,Vigaga,-1.3382,29.8951,2,0
+Rwanda,Virunga,-1.3715,29.6451,2,0
+Rwanda,Volcan Karisimbi,-1.496,29.459,2,0
+Rwanda,Volcan Visoke,-1.449,29.4935,2,0
+Rwanda,Vumbi_Gisenyi,-1.8496,29.3229,2,0
+Rwanda,Vumbi_Butare,-2.6132,29.7057,2,0
+Rwanda,Warufu_Byumba,-1.4909,30.2061,2,0
+Rwanda,Western Rift Valley,0.0119,30.0119,2,0
+Rwanda,Winka_Cyangugu,-2.4548,29.2119,2,0
+Rwanda,Winteko_Cyangugu,-2.5214,28.9119,2,0
+Rwanda,Yanga_Ruhengeri,-1.6648,29.6938,2,0
+Rwanda,Yanxe_Kigali,-1.9273,30.0449,2,0
+Rwanda,Yaramba_Byumba,-1.5748,29.9982,2,0
+Rwanda,Yenda_Gitarama,-2.1546,29.9621,2,0
+Rwanda,Yonde_Gikongoro,-2.2879,29.5288,2,0
+Rwanda,Yumwe_Kibungo,-2.1165,30.5015,2,0
+Rwanda,Zanzati_Kigali,-1.7878,30.0955,2,0
+Rwanda,Zivu_Butare,-2.5434,29.813,2,0
+Rwanda,Zoko_Byumba,-1.7425,30.12,2,0

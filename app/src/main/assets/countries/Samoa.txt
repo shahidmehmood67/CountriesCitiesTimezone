@@ -1,0 +1,124 @@
+Samoa,Afiamalu,-13.907,-171.707,-11,0
+Samoa,Afutina,-13.6403,-172.1403,-11,0
+Samoa,Aopo,-13.4736,-172.4903,-11,0
+Samoa,Apia,-13.8236,-171.7236,-11,0
+Samoa,Apia Harbor,-13.7903,-171.7236,-11,0
+Samoa,Asaga,-13.5736,-172.1236,-11,0
+Samoa,Asau Harbor,-13.4403,-172.607,-11,0
+Samoa,Asi,-13.657,-172.0903,-11,0
+Samoa,Atufiu,-13.4403,-172.4236,-11,0
+Samoa,Auala,-13.457,-172.5903,-11,0
+Samoa,Avao,-13.4403,-172.357,-11,0
+Samoa,Avatele Pass,-13.7403,-172.1403,-11,0
+Samoa,Bauman Islands,-13.9902,-170.9902,-11,0
+Samoa,Cape Asuisui,-13.7734,-172.4734,-11,0
+Samoa,Cape Faleula,-13.7734,-171.7901,-11,0
+Samoa,Cape Fatuosofia,-13.8568,-172.0401,-11,0
+Samoa,Cape Mauga,-13.4568,-172.6068,-11,0
+Samoa,Cape Nuutoi,-14.0234,-171.7234,-11,0
+Samoa,Cape Oloinono,-13.9401,-171.3734,-11,0
+Samoa,Cape Paepaeoleia,-13.7734,-172.1401,-11,0
+Samoa,Cape Puava,-13.4234,-172.7068,-11,0
+Samoa,Cape Tagisia,-13.9068,-171.4234,-11,0
+Samoa,Cape Tuasiui,-13.6568,-172.1068,-11,0
+Samoa,Cape Vailaoa,-13.4734,-172.7734,-11,0
+Samoa,Clilate River,-13.7401,-172.3401,-11,0
+Samoa,Emmon Point,-13.9066,-171.4566,-11,0
+Samoa,Etemuli,-14.0066,-171.4899,-11,0
+Samoa,Ewa Point,-13.8566,-171.5732,-11,0
+Samoa,Faani,-13.5565,-172.3731,-11,0
+Samoa,Gagaemalae,-13.6564,-172.5564,-11,0
+Samoa,Gagaemalae Point,-13.6564,-172.573,-11,0
+Samoa,Gagaifomaga,-13.4897,-172.4897,-11,0
+Samoa,Gaga`emauga,-13.4897,-172.2397,-11,0
+Samoa,Gaogao,-14.0064,-171.623,-11,0
+Samoa,Gasegase River,-13.8064,-171.7397,-11,0
+Samoa,Gataivai,-13.7397,-172.373,-11,0
+Samoa,Gautavai,-13.7397,-172.3564,-11,0
+Samoa,Iliili,-14.0062,-171.6895,-11,0
+Samoa,Itu Anoamaa,-13.8728,-171.5895,-11,0
+Samoa,Itu I Toga,-13.9228,-171.7728,-11,0
+Samoa,Iva,-13.6728,-172.1562,-11,0
+Samoa,Laloanea,-13.8892,-171.8059,-11,0
+Samoa,Lalomanu,-13.9892,-171.3892,-11,0
+Samoa,Lano,-13.5892,-172.1225,-11,0
+Samoa,Lata,-14.0059,-171.3725,-11,0
+Samoa,Lata Uta,-13.7225,-172.4892,-11,0
+Samoa,Lataiuta,-13.7059,-172.5059,-11,0
+Samoa,Lauli`i,-13.8392,-171.6725,-11,0
+Samoa,Le Pu,-14.0225,-171.7059,-11,0
+Samoa,Leagiaga,-13.4392,-172.3892,-11,0
+Samoa,Leava`a,-13.7892,-171.8392,-11,0
+Samoa,Lepa Ma Lotofaga,-13.9725,-171.4892,-11,0
+Samoa,Letogo,-13.8225,-171.6892,-11,0
+Samoa,Leulumoega,-13.8059,-171.9059,-11,0
+Samoa,Leuo Point,-13.4225,-172.4892,-11,0
+Samoa,Leusoalii,-13.8392,-171.6559,-11,0
+Samoa,Lona Cataract,-13.9225,-171.4725,-11,0
+Samoa,Lotofaga,-13.9725,-171.8225,-11,0
+Samoa,Namoa,-14.0057,-171.789,-11,0
+Samoa,Namua,-13.989,-171.3557,-11,0
+Samoa,Naneivi,-13.8557,-171.5223,-11,0
+Samoa,Nefunefu,-13.9057,-171.989,-11,0
+Samoa,Niusuatia,-13.9557,-171.789,-11,0
+Samoa,Nonoa,-13.789,-171.8557,-11,0
+Samoa,Nuulopa,-13.839,-172.0723,-11,0
+Samoa,Nuusafee,-14.0223,-171.6723,-11,0
+Samoa,Nu`ulua,-14.039,-171.3557,-11,0
+Samoa,Olemaga,-13.9722,-171.4056,-11,0
+Samoa,Olofetu,-13.4556,-172.6389,-11,0
+Samoa,Olomanu,-13.6222,-172.2056,-11,0
+Samoa,Ooutu,-13.4889,-172.7556,-11,0
+Samoa,Opoloo,-13.9056,-171.7389,-11,0
+Samoa,Oteewhy,-13.5722,-172.4056,-11,0
+Samoa,Palapala,-13.5055,-172.1388,-11,0
+Samoa,Palauli,-13.7221,-172.2555,-11,0
+Samoa,Papa,-13.4555,-172.6888,-11,0
+Samoa,Pata,-13.9055,-171.9721,-11,0
+Samoa,Piu,-13.9888,-171.5555,-11,0
+Samoa,Piula,-13.8388,-171.5388,-11,0
+Samoa,Point Mulinuu,-13.7888,-171.7721,-11,0
+Samoa,Point Suga,-13.8221,-171.7055,-11,0
+Samoa,Poutasi,-14.0055,-171.6721,-11,0
+Samoa,Pue,-13.5055,-172.3721,-11,0
+Samoa,Puga,-13.5555,-172.2055,-11,0
+Samoa,Pula,-13.5388,-172.3721,-11,0
+Samoa,Pu`apu`a,-13.5721,-172.2055,-11,0
+Samoa,Salelologa,-13.7218,-172.1552,-11,0
+Samoa,Tafua Savaii Hill,-13.7717,-172.1717,-11,0
+Samoa,Taumuafa,-13.8217,-171.7717,-11,0
+Samoa,Uafato Bay,-13.9216,-171.4216,-11,0
+Samoa,Uanamo Pass,-13.6716,-172.0883,-11,0
+Samoa,Uliamoa,-13.6716,-172.305,-11,0
+Samoa,Ulutogia,-13.9883,-171.3716,-11,0
+Samoa,Usoali`i,-13.9383,-171.3883,-11,0
+Samoa,Utuavanua,-13.7716,-171.805,-11,0
+Samoa,Utufaalalafa,-13.955,-171.355,-11,0
+Samoa,Utuloa Point,-13.8883,-171.4716,-11,0
+Samoa,Vaaifetu,-13.9049,-171.6382,-11,0
+Samoa,Vaea Vorberg,-13.8215,-171.7549,-11,0
+Samoa,Vai Vai,-13.9382,-171.7382,-11,0
+Samoa,Vaiala,-13.6549,-172.1215,-11,0
+Samoa,Vaiauau,-13.8049,-171.9549,-11,0
+Samoa,Vaifoa,-13.7882,-171.7882,-11,0
+Samoa,Vaigalu,-14.0049,-171.4382,-11,0
+Samoa,Vaijee Point,-13.9715,-171.8049,-11,0
+Samoa,Vailele Mountain,-13.8382,-171.7049,-11,0
+Samoa,Vaimoa,-13.8382,-172.0215,-11,0
+Samoa,Vaimoso,-13.8215,-171.7382,-11,0
+Samoa,Vainamo Bay,-13.8382,-171.6382,-11,0
+Samoa,Vaipouli,-13.4382,-172.3382,-11,0
+Samoa,Vaipua,-13.6215,-172.6049,-11,0
+Samoa,Vaisala Bay,-13.4715,-172.6215,-11,0
+Samoa,Vaisigano,-13.5215,-172.7215,-11,0
+Samoa,Vaitele,-13.8049,-171.7715,-11,0
+Samoa,Vaitoa,-13.9049,-171.7215,-11,0
+Samoa,Vaitupua,-13.4882,-172.7715,-11,0
+Samoa,Vaiyee Itai,-13.9882,-171.8049,-11,0
+Samoa,Vanusapa Stream,-13.4215,-172.3882,-11,0
+Samoa,Vaovai,-14.0049,-171.6382,-11,0
+Samoa,Vattele Bay,-13.7882,-171.7549,-11,0
+Samoa,Va`a-o-Fonoti,-13.9382,-171.5215,-11,0
+Samoa,Veiloa,-13.8049,-171.7549,-11,0
+Samoa,Vini,-14.0215,-171.3549,-11,0
+Samoa,Vorberg,-13.8382,-171.7882,-11,0

@@ -1,0 +1,75 @@
+Panama,2 Brazo del Rio Cochea_Chiriqui,8.7383,-82.495,-5,0
+Panama,3 Brazo del Rio Cochea_Chiriqui,8.6884,-82.4616,-5,0
+Panama,Changuinola_Bocas del Toro,9.4432,-82.5068,-5,0
+Panama,Changuinola 2_Bocas del Toro,9.4766,-82.5068,-5,0
+Panama,Changuinola Tres_Bocas del Toro,9.4432,-82.4901,-5,0
+Panama,Changuinola Uno_Bocas del Toro,9.4432,-82.5568,-5,0
+Panama,Colon_Panama,8.5099,-79.9568,-5,0
+Panama,Colon,9.3691,-79.8915,-5,0
+Panama,Colon_Veraguas,8.1266,-80.9401,-5,0
+Panama,Colon_Los Santos,7.8932,-80.4901,-5,0
+Panama,Colon Corregimiento Barrio_Panama,8.9099,-79.7401,-5,0
+Panama,Colon Free Zone_Colon,9.3599,-79.8901,-5,0
+Panama,Colon Naval Radio Station_Colon,9.3099,-79.8901,-5,0
+Panama,Coloncito_Panama,8.5766,-79.8901,-5,0
+Panama,Colonia Constancia_Cocle,8.3432,-80.1901,-5,0
+Panama,Colonia Penal de Coiba_Veraguas,7.5099,-81.6901,-5,0
+Panama,David_Chiriqui,8.4433,-82.4233,-5,0
+Panama,El Dorado_Panama,9.0268,-79.5399,-5,0
+Panama,Kaikada_San Blas,8.894,-77.706,-5,0
+Panama,Kainundi Murru_San Blas,8.7607,-77.5226,-5,0
+Panama,Kaki Yala_San Blas,8.7774,-77.5393,-5,0
+Panama,Kintumkwa Tiwar_San Blas,8.7607,-77.6226,-5,0
+Panama,Kipin Murru_San Blas,8.8274,-77.6226,-5,0
+Panama,Knapps Hole_Bocas del Toro,9.4121,-82.3071,-5,0
+Panama,Kuba_San Blas,8.9274,-77.706,-5,0
+Panama,Kwadi Sukun_San Blas,8.994,-77.756,-5,0
+Panama,Kwipkan Sukun Murru_San Blas,8.7774,-77.5226,-5,0
+Panama,Kwiti Tiwar_San Blas,9.1774,-77.956,-5,0
+Panama,Oajeta Bay_Colon,9.2014,-79.8158,-5,0
+Panama,Obispo Chico_Chiriqui,8.1111,-82.3056,-5,0
+Panama,Obispo Diversion_Panama,9.1278,-79.6722,-5,0
+Panama,Obre Abajo_Cocle,8.8111,-80.2722,-5,0
+Panama,Obre Arriba_Cocle,8.7944,-80.2389,-5,0
+Panama,Ocho Pasos_Los Santos,7.4111,-80.4389,-5,0
+Panama,Ocu_Herrera,7.6944,-80.1389,-5,0
+Panama,Odoarigote_Bocas del Toro,8.8778,-81.9222,-5,0
+Panama,Odovate_Bocas del Toro,8.8611,-81.8722,-5,0
+Panama,Ogobsibortupo_San Blas,9.5611,-78.8889,-5,0
+Panama,Ojeda Agua_Herrera,7.9944,-80.6056,-5,0
+Panama,Okopsuey_San Blas,8.9444,-77.7056,-5,0
+Panama,Ola_Cocle,8.4278,-80.6389,-5,0
+Panama,Olaca_Veraguas,8.1611,-81.3222,-5,0
+Panama,Olive Estates_Cocle,8.3944,-80.0889,-5,0
+Panama,Ollas Arriba_Panama,8.8278,-79.9056,-5,0
+Panama,Oria_Los Santos,7.4944,-80.1722,-5,0
+Panama,Orrete_Bocas del Toro,9.2444,-82.4389,-5,0
+Panama,Ortigal_Panama,8.9611,-80.4556,-5,0
+Panama,Ortupu_San Blas,8.9278,-77.6556,-5,0
+Panama,Ovejo Island_Colon,9.0944,-79.9722,-5,0
+Panama,Panama City_Panama,8.9779,-79.5221,-5,0
+Panama,Santiago_Chiriqui,8.1282,-80.9552,-5,0
+Panama,Santiago_Veraguas,8.1115,-80.9718,-5,0
+Panama,Warsobtugua_San Blas,9.4786,-78.9381,-5,0
+Panama,Wichubuala_San Blas,9.5683,-78.9456,-5,0
+Panama,Wild Cane Cay_Bocas del Toro,9.3619,-82.1548,-5,0
+Panama,Wizards Beach_Bocas del Toro,9.3619,-82.1881,-5,0
+Panama,Yantupo_San Blas,9.4621,-78.5546,-5,0
+Panama,Yavisa_Darien,8.1954,-77.6712,-5,0
+Panama,Yayas Afuera_Panama,8.9332,-79.8262,-5,0
+Panama,Yeguada de Quije_Cocle,8.3788,-80.6879,-5,0
+Panama,Yuca Island_Colon,9.0454,-80.0379,-5,0
+Panama,Yurquin,9.5454,-82.8712,-5,0
+Panama,Yurre_Chiriqui,8.1288,-81.6879,-5,0
+Panama,Zahinillo_Panama,8.4789,-80.0711,-5,0
+Panama,Zamba Bonita Island_Colon,9.3958,-79.8259,-5,0
+Panama,Zambrano_Chiriqui,8.4622,-82.3211,-5,0
+Panama,Zancona_Cocle,8.6122,-80.7378,-5,0
+Panama,Zanja Espave_Panama,9.1464,-78.5061,-5,0
+Panama,Zapadilla Cay_Bocas del Toro,9.0955,-81.8045,-5,0
+Panama,Zape Chiquito_Los Santos,7.7789,-80.4045,-5,0
+Panama,Zapotal de Espala_Veraguas,7.9789,-81.5711,-5,0
+Panama,Zapotillo_Veraguas,8.0122,-81.5045,-5,0
+Panama,Zorra Island_Colon,9.3053,-79.8342,-5,0
+Panama,Zumbador_Cocle,8.6289,-80.3711,-5,0
+Panama,Zurrones_Veraguas,7.8219,-81.0617,-5,0

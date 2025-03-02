@@ -1,0 +1,178 @@
+Kuwait,Ab Kubr Island,29.0819,48.503,3,0
+Kuwait,Abi Huleifa,29.1419,48.1358,3,0
+Kuwait,Adailiyah,29.2097,47.9764,3,0
+Kuwait,Adan,28.9264,48.0097,3,0
+Kuwait,Ahmadi,29.0469,48.0725,3,0
+Kuwait,Al Ahmadi,29.0553,48.0155,3,0
+Kuwait,Al Aridiyah,29.2939,47.8847,3,0
+Kuwait,Al Jabiriyah,29.3319,48.0333,3,0
+Kuwait,Al Jahara,29.3472,47.6678,3,0
+Kuwait,Al Masilah,29.2716,48.0894,3,0
+Kuwait,Al Qurayn,28.8097,48.0097,3,0
+Kuwait,An Nuzhah,29.3514,47.9994,3,0
+Kuwait,Bad ah,29.3123,48.0967,3,0
+Kuwait,Bahaith,29.9598,47.9765,3,0
+Kuwait,Bahra,29.6473,47.9945,3,0
+Kuwait,Bahrah,29.6765,47.8765,3,0
+Kuwait,Bayan,29.3279,48.049,3,0
+Kuwait,Bunayd al Qar_Al `Asimah,29.3854,48.0123,3,0
+Kuwait,Burqan,28.9279,47.9873,3,0
+Kuwait,Cairn of Jahtan,28.9724,47.706,3,0
+Kuwait,Carout,28.8049,48.083,3,0
+Kuwait,Chithathin,29.1063,47.5191,3,0
+Kuwait,Dahiyat `Abd Allah as Salim,29.3614,47.99,3,0
+Kuwait,Daley Al-Awazim,29.0603,47.6625,3,0
+Kuwait,Daley Nihaideem,29.2439,48.0697,3,0
+Kuwait,Daley Shaniti,28.8683,48.0517,3,0
+Kuwait,Dant,29.1767,48.1267,3,0
+Kuwait,Dasma_Al `Asimah,29.375,48.0114,3,0
+Kuwait,Dasma,29.06,48.06,3,0
+Kuwait,Dawhat Abu Talih,29.3733,47.8431,3,0
+Kuwait,Dawhat az Zarq,28.8183,48.3267,3,0
+Kuwait,Dawhat az Zawr_Al Ahmadi,28.7739,48.4608,3,0
+Kuwait,Dhahar al Adan,29.1592,48.0536,3,0
+Kuwait,Dharub,29.5431,48.1836,3,0
+Kuwait,Dhulai` al Mijmad,29.4606,47.5994,3,0
+Kuwait,Dikakat Milwah,29.4881,47.2733,3,0
+Kuwait,Dlay at Al-Dabah,29.1067,47.5722,3,0
+Kuwait,Doha,29.3778,47.82,3,0
+Kuwait,Dohat Kadhama,29.3939,47.735,3,0
+Kuwait,Dubayeiha,28.9433,48.1767,3,0
+Kuwait,Dulay` Musay`id,29.3367,47.4086,3,0
+Kuwait,Dulay` Sa`ud,29.2111,48.1211,3,0
+Kuwait,Dura,28.81,49.2433,3,0
+Kuwait,Fahaheel,29.0927,48.1405,3,0
+Kuwait,Failaka,29.4535,48.2935,3,0
+Kuwait,Faridah,29.3102,47.5435,3,0
+Kuwait,Farwaniah,29.2877,47.9688,3,0
+Kuwait,Fasht al Ayk,29.7602,48.5269,3,0
+Kuwait,Fasht al Hadibah,29.4269,47.9769,3,0
+Kuwait,Fasht al Jather,29.3996,47.7438,3,0
+Kuwait,Fayha,29.3466,47.986,3,0
+Kuwait,Fintas,29.1841,48.1313,3,0
+Kuwait,Fraitsass,29.2355,48.1119,3,0
+Kuwait,Gabed,29.1539,47.6384,3,0
+Kuwait,Gahailila,29.3064,47.3647,3,0
+Kuwait,Gara a,29.1436,48.1103,3,0
+Kuwait,Geraniya_Al `Asimah,29.4664,48.345,3,0
+Kuwait,Ghada,29.4275,47.7686,3,0
+Kuwait,Ghudayy,29.4936,47.827,3,0
+Kuwait,Ghudayy_Al Jahra,29.5178,47.8389,3,0
+Kuwait,Governortate of Metropolis_Al `Asimah,29.3436,48.0103,3,0
+Kuwait,Grain,29.3647,47.92,3,0
+Kuwait,Graya-1,28.6936,47.627,3,0
+Kuwait,Gurain,28.7772,48.0428,3,0
+Kuwait,Hadadiyyah,29.2604,47.8771,3,0
+Kuwait,Hadd al Hamara_Al Ahmadi,28.5715,48.4279,3,0
+Kuwait,Hadd al Himarah_Al Ahmadi,28.5698,48.421,3,0
+Kuwait,Hamatiyah,29.1437,47.4104,3,0
+Kuwait,Hamran,29.4998,47.781,3,0
+Kuwait,Hanaidhit,29.2104,48.1104,3,0
+Kuwait,Haql al Burqan,28.9354,47.9235,3,0
+Kuwait,Haql al Manaqish,29.0437,47.5437,3,0
+Kuwait,Haql al Maqwa`,29.1173,47.9696,3,0
+Kuwait,Haql ar Rawdatayn,29.9304,47.8301,3,0
+Kuwait,Haql ar Ruq`,29.0104,47.1771,3,0
+Kuwait,Haql Mutribah,29.9129,47.2935,3,0
+Kuwait,Harshan Wells,28.5604,48.1437,3,0
+Kuwait,Hasu Al-Thabi,29.7604,47.6771,3,0
+Kuwait,Haswan,29.7937,48.0271,3,0
+Kuwait,Hawalli,29.3432,48.039,3,0
+Kuwait,Hilu,29.0437,48.0604,3,0
+Kuwait,Hisu az Zabi,29.7779,47.7237,3,0
+Kuwait,Houmah,29.5848,47.1193,3,0
+Kuwait,Hugaija_Al Jahra,29.6651,48.1415,3,0
+Kuwait,Hut 1,28.7104,49.0354,3,0
+Kuwait,Ibn Dabbus,29.0438,48.0272,3,0
+Kuwait,Idaira` al Husn,29.5772,47.7105,3,0
+Kuwait,Island Umm Al-Maradem_Al `Asimah,28.6888,48.6633,3,0
+Kuwait,Jabal al Ad`ami,28.8523,48.2564,3,0
+Kuwait,Jalib ash Shuyukh,29.2692,47.9348,3,0
+Kuwait,Janub Khaytan,29.2828,47.9884,3,0
+Kuwait,Jazirat Failaka_Al `Asimah,29.4512,48.3453,3,0
+Kuwait,Jazirat Qurayn_Al `Asimah,29.3692,47.917,3,0
+Kuwait,Jilai`a,28.8856,48.3023,3,0
+Kuwait,Jirthama,29.3273,47.8273,3,0
+Kuwait,Jleeb al Shuyoukh,29.2773,47.9439,3,0
+Kuwait,Jleeb Krainees,28.7017,47.612,3,0
+Kuwait,Juaidan,28.9773,47.9778,3,0
+Kuwait,Judayliyat,29.3606,47.8106,3,0
+Kuwait,Kaifan,29.3274,48.0607,3,0
+Kuwait,Khad as Sa ada,29.2382,47.4551,3,0
+Kuwait,Khaitan,29.3032,47.9796,3,0
+Kuwait,Kifan,29.3521,47.974,3,0
+Kuwait,Kubaida,29.116,47.6904,3,0
+Kuwait,Kuwait,29.3804,47.989,3,0
+Kuwait,Kuwait Bay,29.4426,47.9363,3,0
+Kuwait,Kuwait Harbour,29.4274,48.094,3,0
+Kuwait,Kuwait International,29.2463,47.9857,3,0
+Kuwait,Laqit,28.9175,48.063,3,0
+Kuwait,Machiane_Al `Asimah,29.4956,48.2623,3,0
+Kuwait,Mushrif,29.3001,48.0609,3,0
+Kuwait,North Fuwaris I,28.611,47.811,3,0
+Kuwait,Nugra,29.3485,48.0216,3,0
+Kuwait,Nuhaydayn,29.2841,47.4688,3,0
+Kuwait,Nuwaysib Police Post_Al Ahmadi,28.5538,48.4002,3,0
+Kuwait,Ouarba,30.005,48.0778,3,0
+Kuwait,Palinurus Shoal,29.6779,48.6779,3,0
+Kuwait,Port Abdullah,29.0281,48.1715,3,0
+Kuwait,Province of Ahmadi_Al Ahmadi,29.0112,48.0112,3,0
+Kuwait,Province of Hawali_Hawalli,29.2945,48.0084,3,0
+Kuwait,Qabji,29.0613,48.078,3,0
+Kuwait,Qalamat Sabbah,29.0621,47.0485,3,0
+Kuwait,Qalib Quraynis,28.8205,47.8099,3,0
+Kuwait,Qarawh,28.8313,48.7855,3,0
+Kuwait,Qarayn-1,28.7113,48.0113,3,0
+Kuwait,Qasr as Sayf_Al `Asimah,29.3913,47.9863,3,0
+Kuwait,Qulaysiyah,29.2613,48.0946,3,0
+Kuwait,Qulban Al Juwayhil,29.1099,47.8391,3,0
+Kuwait,Quradan,28.5946,48.3113,3,0
+Kuwait,Qurain,28.7813,47.9844,3,0
+Kuwait,Qurtubah,29.3235,47.9969,3,0
+Kuwait,Rijm Musallam,29.0781,47.8947,3,0
+Kuwait,Riksah,29.5095,47.4845,3,0
+Kuwait,Rowda,29.3361,48.0128,3,0
+Kuwait,Rumaithiya,29.3231,48.0856,3,0
+Kuwait,Rumaithiyah,29.3114,48.0781,3,0
+Kuwait,Saad Wa Saeed_Al `Asimah,29.4437,48.2929,3,0
+Kuwait,Sabah as Salim,29.2687,48.0687,3,0
+Kuwait,Salmiya,29.3454,48.0876,3,0
+Kuwait,Salwa,29.3073,48.0901,3,0
+Kuwait,Sbahiyyah,28.8948,47.9282,3,0
+Kuwait,Shamiyah,29.3587,47.9732,3,0
+Kuwait,Shuwaikh,29.3551,47.9576,3,0
+Kuwait,South Surra,29.2807,47.9896,3,0
+Kuwait,Subaib,29.5926,48.1596,3,0
+Kuwait,Sulaibikhat,29.3268,47.8473,3,0
+Kuwait,Sulaibikhat Hospital,29.3182,47.8982,3,0
+Kuwait,Sulaibiya,29.2648,47.7993,3,0
+Kuwait,Tal Suwaira,29.3116,47.9283,3,0
+Kuwait,Tall Warah,29.0027,47.9647,3,0
+Kuwait,Tawil,28.9783,47.9116,3,0
+Kuwait,Taylor Rock_Al Farwaniyah,29.0372,48.5874,3,0
+Kuwait,Tayyan,29.7283,48.0616,3,0
+Kuwait,Thamamyah,28.6108,48.1344,3,0
+Kuwait,Thamilat ad Dughmah,28.8277,47.8713,3,0
+Kuwait,Thamilat al Quwaysiri,29.3449,47.4783,3,0
+Kuwait,Thamilat al `Atul,29.0449,48.0449,3,0
+Kuwait,Thamilat ath Thawilah,28.6727,48.1463,3,0
+Kuwait,Thamilat Chabd,29.1374,47.6419,3,0
+Kuwait,Thamilat Ghathah,29.4188,47.7127,3,0
+Kuwait,Thamilat Ghatrah,29.4183,47.7133,3,0
+Kuwait,Thamilat Ibn Hadba,29.0449,47.6283,3,0
+Kuwait,Thamilat Turki,28.7927,47.8688,3,0
+Kuwait,Thamilat Um Qudayr,28.9588,47.776,3,0
+Kuwait,Thamilat Umm Safq,28.6741,48.1497,3,0
+Kuwait,Thumailet Al-Abdali,29.0438,47.7283,3,0
+Kuwait,Thumailet Al-Manageesh,28.9783,47.5783,3,0
+Kuwait,tsst,28.7602,48.3169,3,0
+Kuwait,Tubayj_Al Jahra,29.6241,48.0455,3,0
+Kuwait,Turfaiwa,29.7735,48.0477,3,0
+Kuwait,Wadi Ash Shiqq,28.6955,47.6866,3,0
+Kuwait,Wafra,28.7197,47.9466,3,0
+Kuwait,Warah,28.9952,47.9619,3,0
+Kuwait,Warbah Spit_Al Jahra,30.0175,48.1972,3,0
+Kuwait,Yah,29.5954,47.6788,3,0
+Kuwait,Zagla,29.4478,47.6553,3,0
+Kuwait,Zaqlah,29.4314,47.615,3,0
+Kuwait,Zor_Al `Asimah,29.4547,48.2869,3,0

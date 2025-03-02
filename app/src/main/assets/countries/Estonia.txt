@@ -1,0 +1,84 @@
+Estonia,Cape Lehtma,59.0672,22.7022,2GMT,155
+Estonia,Dagden-Sund,58.6631,22.5469,2GMT,154
+Estonia,Dagerort Halbinsel,58.8964,22.1967,2GMT,154
+Estonia,Dago,58.8614,22.5753,2GMT,154
+Estonia,Diby Diuk,59.0417,23.3039,2GMT,155
+Estonia,Didrema,58.5978,23.9358,2GMT,156
+Estonia,Dirhami,59.2000,23.5000,2GMT,156
+Estonia,Dirhami Neem,59.2106,23.4897,2GMT,156
+Estonia,Domesnes Strait,57.7500,22.0833,2GMT,153
+Estonia,Dreimanni,57.9211,24.3886,2GMT,156
+Estonia,Dvor Keppo,58.9147,22.2108,2GMT,154
+Estonia,Dyby,59.0206,23.3075,2GMT,155
+Estonia,Forbyu,58.9997,23.1517,2GMT,155
+Estonia,Galliray,58.2964,22.9781,2GMT,155
+Estonia,Glint,59.3333,27.4167,2GMT,161
+Estonia,Gorodenka Magistraalkraav,59.1417,27.8125,2GMT,162
+Estonia,Kurtna,59.2314,24.7183,2GMT,158
+Estonia,Narva,59.3772,28.1903,2GMT,163
+Estonia,Narva Veehoidla,59.3000,28.2333,2GMT,163
+Estonia,Narva-Iyesu,59.4589,28.0408,2GMT,162
+Estonia,Narvas Licis,59.5000,27.6667,2GMT,162
+Estonia,Parnu,58.4167,24.4833,2GMT,157
+Estonia,Parnu Jaam,58.3597,24.5747,2GMT,157
+Estonia,Parnu Kaubajaam,58.3950,24.5933,2GMT,157
+Estonia,Parnu Laht,58.2886,24.3747,2GMT,157
+Estonia,Parnu Reid,58.3739,24.4792,2GMT,157
+Estonia,Parnu-Jaagupi,58.6058,24.5153,2GMT,157
+Estonia,Parnumaa,58.4000,24.5333,2GMT,157
+Estonia,Rakvere,59.3464,26.3558,2GMT,160
+Estonia,Rapla,59.0072,24.7928,2GMT,158
+Estonia,Tallinn,59.4339,24.7281,2GMT,158
+Estonia,Tallinn Bight,59.4667,24.7667,2GMT,158
+Estonia,Tallinn Lasnamae,59.4500,24.8667,2GMT,158
+Estonia,Tallinn Road,59.4658,24.7622,2GMT,158
+Estonia,Tallinn Ulemiste,59.4167,24.8167,2GMT,158
+Estonia,Tallinn-Vaike Jaam,59.4156,24.7411,2GMT,158
+Estonia,Tallinna Vanasadam,59.4511,24.7444,2GMT,158
+Estonia,Tartu,58.4000,26.7500,2GMT,160
+Estonia,Tartu Jaam,58.3722,26.7050,2GMT,160
+Estonia,Tartu Toomai,58.3075,26.6961,2GMT,160
+Estonia,Tartusaare Tagajarv,59.0664,25.5556,2GMT,159
+Estonia,Tartussaare Raba,59.0467,25.5758,2GMT,159
+Estonia,Wagenkull,58.0161,25.6900,2GMT,158
+Estonia,Wailaid,58.5158,23.3669,2GMT,155
+Estonia,Walga,57.7744,26.0453,2GMT,159
+Estonia,Walgejoggi,59.5797,25.7117,2GMT,159
+Estonia,Wantri,58.3514,22.4481,2GMT,154
+Estonia,Wasawere,59.3031,27.5144,2GMT,162
+Estonia,Weissenstein,58.8856,25.5572,2GMT,159
+Estonia,Wendau,58.2783,27.0481,2GMT,161
+Estonia,Werchoustje,57.9581,27.6381,2GMT,161
+Estonia,Werka,59.5933,26.0878,2GMT,160
+Estonia,Werro,57.8339,27.0194,2GMT,160
+Estonia,West Rago,59.3364,23.8867,2GMT,156
+Estonia,Wiljandi,58.3639,25.5900,2GMT,158
+Estonia,Willust,58.1761,25.6550,2GMT,158
+Estonia,Wirtsu,58.5700,23.5239,2GMT,155
+Estonia,Wirz-Jarw,58.2708,26.0417,2GMT,159
+Estonia,Wobs,58.0783,27.5453,2GMT,161
+Estonia,Woo,58.0978,27.5439,2GMT,161
+Estonia,Wormsi Saar,59.0053,23.2464,2GMT,155
+Estonia,Wormso Channel,59.0119,23.3997,2GMT,156
+Estonia,Woso,59.5725,25.9753,2GMT,159
+Estonia,Wrangelsholm,59.6244,25.0208,2GMT,158
+Estonia,Wulf,59.5819,24.7467,2GMT,158
+Estonia,Zabolda,57.8772,27.7553,2GMT,161
+Estonia,Zagnits,57.9253,26.3150,2GMT,159
+Estonia,Zaliv Ariste,58.1422,22.1942,2GMT,153
+Estonia,Zaliv Baldiski-Lakht,59.3228,24.0392,2GMT,157
+Estonia,Zaliv Eru,59.5975,25.8281,2GMT,159
+Estonia,Zaliv Fettel,58.2617,22.7528,2GMT,154
+Estonia,Zaliv Gapsalu-Lakht,58.9794,23.5828,2GMT,156
+Estonia,Zaliv Kakumyae-Lakht,59.4586,24.5061,2GMT,157
+Estonia,Zaliv Kaspervik,59.6017,25.9503,2GMT,159
+Estonia,Zaliv Kolga,59.5414,25.4147,2GMT,159
+Estonia,Zaliv Kunda,59.5319,26.5336,2GMT,160
+Estonia,Zaliv Kuusnymme-Lakht,58.3256,21.9406,2GMT,153
+Estonia,Zaliv Kyudema-Lakht,58.5156,22.2628,2GMT,154
+Estonia,Zaliv Lype-Lakht,58.0831,22.1667,2GMT,153
+Estonia,Zaliv Matsalu-Lakht,58.7600,23.5969,2GMT,156
+Estonia,Zaliv Taga-Lakht,58.4492,22.0867,2GMT,153
+Estonia,Zaliv Triygi-Lakht,58.5839,22.7467,2GMT,154
+Estonia,Zapovednik Nigula,58.0000,24.6808,2GMT,157
+Estonia,Zerel,57.9331,22.0842,2GMT,153

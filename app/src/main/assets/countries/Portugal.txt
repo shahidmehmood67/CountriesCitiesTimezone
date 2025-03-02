@@ -1,0 +1,139 @@
+Portugal,Albufeira_Faro,37.093,-8.2403,0,0
+Portugal,Albufeira da Defeza_Evora,38.6097,-8.057,0,0
+Portugal,Albufeira da Venda Nova,41.6764,-7.957,0,0
+Portugal,Albufeira do Ermal_Braga,41.593,-8.1236,0,0
+Portugal,Albufeira do Peso,38.843,-8.1736,0,0
+Portugal,Albufeira do Torres_Evora,38.5097,-7.857,0,0
+Portugal,Almada_Lisboa,38.943,-9.3236,0,0
+Portugal,Almada_Santarem,38.9097,-8.6903,0,0
+Portugal,Almada_Setubal,38.693,-9.1403,0,0
+Portugal,Almada de Ouro_Faro,37.3264,-7.4403,0,0
+Portugal,Amadora_Beja,38.143,-7.2903,0,0
+Portugal,Amadora_Lisboa,38.7597,-9.2236,0,0
+Portugal,Aveiro,40.643,-8.6403,0,0
+Portugal,Barreiro_Vila Real,41.3765,-7.8235,0,0
+Portugal,Barreiro_Porto,41.0765,-8.4569,0,0
+Portugal,Barreiro_Coimbra,40.4765,-8.5902,0,0
+Portugal,Barreiro_Aveiro,41.0098,-8.4402,0,0
+Portugal,Barreiro_Leiria,39.8598,-8.5069,0,0
+Portugal,Barreiro_Setubal,38.6765,-9.0569,0,0
+Portugal,Barreiro_Viana do Castelo,41.9598,-8.4069,0,0
+Portugal,Barreiro de Besteiros_Viseu,40.5265,-8.1735,0,0
+Portugal,Barreiros_Portalegre,39.1598,-7.5069,0,0
+Portugal,Barreiros_Porto,41.2431,-8.6235,0,0
+Portugal,Barreiros_Leiria,39.7931,-8.8402,0,0
+Portugal,Barreiros_Viseu,40.7598,-7.7735,0,0
+Portugal,Barreiros_Vila Real,41.6931,-7.2235,0,0
+Portugal,Barreiros_Beja,37.6931,-8.4735,0,0
+Portugal,Barreiros_Braga,41.6265,-8.3902,0,0
+Portugal,Barreiros_Coimbra,40.1098,-8.5402,0,0
+Portugal,Braga,41.5598,-8.4235,0,0
+Portugal,Cacem_Lisboa,38.7766,-9.2901,0,0
+Portugal,Caparica_Setubal,38.6766,-9.1901,0,0
+Portugal,Carnaxide_Lisboa,38.7266,-9.2401,0,0
+Portugal,Carregado_Lisboa,39.0266,-8.9734,0,0
+Portugal,Cascais_Lisboa,38.7099,-9.4068,0,0
+Portugal,Cavaleiros_Aveiro,40.3099,-8.4901,0,0
+Portugal,Cavaleiros_Viana do Castelo,42.1266,-8.2401,0,0
+Portugal,Cavaleiros_Santarem,38.9266,-8.5734,0,0
+Portugal,Cavaleiros_Coimbra,40.0932,-8.5734,0,0
+Portugal,Cavaleiros_Portalegre,39.0932,-8.2068,0,0
+Portugal,Coimbra,40.2099,-8.4068,0,0
+Portugal,Coimbra_Leiria,39.3432,-9.3068,0,0
+Portugal,Coimbra-B_Coimbra,40.2266,-8.4234,0,0
+Portugal,Coimbra-C_Coimbra,40.2099,-8.4234,0,0
+Portugal,Coimbrao_Leiria,39.9099,-8.8734,0,0
+Portugal,Covilha_Castelo Branco,40.2932,-7.4901,0,0
+Portugal,Evora_Leiria,39.5268,-8.9566,0,0
+Portugal,Evora,38.5768,-7.8899,0,0
+Portugal,Evora Monte_Evora,38.7768,-7.7066,0,0
+Portugal,Fafe_Braga,41.4602,-8.1565,0,0
+Portugal,Faro,37.0269,-7.9231,0,0
+Portugal,Faro_Braga,41.5435,-8.7398,0,0
+Portugal,Faro do Alentejo_Beja,38.1602,-7.9231,0,0
+Portugal,Farol da Cantareira_Porto,41.1435,-8.6565,0,0
+Portugal,Fetais_Lisboa,39.0269,-9.1065,0,0
+Portugal,Fetais_Leiria,39.3435,-9.2898,0,0
+Portugal,Fetais_Azores,38.4269,-28.0731,-1,0
+Portugal,Fetais Cimeiros_Coimbra,40.0435,-8.3065,0,0
+Portugal,Funchal_Madeira,32.6435,-16.8898,0,0
+Portugal,Funchal_Viana do Castelo,41.8935,-8.7898,0,0
+Portugal,Funchal_Lisboa,38.9102,-9.2731,0,0
+Portugal,Funchal Bay_Madeira,32.6435,-16.9065,0,0
+Portugal,Guimaraes_Braga,41.4603,-8.2897,0,0
+Portugal,Lagos_Faro,37.1108,-8.6559,0,0
+Portugal,Laranjeiro_Faro,37.0775,-7.7892,0,0
+Portugal,Leiria,39.7608,-8.7892,0,0
+Portugal,Lisboa-Rossio_Lisboa,38.7275,-9.1392,0,0
+Portugal,Lisboa-Santa Apolonia_Lisboa,38.7275,-9.1059,0,0
+Portugal,Lisbon_Lisboa,38.7275,-9.1225,0,0
+Portugal,Loures_Lisboa,38.8441,-9.1559,0,0
+Portugal,Mangualde_Braga,41.4442,-8.5891,0,0
+Portugal,Matosinhos_Vila Real,41.6442,-7.4724,0,0
+Portugal,Matosinhos_Porto,41.0442,-8.6058,0,0
+Portugal,Mem Martins_Lisboa,38.7942,-9.3391,0,0
+Portugal,Merces_Lisboa,38.8109,-9.3058,0,0
+Portugal,Odivelas_Lisboa,38.7944,-9.1722,0,0
+Portugal,Odivelas_Beja,38.1778,-8.1389,0,0
+Portugal,Oporto_Porto,41.1611,-8.6056,0,0
+Portugal,Palmela_Setubal,38.5779,-8.8888,0,0
+Portugal,Ponta Delgada_Azores,37.7445,-25.6555,-1,0
+Portugal,Ponta Delgada_Madeira,32.8279,-16.9721,0,0
+Portugal,Portimao_Faro,37.1445,-8.5221,0,0
+Portugal,Porto_Lisboa,39.0779,-9.0221,0,0
+Portugal,Porto_Viana do Castelo,42.0279,-8.4388,0,0
+Portugal,Porto_Castelo Branco,39.8779,-7.9888,0,0
+Portugal,Porto Trinidade_Porto,41.1612,-8.5888,0,0
+Portugal,Povoa Santa Iria_Lisboa,38.8612,-9.0555,0,0
+Portugal,Quarteira_Faro,37.078,-8.0887,0,0
+Portugal,Santarem,39.2448,-8.6718,0,0
+Portugal,Santarem_Leiria,39.9115,-8.2552,0,0
+Portugal,Seia_Guarda,40.4282,-7.6885,0,0
+Portugal,Setubal,38.5448,-8.8885,0,0
+Portugal,Sintra_Lisboa,38.8115,-9.3718,0,0
+Portugal,Ucanha_Viseu,41.0617,-7.7383,0,0
+Portugal,Ucha_Viana do Castelo,41.995,-8.4216,0,0
+Portugal,Ucha_Braga,41.595,-8.5216,0,0
+Portugal,Ulgueira_Lisboa,38.795,-9.455,0,0
+Portugal,Ulme_Santarem,39.3284,-8.4216,0,0
+Portugal,Ulmeiro_Leiria,39.6784,-8.655,0,0
+Portugal,Umbria_Faro,37.195,-7.7383,0,0
+Portugal,Umbrias de Camacho_Faro,37.2617,-7.6383,0,0
+Portugal,Unhais do Serra_Castelo Branco,40.2784,-7.605,0,0
+Portugal,Unhais-o-Velho_Coimbra,40.145,-7.805,0,0
+Portugal,Unhao_Porto,41.3284,-8.2216,0,0
+Portugal,Unhos_Lisboa,38.8284,-9.105,0,0
+Portugal,Urcinas_Coimbra,39.9784,-8.355,0,0
+Portugal,Urgal_Guarda,41.0617,-7.0883,0,0
+Portugal,Urgeiro_Castelo Branco,40.0617,-7.7883,0,0
+Portugal,Urgeses_Braga,41.4284,-8.2883,0,0
+Portugal,Urgueira_Porto,41.1617,-7.955,0,0
+Portugal,Urgueira_Guarda,40.345,-7.1216,0,0
+Portugal,Urgueira_Coimbra,40.2784,-8.0883,0,0
+Portugal,Urgueira_Aveiro,40.6284,-8.2383,0,0
+Portugal,Urjais_Viana do Castelo,42.0784,-8.2383,0,0
+Portugal,Urjais_Vila Real,41.845,-7.2216,0,0
+Portugal,Urraca_Castelo Branco,39.995,-7.8883,0,0
+Portugal,Urro_Aveiro,40.945,-8.2883,0,0
+Portugal,Urro_Porto,41.195,-8.3216,0,0
+Portugal,Urros_Braganca,41.3617,-6.455,0,0
+Portugal,Ursas_Lisboa,38.8034,-9.48,0,0
+Portugal,Ursulinas_Viana do Castelo,41.7117,-8.8216,0,0
+Portugal,Urzal_Lisboa,38.945,-9.3716,0,0
+Portugal,Urzelhe_Coimbra,40.1117,-8.355,0,0
+Portugal,Urzelina_Azores,38.6617,-28.1216,-1,0
+Portugal,Usseira_Leiria,39.345,-9.155,0,0
+Portugal,Uva_Braganca,41.495,-6.505,0,0
+Portugal,Uz_Braga,41.5784,-7.8716,0,0
+Portugal,Vale de Santarem_Santarem,39.1951,-8.7215,0,0
+Portugal,Vialonga_Lisboa,38.8785,-9.0715,0,0
+Portugal,Vialonga_Santarem,39.6618,-8.2882,0,0
+Portugal,Vila Nova da Cerveira_Viana do Castelo,41.9451,-8.7382,0,0
+Portugal,Vila Real de San Antonio_Faro,37.2118,-7.4049,0,0
+Portugal,Viseu,40.6618,-7.9049,0,0
+Portugal,Xertelo_Vila Real,41.7453,-8.0047,0,0
+Portugal,Ximeno_Faro,37.362,-7.9713,0,0
+Portugal,Zebreira_Castelo Branco,39.8622,-7.0545,0,0
+Portugal,Zezere_Portalegre,39.2455,-8.1378,0,0
+Portugal,Zido_Braganca,41.8789,-7.0211,0,0
+Portugal,Zimbreira_Faro,37.2455,-8.2878,0,0

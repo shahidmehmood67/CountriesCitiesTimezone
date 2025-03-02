@@ -1,0 +1,74 @@
+Kazakhstan,1 Pervoye Maya_Qaraghandy,49.4833,73.7417,5,236
+Kazakhstan,12 Dekabrya_Almaty,43.4156,76.8983,5,247
+Kazakhstan,15-letiye Kazakhstana_Ongtustik Qazaqstan,41.4128,68.9178,5,240
+Kazakhstan,3-ya Tret ya Pyatiletka,51.7350,79.0617,5,240
+Kazakhstan,60-letiya Oktyabrya_Ongtustik Qazaqstan,41.1736,68.7917,5,240
+Kazakhstan,Ak-Tyube,51.9000,78.6667,6,240
+Kazakhstan,Ak-Tyube_Qaraghandy,49.8994,72.4231,6,234
+Kazakhstan,Ak-Tyubek_Qaraghandy,50.3000,71.4833,6,232
+Kazakhstan,Akmola,42.6667,70.9667,6,241
+Kazakhstan,Akmola_Ongtustik Qazaqstan,41.2478,68.6453,5,240
+Kazakhstan,Aksai_Almaty,43.4714,76.7333,6,246
+Kazakhstan,Aksay,53.8822,72.8147,6,231
+Kazakhstan,Aksay_Qaraghandy,46.8056,65.2056,5,228
+Kazakhstan,Aksay_Qostanay,51.1000,65.2997,5,223
+Kazakhstan,Aksay_Ongtustik Qazaqstan,41.5181,68.6994,5,239
+Kazakhstan,Aksay_Batys Qazaqstan,51.1678,52.9950,5,204
+Kazakhstan,Aktau,48.0333,72.8333,6,237
+Kazakhstan,Aktau_Mangghystau,43.6500,51.2000,5,207
+Kazakhstan,Aktobe_Aqtobe,50.2981,57.1814,5,212
+Kazakhstan,Alma-Ata Vtoraya_Almaty Qalasy,43.2739,76.9372,6,247
+Kazakhstan,Almaty_Almaty Qalasy,43.2500,76.9500,5,247
+Kazakhstan,Almaty,44.5000,78.0000,6,246
+Kazakhstan,Almaty Koryghy,43.1461,77.4000,6,247
+Kazakhstan,Almaty Qoryghy_Almaty,43.1667,77.2500,6,247
+Kazakhstan,Almaty Temir Zholy,43.3333,77.0000,6,247
+Kazakhstan,Aqtau_Qaraghandy,50.2367,73.0628,6,235
+Kazakhstan,Aqtau_Batys Qazaqstan,50.9931,50.1750,5,199
+Kazakhstan,Aqtau Qalasy_Mangghystau,43.6667,51.2500,5,207
+Kazakhstan,Astana_Astana Qalasy,51.1811,71.4278,6,232
+Kazakhstan,Astana Qalasy,51.1667,71.5000,6,232
+Kazakhstan,Atyrau,47.1167,51.8833,5,205
+Kazakhstan,Atyrau Qalasy_Atyrau,47.1167,51.9167,5,205
+Kazakhstan,Bautino_Mangghystau,44.5378,50.2500,5,204
+Kazakhstan,Chimkent_Ongtustik Qazaqstan,42.3000,69.6000,5,239
+Kazakhstan,Fabrichnoy_Almaty,43.1617,76.4114,6,246
+Kazakhstan,Fadikha,49.3000,86.3333,6,250
+Kazakhstan,Fakel,51.3667,51.5000,5,201
+Kazakhstan,Fakeyev,48.9500,49.9333,5,200
+Kazakhstan,Farforovyy_Aqmola,51.3383,71.1022,6,231
+Kazakhstan,Furmanovka_Zhambyl,44.2914,72.9469,6,241
+Kazakhstan,Furmanovskiy,54.9011,70.0372,6,226
+Kazakhstan,Furmazov_Batys Qazaqstan,51.3711,51.5164,5,201
+Kazakhstan,Gangyushkino_Atyrau,46.5653,48.6850,5,199
+Kazakhstan,Halbinsel Busatschi_Mangghystau,45.0000,52.0000,5,207
+Kazakhstan,Hei-i-erh-t a-shih Ho,47.8667,84.2667,6,249
+Kazakhstan,Ho-erh-kuo-ssu Ho,43.8333,80.5167,6,250
+Kazakhstan,Hungry Steppe,46.0000,70.0000,5,235
+Kazakhstan,Jarkent_Almaty,44.1628,80.0000,6,249
+Kazakhstan,Karaganda_Aqtobe,50.4239,55.6028,5,209
+Kazakhstan,Karaganda_Qaraghandy,49.7989,73.0994,6,235
+Kazakhstan,Karaganda,48.5000,66.3833,5,228
+Kazakhstan,Karaganda Oblast_Qaraghandy,48.0000,72.0000,6,236
+Kazakhstan,Kentau Qalasy_Ongtustik Qazaqstan,43.5333,68.6000,5,237
+Kazakhstan,Kul sary_Atyrau,46.9833,54.0167,5,209
+Kazakhstan,Kustanai_Qostanay,53.1667,63.5833,5,219
+Kazakhstan,Kyzylorda_Qyzylorda,44.8528,65.5092,5,231
+Kazakhstan,Nur Sultan,51.1605,71.4704,6,0
+Kazakhstan,Oral Qalasy_Batys Qazaqstan,51.3667,51.2833,5,201
+Kazakhstan,Oskemen Qalasy_Shyghys Qazaqstan,49.9667,82.6667,6,246
+Kazakhstan,Pavlodar,52.3000,76.9500,6,237
+Kazakhstan,Petropavlovsk_Soltustik Qazaqstan,54.8753,69.1628,5,225
+Kazakhstan,Qyzylorda,45.0000,65.0000,5,230
+Kazakhstan,Semipalatinsk_Shyghys Qazaqstan,50.4111,80.2275,6,243
+Kazakhstan,Shymkent Qalasy_Ongtustik Qazaqstan,42.3167,69.5833,5,239
+Kazakhstan,Taraz_Zhambyl,42.9000,71.3667,6,241
+Kazakhstan,Tengiz_Atyrau,46.3333,53.4667,5,209
+Kazakhstan,Turkestan_Ongtustik Qazaqstan,43.3333,68.2500,5,236
+Kazakhstan,Uralsk_Batys Qazaqstan,51.2333,51.3667,5,201
+Kazakhstan,Ushshoka,46.5000,61.2167,6,222
+Kazakhstan,Ust -Kamenogorsk_Shyghys Qazaqstan,49.9789,82.6103,6,246
+Kazakhstan,Wyssokoje,42.5000,70.5333,6,240
+Kazakhstan,XIX Partsezd Atyndaghy_Pavlodar,54.0192,75.9278,6,234
+Kazakhstan,XXII Parts yezd_Ongtustik Qazaqstan,41.2894,68.6672,5,240
+Kazakhstan,Zhezkazgan_Qaraghandy,47.7833,67.7667,5,230

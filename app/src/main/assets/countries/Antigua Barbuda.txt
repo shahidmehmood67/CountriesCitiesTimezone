@@ -1,0 +1,125 @@
+Antigua Barbuda,Aberdeen Village,17.0667,-61.8167,-4GMT,66
+Antigua Barbuda,Addison Shoal,17.1708,-61.7708,-4GMT,66
+Antigua Barbuda,Antigua,17.0500,-61.8000,-4GMT,66
+Antigua Barbuda,Ayres Creek,17.0667,-61.7000,-4GMT,66
+Antigua Barbuda,Bannister Bank,17.1833,-61.8833,-4GMT,66
+Antigua Barbuda,Beggars Point,17.1667,-61.8000,-4GMT,66
+Antigua Barbuda,Bellevue Heights,17.1000,-61.8167,-4GMT,66
+Antigua Barbuda,Bethesda,17.0500,-61.7500,-4GMT,66
+Antigua Barbuda,Billy Point,17.7333,-61.8667,-4GMT,66
+Antigua Barbuda,Bird Islet Reef,17.1333,-61.7500,-4GMT,66
+Antigua Barbuda,Bishops,17.0333,-61.8167,-4GMT,66
+Antigua Barbuda,Blubber Valley,17.0667,-61.8667,-4GMT,66
+Antigua Barbuda,Boggy Peak,17.0500,-61.8500,-4GMT,66
+Antigua Barbuda,Boland Village,17.0333,-61.8833,-4GMT,66
+Antigua Barbuda,Boon Bay,17.1667,-61.8167,-4GMT,66
+Antigua Barbuda,Boon Channel,17.1500,-61.8500,-4GMT,66
+Antigua Barbuda,Boon Point,17.1667,-61.8333,-4GMT,66
+Antigua Barbuda,Botts Peak,17.0500,-61.8667,-4GMT,66
+Antigua Barbuda,Brooks Old Mill,17.0167,-61.8500,-4GMT,66
+Antigua Barbuda,Byam Point,17.1333,-61.7167,-4GMT,66
+Antigua Barbuda,Codrington,17.6333,-61.8167,-4GMT,66
+Antigua Barbuda,Codrington Lagoon,17.6500,-61.8333,-4GMT,66
+Antigua Barbuda,Codrington Shoals,17.4833,-61.8333,-4GMT,66
+Antigua Barbuda,Denfields,17.1000,-61.8500,-4GMT,66
+Antigua Barbuda,Dian Point,17.1000,-61.6833,-4GMT,66
+Antigua Barbuda,Dickinson Bay,17.1667,-61.8500,-4GMT,66
+Antigua Barbuda,Dodington Bank,17.5000,-61.7500,-4GMT,66
+Antigua Barbuda,Doigs,17.0167,-61.8000,-4GMT,66
+Antigua Barbuda,Dow Hill,17.0167,-61.7500,-4GMT,66
+Antigua Barbuda,Dulcina,17.5833,-61.8167,-4GMT,66
+Antigua Barbuda,Dunnings Dam,17.0667,-61.8500,-4GMT,66
+Antigua Barbuda,Emanuel,17.0667,-61.8333,-4GMT,66
+Antigua Barbuda,Falmouth,17.0167,-61.7833,-4GMT,66
+Antigua Barbuda,Farley Bay,17.0833,-61.7167,-4GMT,66
+Antigua Barbuda,Fellingo Shoal,17.1358,-61.7694,-4GMT,66
+Antigua Barbuda,Fischer Creek,17.1333,-61.7833,-4GMT,66
+Antigua Barbuda,Fisher Hill,17.0167,-61.8167,-4GMT,66
+Antigua Barbuda,Fort Barrington,17.1333,-61.9000,-4GMT,66
+Antigua Barbuda,Fort William,17.0333,-61.7167,-4GMT,66
+Antigua Barbuda,Freemans,17.0500,-61.7833,-4GMT,66
+Antigua Barbuda,Freetown,17.0500,-61.7000,-4GMT,66
+Antigua Barbuda,Frys Bay,17.0500,-61.9000,-4GMT,66
+Antigua Barbuda,Fullerton Point,17.1000,-61.9000,-4GMT,66
+Antigua Barbuda,Galley Bay,17.1167,-61.9000,-4GMT,66
+Antigua Barbuda,Gilberts,17.0833,-61.7333,-4GMT,66
+Antigua Barbuda,Goat Point,17.7333,-61.8500,-4GMT,66
+Antigua Barbuda,Golden Grove,17.1000,-61.8333,-4GMT,66
+Antigua Barbuda,Gravenor Bay,17.5500,-61.7500,-4GMT,66
+Antigua Barbuda,Grays,17.0833,-61.7000,-4GMT,66
+Antigua Barbuda,Guana Bay,17.1167,-61.7333,-4GMT,66
+Antigua Barbuda,Guana Island,17.1000,-61.7333,-4GMT,66
+Antigua Barbuda,Hale Gate,17.1500,-61.7167,-4GMT,66
+Antigua Barbuda,Harney Shoal,17.1972,-61.8033,-4GMT,66
+Antigua Barbuda,Hawks Bill Bay,17.1167,-61.8833,-4GMT,66
+Antigua Barbuda,Herberts,17.0833,-61.8000,-4GMT,66
+Antigua Barbuda,Hog Cliffs,17.6500,-61.7500,-4GMT,66
+Antigua Barbuda,Horse Shoe Reef,17.0167,-61.7167,-4GMT,66
+Antigua Barbuda,Hudson Cove,17.0333,-61.6833,-4GMT,66
+Antigua Barbuda,Hudson Landing,17.6111,-61.8408,-4GMT,66
+Antigua Barbuda,Hurst Shoals,17.1056,-61.9167,-4GMT,66
+Antigua Barbuda,Indian Creek,17.0000,-61.7333,-4GMT,66
+Antigua Barbuda,Jennings,17.0833,-61.8667,-4GMT,66
+Antigua Barbuda,John Hughes,17.0500,-61.8167,-4GMT,66
+Antigua Barbuda,Johnson Islet,17.0167,-61.8833,-4GMT,66
+Antigua Barbuda,Langford Bay,17.1700,-61.8383,-4GMT,66
+Antigua Barbuda,Laurys Bay,17.1000,-61.7000,-4GMT,66
+Antigua Barbuda,Ledwell Point,17.1500,-61.8667,-4GMT,66
+Antigua Barbuda,Liberta,17.0333,-61.7833,-4GMT,66
+Antigua Barbuda,Lightfoots,17.1000,-61.8000,-4GMT,66
+Antigua Barbuda,Lindsay Hill,17.1167,-61.7625,-4GMT,66
+Antigua Barbuda,Little Duer,17.0667,-61.7500,-4GMT,66
+Antigua Barbuda,Lower Lyons,17.0500,-61.7333,-4GMT,66
+Antigua Barbuda,Maiden Island,17.1500,-61.7667,-4GMT,66
+Antigua Barbuda,Marble Hill,17.1500,-61.8333,-4GMT,66
+Antigua Barbuda,Marmora Reef,17.0167,-61.7333,-4GMT,66
+Antigua Barbuda,Martello Tower,17.5942,-61.8292,-4GMT,66
+Antigua Barbuda,Matthews,17.0667,-61.8000,-4GMT,66
+Antigua Barbuda,McKinnons Salt Pond,17.1500,-61.8517,-4GMT,66
+Antigua Barbuda,McNish Mountain,17.0500,-61.8333,-4GMT,66
+Antigua Barbuda,Mercer Creek,17.1000,-61.7167,-4GMT,66
+Antigua Barbuda,Mill Reef,17.0500,-61.6667,-4GMT,66
+Antigua Barbuda,Moor Islet,17.1667,-61.7667,-4GMT,66
+Antigua Barbuda,Nanny Island,17.0667,-61.6833,-4GMT,66
+Antigua Barbuda,Nanton Point,17.0000,-61.7500,-4GMT,66
+Antigua Barbuda,New Winthorpes,17.1500,-61.8000,-4GMT,66
+Antigua Barbuda,Newfield,17.0333,-61.7333,-4GMT,66
+Antigua Barbuda,North Channnel,17.1167,-61.7000,-4GMT,66
+Antigua Barbuda,North Whelk,17.1583,-61.7292,-4GMT,66
+Antigua Barbuda,Osbourn,17.1333,-61.8000,-4GMT,66
+Antigua Barbuda,Palaster Reef,17.5333,-61.7500,-4GMT,66
+Antigua Barbuda,Pares Village,17.0833,-61.7500,-4GMT,66
+Antigua Barbuda,Parham,17.0833,-61.7667,-4GMT,66
+Antigua Barbuda,Paynters,17.1167,-61.8000,-4GMT,66
+Antigua Barbuda,Pearns Bay,17.0833,-61.9000,-4GMT,66
+Antigua Barbuda,Pelican Bay,17.5667,-61.7333,-4GMT,66
+Antigua Barbuda,Pelican Shoal,17.1000,-61.9167,-4GMT,66
+Antigua Barbuda,Picarts Bay,17.0333,-61.9000,-4GMT,66
+Antigua Barbuda,Pillar Rock,17.1333,-61.8833,-4GMT,66
+Antigua Barbuda,Pinching Bay,17.1000,-61.9333,-4GMT,66
+Antigua Barbuda,Potters,17.0833,-61.8167,-4GMT,66
+Antigua Barbuda,Procters Point,17.0000,-61.7833,-4GMT,66
+Antigua Barbuda,Rabbit Island,17.1333,-61.7333,-4GMT,66
+Antigua Barbuda,Red Hill Dam,17.0333,-61.7500,-4GMT,66
+Antigua Barbuda,Redonda,16.9167,-62.3167,-4GMT,66
+Antigua Barbuda,Reeds Point,17.0667,-61.8833,-4GMT,66
+Antigua Barbuda,Ricket Harbour,17.0667,-61.6667,-4GMT,66
+Antigua Barbuda,Saint John,17.1167,-61.8500,-4GMT,66
+Antigua Barbuda,Saint John s Road,17.1500,-61.8750,-4GMT,66
+Antigua Barbuda,Saint Johns Harbor,17.1333,-61.8667,-4GMT,66
+Antigua Barbuda,Saint Johnston,17.1167,-61.8333,-4GMT,66
+Antigua Barbuda,The Caves,17.6833,-61.7833,-4GMT,66
+Antigua Barbuda,The Cove,17.1333,-61.8500,-4GMT,66
+Antigua Barbuda,The Dockyard,17.0000,-61.7667,-4GMT,66
+Antigua Barbuda,The Pinnacle,16.9333,-62.3333,-4GMT,66
+Antigua Barbuda,The Sisters,17.1500,-61.8833,-4GMT,66
+Antigua Barbuda,Tuson Rock,17.6167,-61.8667,-4GMT,66
+Antigua Barbuda,Urlings,17.0333,-61.8667,-4GMT,66
+Antigua Barbuda,Vernon Island,17.1167,-61.7667,-4GMT,66
+Antigua Barbuda,Vernons,17.1000,-61.7667,-4GMT,66
+Antigua Barbuda,Warrington Bank,17.1458,-61.8833,-4GMT,66
+Antigua Barbuda,Watsons,17.0500,-61.6833,-4GMT,66
+Antigua Barbuda,Weymouth Reef,17.1322,-61.9311,-4GMT,66
+Antigua Barbuda,White Cliff,17.5333,-61.7333,-4GMT,66
+Antigua Barbuda,Winthorp Bay,17.1500,-61.7833,-4GMT,66
+Antigua Barbuda,Woods,17.1333,-61.8167,-4GMT,66

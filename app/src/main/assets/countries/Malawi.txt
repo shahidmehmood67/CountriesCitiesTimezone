@@ -1,0 +1,174 @@
+Malawi,Aaron,-12.7403,34.2264,2,0
+Malawi,Abindanjoke,-13.3903,33.9097,2,0
+Malawi,Abraham,-13.6403,33.1764,2,0
+Malawi,Adam,-9.507,33.2264,2,0
+Malawi,Agabu,-14.5903,34.7764,2,0
+Malawi,Agrippa Jere,-11.4236,33.3597,2,0
+Malawi,Akoyo,-11.007,33.9264,2,0
+Malawi,Akubilila,-14.7403,34.8264,2,0
+Malawi,Alamu,-12.557,33.4597,2,0
+Malawi,Alick Chisi,-11.9236,33.6097,2,0
+Malawi,Alifandaka,-17.057,35.093,2,0
+Malawi,Alimenda,-16.207,34.6764,2,0
+Malawi,Alimenda Market,-16.357,34.943,2,0
+Malawi,Alufasi,-16.4736,34.9264,2,0
+Malawi,Alumenda,-16.1903,34.7264,2,0
+Malawi,Amadzi,-14.0236,33.4764,2,0
+Malawi,Amazi,-12.757,33.3764,2,0
+Malawi,Ambale Phaso,-12.5736,34.1764,2,0
+Malawi,Amenta,-14.1903,33.993,2,0
+Malawi,Amika,-15.3903,35.243,2,0
+Malawi,Amonis,-13.1736,33.593,2,0
+Malawi,Amozi,-13.6736,33.093,2,0
+Malawi,Andreya,-14.4236,34.1097,2,0
+Malawi,Anjanzi,-14.2236,34.043,2,0
+Malawi,Anoki Mkhere,-11.8403,33.693,2,0
+Malawi,Arfairyu,-9.607,33.343,2,0
+Malawi,Augustino,-13.0736,34.3264,2,0
+Malawi,Aunde,-14.757,34.9764,2,0
+Malawi,Austeni,-14.757,34.9264,2,0
+Malawi,Awedsi Hill,-14.1403,33.3764,2,0
+Malawi,Blantyre,-15.7735,35.0098,2,0
+Malawi,Blantyre District_Blantyre,-15.4902,35.0098,2,0
+Malawi,Chiradzulu District_Chiradzulu,-15.6901,35.1766,2,0
+Malawi,East Tumbi Island,-14.0399,34.9434,2,0
+Malawi,Ecilumbeni School,-11.6066,33.3268,2,0
+Malawi,Eden Estate,-14.3066,34.3268,2,0
+Malawi,Edwin,-16.9399,35.2434,2,0
+Malawi,Eheleni,-12.3066,33.6101,2,0
+Malawi,Ehlehleni,-12.2399,33.5934,2,0
+Malawi,Ekhama,-14.9566,35.8268,2,0
+Malawi,Elangeni,-11.4399,33.7434,2,0
+Malawi,Elephant Marsh,-16.3232,35.0934,2,0
+Malawi,Eliacuntengo,-14.3066,34.1434,2,0
+Malawi,Eliakimu Nguluwe,-12.1732,33.4601,2,0
+Malawi,Elisa,-13.3899,33.6934,2,0
+Malawi,Elsie Cove,-13.6899,34.6268,2,0
+Malawi,Elunyeni School,-11.2232,33.7101,2,0
+Malawi,Emanyeleni,-11.1732,33.8601,2,0
+Malawi,Embombeni,-11.2399,33.8768,2,0
+Malawi,Emchakachakeni,-12.1399,33.5434,2,0
+Malawi,Emcisweni,-11.2732,33.6101,2,0
+Malawi,Emfeni,-12.5899,33.5934,2,0
+Malawi,Emoneni,-11.6399,33.6768,2,0
+Malawi,Eneya Kumwenda,-11.1399,33.6768,2,0
+Malawi,Engalaweni,-11.8899,33.3768,2,0
+Malawi,Engucwini,-11.1899,33.8268,2,0
+Malawi,Enukweni,-11.1732,33.8934,2,0
+Malawi,Ephangweni,-12.1566,33.4768,2,0
+Malawi,Eswanzini Court,-11.7232,33.6601,2,0
+Malawi,Eutini,-11.4566,33.4268,2,0
+Malawi,Ewombeni,-12.1566,33.3601,2,0
+Malawi,Ezondweni,-11.3899,33.7601,2,0
+Malawi,Ezondweni School,-11.9232,33.5434,2,0
+Malawi,Halala,-14.9729,35.5937,2,0
+Malawi,Hango,-12.8063,33.6104,2,0
+Malawi,Hanock Beza,-11.5063,33.7937,2,0
+Malawi,Hanock Longwe,-11.1563,33.7104,2,0
+Malawi,Hara Plain,-10.4563,34.1771,2,0
+Malawi,Hawilani,-14.8063,34.7604,2,0
+Malawi,Hawu,-14.9063,34.7771,2,0
+Malawi,Heta,-12.2063,33.9437,2,0
+Malawi,Hewe Stream,-11.1896,33.4937,2,0
+Malawi,Hicaje,-13.8229,33.0771,2,0
+Malawi,Hola,-14.7896,34.8437,2,0
+Malawi,Hoti Hills,-11.4396,33.8604,2,0
+Malawi,Hynde Dam,-15.7896,35.0604,2,0
+Malawi,Iai,-10.7062,33.7105,2,0
+Malawi,Ibanda,-9.7062,33.4438,2,0
+Malawi,Idi,-14.7728,35.5772,2,0
+Malawi,Ifwatose,-11.4562,33.2772,2,0
+Malawi,Ilemba,-15.6728,34.4938,2,0
+Malawi,Ilipihe Hill,-14.5562,35.6938,2,0
+Malawi,Imfayatonse,-13.6895,33.9938,2,0
+Malawi,Inje,-13.4895,33.8438,2,0
+Malawi,Inoch,-14.4062,34.0272,2,0
+Malawi,Insili Hills,-14.7062,35.5772,2,0
+Malawi,Ipani,-14.4728,35.6605,2,0
+Malawi,Ipani Hill,-14.5228,35.7272,2,0
+Malawi,Ipenza,-9.4728,33.1272,2,0
+Malawi,Irale Hill,-15.4395,35.0772,2,0
+Malawi,Isaac,-13.3062,33.6772,2,0
+Malawi,Isanga,-9.7228,33.5438,2,0
+Malawi,Iscariot,-13.7228,33.0772,2,0
+Malawi,Itunde Hills,-14.6562,35.5272,2,0
+Malawi,Izaki Ngoyi,-12.0895,33.5772,2,0
+Malawi,Lilongwe,-15.9392,35.1275,2,0
+Malawi,Lilongwe Bay,-12.0059,34.6275,2,0
+Malawi,Lilongwe District_Lilongwe,-13.9892,33.5941,2,0
+Malawi,Lilongwe International,-13.9559,33.7108,2,0
+Malawi,Lilongwe River,-13.7725,34.4275,2,0
+Malawi,Limbe,-15.8059,35.0608,2,0
+Malawi,Limbe Marsh,-15.4892,35.7608,2,0
+Malawi,Limbe Stream,-15.9059,35.0275,2,0
+Malawi,Mzuzu,-11.4391,33.9276,2,0
+Malawi,Mzuzu Stream,-11.4391,34.0442,2,0
+Malawi,Nankwenya School,-15.939,35.0943,2,0
+Malawi,Ofesi Stores,-12.7889,33.4944,2,0
+Malawi,Offisi,-12.7722,33.5611,2,0
+Malawi,Old Bandawe Church,-11.9389,34.1778,2,0
+Malawi,Old Ngara Boma,-13.2889,33.6111,2,0
+Malawi,Old Salawe,-10.8889,34.2444,2,0
+Malawi,Olokani,-12.7056,33.4444,2,0
+Malawi,Ombechina,-12.3889,33.8111,2,0
+Malawi,Omgolo,-13.2889,33.8278,2,0
+Malawi,Onaini,-12.6889,34.2111,2,0
+Malawi,Ondwe,-14.5556,34.6778,2,0
+Malawi,Ongo Hill,-14.5222,34.6611,2,0
+Malawi,Orpington Estate,-14.2056,34.1444,2,0
+Malawi,Ozi,-12.9556,34.2278,2,0
+Malawi,Salima,-13.7718,34.4448,2,0
+Malawi,Salima District_Salima,-13.7385,34.5115,2,0
+Malawi,Vandama,-12.0215,33.8618,2,0
+Malawi,Vinyepera Hill,-12.8549,33.3785,2,0
+Malawi,Virauli Hill,-9.9049,33.7785,2,0
+Malawi,Vitenje,-12.1549,33.6118,2,0
+Malawi,Vitumbi,-10.7549,33.9785,2,0
+Malawi,Vivya,-11.6549,33.9951,2,0
+Malawi,Vizinde,-12.7215,33.3285,2,0
+Malawi,Vundakiri,-12.8382,34.1118,2,0
+Malawi,Vwalamani,-12.6382,33.4118,2,0
+Malawi,Vwasa Marsh,-10.8715,33.4618,2,0
+Malawi,Vyapatamo,-12.6049,33.3285,2,0
+Malawi,Vyauka,-12.5715,33.4451,2,0
+Malawi,Witeze,-9.6881,33.5952,2,0
+Malawi,Xetedzi,-15.238,34.612,2,0
+Malawi,Yadinga,-11.6046,34.3121,2,0
+Malawi,Yagoma,-13.8546,33.0788,2,0
+Malawi,Yakobe Ndezu,-11.3046,33.4621,2,0
+Malawi,Yakobe Njakwa,-11.5879,33.6954,2,0
+Malawi,Yakobe Nyirenda,-11.3546,33.4454,2,0
+Malawi,Yamwala,-13.0046,33.5621,2,0
+Malawi,Yangala,-14.4712,35.2954,2,0
+Malawi,Yanjanani,-12.8212,33.5288,2,0
+Malawi,Yapola,-13.7212,34.0288,2,0
+Malawi,Yawinda,-12.6212,33.4121,2,0
+Malawi,Yekamu,-13.4712,33.7788,2,0
+Malawi,Yelemiya Lungu,-12.1712,33.4954,2,0
+Malawi,Yembe Hill,-9.7046,33.8788,2,0
+Malawi,Yendayenda,-14.8212,34.7954,2,0
+Malawi,Yera,-15.3212,34.8121,2,0
+Malawi,Yesaya,-13.5046,33.3954,2,0
+Malawi,Yesaya Chiwambo,-11.3879,33.9121,2,0
+Malawi,Yesaya Mkosi,-11.7046,33.5621,2,0
+Malawi,Yesaya Ndowera,-11.9212,33.6788,2,0
+Malawi,Yesaya Shawa,-11.3879,33.6954,2,0
+Malawi,Yobe Gama,-11.6546,33.4621,2,0
+Malawi,Yobe Jere,-11.5046,33.4954,2,0
+Malawi,Yofu,-12.0379,34.7454,2,0
+Malawi,Yofu Bay,-12.0212,34.7454,2,0
+Malawi,Yohan,-13.7546,32.8454,2,0
+Malawi,Yohane Jere,-11.3712,33.8954,2,0
+Malawi,Yonam,-13.7212,34.4121,2,0
+Malawi,Yosefi,-12.5879,33.5288,2,0
+Malawi,Yotamu,-13.1212,33.6788,2,0
+Malawi,Yotamu Ziwe,-11.6712,33.5954,2,0
+Malawi,Youngs Bay,-10.4879,34.2621,2,0
+Malawi,Yundu,-12.0712,34.7288,2,0
+Malawi,Yzame,-13.5379,33.9454,2,0
+Malawi,Zomba,-15.3711,35.3455,2,0
+Malawi,Zomba District_Zomba,-15.1545,35.5122,2,0
+Malawi,Zomba Forest Reserve,-15.3211,35.3289,2,0
+Malawi,Zomba Mission,-15.4045,35.3122,2,0
+Malawi,Zomba Mountain,-15.2711,35.2955,2,0
+Malawi,Zomba Plateau,-15.3211,35.3122,2,0

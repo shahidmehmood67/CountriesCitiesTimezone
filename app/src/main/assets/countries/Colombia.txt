@@ -1,0 +1,53 @@
+Colombia,20 de Junio,8.0406,-72.6225,-5GMT,64
+Colombia,4 Esquinas,1.1000,-77.4667,-5GMT,66
+Colombia,Barrancabermeja,7.1667,-73.7500,-5GMT,64
+Colombia,Barranquilla_Cundinamarca,4.9667,-74.5167,-5GMT,65
+Colombia,Barranquilla_Amazonas,-2.3833,-70.5667,-5GMT,68
+Colombia,Barranquilla_Guainia,2.9753,-68.9550,-5GMT,67
+Colombia,Barranquilla_Guaviare,1.5433,-72.2883,-5GMT,67
+Colombia,Barranquilla_Atlantico,11.0000,-74.8000,-5GMT,63
+Colombia,Barranquilla Betania,7.0800,-75.9356,-5GMT,64
+Colombia,Bogota_Huila,3.0297,-75.1683,-5GMT,65
+Colombia,Bogota_Cundinamarca,4.6000,-74.0833,-5GMT,65
+Colombia,Bogota_San Andres y Providencia,13.3333,-81.3500,-5GMT,60
+Colombia,Bogota_Bolivar,10.4000,-75.2833,-5GMT,63
+Colombia,Bogota D.E.,4.2500,-74.1833,-5GMT,65
+Colombia,Bogotacito,6.0092,-73.2203,-5GMT,65
+Colombia,Bucaramanga_Cundinamarca,4.9833,-74.5500,-5GMT,65
+Colombia,Bucaramanga_Santander,7.2167,-73.0833,-5GMT,65
+Colombia,Bucaramanga_Cordoba,8.7883,-76.0356,-5GMT,63
+Colombia,Cali_Valle del Cauca,3.4167,-76.5500,-5GMT,65
+Colombia,Cali_Magdalena,9.4081,-74.0303,-5GMT,64
+Colombia,Cali_Cordoba,8.8489,-75.6089,-5GMT,63
+Colombia,Calicanto,2.4000,-76.6167,-5GMT,65
+Colombia,Calima,3.9167,-76.6667,-5GMT,65
+Colombia,Calimita,3.9167,-76.5000,-5GMT,65
+Colombia,Cartagena,10.4167,-75.5333,-5GMT,63
+Colombia,Colombia_Huila,3.3778,-74.8078,-5GMT,65
+Colombia,Cucuta_Norte de Santander,8.5000,-72.6667,-5GMT,64
+Colombia,Cucuta_Caqueta,0.2631,-73.3564,-5GMT,67
+Colombia,Ibague_Sucre,9.3333,-75.1167,-5GMT,63
+Colombia,Ibague_Tolima,4.5000,-75.2500,-5GMT,65
+Colombia,Ibague_Magdalena,9.9333,-74.2833,-5GMT,63
+Colombia,Maicao_La Guajira,11.3833,-72.2333,-5GMT,64
+Colombia,Maicao_Meta,4.2047,-72.0069,-5GMT,66
+Colombia,McKellar Point,13.3833,-81.3667,-5GMT,60
+Colombia,Medellin_Cesar,9.3500,-73.6333,-5GMT,64
+Colombia,Medellin_Sucre,9.4000,-75.4000,-5GMT,63
+Colombia,Medellin_Bolivar,10.1000,-75.2667,-5GMT,63
+Colombia,Medellin_Cordoba,8.6600,-75.9147,-5GMT,63
+Colombia,Medellin_Magdalena,10.8667,-74.1667,-5GMT,63
+Colombia,Medellin_Antioquia,6.2914,-75.5361,-5GMT,64
+Colombia,Medellin del Ariari,3.5833,-73.8000,-5GMT,66
+Colombia,Pasto,1.1667,-77.1667,-5GMT,66
+Colombia,Pereira_Casanare,5.4667,-72.3000,-5GMT,65
+Colombia,Pereira_Risaralda,4.8333,-75.7500,-5GMT,65
+Colombia,Pereira_Cordoba,8.5169,-76.0775,-5GMT,63
+Colombia,San Andres y Providencia,13.0000,-81.5000,-5GMT,60
+Colombia,Valledupar_Meta,4.1831,-73.2136,-5GMT,66
+Colombia,Valledupar_Casanare,5.6167,-70.8167,-5GMT,66
+Colombia,Valledupar_Cesar,10.4167,-73.5833,-5GMT,64
+Colombia,Waterloo,4.3189,-75.3400,-5GMT,65
+Colombia,Whiskey,0.8000,-76.5667,-5GMT,66
+Colombia,Wiza,3.8164,-76.3233,-5GMT,65
+Colombia,Xicute,1.7500,-70.1167,-5GMT,67

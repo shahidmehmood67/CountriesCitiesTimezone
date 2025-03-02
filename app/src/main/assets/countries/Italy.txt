@@ -1,0 +1,2127 @@
+Italy,Abadia a Isola,43.393,11.2097,1,0
+Italy,Abano,45.3597,11.793,1,0
+Italy,Abatemarco,40.143,15.3597,1,0
+Italy,Abbadia di Praglis,45.3764,11.743,1,0
+Italy,Abbadia di Stura,45.1097,7.7264,1,0
+Italy,Abbadia Lariana,45.9097,9.343,1,0
+Italy,Abbadia San Salvatore,42.893,11.693,1,0
+Italy,Abbasanta_Sardegna,40.143,8.8264,1,0
+Italy,Abbateggio,42.2264,14.0097,1,0
+Italy,Abbazia,45.743,12.5264,1,0
+Italy,Abbazia di Casamari,41.6764,13.493,1,0
+Italy,Abbazia di Pomposa_Emilia-Romagna,44.8444,12.1925,1,0
+Italy,Abbazia Pisani,45.6097,11.8597,1,0
+Italy,Abbiategrasso,45.4097,8.9097,1,0
+Italy,Aberstuckl,46.7764,11.3764,1,0
+Italy,Abetemozzo,42.643,13.5597,1,0
+Italy,Abetito,42.8597,13.3764,1,0
+Italy,Abeto,44.1097,11.7264,1,0
+Italy,Abetone,44.143,10.6764,1,0
+Italy,Abriola,40.5097,15.8264,1,0
+Italy,Abruzzi_Abruzzo,42.2597,13.7597,1,0
+Italy,Abruzzi Apennines,42.0097,14.0097,1,0
+Italy,Accettura,40.493,16.1597,1,0
+Italy,Acilia,41.793,12.3764,1,0
+Italy,Acqui Terme,44.693,8.4764,1,0
+Italy,Acuto,41.793,13.1764,1,0
+Italy,Adamello,46.1764,10.593,1,0
+Italy,Adami,39.0764,16.343,1,0
+Italy,Adda_Lombardia,45.143,9.893,1,0
+Italy,Adegliacco_Friuli-Venezia Giulia,46.1264,13.2525,1,0
+Italy,Adelano,44.3597,10.743,1,0
+Italy,Adelfia,41.0097,16.8764,1,0
+Italy,Adrano_Sicilia,37.6764,14.843,1,0
+Italy,Adria_Veneto,45.0661,12.0675,1,0
+Italy,Adro,45.6264,9.9597,1,0
+Italy,Advise,45.7264,7.143,1,0
+Italy,Aeroporto Cristoforo Colombo_Liguria,44.4264,8.843,1,0
+Italy,Aeroporto della Malpensa,45.643,8.743,1,0
+Italy,Aetna_Sicilia,37.7597,15.0097,1,0
+Italy,Affental Spitze,47.0264,12.1264,1,0
+Italy,Affi,45.5597,10.7764,1,0
+Italy,Affile,41.893,13.1097,1,0
+Italy,Afra,43.543,12.1597,1,0
+Italy,Afragola,40.9264,14.3097,1,0
+Italy,Africo,38.0764,15.993,1,0
+Italy,Agaggio Superiore,43.9764,7.8264,1,0
+Italy,Agaro,46.3097,8.3097,1,0
+Italy,Agazzano,44.9597,9.5264,1,0
+Italy,Agelli,42.843,13.4264,1,0
+Italy,Agello,43.0764,12.243,1,0
+Italy,Ageno_Liguria,44.383,9.1405,1,0
+Italy,Agenzia Valpelina,45.6764,13.0097,1,0
+Italy,Agerola,40.643,14.543,1,0
+Italy,Aggio,44.4764,9.0097,1,0
+Italy,Aggius_Sardegna,40.943,9.0764,1,0
+Italy,Aghezzola,44.093,11.5097,1,0
+Italy,Agira_Sicilia,37.6597,14.5264,1,0
+Italy,Agliana,43.9097,11.0097,1,0
+Italy,Agliano,42.8764,12.8764,1,0
+Italy,Aglie,45.3764,7.7764,1,0
+Italy,Aglientu_Sardegna,41.093,9.1097,1,0
+Italy,Agna,44.493,10.1264,1,0
+Italy,Agnadello,45.4597,9.5597,1,0
+Italy,Agnana,38.3097,16.243,1,0
+Italy,Agnano,43.743,10.493,1,0
+Italy,Agnena Nuovo,41.1264,14.0597,1,0
+Italy,Agnino,44.2597,10.093,1,0
+Italy,Agno,45.543,11.3597,1,0
+Italy,Agnolo,45.0097,11.1597,1,0
+Italy,Agnone,41.8097,14.3764,1,0
+Italy,Agnova,42.6597,13.5097,1,0
+Italy,Agogna,45.0764,8.9097,1,0
+Italy,Agognate,45.4764,8.593,1,0
+Italy,Agordo_Veneto,46.2953,12.0472,1,0
+Italy,Agosta,41.993,13.043,1,0
+Italy,Agrano,45.8597,8.4264,1,0
+Italy,Agrate,45.5764,9.3597,1,0
+Italy,Agri,40.2264,16.743,1,0
+Italy,Agriano,42.7597,13.0264,1,0
+Italy,Agrifoglio,39.143,16.343,1,0
+Italy,Agrigento_Sicilia,37.3264,13.5764,1,0
+Italy,Agrigento,37.4597,13.5097,1,0
+Italy,Agrimonte,44.4764,10.0764,1,0
+Italy,Agro Fuori,46.2264,8.2097,1,0
+Italy,Agro Pontino,41.4264,12.9264,1,0
+Italy,Agrons_Friuli-Venezia Giulia,46.4808,12.8694,1,0
+Italy,Agropoli,40.3597,14.993,1,0
+Italy,Agrosa,46.1264,8.143,1,0
+Italy,Aguarone_Sicilia,38.3097,15.5597,1,0
+Italy,Agugliano,43.543,13.393,1,0
+Italy,Agugliaro,45.3264,11.593,1,0
+Italy,Aguiaro,45.0097,11.9097,1,0
+Italy,Aguzzo,42.493,12.6264,1,0
+Italy,Ahren Rio,46.8097,11.9264,1,0
+Italy,Aia Bosco,44.743,11.5097,1,0
+Italy,Aia Murata,43.5597,11.0597,1,0
+Italy,Aia Salina,44.6097,11.7097,1,0
+Italy,Aidomaggiore_Sardegna,40.1764,8.8597,1,0
+Italy,Aidone_Sicilia,37.4264,14.4597,1,0
+Italy,Aie,44.793,8.443,1,0
+Italy,Aielli,42.493,13.3097,1,0
+Italy,Aiello_Friuli-Venezia Giulia,45.8814,13.3753,1,0
+Italy,Aiello,42.593,13.5097,1,0
+Italy,Aiello del Sabato,40.893,14.8264,1,0
+Italy,Aigovo,43.9764,7.8097,1,0
+Italy,Aiguilles Rousses,45.443,7.1264,1,0
+Italy,Ailano,41.393,14.2097,1,0
+Italy,Ailoche,45.7097,8.2264,1,0
+Italy,Aiola,43.443,11.3597,1,0
+Italy,Airasca,44.9264,7.493,1,0
+Italy,Airola,41.0764,14.5597,1,0
+Italy,Airole,43.8764,7.5597,1,0
+Italy,Airuno,45.7597,9.4264,1,0
+Italy,Aja delle Serre,41.6264,14.8764,1,0
+Italy,Ajeta,39.9264,15.8264,1,0
+Italy,Alassio,44.0097,8.1764,1,0
+Italy,Alba,44.7097,8.043,1,0
+Italy,Albegna,42.5097,11.193,1,0
+Italy,Albenga,44.0597,8.2264,1,0
+Italy,Alessandria,44.8264,8.7097,1,0
+Italy,Alessandria_Piemonte,44.9097,8.6264,1,0
+Italy,Alessandria Smistamento,44.843,8.6264,1,0
+Italy,Alfonsine_Emilia-Romagna,44.5158,12.0661,1,0
+Italy,Alghero_Sardegna,40.5686,8.3278,1,0
+Italy,Altavilla Vicentina,45.5264,11.4764,1,0
+Italy,Amalafede,40.243,15.0764,1,0
+Italy,Amalfi,40.643,14.6097,1,0
+Italy,Amandola,42.993,13.3597,1,0
+Italy,Amantea,39.143,16.0764,1,0
+Italy,Amaro_Friuli-Venezia Giulia,46.3875,13.1055,1,0
+Italy,Amaroni,38.793,16.4597,1,0
+Italy,Amaseno,41.4764,13.343,1,0
+Italy,Amato,38.393,16.143,1,0
+Italy,Amatrice,42.643,13.293,1,0
+Italy,Ambra,43.4264,11.6097,1,0
+Italy,Ambrogiana,43.743,11.0264,1,0
+Italy,Ambrogio,44.9264,11.9264,1,0
+Italy,Ambuletum,45.093,10.9597,1,0
+Italy,Ameglia,44.0764,9.9597,1,0
+Italy,Amelia,42.5597,12.4264,1,0
+Italy,Amendola,41.6097,15.4764,1,0
+Italy,Amendolara,39.9264,16.6097,1,0
+Italy,Ameno,45.793,8.443,1,0
+Italy,Amica,39.6097,16.693,1,0
+Italy,Ammonite_Emilia-Romagna,44.4575,12.0997,1,0
+Italy,Amola,44.4597,11.1764,1,0
+Italy,Amondolea,37.9264,15.893,1,0
+Italy,Amorosi,41.2097,14.4764,1,0
+Italy,Ampezzo_Friuli-Venezia Giulia,46.4236,12.8044,1,0
+Italy,Ampinana,43.943,11.543,1,0
+Italy,Ampugnano,43.2764,11.2597,1,0
+Italy,Ancona,43.5597,13.1764,1,0
+Italy,Ancona_Marche,43.643,13.5097,1,0
+Italy,Ancona Marittima,43.6264,13.5097,1,0
+Italy,Andria_Puglia,41.2264,16.293,1,0
+Italy,Anghiari,43.543,12.0597,1,0
+Italy,Anzio,41.4597,12.6264,1,0
+Italy,Anzo,44.2264,9.5597,1,0
+Italy,Aonedis_Friuli-Venezia Giulia,46.1605,12.9741,1,0
+Italy,Aosta_Friuli-Venezia Giulia,45.8228,13.3175,1,0
+Italy,Aosta_Valle d Aosta,45.743,7.343,1,0
+Italy,Aosta,45.7764,7.4264,1,0
+Italy,Aosta Valley,45.7597,7.343,1,0
+Italy,Apagni,42.893,12.893,1,0
+Italy,Apatia,39.2264,16.7597,1,0
+Italy,Apecchio,43.5597,12.4264,1,0
+Italy,Apice,41.1264,14.943,1,0
+Italy,Apiro,43.393,13.143,1,0
+Italy,Apoleggia,42.5097,12.843,1,0
+Italy,Apollosa,41.093,14.7097,1,0
+Italy,Appecano,42.643,12.6597,1,0
+Italy,Appennino,43.0097,13.0097,1,0
+Italy,Appennino Campano,40.843,14.7597,1,0
+Italy,Appennino Centrale,42.5097,13.4264,1,0
+Italy,Appennino Lucano,40.5097,16.0097,1,0
+Italy,Appennino Sannita,41.5097,15.0097,1,0
+Italy,Appennino Siculo_Sicilia,37.6764,14.0097,1,0
+Italy,Appennino Umbro,43.1764,12.593,1,0
+Italy,Appiano,45.743,8.993,1,0
+Italy,Appignano,43.3597,13.343,1,0
+Italy,Aprica,46.1597,10.1097,1,0
+Italy,Apricale,43.893,7.6597,1,0
+Italy,Apricena,41.793,15.4597,1,0
+Italy,Apriglianello,39.093,17.0597,1,0
+Italy,Aprigliano,39.243,16.343,1,0
+Italy,Aprilia,41.6097,12.6597,1,0
+Italy,Aprilia Marittima_Friuli-Venezia Giulia,45.7086,13.078,1,0
+Italy,Apuan Alps,44.0764,10.293,1,0
+Italy,Apulia_Puglia,41.2597,16.2597,1,0
+Italy,Apulian Peninsula_Puglia,40.5097,18.0097,1,0
+Italy,Aquara,40.443,15.2597,1,0
+Italy,Aquaviva Picena,42.9597,13.8264,1,0
+Italy,Aquila,42.093,13.6764,1,0
+Italy,Aquilano,42.5597,13.6264,1,0
+Italy,Aquilea,43.9264,10.5264,1,0
+Italy,Aquileja_Friuli-Venezia Giulia,45.78,13.378,1,0
+Italy,Aquilonia,40.9597,15.5597,1,0
+Italy,Aquino,41.5097,13.7097,1,0
+Italy,Arco,45.9264,10.893,1,0
+Italy,Arcole,45.3597,11.293,1,0
+Italy,Arezzo,42.7264,12.6264,1,0
+Italy,Arezzo_Toscana,43.4264,11.893,1,0
+Italy,Argenta,44.6264,11.843,1,0
+Italy,Armeno,45.8264,8.443,1,0
+Italy,Arona,45.7764,8.5764,1,0
+Italy,Arzachena_Sardegna,41.093,9.393,1,0
+Italy,Arzignano,45.5264,11.343,1,0
+Italy,Ascoli Piceno,43.0264,13.5764,1,0
+Italy,Ascoli Piceno_Marche,42.8597,13.5764,1,0
+Italy,Ascoli Satriano,41.2097,15.5764,1,0
+Italy,Asiago Plateau,45.9097,11.5097,1,0
+Italy,Asola,45.2264,10.4097,1,0
+Italy,Asolo,45.8097,11.9097,1,0
+Italy,Asseggiano,45.493,12.193,1,0
+Italy,Assemini_Sardegna,39.3003,9.0066,1,0
+Italy,Assino,43.293,12.3764,1,0
+Italy,Assisi,43.0764,12.6264,1,0
+Italy,Asso,45.8764,9.2764,1,0
+Italy,Asti_Piemonte,44.9097,8.2097,1,0
+Italy,Asti,44.9264,8.1764,1,0
+Italy,Astico,45.6264,11.6264,1,0
+Italy,Ateleta,41.8597,14.2097,1,0
+Italy,Atella,40.8764,15.6597,1,0
+Italy,Atena,40.4597,15.5597,1,0
+Italy,Aterno,42.193,13.8597,1,0
+Italy,Atessa,42.0764,14.4597,1,0
+Italy,Atina,41.6264,13.8097,1,0
+Italy,Atolia_Sicilia,38.093,15.4597,1,0
+Italy,Atrani,40.643,14.6264,1,0
+Italy,Atri,42.593,13.9764,1,0
+Italy,Atripalda,40.9264,14.843,1,0
+Italy,Attiggio,43.3264,12.9264,1,0
+Italy,Attigliano,42.5264,12.293,1,0
+Italy,Attilia,39.193,16.8764,1,0
+Italy,Attimis_Friuli-Venezia Giulia,46.1983,13.325,1,0
+Italy,Atzara_Sardegna,40.0011,9.0878,1,0
+Italy,Auditore,43.743,12.5764,1,0
+Italy,Augusta_Sicilia,37.2264,15.2264,1,0
+Italy,Auletta,40.5764,15.4264,1,0
+Italy,Aulla,44.2097,9.9764,1,0
+Italy,Aulpi,41.2764,13.9097,1,0
+Italy,Auna di Sopra,46.5597,11.4097,1,0
+Italy,Auna di Sotto,46.5264,11.443,1,0
+Italy,Aunede_Veneto,46.4425,12.3028,1,0
+Italy,Aupa_Friuli-Venezia Giulia,46.5164,13.2619,1,0
+Italy,Aurava_Friuli-Venezia Giulia,46.048,12.8933,1,0
+Italy,Aurelia,42.143,11.793,1,0
+Italy,Auri Grande,45.693,7.143,1,0
+Italy,Aurighi,43.9597,7.8264,1,0
+Italy,Aurigo,43.993,7.9264,1,0
+Italy,Aurisina_Friuli-Venezia Giulia,45.7572,13.6883,1,0
+Italy,Aurisina Case_Friuli-Venezia Giulia,45.7589,13.6803,1,0
+Italy,Auronzo_Veneto,46.5653,12.4478,1,0
+Italy,Ausa-Corno_Friuli-Venezia Giulia,45.7678,13.2478,1,0
+Italy,Ausonia,41.3597,13.7597,1,0
+Italy,Ausonia_Puglia,40.4305,17.2264,1,0
+Italy,Aussa_Friuli-Venezia Giulia,45.7647,13.248,1,0
+Italy,Austis_Sardegna,40.0764,9.093,1,0
+Italy,Autagne,44.993,6.8264,1,0
+Italy,Auzate,45.743,8.4264,1,0
+Italy,Avacelli,43.4764,12.993,1,0
+Italy,Avaglio_Friuli-Venezia Giulia,46.4461,12.925,1,0
+Italy,Avaglio,43.9597,10.793,1,0
+Italy,Avamporto di Levante_Campania,40.8405,14.3047,1,0
+Italy,Avasinis_Friuli-Venezia Giulia,46.3005,13.0572,1,0
+Italy,Avausa_Friuli-Venezia Giulia,46.5316,12.8344,1,0
+Italy,Ave Gratia Plena,41.143,14.4097,1,0
+Italy,Aveacco_Friuli-Venezia Giulia,46.185,13.1422,1,0
+Italy,Aveggio,44.3764,9.3097,1,0
+Italy,Avella,40.9764,14.6097,1,0
+Italy,Avellino,40.9097,14.793,1,0
+Italy,Avena,39.8764,15.9264,1,0
+Italy,Avenale,43.3597,13.243,1,0
+Italy,Avendita,42.7597,13.043,1,0
+Italy,Aventino,42.1264,14.3764,1,0
+Italy,Avenza,44.0597,10.0764,1,0
+Italy,Averara,45.993,9.643,1,0
+Italy,Averau_Veneto,46.5158,12.035,1,0
+Italy,Aversa,40.9764,14.2097,1,0
+Italy,Avert d Ingherina,46.243,9.293,1,0
+Italy,Avesa,45.4764,11.0097,1,0
+Italy,Avetrana,40.3597,17.7264,1,0
+Italy,Avezzano,42.043,13.4264,1,0
+Italy,Aviano_Friuli-Venezia Giulia,46.0803,12.6044,1,0
+Italy,Aviano-Castello_Friuli-Venezia Giulia,46.0625,12.5711,1,0
+Italy,Avigliana,45.093,7.393,1,0
+Italy,Avigliano,42.6597,12.443,1,0
+Italy,Avigliano Lucana,40.743,15.7264,1,0
+Italy,Avigna,46.5764,11.3597,1,0
+Italy,Avilla_Friuli-Venezia Giulia,46.2147,13.1155,1,0
+Italy,Avio,45.743,10.943,1,0
+Italy,Avisio,46.1264,11.093,1,0
+Italy,Avola_Sicilia,36.9097,15.143,1,0
+Italy,Avolasio,45.893,9.5264,1,0
+Italy,Ayasse Grauson,45.643,7.393,1,0
+Italy,Aymaville,45.7097,7.243,1,0
+Italy,Azeglio,45.4264,8.0097,1,0
+Italy,Azienda le Trezze,45.5597,12.4597,1,0
+Italy,Azienda Pintus Argiolas_Sardegna,39.19,9.0203,1,0
+Italy,Azzanello,45.3097,9.9264,1,0
+Italy,Azzanello_Friuli-Venezia Giulia,45.8328,12.6564,1,0
+Italy,Azzano_Friuli-Venezia Giulia,46.0439,13.4139,1,0
+Italy,Azzano,44.0264,10.243,1,0
+Italy,Azzano Decimo_Friuli-Venezia Giulia,45.8928,12.7228,1,0
+Italy,Azzate,45.793,8.8097,1,0
+Italy,Azzida_Friuli-Venezia Giulia,46.1203,13.495,1,0
+Italy,Azzone,45.993,10.1264,1,0
+Italy,Badia Polesine,45.0931,11.4931,1,0
+Italy,Barcellona-Pozzo di Gotto_Sicilia,38.1598,15.2265,1,0
+Italy,Bari,40.9431,16.6765,1,0
+Italy,Bari_Puglia,41.1431,16.8598,1,0
+Italy,Bari Centrale,41.1265,16.8598,1,0
+Italy,Bari Sardo_Sardegna,39.8523,9.6484,1,0
+Italy,Barias Coupa,44.5265,6.8765,1,0
+Italy,Baricella,44.6598,11.5431,1,0
+Italy,Baricelle,42.4765,13.9598,1,0
+Italy,Barigazzo,44.2765,10.6598,1,0
+Italy,Barile,40.9598,15.6765,1,0
+Italy,Barisciano,42.3265,13.5931,1,0
+Italy,Barletta_Puglia,41.3265,16.2931,1,0
+Italy,Bassano del Grappa,45.7765,11.7431,1,0
+Italy,Bazzano,44.5098,11.0931,1,0
+Italy,Bdellugo,46.4765,13.5765,1,0
+Italy,Belluno,46.2598,12.1431,1,0
+Italy,Belluno_Veneto,46.1765,12.2584,1,0
+Italy,Benedello,44.3765,10.8765,1,0
+Italy,Bergamo_Lombardia,45.6931,9.7265,1,0
+Italy,Bergamo,45.8431,9.8098,1,0
+Italy,Bergamo Alps,46.0098,10.0098,1,0
+Italy,Bertinoro_Emilia-Romagna,44.1567,12.1487,1,0
+Italy,Besozzo,45.8598,8.6598,1,0
+Italy,Besozzola,44.7598,9.8931,1,0
+Italy,Biandronno,45.8265,8.7265,1,0
+Italy,Biella,45.5765,8.0598,1,0
+Italy,Bindella,45.2431,11.2598,1,0
+Italy,Bionde di Visegna,45.2098,11.1098,1,0
+Italy,Bithia_Sardegna,38.9265,8.8931,1,0
+Italy,Blanc,45.8765,6.9098,1,0
+Italy,Blera,42.2765,12.0265,1,0
+Italy,Blessaglia_Veneto,45.8151,12.7348,1,0
+Italy,Blessano_Friuli-Venezia Giulia,46.0534,13.1112,1,0
+Italy,Blevy,45.7598,7.4765,1,0
+Italy,Blinnenhorn,46.4265,8.3265,1,0
+Italy,Blucchi,44.7431,9.5598,1,0
+Italy,Blumau,46.5098,11.4598,1,0
+Italy,Bologna,44.4765,11.4431,1,0
+Italy,Bologna_Emilia-Romagna,44.4931,11.3431,1,0
+Italy,Bologna Centrale,44.5098,11.3598,1,0
+Italy,Bologna Ravone,44.5098,11.3265,1,0
+Italy,Bologna San Donato,44.5098,11.3431,1,0
+Italy,Bolognana,44.0431,10.4765,1,0
+Italy,Bolognano,42.2265,13.9598,1,0
+Italy,Bolzano_Trentino-Alto Adige,46.5265,11.3765,1,0
+Italy,Bolzano_Friuli-Venezia Giulia,45.9812,13.4006,1,0
+Italy,Bolzano_Veneto,46.1651,12.164,1,0
+Italy,Bolzano,46.7265,11.5098,1,0
+Italy,Bolzano Novarese,45.7765,8.4598,1,0
+Italy,Bolzano Vicentino,45.6098,11.6265,1,0
+Italy,Bonate di Sopra,45.6931,9.5598,1,0
+Italy,Bondeno,44.8931,11.4265,1,0
+Italy,Borgo Valsugana,46.0598,11.4598,1,0
+Italy,Borgomanero,45.7098,8.4765,1,0
+Italy,Borgoricco,45.5431,11.9765,1,0
+Italy,Borgosesia,45.7265,8.2765,1,0
+Italy,Bra,44.7098,7.8598,1,0
+Italy,Brescia_Lombardia,45.5598,10.2598,1,0
+Italy,Brescia,45.6431,10.3098,1,0
+Italy,Bressanone,46.7265,11.6598,1,0
+Italy,Bresso,45.5431,9.1931,1,0
+Italy,Brignano Gera d Adda,45.5431,9.6431,1,0
+Italy,Brindisi_Puglia,40.6431,17.9431,1,0
+Italy,Brunico,46.8098,11.9431,1,0
+Italy,Buggiano,43.8931,10.7431,1,0
+Italy,Burgio_Sicilia,36.7431,15.0431,1,0
+Italy,Busto Arsizio,45.6265,8.8598,1,0
+Italy,By,45.8931,7.3098,1,0
+Italy,Cagliari_Sardegna,39.2266,9.1266,1,0
+Italy,Cagliari,46.3766,10.8599,1,0
+Italy,Calabria,39.0099,16.5099,1,0
+Italy,Calcinato,45.4599,10.4099,1,0
+Italy,Caltagirone_Sicilia,37.2432,14.5266,1,0
+Italy,Camerino,43.1432,13.0766,1,0
+Italy,Canale,44.8099,8.0099,1,0
+Italy,Cantu,45.7432,9.1432,1,0
+Italy,Carbonera_Veneto,45.6905,12.2982,1,0
+Italy,Carpenedolo,45.3766,10.4432,1,0
+Italy,Carpi,44.7932,10.8932,1,0
+Italy,Carpineto Romano,41.6099,13.0932,1,0
+Italy,Carrara,44.0932,10.1099,1,0
+Italy,Carrara San Giorgio,45.2932,11.8266,1,0
+Italy,Carru,44.4932,7.8766,1,0
+Italy,Casale di Scodosia,45.1932,11.4766,1,0
+Italy,Casale Monferrato,45.1432,8.4599,1,0
+Italy,Casalgrande,44.5932,10.7432,1,0
+Italy,Casalpusterlengo,45.1932,9.6599,1,0
+Italy,Caserta_Campania,41.0766,14.3432,1,0
+Italy,Caserta,41.2432,14.1766,1,0
+Italy,Cassella_Veneto,44.8771,12.3799,1,0
+Italy,Castano Primo,45.5599,8.7932,1,0
+Italy,Castelfiorentino,43.6099,10.9766,1,0
+Italy,Castelnuovo ne Monti,44.4432,10.4099,1,0
+Italy,Castelvetro di Modena,44.5099,10.9599,1,0
+Italy,Castiglione delle Stiviere,45.3932,10.4932,1,0
+Italy,Catania_Sicilia,37.5099,15.1099,1,0
+Italy,Catania,37.3932,14.6766,1,0
+Italy,Catania Acquicella_Sicilia,37.4932,15.0766,1,0
+Italy,Catania Borgo_Sicilia,37.5266,15.0932,1,0
+Italy,Cengio,44.3932,8.2099,1,0
+Italy,Cernobbio,45.8432,9.0766,1,0
+Italy,Certaldo,43.5599,11.0432,1,0
+Italy,Cerveteri,42.0099,12.1099,1,0
+Italy,Cesena,42.7432,13.7266,1,0
+Italy,Cesena_Emilia-Romagna,44.1532,12.2596,1,0
+Italy,Cesenatico_Emilia-Romagna,44.2082,12.4216,1,0
+Italy,Chieti,42.3599,14.1766,1,0
+Italy,Chiusi,43.0266,11.9599,1,0
+Italy,Chiusi della Verna,43.7099,11.9432,1,0
+Italy,Citta di Castello,43.4599,12.2432,1,0
+Italy,Cittadella,45.6599,11.7932,1,0
+Italy,Cittanova,38.3599,16.0932,1,0
+Italy,Claino,46.0099,9.0932,1,0
+Italy,Clanezzo,45.7599,9.6099,1,0
+Italy,Clao_Friuli-Venezia Giulia,46.1913,13.3924,1,0
+Italy,Clap Forat_Friuli-Venezia Giulia,46.4802,13.3518,1,0
+Italy,Clap Varmost_Friuli-Venezia Giulia,46.4557,12.5791,1,0
+Italy,Clarenza di San Pietro_Sicilia,37.1099,14.5099,1,0
+Italy,Classe Fuori,44.3932,12.2432,1,0
+Italy,Clastra_Friuli-Venezia Giulia,46.1471,13.5313,1,0
+Italy,Clauiano_Friuli-Venezia Giulia,45.9396,13.3443,1,0
+Italy,Claut,46.2766,12.5266,1,0
+Italy,Claut_Friuli-Venezia Giulia,46.2799,12.5241,1,0
+Italy,Clauzetto_Friuli-Venezia Giulia,46.2391,12.9241,1,0
+Italy,Clavais_Friuli-Venezia Giulia,46.5113,12.8924,1,0
+Italy,Clavieres,44.9432,6.7599,1,0
+Italy,Clemente,45.4266,12.3432,1,0
+Italy,Clendis_Friuli-Venezia Giulia,46.4288,12.7957,1,0
+Italy,Cleran,46.6932,11.6766,1,0
+Italy,Cles,46.3766,11.0432,1,0
+Italy,Cleto,39.0932,16.1599,1,0
+Italy,Cleuis_Friuli-Venezia Giulia,46.5705,13.0096,1,0
+Italy,Clevolo,46.4932,10.2766,1,0
+Italy,Clitumno,42.9432,12.6266,1,0
+Italy,Clodig_Friuli-Venezia Giulia,46.1721,13.6118,1,0
+Italy,Clotes,44.8932,6.9266,1,0
+Italy,Cludinico_Friuli-Venezia Giulia,46.4677,12.8935,1,0
+Italy,Clusane,45.6766,10.0266,1,0
+Italy,Clusone,45.8932,9.9599,1,0
+Italy,Coimo,46.1432,8.4099,1,0
+Italy,Cologne,45.5932,9.9432,1,0
+Italy,Como,45.9932,9.2266,1,0
+Italy,Como_Lombardia,46.0099,9.2932,1,0
+Italy,Conegliano_Veneto,45.9005,12.3024,1,0
+Italy,Conselice,44.5266,11.8266,1,0
+Italy,Cordenons_Friuli-Venezia Giulia,45.9996,12.7118,1,0
+Italy,Corigliano Calabro,39.6099,16.5266,1,0
+Italy,Cornuda_Veneto,45.833,12.0263,1,0
+Italy,Cosenza_Calabria,39.3099,16.2599,1,0
+Italy,Cosenza,39.4766,16.4266,1,0
+Italy,Costa Volpino,45.8599,10.1099,1,0
+Italy,Cotignola,44.3932,11.9432,1,0
+Italy,Crema,45.3766,9.6932,1,0
+Italy,Cremona,45.1266,10.0432,1,0
+Italy,Crevacuore,45.6932,8.2599,1,0
+Italy,Crevalcore,44.7266,11.1599,1,0
+Italy,Crotone_Calabria,39.0932,17.1432,1,0
+Italy,Cuili Issi_Sardegna,40.8535,8.2902,1,0
+Italy,Cuneo_Piemonte,44.3932,7.5432,1,0
+Italy,Cuneo,44.5266,7.5766,1,0
+Italy,Cunico,45.0432,8.1099,1,0
+Italy,Cura Nuova,42.9766,10.8099,1,0
+Italy,Curno,45.6932,9.6266,1,0
+Italy,Cursolo-Orasso,46.1099,8.5932,1,0
+Italy,Cussorgia_Sardegna,39.1099,8.4099,1,0
+Italy,Custonaci_Sicilia,38.0766,12.6932,1,0
+Italy,Cuvara,44.4932,11.2432,1,0
+Italy,Cuzzago,46.0099,8.3766,1,0
+Italy,D Ardes,41.6433,15.0933,1,0
+Italy,D Arzaghena_Sardegna,41.0933,9.4433,1,0
+Italy,Dairago,45.5767,8.8767,1,0
+Italy,Dalegna del Collio_Friuli-Venezia Giulia,46.0431,13.4847,1,0
+Italy,Dambel,46.41,11.11,1,0
+Italy,Danta_Veneto,46.5742,12.5294,1,0
+Italy,Daone,45.96,10.6267,1,0
+Italy,Dardago_Friuli-Venezia Giulia,46.0656,12.5444,1,0
+Italy,Darfo,45.8933,10.1933,1,0
+Italy,Darsena Albicini_Lazio,42.0933,11.7933,1,0
+Italy,Darsena Capitanaria_Toscana,42.9392,10.555,1,0
+Italy,Darsena di Ravenna_Emilia-Romagna,44.4267,12.21,1,0
+Italy,Darsena Italsider_Toscana,42.9461,10.5528,1,0
+Italy,Darsena Magona d Italia_Toscana,42.9406,10.5533,1,0
+Italy,Darzo,45.86,10.56,1,0
+Italy,Dasa,38.5767,16.21,1,0
+Italy,Dasindo,46.01,10.86,1,0
+Italy,Datti,40.1267,18.11,1,0
+Italy,Dattilo_Sicilia,37.9767,12.66,1,0
+Italy,Davestra_Veneto,46.3281,12.3358,1,0
+Italy,Davoli,38.66,16.4933,1,0
+Italy,Dazio,46.16,9.61,1,0
+Italy,De Biasi,41.2433,14.1267,1,0
+Italy,De Crescenzio,41.11,16.56,1,0
+Italy,De Giergi_Sicilia,37.91,12.36,1,0
+Italy,De Nardis,42.61,13.76,1,0
+Italy,De Pascale,41.3267,14.41,1,0
+Italy,Deangelis,39.6933,16.36,1,0
+Italy,Debellis_Friuli-Venezia Giulia,46.2722,13.3372,1,0
+Italy,Decima,44.71,11.2267,1,0
+Italy,Decimontanno_Sardegna,39.3225,8.9794,1,0
+Italy,Decimoputzu_Sardegna,39.3458,8.9256,1,0
+Italy,Decollatura,39.06,16.36,1,0
+Italy,Decorata,41.4267,14.8933,1,0
+Italy,Dedera,38.0433,16.0433,1,0
+Italy,Defenze,41.3933,13.9433,1,0
+Italy,Defereggengebirge,46.8767,12.3433,1,0
+Italy,Degano_Friuli-Venezia Giulia,46.4153,12.9297,1,0
+Italy,Deggiano,46.3267,10.86,1,0
+Italy,Degioz,45.61,7.21,1,0
+Italy,Dego,44.46,8.3267,1,0
+Italy,Deiva Marina,44.2267,9.51,1,0
+Italy,Del Agnello,44.6767,6.9933,1,0
+Italy,Del Corno di Sotto,46.61,11.46,1,0
+Italy,Delebio,46.1433,9.46,1,0
+Italy,Delia_Sicilia,37.36,13.9267,1,0
+Italy,Delianuova,38.2433,15.9267,1,0
+Italy,Deliceto,41.2267,15.3933,1,0
+Italy,Dello,45.4267,10.0767,1,0
+Italy,Delta del Po,44.96,12.4267,1,0
+Italy,Demonte,44.3267,7.2933,1,0
+Italy,Denno,46.2767,11.06,1,0
+Italy,Denti di Ambin,45.1767,6.91,1,0
+Italy,Deppo_Veneto,46.4756,12.425,1,0
+Italy,Depressa,39.9767,18.3767,1,0
+Italy,Dermulo,46.3433,11.0767,1,0
+Italy,Deruta,42.9933,12.4267,1,0
+Italy,Dervio,46.0767,9.31,1,0
+Italy,Desana,45.2767,8.36,1,0
+Italy,Desco,46.16,9.6267,1,0
+Italy,Dese_Veneto,45.5333,12.3942,1,0
+Italy,Desenzano del Garda,45.4767,10.5433,1,0
+Italy,Desertes,44.9933,6.7933,1,0
+Italy,Deserto_Veneto,45.1144,12.2717,1,0
+Italy,Desio,45.6267,9.2267,1,0
+Italy,Destro,39.51,16.71,1,0
+Italy,Desulo_Sardegna,40.0267,9.2433,1,0
+Italy,Devetachi_Friuli-Venezia Giulia,45.8803,13.5797,1,0
+Italy,Deveys,45.11,6.9267,1,0
+Italy,Devin_Friuli-Venezia Giulia,45.7831,13.6117,1,0
+Italy,Devin-Timavo,45.7933,13.6433,1,0
+Italy,Dezzo,45.9933,10.0933,1,0
+Italy,Di Mezzo,44.4933,6.9933,1,0
+Italy,Di Natale_Sicilia,36.7267,15.01,1,0
+Italy,Di Santo,42.0933,14.5767,1,0
+Italy,Diaccialone,42.7267,11.2267,1,0
+Italy,Diamante,39.6933,15.8267,1,0
+Italy,Diano,39.1433,16.3267,1,0
+Italy,Diano Borello,43.96,8.06,1,0
+Italy,Diano Castello,43.9433,8.0433,1,0
+Italy,Diano Marina,43.91,8.0933,1,0
+Italy,Dicomano,43.8933,11.5267,1,0
+Italy,Diecimo,43.9767,10.51,1,0
+Italy,Diegaro_Emilia-Romagna,44.1731,12.2028,1,0
+Italy,Dierico_Friuli-Venezia Giulia,46.5281,13.1422,1,0
+Italy,Diga del Gleno,46.0267,10.0767,1,0
+Italy,Diga di Cornigliano_Liguria,44.41,8.8767,1,0
+Italy,Diga di Punta Riso_Puglia,40.6725,17.9933,1,0
+Italy,Diga Duca degli Abruzzi_Campania,40.84,14.2844,1,0
+Italy,Digerbato_Sicilia,37.7933,12.5433,1,0
+Italy,Dignano_Friuli-Venezia Giulia,46.0944,12.9489,1,0
+Italy,Digon_Veneto,46.6547,12.5389,1,0
+Italy,Dilignidis_Friuli-Venezia Giulia,46.4264,12.8453,1,0
+Italy,Dimaro,46.3433,10.8767,1,0
+Italy,Dinami,38.5267,16.16,1,0
+Italy,Diolaguardia_Emilia-Romagna,44.0858,12.2508,1,0
+Italy,Diolo,44.86,9.81,1,0
+Italy,Dipignano,39.26,16.26,1,0
+Italy,Direzione_Sardegna,40.81,9.0267,1,0
+Italy,Dirillo_Sicilia,37.01,14.3433,1,0
+Italy,Disgrazia,46.2767,9.76,1,0
+Italy,Diso,40.01,18.3933,1,0
+Italy,Disvetro,44.8767,11.0767,1,0
+Italy,Dittaino_Sicilia,37.4267,15.01,1,0
+Italy,Diversivo del Volano,44.8267,11.66,1,0
+Italy,Divieto_Sicilia,38.26,15.4433,1,0
+Italy,Divignano,45.66,8.61,1,0
+Italy,Divino Amore,41.7933,12.5433,1,0
+Italy,Dizzasco,45.9433,9.11,1,0
+Italy,Dogliani,44.5433,7.9433,1,0
+Italy,Dolfina_Veneto,45.1589,12.225,1,0
+Italy,Domodossola,46.1267,8.2933,1,0
+Italy,Dondena,45.6267,7.56,1,0
+Italy,Draga Sant Elia_Friuli-Venezia Giulia,45.6311,13.8989,1,0
+Italy,Dragodena,44.3433,11.0433,1,0
+Italy,Dragonetti,40.8433,15.7267,1,0
+Italy,Dragoni,40.31,18.1433,1,0
+Italy,Drapia,38.6767,15.9267,1,0
+Italy,Drauto,38.6433,15.0933,1,0
+Italy,Drego,44.01,7.8267,1,0
+Italy,Dreieck Spitze,46.9767,12.1433,1,0
+Italy,Dreiecker Spitze,47.0933,12.1433,1,0
+Italy,Dreiherrnspitze,47.0767,12.26,1,0
+Italy,Dreisprachenspitze,46.5433,10.4933,1,0
+Italy,Drena,45.9767,10.9433,1,0
+Italy,Drenchia_Friuli-Venezia Giulia,46.1925,13.6481,1,0
+Italy,Driolassa_Friuli-Venezia Giulia,45.8586,13.0794,1,0
+Italy,Dro,45.9767,10.91,1,0
+Italy,Droneretto,44.5433,7.2267,1,0
+Italy,Dronero,44.4767,7.3767,1,0
+Italy,Drosi,38.4267,15.96,1,0
+Italy,Drove di Solterra,43.4933,11.16,1,0
+Italy,Druento,45.1433,7.5933,1,0
+Italy,Drugolo,45.51,10.4767,1,0
+Italy,Druogno,46.1433,8.4433,1,0
+Italy,Druseo,44.5433,9.56,1,0
+Italy,Dualchi_Sardegna,40.2267,8.91,1,0
+Italy,Dubino,46.16,9.46,1,0
+Italy,Ducato di Fabriago,44.4933,11.8767,1,0
+Italy,Duddova,43.4267,11.5933,1,0
+Italy,Due Cossani,46.0433,8.7933,1,0
+Italy,Due Maesta,44.6767,10.66,1,0
+Italy,Due Santi,42.8267,12.46,1,0
+Italy,Dueville,45.6433,11.5433,1,0
+Italy,Dufourspitze,45.9433,7.8767,1,0
+Italy,Dugale Cannucchio,44.96,11.0433,1,0
+Italy,Dugale Santa Caterina,44.9267,10.9933,1,0
+Italy,Dugara,44.5767,9.71,1,0
+Italy,Dugenta,41.1433,14.46,1,0
+Italy,Dugliolo,44.6267,11.5933,1,0
+Italy,Duino Aurisina,45.7767,13.61,1,0
+Italy,Dumenza,46.0267,8.7933,1,0
+Italy,Dunarobba,42.6767,12.46,1,0
+Italy,Duomo Vegezzi,44.9767,9.61,1,0
+Italy,Durazzanino_Emilia-Romagna,44.2925,12.1131,1,0
+Italy,Durazzano_Emilia-Romagna,44.2928,12.1297,1,0
+Italy,Durazzano,41.0767,14.46,1,0
+Italy,Durna in Selva_Trentino-Alto Adige,46.7783,12.1928,1,0
+Italy,Duronia,41.6767,14.46,1,0
+Italy,Dusino,44.9433,7.9767,1,0
+Italy,Dussoi_Veneto,46.1078,12.1917,1,0
+Italy,E Collicello,42.6268,12.4101,1,0
+Italy,Ebbio,44.8101,9.5768,1,0
+Italy,Eboli,40.6101,15.0768,1,0
+Italy,Ecche_Veneto,46.5829,12.7029,1,0
+Italy,Eclause,45.0934,6.9101,1,0
+Italy,Ecnomo_Sicilia,37.1101,13.9101,1,0
+Italy,Edolo,46.1934,10.3434,1,0
+Italy,Egadi Islands_Sicilia,37.9768,12.2768,1,0
+Italy,Egesta_Sicilia,37.9434,12.8434,1,0
+Italy,Eggentaler Rio,46.4601,11.3101,1,0
+Italy,Eggi,42.7768,12.7934,1,0
+Italy,Egna,46.3268,11.2768,1,0
+Italy,Egnazia,40.8601,17.4101,1,0
+Italy,Eianina,39.8268,16.2768,1,0
+Italy,Eisacktal,46.7601,11.6268,1,0
+Italy,Eisenreich,46.6934,12.4768,1,0
+Italy,Eisjoch,46.7768,11.0101,1,0
+Italy,Eita,46.3768,10.2601,1,0
+Italy,Elba_Toscana,42.7768,10.2934,1,0
+Italy,Elce,42.1934,14.3934,1,0
+Italy,Elea,40.1768,15.1601,1,0
+Italy,Elena Marina,40.547,17.0976,1,0
+Italy,Elice,42.6434,13.5268,1,0
+Italy,Elmas_Sardegna,39.277,9.0618,1,0
+Italy,Elmo,42.7101,11.7101,1,0
+Italy,Elsa,43.7268,10.8768,1,0
+Italy,Elva,44.5434,7.0934,1,0
+Italy,Elvas,46.7268,11.6768,1,0
+Italy,Elvella,42.8101,11.8101,1,0
+Italy,Elviano,43.3434,13.6934,1,0
+Italy,Emarese,45.7268,7.6934,1,0
+Italy,Emilia_Emilia-Romagna,44.7601,11.0101,1,0
+Italy,Emilia,44.5101,12.0101,1,0
+Italy,Emissario,43.7768,10.6434,1,0
+Italy,Emissario Principale,45.1101,11.2101,1,0
+Italy,Emissario San Leopoldo,42.7434,10.9601,1,0
+Italy,Empoli,43.7268,10.9601,1,0
+Italy,Enas_Sardegna,40.8601,9.4434,1,0
+Italy,Endine Gaiano,45.8101,9.9934,1,0
+Italy,Enemonzo_Friuli-Venezia Giulia,46.4184,12.8895,1,0
+Italy,Enetal,46.5601,10.7768,1,0
+Italy,Engazza,45.2101,11.0601,1,0
+Italy,Enna,37.5934,14.4434,1,0
+Italy,Enna_Sicilia,37.5768,14.2768,1,0
+Italy,Ente,42.9934,11.5268,1,0
+Italy,Entella,44.3268,9.3434,1,0
+Italy,Entrampo_Friuli-Venezia Giulia,46.5215,12.8659,1,0
+Italy,Entraque,44.2434,7.4101,1,0
+Italy,Entreves,45.8268,6.9601,1,0
+Italy,Envie,44.6934,7.3768,1,0
+Italy,Enza,44.9101,10.5268,1,0
+Italy,Epago_Trentino-Alto Adige,46.9595,12.1029,1,0
+Italy,Epinel,45.6434,7.3268,1,0
+Italy,Episcopia,40.0768,16.1101,1,0
+Italy,Epomeo,40.7434,13.9101,1,0
+Italy,Equi,44.1601,10.1768,1,0
+Italy,Eraclea_Veneto,45.5907,12.6857,1,0
+Italy,Eranova,38.4768,15.9268,1,0
+Italy,Erbezzo,45.6434,11.0101,1,0
+Italy,Erbezzo_Friuli-Venezia Giulia,46.1995,13.4676,1,0
+Italy,Erbusco,45.6101,9.9768,1,0
+Italy,Erchie,40.4434,17.7434,1,0
+Italy,Eredita,40.3768,15.0601,1,0
+Italy,Eremiti,40.1601,15.2934,1,0
+Italy,Eremo,42.1601,12.1268,1,0
+Italy,Erice_Sicilia,38.0434,12.5934,1,0
+Italy,Eridio,45.7934,10.5101,1,0
+Italy,Erli,44.1434,8.1101,1,0
+Italy,Erto_Friuli-Venezia Giulia,46.2865,12.3798,1,0
+Italy,Erula_Sardegna,40.8101,8.9601,1,0
+Italy,Esanatoglia,43.2601,12.9601,1,0
+Italy,Escalaplano_Sardegna,39.6345,9.3623,1,0
+Italy,Eschio,46.6268,11.2601,1,0
+Italy,Escolca_Sardegna,39.7087,9.1315,1,0
+Italy,Escovedu_Sardegna,39.8009,8.8662,1,0
+Italy,Esine,45.9268,10.2601,1,0
+Italy,Esino,43.6601,13.3768,1,0
+Italy,Esino Lario,45.9934,9.3434,1,0
+Italy,Esmate,45.7934,10.0268,1,0
+Italy,Esperia,41.3934,13.6934,1,0
+Italy,Este,45.2434,11.6601,1,0
+Italy,Esterzili_Sardegna,39.792,9.297,1,0
+Italy,Etroubles,45.8268,7.2434,1,0
+Italy,Etruscan Apennines,44.0101,11.5101,1,0
+Italy,Etsch_Veneto,45.1729,12.3382,1,0
+Italy,Evola,43.7101,10.8101,1,0
+Italy,Exilles,45.1101,6.9434,1,0
+Italy,Fabriano,43.3435,12.9102,1,0
+Italy,Faenza,44.2935,11.8935,1,0
+Italy,Fagagna_Friuli-Venezia Giulia,46.1244,13.1041,1,0
+Italy,Fano,43.8435,13.0269,1,0
+Italy,Fegino,44.4435,8.8935,1,0
+Italy,Feltre,46.0269,11.9102,1,0
+Italy,Fermo,43.1602,13.7269,1,0
+Italy,Ferrara_Emilia-Romagna,44.8435,11.5935,1,0
+Italy,Ferrara_Trentino-Alto Adige,46.733,12.1444,1,0
+Italy,Ferrara,44.8102,11.8435,1,0
+Italy,Ferrara_Friuli-Venezia Giulia,46.266,12.786,1,0
+Italy,Ferrera,44.3602,7.3269,1,0
+Italy,Ferrera Cenisio,45.2102,6.9935,1,0
+Italy,Ferrera Erbognone,45.1269,8.8769,1,0
+Italy,Fidenza,44.8769,10.0602,1,0
+Italy,Finale Emilia,44.8435,11.2935,1,0
+Italy,Fiorenzuola d Arda,44.9435,9.9269,1,0
+Italy,Firenze Campo di Marte,43.7935,11.2769,1,0
+Italy,Firenze-Rifredi,43.7935,11.2435,1,0
+Italy,Flagogna_Friuli-Venezia Giulia,46.2196,12.9696,1,0
+Italy,Flaibano_Friuli-Venezia Giulia,46.0696,12.9958,1,0
+Italy,Flaipano_Friuli-Venezia Giulia,46.2785,13.228,1,0
+Italy,Flambro_Friuli-Venezia Giulia,45.9463,13.1063,1,0
+Italy,Flambruzzo_Friuli-Venezia Giulia,45.8941,13.0819,1,0
+Italy,Flamignano,42.5435,13.6269,1,0
+Italy,Flavetto,39.3102,16.4935,1,0
+Italy,Flavon,46.3102,11.0269,1,0
+Italy,Fleans_Friuli-Venezia Giulia,46.5969,12.7844,1,0
+Italy,Fleres,46.9769,11.3602,1,0
+Italy,Fleri_Sicilia,37.6602,15.1102,1,0
+Italy,Flero,45.4935,10.1935,1,0
+Italy,Florence,43.8435,11.3435,1,0
+Italy,Florence_Toscana,43.7769,11.2602,1,0
+Italy,Florencia Cascine,43.7935,11.2102,1,0
+Italy,Floresta_Sicilia,37.9935,14.9269,1,0
+Italy,Floriano,42.7769,13.7435,1,0
+Italy,Floridia_Sicilia,37.0935,15.1602,1,0
+Italy,Florinas_Sardegna,40.6602,8.6769,1,0
+Italy,Floronz,46.7935,11.8935,1,0
+Italy,Flumendosa_Sardegna,39.4435,9.6269,1,0
+Italy,Flumeri,41.0935,15.1602,1,0
+Italy,Flumignano_Friuli-Venezia Giulia,45.9321,13.1566,1,0
+Italy,Flumineddu_Sardegna,40.3102,9.5435,1,0
+Italy,Flumini_Sardegna,39.2271,9.2946,1,0
+Italy,Flumini Belu_Sardegna,39.6435,8.7102,1,0
+Italy,Flumini Matta_Sardegna,39.7102,8.5769,1,0
+Italy,Flumini Pelau_Sardegna,39.7935,9.6769,1,0
+Italy,Fluminimaggiore_Sardegna,39.4499,8.5066,1,0
+Italy,Fluno,44.4269,11.7769,1,0
+Italy,Flussio_Sardegna,40.2769,8.5435,1,0
+Italy,Fluvione,42.8269,13.5102,1,0
+Italy,Foggia,41.4602,15.5435,1,0
+Italy,Foggia_Puglia,41.4602,15.5769,1,0
+Italy,Foligno_Umbria,42.9602,12.7102,1,0
+Italy,Forli_Emilia-Romagna,44.2041,12.081,1,0
+Italy,Forli,44.0935,12.0435,1,0
+Italy,Forli del Sannio,41.7102,14.1935,1,0
+Italy,Forlimpopoli_Emilia-Romagna,44.2044,12.1513,1,0
+Italy,Fornovo di Taro,44.7102,10.1102,1,0
+Italy,Fossano,44.5602,7.7269,1,0
+Italy,Frosinone,41.6269,13.4602,1,0
+Italy,Fubine,44.9769,8.4435,1,0
+Italy,Fucecchio,43.7435,10.8102,1,0
+Italy,Fucignano,42.7769,13.6435,1,0
+Italy,Fucine,46.3102,10.7435,1,0
+Italy,Fugazzolo di Sopra,44.5269,10.0269,1,0
+Italy,Fulci_Sicilia,37.9602,15.3935,1,0
+Italy,Fumane,45.5602,10.8935,1,0
+Italy,Fumone,41.7435,13.2935,1,0
+Italy,Funcluo,44.4602,11.2435,1,0
+Italy,Funes_Veneto,46.188,12.4127,1,0
+Italy,Fungaia,43.3435,11.2269,1,0
+Italy,Funtana de Canai_Sardegna,39.0102,8.4269,1,0
+Italy,Funti,42.8102,13.5102,1,0
+Italy,Fuorigrotta,40.8435,14.2102,1,0
+Italy,Furci,42.0102,14.6102,1,0
+Italy,Furnolo,41.2769,14.0602,1,0
+Italy,Furore,40.6269,14.5602,1,0
+Italy,Furtei_Sardegna,39.5733,8.9588,1,0
+Italy,Fuscaldo,39.4269,16.0435,1,0
+Italy,Fuscoli,40.7102,14.5602,1,0
+Italy,Fusea_Friuli-Venezia Giulia,46.4355,13.0058,1,0
+Italy,Fusignano,44.4769,11.9602,1,0
+Italy,Fusina_Veneto,45.4308,12.2591,1,0
+Italy,Fusine,46.1602,9.7435,1,0
+Italy,Fusine_Veneto,46.3869,12.1391,1,0
+Italy,Fusine Laghi,46.5102,13.6935,1,0
+Italy,Fustagnano,42.6935,13.5269,1,0
+Italy,Futani,40.1602,15.3269,1,0
+Italy,Gallarate,45.677,8.7936,1,0
+Italy,Gallipoli_Puglia,40.0659,17.9867,1,0
+Italy,Gardone Val Trompia,45.6936,10.1936,1,0
+Italy,Genazzano,41.8436,12.977,1,0
+Italy,Genoa_Liguria,44.427,8.9603,1,0
+Italy,Genoa,44.5103,9.077,1,0
+Italy,Genova_Sicilia,37.9603,12.7103,1,0
+Italy,Genova Brignole,44.4103,8.9603,1,0
+Italy,Genova Campasso,44.427,8.9103,1,0
+Italy,Genova Cornigliano,44.427,8.877,1,0
+Italy,Genova Piazza Principe,44.4103,8.9103,1,0
+Italy,Genova Sampierdarena,44.427,8.8936,1,0
+Italy,Genova Trasta,44.4436,8.877,1,0
+Italy,Gerano,41.9436,12.9936,1,0
+Italy,Gerosa,45.8603,9.577,1,0
+Italy,Gharaca,37.9603,15.9436,1,0
+Italy,Ghedi,45.4103,10.277,1,0
+Italy,Ghemme,45.6103,8.427,1,0
+Italy,Gherardi,43.9936,10.1936,1,0
+Italy,Gherghenzano,44.6936,11.3936,1,0
+Italy,Ghetto_Emilia-Romagna,44.0206,12.575,1,0
+Italy,Ghiacciaio del Miage,45.8103,6.8603,1,0
+Italy,Ghiacciaio di Fradusta,46.2603,11.877,1,0
+Italy,Ghiaie,45.727,9.5936,1,0
+Italy,Ghiarone Biondini,44.8436,11.527,1,0
+Italy,Ghibullo_Emilia-Romagna,44.3556,12.1597,1,0
+Italy,Ghiffa,45.977,8.627,1,0
+Italy,Ghigiano,43.2936,12.6103,1,0
+Italy,Ghigo,44.8936,7.0603,1,0
+Italy,Ghilarza_Sardegna,40.127,8.8436,1,0
+Italy,Ghiosso,46.2436,8.227,1,0
+Italy,Ghirano_Friuli-Venezia Giulia,45.8542,12.5753,1,0
+Italy,Ghirla,45.927,8.8436,1,0
+Italy,Ghisa,45.5436,11.3936,1,0
+Italy,Ghisalba,45.5936,9.7603,1,0
+Italy,Ghisellina,44.8603,11.327,1,0
+Italy,Ghisione,45.027,11.127,1,0
+Italy,Ghislarengo,45.5436,8.3936,1,0
+Italy,Ghivizzano,44.0436,10.527,1,0
+Italy,Ghizzano,43.5436,10.7936,1,0
+Italy,Ghorlo,37.9936,15.827,1,0
+Italy,Glagno_Friuli-Venezia Giulia,46.4184,13.1584,1,0
+Italy,Glamosa_Veneto,46.1359,12.1845,1,0
+Italy,Glaon_Veneto,46.1111,12.205,1,0
+Italy,Glato,46.077,10.9103,1,0
+Italy,Glaunicco_Friuli-Venezia Giulia,45.9264,12.9634,1,0
+Italy,Gleris_Friuli-Venezia Giulia,45.9078,12.8831,1,0
+Italy,Gli Angeli,43.5603,13.527,1,0
+Italy,Gli Olmi_Veneto,45.6836,12.3403,1,0
+Italy,Gli Olmi,43.877,10.9936,1,0
+Italy,Glievizza_Friuli-Venezia Giulia,46.2042,13.5236,1,0
+Italy,Glinscica,45.627,13.8103,1,0
+Italy,Glockenkarkopf,47.0936,12.2103,1,0
+Italy,Glorenza,46.677,10.5603,1,0
+Italy,Glori,43.9603,7.8436,1,0
+Italy,Glorie_Emilia-Romagna,44.4875,12.0811,1,0
+Italy,Gniva_Friuli-Venezia Giulia,46.3784,13.3122,1,0
+Italy,Gnocca_Veneto,44.8975,12.3461,1,0
+Italy,Gnocchetta_Veneto,44.8578,12.3909,1,0
+Italy,Gorizia_Friuli-Venezia Giulia,45.915,13.6089,1,0
+Italy,Gorizia,45.927,13.5103,1,0
+Italy,Graile,46.3436,10.3603,1,0
+Italy,Gricignano,43.927,11.377,1,0
+Italy,Griman_Veneto,45.0578,12.1942,1,0
+Italy,Gsiesertorl,46.8936,12.2603,1,0
+Italy,Gualdo Tadino,43.2436,12.7936,1,0
+Italy,Guastalla,44.927,10.6603,1,0
+Italy,Gubbio,43.3603,12.5936,1,0
+Italy,Guidizzolo,45.327,10.5936,1,0
+Italy,Guietta_Veneto,45.9261,12.0636,1,0
+Italy,Guiglia,44.4436,10.977,1,0
+Italy,Hafling,46.6437,11.2271,1,0
+Italy,Helm,46.7271,12.3937,1,0
+Italy,Hennesiegel Kopf,46.8771,10.6771,1,0
+Italy,Herculaneum,40.8104,14.3437,1,0
+Italy,Hermada,41.3104,13.1771,1,0
+Italy,Hers,45.7771,7.5104,1,0
+Italy,Himera_Sicilia,37.9771,13.8771,1,0
+Italy,Hintere Hintereisspitze,46.8271,10.7771,1,0
+Italy,Hintere Schwarze,46.7937,10.9271,1,0
+Italy,Hinterer Seelenkogl,46.8104,11.0437,1,0
+Italy,Hipponium,38.6937,16.1271,1,0
+Italy,Hochalpljoch,46.6437,12.7437,1,0
+Italy,Hochfirst,46.8271,11.0771,1,0
+Italy,Hochjoch,46.7937,10.7937,1,0
+Italy,Hochjoch Ferner,46.7937,10.8104,1,0
+Italy,Hochkreuz Spitze,46.8771,12.2771,1,0
+Italy,Hochspitz,46.6604,12.6771,1,0
+Italy,Hochwild,46.7771,11.0437,1,0
+Italy,Hocksteller,47.0104,11.7271,1,0
+Italy,Hohe Warte,46.6271,12.8937,1,0
+Italy,Hoher Lorenzenberg,46.9771,11.4437,1,0
+Italy,Horndljoch,47.0604,12.0271,1,0
+Italy,Hotel Capo Boi_Sardegna,39.139,9.4754,1,0
+Italy,Hotel Villa del Parco_Sardegna,38.9412,8.9421,1,0
+Italy,Hundskehl Joch,47.0771,12.0937,1,0
+Italy,Hyblaei Montes_Sicilia,37.1771,14.9271,1,0
+Italy,I Andria,46.4605,12.0605,1,0
+Italy,Ialmicco_Friuli-Venezia Giulia,45.923,13.3588,1,0
+Italy,Iamiano_Friuli-Venezia Giulia,45.8288,13.5924,1,0
+Italy,Ianni,39.7272,15.8938,1,0
+Italy,Iarovora Cernale,42.7938,10.9938,1,0
+Italy,Iato_Sicilia,38.0605,13.0272,1,0
+Italy,Iatrinoli,38.3605,16.0272,1,0
+Italy,Iauer_Friuli-Venezia Giulia,46.2283,13.3827,1,0
+Italy,Iavre,46.0772,10.7105,1,0
+Italy,Ibar,43.7438,20.7605,1,0
+Italy,Icciano,42.7105,12.6605,1,0
+Italy,Idice,44.5938,11.8272,1,0
+Italy,Idro,45.7438,10.4938,1,0
+Italy,Idrovora Tassi,45.1772,12.0438,1,0
+Italy,Idrovora Veronese,45.5605,12.4438,1,0
+Italy,Iemmenotte,41.5772,14.2105,1,0
+Italy,Ienne,41.8938,13.1772,1,0
+Italy,Ieno,39.5938,16.3438,1,0
+Italy,Iggio,44.7772,9.8772,1,0
+Italy,Igiea Marina_Emilia-Romagna,44.1452,12.4974,1,0
+Italy,Iglesias_Sardegna,39.3219,8.5455,1,0
+Italy,Iglesiente_Sardegna,39.3105,8.6772,1,0
+Italy,Ignago,45.5938,11.4605,1,0
+Italy,Igne_Veneto,46.2766,12.2899,1,0
+Italy,Ii Callo,46.8605,11.1772,1,0
+Italy,Imele,42.0272,13.3105,1,0
+Italy,Imera_Sicilia,37.5438,14.1272,1,0
+Italy,Imera meridionale_Sicilia,37.1105,13.9605,1,0
+Italy,Imera Meridionale_Sicilia,37.6272,14.1438,1,0
+Italy,Imola,44.3605,11.7105,1,0
+Italy,Impalata,40.8772,17.2772,1,0
+Italy,Imperia,43.8938,8.0605,1,0
+Italy,Impero,43.8938,8.0438,1,0
+Italy,Imponzo_Friuli-Venezia Giulia,46.4572,13.0563,1,0
+Italy,Impruneta,43.6938,11.2605,1,0
+Italy,Incino,45.8105,9.2605,1,0
+Italy,Incisa,43.6772,11.4605,1,0
+Italy,Indiprete,41.5605,14.3605,1,0
+Italy,Induno Olona,45.8605,8.8438,1,0
+Italy,Ingria,45.4772,7.5772,1,0
+Italy,Ingurtosu_Sardegna,39.5302,8.518,1,0
+Italy,Inner Sulden,46.5272,10.6105,1,0
+Italy,Innerrodelkunke,46.8938,12.2272,1,0
+Italy,Intissans_Friuli-Venezia Giulia,46.3933,13.0033,1,0
+Italy,Intra,45.9438,8.5772,1,0
+Italy,Introbio,45.9605,9.4605,1,0
+Italy,Introdacqua,42.0105,13.9105,1,0
+Italy,Inverigo,45.7438,9.2438,1,0
+Italy,Inverno,45.1938,9.3938,1,0
+Italy,Inveruno,45.5272,8.8605,1,0
+Italy,Invillino_Friuli-Venezia Giulia,46.4169,12.9488,1,0
+Italy,Inzago,45.5438,9.4938,1,0
+Italy,Inzino,45.7105,10.1938,1,0
+Italy,Ioannis_Friuli-Venezia Giulia,45.8872,13.3591,1,0
+Italy,Ioggi,39.5772,16.0772,1,0
+Italy,Ionadi,38.6272,16.0605,1,0
+Italy,Ioppola,39.9938,16.0772,1,0
+Italy,Ioppolo,38.5938,15.8938,1,0
+Italy,Ipplis_Friuli-Venezia Giulia,46.0558,13.4247,1,0
+Italy,Irgoli_Sardegna,40.4272,9.6438,1,0
+Italy,Iria_Sicilia,38.0438,14.6438,1,0
+Italy,Irminio_Sicilia,36.7772,14.6105,1,0
+Italy,Irola,44.3438,9.9772,1,0
+Italy,Irpinia,41.0105,15.0105,1,0
+Italy,Irsina,40.7605,16.2438,1,0
+Italy,Itala_Sicilia,38.0605,15.4438,1,0
+Italy,Italia Toano,44.3938,10.5772,1,0
+Italy,Italian Riviera,44.2605,9.5105,1,0
+Italy,Italien,42.8438,12.8438,1,0
+Italy,Itieli,42.4938,12.5772,1,0
+Italy,Itri,41.2938,13.5438,1,0
+Italy,Ittireddu_Sardegna,40.5605,8.9105,1,0
+Italy,Ittiri_Sardegna,40.6105,8.5772,1,0
+Italy,Iutizzo_Friuli-Venezia Giulia,45.9555,12.9791,1,0
+Italy,Ivrea,45.4938,7.8938,1,0
+Italy,Izano,45.3605,9.7605,1,0
+Italy,Izvir Timavo_Friuli-Venezia Giulia,45.7924,13.5877,1,0
+Italy,Izzalini,42.7438,12.3772,1,0
+Italy,Jaufen Pass,46.8439,11.3273,1,0
+Italy,Jelsi,41.5106,14.8106,1,0
+Italy,Jenesien,46.5439,11.3439,1,0
+Italy,Jerzu_Sardegna,39.8025,9.5275,1,0
+Italy,Jesi,43.5273,13.2439,1,0
+Italy,Jesolo_Veneto,45.55,12.66,1,0
+Italy,Jof di Dogna_Friuli-Venezia Giulia,46.4831,13.345,1,0
+Italy,Jof di Miezegnot_Friuli-Venezia Giulia,46.487,13.4656,1,0
+Italy,Jof di Montasio_Friuli-Venezia Giulia,46.4464,13.4464,1,0
+Italy,Jof Fuart_Friuli-Venezia Giulia,46.4414,13.5045,1,0
+Italy,Jolanda di Savoia,44.8939,11.9773,1,0
+Italy,Jonadi-Cessaniti,38.6773,16.0773,1,0
+Italy,Joppolo_Sicilia,37.3939,13.5606,1,0
+Italy,Joussand,44.9939,6.9273,1,0
+Italy,Joux,45.7939,7.5106,1,0
+Italy,Jovenoz,45.8773,7.4106,1,0
+Italy,Judrio,45.887,13.4342,1,0
+Italy,Kaggi_Sicilia,37.8607,15.2274,1,0
+Italy,Kal,45.6774,13.8274,1,0
+Italy,Kalkstein Joch,46.8274,12.294,1,0
+Italy,Kaltern,46.4274,11.244,1,0
+Italy,Kamma_Sicilia,36.794,12.044,1,0
+Italy,Kanin,46.3607,13.444,1,0
+Italy,Kapinberg,46.5607,13.594,1,0
+Italy,Karersee,46.4107,11.594,1,0
+Italy,Karnske Alpe,46.6774,13.0107,1,0
+Italy,Kastelir,45.5957,13.7926,1,0
+Italy,Kastelruth,46.5774,11.5774,1,0
+Italy,Kastelsee,46.444,8.4607,1,0
+Italy,Kiens,46.8107,11.844,1,0
+Italy,Klausbach,46.5607,13.6774,1,0
+Italy,Klausen,46.644,11.5774,1,0
+Italy,Kloster Marienberg,46.7107,10.5274,1,0
+Italy,Konigin,46.4607,8.4607,1,0
+Italy,Konkonelj,45.6774,13.8107,1,0
+Italy,Kontovel,45.7107,13.744,1,0
+Italy,Kras,45.6274,13.8774,1,0
+Italy,Krimmler Tauern,47.094,12.1774,1,0
+Italy,Kronalpe,46.5607,13.344,1,0
+Italy,Kronhoftorl,46.6107,13.044,1,0
+Italy,Kronplatz,46.744,11.9607,1,0
+Italy,Kurtatsch,46.3274,11.2274,1,0
+Italy,L Abetone,44.1441,10.6941,1,0
+Italy,L Acquarino,44.0108,11.0275,1,0
+Italy,L Addolorata_Trentino-Alto Adige,46.758,12.2183,1,0
+Italy,L Aia,42.3108,12.4775,1,0
+Italy,L Americano,41.5775,12.5108,1,0
+Italy,L Angolo,44.9608,6.9775,1,0
+Italy,L Annunziata,42.7441,13.9775,1,0
+Italy,L Aquila_Abruzzo,42.3775,13.3775,1,0
+Italy,L Arcipelago_Sardegna,41.2441,9.4108,1,0
+Italy,L Entrata,38.1275,15.8608,1,0
+Italy,L Eremo,45.0608,7.7275,1,0
+Italy,L Inferno Bay_Sardegna,41.2441,9.3941,1,0
+Italy,L Isca,40.6941,15.5941,1,0
+Italy,L Isola,43.4608,12.9108,1,0
+Italy,L Opaco,43.8608,11.3775,1,0
+Italy,L Oratorio,44.6941,9.6941,1,0
+Italy,L Uja,45.4275,7.1608,1,0
+Italy,La Maddalena_Sardegna,41.2275,9.4108,1,0
+Italy,La Spezia Centrale,44.1275,9.8441,1,0
+Italy,Lana,46.6275,11.1608,1,0
+Italy,Langhirano,44.6275,10.2775,1,0
+Italy,Latina,41.4608,13.1108,1,0
+Italy,Latina_Lazio,41.4775,12.8775,1,0
+Italy,Lavezzola,44.5775,11.8775,1,0
+Italy,Lecce,40.2275,18.1775,1,0
+Italy,Lecce_Puglia,40.3941,18.1941,1,0
+Italy,Lecce dei Marse,41.9441,13.6941,1,0
+Italy,Lecco,45.8608,9.3941,1,0
+Italy,Legnago,45.1941,11.3108,1,0
+Italy,Liguria,44.5108,8.8441,1,0
+Italy,Ligurian Alps,44.1775,8.0941,1,0
+Italy,Ligurian Apennines,44.5108,9.0108,1,0
+Italy,Livorno,43.2441,10.5941,1,0
+Italy,Livorno_Toscana,43.5608,10.3275,1,0
+Italy,Livorno Centrale,43.5608,10.3441,1,0
+Italy,Loano,44.1441,8.2608,1,0
+Italy,Lodi,45.3275,9.5108,1,0
+Italy,Lonato,45.4608,10.4941,1,0
+Italy,Longi_Sicilia,38.0275,14.7608,1,0
+Italy,Lonigo,45.3941,11.3941,1,0
+Italy,Loro,43.1775,13.4275,1,0
+Italy,Lucca,44.0441,10.4608,1,0
+Italy,Lucca_Toscana,43.8441,10.4941,1,0
+Italy,Lucca Sicula_Sicilia,37.5941,13.3108,1,0
+Italy,Lucera,41.5108,15.3441,1,0
+Italy,Luco de Marsi,41.9775,13.4775,1,0
+Italy,Lugano,45.9775,9.0108,1,0
+Italy,Lugo,44.4275,11.9108,1,0
+Italy,Lugo_Veneto,45.378,12.145,1,0
+Italy,Luino,46.0108,8.7441,1,0
+Italy,Lumellogno,45.4275,8.5941,1,0
+Italy,Lumezzane,45.6608,10.2608,1,0
+Italy,Lunetta,44.4941,8.0775,1,0
+Italy,Lutago,46.9608,11.9275,1,0
+Italy,Luzzara,44.9775,10.6941,1,0
+Italy,Macerata_Marche,43.3109,13.4609,1,0
+Italy,Macerata,43.2109,13.1776,1,0
+Italy,Magenta,45.4776,8.8942,1,0
+Italy,Manduria,40.4109,17.6442,1,0
+Italy,Mantova,45.1609,10.8109,1,0
+Italy,Mantovana,44.7442,8.6276,1,0
+Italy,Mariano_Friuli-Venezia Giulia,45.9262,13.4715,1,0
+Italy,Mariano,44.5776,9.8276,1,0
+Italy,Marianopoli_Sicilia,37.6109,13.9276,1,0
+Italy,Marostica,45.7609,11.6609,1,0
+Italy,Marsciano,42.9109,12.3442,1,0
+Italy,Martinengo,45.5776,9.7776,1,0
+Italy,Martinsicuro,42.8942,13.9276,1,0
+Italy,Massa_Friuli-Venezia Giulia,45.9506,13.5587,1,0
+Italy,Massa_Toscana,44.0276,10.1609,1,0
+Italy,Massa,39.9942,15.7442,1,0
+Italy,Massa_Emilia-Romagna,44.1051,12.3442,1,0
+Italy,Massa e Carrara,44.2609,10.0609,1,0
+Italy,Massa Lombarda,44.4609,11.8276,1,0
+Italy,Massac,46.0776,11.9442,1,0
+Italy,Melegnano,45.3609,9.3276,1,0
+Italy,Meran,45.7109,7.6776,1,0
+Italy,Merano_Trentino-Alto Adige,46.6776,11.1609,1,0
+Italy,Messina,38.0609,14.8776,1,0
+Italy,Messina_Sicilia,38.1942,15.5776,1,0
+Italy,Mestre_Veneto,45.5012,12.2534,1,0
+Italy,Mezzocorona,46.2276,11.1276,1,0
+Italy,Miano,42.6276,13.7109,1,0
+Italy,Milan,45.5109,9.5109,1,0
+Italy,Milan_Lombardia,45.4776,9.2109,1,0
+Italy,Milanere,45.1109,7.4276,1,0
+Italy,Milanese,38.2109,15.7442,1,0
+Italy,Milano,42.7942,12.6109,1,0
+Italy,Milano Centrale,45.4942,9.2109,1,0
+Italy,Milano Greco,45.5109,9.2109,1,0
+Italy,Milano Lambrate,45.4942,9.2442,1,0
+Italy,Milano Marittima_Emilia-Romagna,44.2903,12.3637,1,0
+Italy,Milano Porta Genova,45.4609,9.1776,1,0
+Italy,Milano Porta Nuova,45.4942,9.1942,1,0
+Italy,Milano Porta Romana,45.4609,9.2109,1,0
+Italy,Milano-Porta-Vittoria,45.4609,9.2276,1,0
+Italy,Milano-Rogeredo,45.4442,9.2442,1,0
+Italy,Milano-San Cristo,45.4609,9.1442,1,0
+Italy,Minerbe,45.2442,11.3442,1,0
+Italy,Mirandola,44.8942,11.0776,1,0
+Italy,Modena,44.5109,10.9109,1,0
+Italy,Modena_Emilia-Romagna,44.6776,10.9276,1,0
+Italy,Modica_Sicilia,36.8776,14.7776,1,0
+Italy,Moena,46.3776,11.6609,1,0
+Italy,Moncalieri,45.0109,7.6942,1,0
+Italy,Mondovi,44.3942,7.8276,1,0
+Italy,Monfalcone_Friuli-Venezia Giulia,45.8181,13.5451,1,0
+Italy,Monsummano Terme,43.8776,10.8276,1,0
+Italy,Monte Grighini_Sardegna,39.9442,8.8276,1,0
+Italy,Montebelluna_Veneto,45.7862,12.0498,1,0
+Italy,Montecatini Terme,43.8942,10.7776,1,0
+Italy,Montegranaro,43.2442,13.6442,1,0
+Italy,Monteroni d Arbia,43.2442,11.4276,1,0
+Italy,Montesilvano,42.4942,14.1442,1,0
+Italy,Montichiari,45.4276,10.3942,1,0
+Italy,Monza,45.5942,9.2776,1,0
+Italy,Mortara,45.2609,8.7442,1,0
+Italy,Muggia,45.6109,13.7776,1,0
+Italy,Muhlwald,46.8942,11.8609,1,0
+Italy,Mulazzano,43.9776,12.5442,1,0
+Italy,Musignano,46.0776,8.7609,1,0
+Italy,Musso,46.1276,9.2776,1,0
+Italy,Mussolino,45.5942,11.2609,1,0
+Italy,Na Precuichi,45.7943,13.6943,1,0
+Italy,Naples,40.8943,14.4277,1,0
+Italy,Naples_Campania,40.8443,14.261,1,0
+Italy,Naples Bay,40.811,14.2777,1,0
+Italy,Naples Harbour,40.8443,14.2777,1,0
+Italy,Napoli Centrale,40.861,14.2943,1,0
+Italy,Naso_Sicilia,38.161,14.811,1,0
+Italy,Navicello,44.6777,10.9943,1,0
+Italy,Ne,44.361,9.411,1,0
+Italy,Nebbiano,43.6277,11.0277,1,0
+Italy,Nebbione,45.4277,8.1943,1,0
+Italy,Nebbiu_Veneto,46.4393,12.3504,1,0
+Italy,Nebrodi_Sicilia,37.911,14.5943,1,0
+Italy,Neggi,43.861,7.711,1,0
+Italy,Negrar,45.5443,10.9277,1,0
+Italy,Negrisia_Veneto,45.7463,12.4393,1,0
+Italy,Neirone,44.461,9.1943,1,0
+Italy,Neive,44.7443,8.1277,1,0
+Italy,Nembia,46.111,10.9443,1,0
+Italy,Nembro,45.761,9.761,1,0
+Italy,Nemeggio,46.0443,11.9777,1,0
+Italy,Nemi,41.7277,12.7277,1,0
+Italy,Nemoli,40.0777,15.811,1,0
+Italy,Nenno,44.5777,9.0277,1,0
+Italy,Neoneli_Sardegna,40.0777,8.961,1,0
+Italy,Nepezzano,42.6943,13.761,1,0
+Italy,Nepi,42.2443,12.361,1,0
+Italy,Nera,42.4443,12.411,1,0
+Italy,Nera Montoro,42.511,12.4777,1,0
+Italy,Nerano,40.5943,14.361,1,0
+Italy,Nereto,42.8277,13.8277,1,0
+Italy,Nerito,42.5443,13.4777,1,0
+Italy,Nerola,42.1777,12.7943,1,0
+Italy,Nervesa_Veneto,45.8341,12.2174,1,0
+Italy,Nervi,44.3943,9.0443,1,0
+Italy,Nerviano,45.561,8.9777,1,0
+Italy,Nesce,42.1943,13.2777,1,0
+Italy,Nespoledo_Friuli-Venezia Giulia,45.9941,13.1018,1,0
+Italy,Nespolo,42.161,13.0777,1,0
+Italy,Nessano_Trentino-Alto Adige,46.8063,12.0207,1,0
+Italy,Nestore,42.911,12.3943,1,0
+Italy,Neto,39.211,17.161,1,0
+Italy,Netro,45.5443,7.961,1,0
+Italy,Nettuno,41.461,12.661,1,0
+Italy,Neviano,40.111,18.111,1,0
+Italy,Nezza,46.1943,8.3943,1,0
+Italy,Nibbiaia,43.4777,10.4277,1,0
+Italy,Nibbiano,44.911,9.3277,1,0
+Italy,Nicastro,38.9943,16.3277,1,0
+Italy,Nicchiara_Sicilia,37.2777,14.761,1,0
+Italy,Niccolo,46.0277,11.8443,1,0
+Italy,Nicelli,44.6943,9.4943,1,0
+Italy,Nichelino,44.9943,7.6443,1,0
+Italy,Nichesola,45.1777,11.3777,1,0
+Italy,Nicola,44.0943,10.0443,1,0
+Italy,Nicolosi_Sicilia,37.6277,15.0277,1,0
+Italy,Nicosia Sicilia_Sicilia,37.761,14.411,1,0
+Italy,Nicotera,38.561,15.9443,1,0
+Italy,Niederdorf_Trentino-Alto Adige,46.7513,12.1813,1,0
+Italy,Niederjoch,46.7777,10.861,1,0
+Italy,Niedervintl,46.811,11.7443,1,0
+Italy,Niella Belbo,44.5277,8.0943,1,0
+Italy,Nigola,46.1777,10.0277,1,0
+Italy,Nimis_Friuli-Venezia Giulia,46.2185,13.2743,1,0
+Italy,Ninfa,41.5943,12.961,1,0
+Italy,Niscemi_Sicilia,37.161,14.3943,1,0
+Italy,Niscima_Sicilia,37.2943,14.661,1,0
+Italy,Nisida,40.7943,14.1943,1,0
+Italy,Nisporto,42.8277,10.3943,1,0
+Italy,Nissa_Sardegna,39.1779,9.0135,1,0
+Italy,Nissoria Sicilia_Sicilia,37.661,14.461,1,0
+Italy,Nizza di Sicilia_Sicilia,37.9943,15.4277,1,0
+Italy,Nizza Monferrato,44.7777,8.361,1,0
+Italy,Nocera Inferiore,40.7443,14.6443,1,0
+Italy,Norcia,42.811,13.0943,1,0
+Italy,Novara,45.9777,8.411,1,0
+Italy,Novara_Piemonte,45.4777,8.6443,1,0
+Italy,Novellara,44.861,10.7443,1,0
+Italy,Noventa Vicentina,45.2943,11.5443,1,0
+Italy,Novi Ligure,44.7777,8.7943,1,0
+Italy,Nuarsaz,45.8443,7.611,1,0
+Italy,Nucavi,38.3443,16.3277,1,0
+Italy,Nucetto,44.3443,8.0777,1,0
+Italy,Nuchis_Sardegna,40.9277,9.161,1,0
+Italy,Nughedu Santa Vittoria_Sardegna,40.111,8.961,1,0
+Italy,Nugola,43.5943,10.4443,1,0
+Italy,Nule_Sardegna,40.4777,9.1943,1,0
+Italy,Nulvi_Sardegna,40.796,8.7529,1,0
+Italy,Numana,43.5277,13.6277,1,0
+Italy,Nunziata_Sicilia,37.7777,15.1943,1,0
+Italy,Nunziatella,42.4277,11.361,1,0
+Italy,Nuoitas_Friuli-Venezia Giulia,46.451,12.5513,1,0
+Italy,Nuoro_Sardegna,40.3277,9.361,1,0
+Italy,Nuoro,40.1777,9.3443,1,0
+Italy,Nuova Bisaccia,41.0277,15.3777,1,0
+Italy,Nuovomondo,40.1402,18.0068,1,0
+Italy,Nurachi_Sardegna,39.9849,8.5499,1,0
+Italy,Nuraghe Cornus_Sardegna,40.0777,8.511,1,0
+Italy,Nuraghe Formigiosu_Sardegna,40.6693,8.6249,1,0
+Italy,Nuragus_Sardegna,39.7868,9.0474,1,0
+Italy,Nurallao_Sardegna,39.8016,9.0913,1,0
+Italy,Nuraminis_Sardegna,39.4557,9.0246,1,0
+Italy,Nuraxinieddu_Sardegna,39.9454,8.6079,1,0
+Italy,Nure,45.061,9.8277,1,0
+Italy,Nureci_Sardegna,39.8335,8.9863,1,0
+Italy,Nurra_Sardegna,40.761,8.261,1,0
+Italy,Nurri_Sardegna,39.721,9.241,1,0
+Italy,Nurtiddi_Sardegna,40.561,9.4277,1,0
+Italy,Nusco,40.8943,15.0943,1,0
+Italy,Nuvolento,45.5443,10.3943,1,0
+Italy,Nuxis_Sardegna,39.1641,8.7516,1,0
+Italy,Oaggiano,45.4111,9.0444,1,0
+Italy,Obenetto_Friuli-Venezia Giulia,46.1761,13.6508,1,0
+Italy,Obledo,45.8611,11.8778,1,0
+Italy,Oblizza_Friuli-Venezia Giulia,46.1464,13.6039,1,0
+Italy,Obranchi_Friuli-Venezia Giulia,46.1694,13.6472,1,0
+Italy,Occhieppo Inferiore,45.5611,8.0278,1,0
+Italy,Occhieppo Superiore,45.5778,8.0111,1,0
+Italy,Occhio,38.0611,15.6611,1,0
+Italy,Occhiobello,44.9278,11.5944,1,0
+Italy,Occidentale,45.4278,7.1778,1,0
+Italy,Occimiano,45.0611,8.5111,1,0
+Italy,Ocenelli,42.7611,12.6278,1,0
+Italy,Ocre,42.6111,12.9778,1,0
+Italy,Ocricchio,42.7444,13.0944,1,0
+Italy,Odecla,46.1111,10.3111,1,0
+Italy,Oderzo_Veneto,45.7911,12.4992,1,0
+Italy,Odolo,45.6611,10.3944,1,0
+Italy,Ofanto,41.3611,16.2278,1,0
+Italy,Ofena,42.3278,13.7611,1,0
+Italy,Offagna,43.5278,13.4444,1,0
+Italy,Offanengo,45.3778,9.7444,1,0
+Italy,Offejo,42.3111,13.0111,1,0
+Italy,Offida,42.9444,13.6944,1,0
+Italy,Offlaga,45.3944,10.1111,1,0
+Italy,Ofnerjoch,46.6444,12.7611,1,0
+Italy,Oga,46.4778,10.3611,1,0
+Italy,Oggiono,45.7944,9.3444,1,0
+Italy,Oglianico,45.3611,7.6944,1,0
+Italy,Ogliano_Veneto,45.9267,12.3253,1,0
+Italy,Ogliastra_Sardegna,39.9444,9.6278,1,0
+Italy,Ogliastro,40.3611,15.0611,1,0
+Italy,Oglio,45.0444,10.6611,1,0
+Italy,Ogna,45.9111,9.9444,1,0
+Italy,Ognissanti,45.1278,10.2278,1,0
+Italy,Oia,44.8111,7.7111,1,0
+Italy,Oiano,42.2611,13.0778,1,0
+Italy,Oiasse,45.8611,7.3778,1,0
+Italy,Oira,46.1944,8.3278,1,0
+Italy,Olbia_Sardegna,40.9278,9.5278,1,0
+Italy,Ombrone,43.7778,11.0778,1,0
+Italy,Omegna,45.8944,8.4111,1,0
+Italy,Omero,41.6778,14.0444,1,0
+Italy,Omignano,40.2611,15.0944,1,0
+Italy,Omignano Scale,40.2611,15.1444,1,0
+Italy,Onani_Sardegna,40.4944,9.4444,1,0
+Italy,Onano,42.6944,11.8278,1,0
+Italy,Onara,45.6278,11.8278,1,0
+Italy,Oncedis_Friuli-Venezia Giulia,46.318,13.0597,1,0
+Italy,Onelli,42.6944,13.0278,1,0
+Italy,Oneta,45.8778,9.8278,1,0
+Italy,Oneto_Liguria,44.3689,9.2986,1,0
+Italy,Onfiano,44.4944,10.5611,1,0
+Italy,Ongara,46.5255,12.6942,1,0
+Italy,Onifai_Sardegna,40.4111,9.6611,1,0
+Italy,Oniferi_Sardegna,40.3278,9.1778,1,0
+Italy,Onna,42.3278,13.4778,1,0
+Italy,Onno,45.9278,9.2944,1,0
+Italy,Ontagnano_Friuli-Venezia Giulia,45.9136,13.2883,1,0
+Italy,Onzato,45.4944,10.1778,1,0
+Italy,Opagna,42.6611,13.1111,1,0
+Italy,Opera,45.3778,9.2111,1,0
+Italy,Opera Arbuticci_Sardegna,41.2278,9.4778,1,0
+Italy,Opera di Poggio Rasu_Sardegna,41.2111,9.4778,1,0
+Italy,Opi,41.7944,13.8444,1,0
+Italy,Opicina_Friuli-Venezia Giulia,45.6983,13.798,1,0
+Italy,Oppeano,45.3111,11.1944,1,0
+Italy,Oppido Lucano,40.7944,16.0111,1,0
+Italy,Oppido Mamertina,38.2944,18.9944,1,0
+Italy,Oristano_Sardegna,39.9142,8.603,1,0
+Italy,Orte,42.4611,12.3944,1,0
+Italy,Otranto,40.0111,19.0111,1,0
+Italy,Otranto_Puglia,40.1611,18.5111,1,0
+Italy,Otricoli,42.4278,12.4944,1,0
+Italy,Ottana_Sardegna,40.2444,9.0444,1,0
+Italy,Ottati,40.4778,15.3278,1,0
+Italy,Ottavia,41.9778,12.4111,1,0
+Italy,Ottaviano,40.8611,14.4778,1,0
+Italy,Ottiglio,45.0611,8.3444,1,0
+Italy,Ottobiano,45.1611,8.8444,1,0
+Italy,Ottone,44.6278,9.3444,1,0
+Italy,Ovada,44.6444,8.6444,1,0
+Italy,Ovaro_Friuli-Venezia Giulia,46.4942,12.8842,1,0
+Italy,Ovasta_Friuli-Venezia Giulia,46.5142,12.8605,1,0
+Italy,Ovedasso_Friuli-Venezia Giulia,46.4161,13.2247,1,0
+Italy,Ovile,38.9944,17.1278,1,0
+Italy,Ovile Felicia,40.5497,17.2264,1,0
+Italy,Ovile la Marina,38.9778,17.1444,1,0
+Italy,Ovindoli,42.1444,13.5278,1,0
+Italy,Ovodda_Sardegna,40.1111,9.1611,1,0
+Italy,Ovolaccio_Sardegna,40.0278,9.2278,1,0
+Italy,Ovoledo_Friuli-Venezia Giulia,45.9886,12.7919,1,0
+Italy,Ozegna,45.3611,7.7611,1,0
+Italy,Ozein,45.6778,7.2444,1,0
+Italy,Ozieri_Sardegna,40.5944,9.0111,1,0
+Italy,Ozzano,44.4611,11.4778,1,0
+Italy,Ozzero,45.3778,8.9278,1,0
+Italy,Padova_Veneto,45.4279,11.8945,1,0
+Italy,Padova,45.3612,11.8279,1,0
+Italy,Palermo,37.8279,13.5945,1,0
+Italy,Palermo_Sicilia,38.1279,13.3779,1,0
+Italy,Palermo Centrale_Sicilia,38.1112,13.3612,1,0
+Italy,Palermo Lolli_Sicilia,38.1279,13.3445,1,0
+Italy,Palermo Sant Erasmo_Sicilia,38.1112,13.3779,1,0
+Italy,Paratico,45.6612,9.9612,1,0
+Italy,Parma,44.7112,10.0945,1,0
+Italy,Parma_Emilia-Romagna,44.8112,10.3445,1,0
+Italy,Pavia_Lombardia,45.1779,9.1779,1,0
+Italy,Pavia,45.1279,9.1445,1,0
+Italy,Pavia di Udine_Friuli-Venezia Giulia,46.0093,13.3159,1,0
+Italy,Pavullo,44.3445,10.8445,1,0
+Italy,Perugia_Umbria,43.1445,12.3779,1,0
+Italy,Perugia,43.0612,12.5612,1,0
+Italy,Pesaro,43.6779,12.6445,1,0
+Italy,Pesaro_Marche,43.9112,12.9279,1,0
+Italy,Pescara,42.7612,13.2779,1,0
+Italy,Pescara_Abruzzo,42.4779,14.2279,1,0
+Italy,Pfannhorn,46.7945,12.2945,1,0
+Italy,Pfannspitze,46.6945,12.5112,1,0
+Italy,Pfatten,46.4279,11.3112,1,0
+Italy,Pfeifer Spitzen,46.9945,11.3779,1,0
+Italy,Pfitscherjoch,46.9945,11.6612,1,0
+Italy,Pfoi Sattel,46.8779,12.2945,1,0
+Italy,Pfunders,46.9112,11.7112,1,0
+Italy,Pfundersjoch,46.9445,11.6279,1,0
+Italy,Phlegraean Plain,40.8445,14.1779,1,0
+Italy,Piacenza_Emilia-Romagna,45.0279,9.6779,1,0
+Italy,Piacenza,44.8945,9.5945,1,0
+Italy,Piadena,45.1445,10.3779,1,0
+Italy,Pietrasanta,43.9612,10.2445,1,0
+Italy,Pieve di Soligo_Veneto,45.9137,12.1884,1,0
+Italy,Pinerolo,44.8945,7.3612,1,0
+Italy,Pioltello,45.5112,9.3445,1,0
+Italy,Pisa_Toscana,43.7279,10.3945,1,0
+Italy,Pisa,43.4279,10.7279,1,0
+Italy,Pisa-Leghorn Canal,43.5945,10.3112,1,0
+Italy,Pisagnano_Emilia-Romagna,44.2468,12.2915,1,0
+Italy,Pistoia,43.9779,10.8445,1,0
+Italy,Placanica,38.4279,16.4612,1,0
+Italy,Placca,45.7779,11.6445,1,0
+Italy,Plaesano,38.4945,16.0945,1,0
+Italy,Plagnals,44.9612,6.8779,1,0
+Italy,Plain of Catania_Sicilia,37.4279,14.8612,1,0
+Italy,Plain of Lombardy,45.3445,9.5112,1,0
+Italy,Plaino_Friuli-Venezia Giulia,46.1218,13.1906,1,0
+Italy,Plains of Compania,41.0112,14.2612,1,0
+Italy,Plaja_Sicilia,37.4945,15.0945,1,0
+Italy,Plamorder Spitze,46.8445,10.5612,1,0
+Italy,Planca_Trentino-Alto Adige,46.8034,12.2226,1,0
+Italy,Planca di Sotto_Trentino-Alto Adige,46.7868,12.2123,1,0
+Italy,Plancios,46.6779,11.7279,1,0
+Italy,Planol,46.7279,10.5779,1,0
+Italy,Planu de Murtas_Sardegna,40.3445,8.6445,1,0
+Italy,Planu della Campeda_Sardegna,40.3779,8.7779,1,0
+Italy,Planu Majore_Sardegna,40.0279,8.8445,1,0
+Italy,Planu Mannu_Sardegna,40.4612,8.9445,1,0
+Italy,Planu sa Giara_Sardegna,39.7779,8.9612,1,0
+Italy,Planu Susassitu_Sardegna,40.6945,8.8445,1,0
+Italy,Plasencis_Friuli-Venezia Giulia,46.0812,13.0945,1,0
+Italy,Plata,46.8445,11.1779,1,0
+Italy,Plataci,39.9112,16.4445,1,0
+Italy,Platamona_Sardegna,40.829,8.479,1,0
+Italy,Platani_Sicilia,37.4112,13.2779,1,0
+Italy,Platania,39.0112,16.3279,1,0
+Italy,Plati,38.2279,16.0612,1,0
+Italy,Platischis_Friuli-Venezia Giulia,46.2537,13.3959,1,0
+Italy,Plaus,46.6612,11.0445,1,0
+Italy,Plazzo dell Asino,46.3112,10.4112,1,0
+Italy,Plazzoles,46.5445,11.1279,1,0
+Italy,Plessiva_Friuli-Venezia Giulia,45.9926,13.5104,1,0
+Italy,Pleziche_Friuli-Venezia Giulia,46.4662,13.3954,1,0
+Italy,Plezza,46.5612,11.8779,1,0
+Italy,Plezzo_Friuli-Venezia Giulia,46.4998,13.6004,1,0
+Italy,Ploaghe_Sardegna,40.6779,8.7612,1,0
+Italy,Plockenpass,46.6112,12.9779,1,0
+Italy,Plose,46.7112,11.7279,1,0
+Italy,Plout,45.7279,7.6779,1,0
+Italy,Pluma_Friuli-Venezia Giulia,45.9731,13.6245,1,0
+Italy,Plurs,46.3445,9.4445,1,0
+Italy,Poggibonsi,43.4779,11.1612,1,0
+Italy,Pordenone_Friuli-Venezia Giulia,45.9751,12.6687,1,0
+Italy,Pordenone,45.9612,12.6612,1,0
+Italy,Porretta Terme,44.1612,10.9945,1,0
+Italy,Porto Cesareo,40.2612,17.9112,1,0
+Italy,Porto Recanati,43.4445,13.6779,1,0
+Italy,Porto Sant Elpidio,43.2612,13.7612,1,0
+Italy,Portogruaro_Veneto,45.7865,12.8498,1,0
+Italy,Postal,46.6112,11.1945,1,0
+Italy,Potenza_Basilicata,40.6445,15.8112,1,0
+Italy,Prato_Trentino-Alto Adige,46.7568,12.3679,1,0
+Italy,Prato_Friuli-Venezia Giulia,46.3851,13.3215,1,0
+Italy,Prato,44.5279,11.5445,1,0
+Italy,Prato_Toscana,43.8945,11.1112,1,0
+Italy,Pyrgi,42.0445,11.9612,1,0
+Italy,Quadraletto,39.2946,16.828,1,0
+Italy,Quadrelle,40.9613,14.6446,1,0
+Italy,Quadrelli,42.6613,12.528,1,0
+Italy,Quadri,41.928,14.2946,1,0
+Italy,Quadro,42.7946,12.328,1,0
+Italy,Quadroni,42.1446,12.128,1,0
+Italy,Quaglietta,40.7613,15.2446,1,0
+Italy,Quagliuzzo,45.428,7.778,1,0
+Italy,Qualiano,40.928,14.1613,1,0
+Italy,Qualso_Friuli-Venezia Giulia,46.1863,13.2616,1,0
+Italy,Quantin_Veneto,46.1341,12.3057,1,0
+Italy,Quara,44.3613,10.5113,1,0
+Italy,Quarantano Inferiore,38.3613,15.978,1,0
+Italy,Quarantoli,44.928,11.1113,1,0
+Italy,Quarata,43.5113,11.828,1,0
+Italy,Quargnento,44.9613,8.5113,1,0
+Italy,Quarna Sopra,45.878,8.378,1,0
+Italy,Quarona,45.7613,8.278,1,0
+Italy,Quarrata,43.8613,10.978,1,0
+Italy,Quart,45.7613,7.3946,1,0
+Italy,Quartaia,43.3946,11.0946,1,0
+Italy,Quartarezza,45.8113,12.6613,1,0
+Italy,Quartazzola,45.028,9.628,1,0
+Italy,Quartesana,44.8113,11.7446,1,0
+Italy,Quartiere Monte Sacro,41.9446,12.5446,1,0
+Italy,Quarto,44.9946,9.6613,1,0
+Italy,Quarto d Altino_Veneto,45.5907,12.3846,1,0
+Italy,Quarto dei Mille,44.3946,8.9946,1,0
+Italy,Quarto dell Inviolatella,41.9946,12.7113,1,0
+Italy,Quarto Inferiore,44.5446,11.428,1,0
+Italy,Quarto Sant Elena_Sardegna,39.2532,9.1952,1,0
+Italy,Quartolo,44.2613,11.828,1,0
+Italy,Quartucciu_Sardegna,39.2632,9.1907,1,0
+Italy,Quarzina,44.1446,7.878,1,0
+Italy,Quasano,40.978,16.5946,1,0
+Italy,Quassolo,45.528,7.8446,1,0
+Italy,Quattordio,44.9113,8.4113,1,0
+Italy,Quattro Castella,44.6446,10.478,1,0
+Italy,Quattro Fontane_Veneto,45.4196,12.378,1,0
+Italy,Quattro Pani,38.5113,14.928,1,0
+Italy,Quattromiglio,39.3613,16.2613,1,0
+Italy,Querce,43.8113,10.778,1,0
+Italy,Quercegrossa,43.4113,11.3113,1,0
+Italy,Querceta,43.978,10.228,1,0
+Italy,Querceto,43.2946,10.728,1,0
+Italy,Quercianella,43.4613,10.378,1,0
+Italy,Quercie,43.078,12.7613,1,0
+Italy,Querciola,44.2113,10.8946,1,0
+Italy,Quercioso,44.4113,11.4446,1,0
+Italy,Quero,45.928,11.9446,1,0
+Italy,Querquetula,41.928,12.778,1,0
+Italy,Quers_Veneto,46.181,12.3846,1,0
+Italy,Quiesa,43.8613,10.378,1,0
+Italy,Quiliano,44.3113,8.4113,1,0
+Italy,Quincinetto,45.578,7.8113,1,0
+Italy,Quindici,40.878,14.6613,1,0
+Italy,Quingentole,45.0446,11.0446,1,0
+Italy,Quinto,45.378,8.378,1,0
+Italy,Quinto_Veneto,45.6594,12.178,1,0
+Italy,Quinto al Mare,44.3946,9.028,1,0
+Italy,Quinto Vicentino,45.578,11.628,1,0
+Italy,Quinzo,46.978,11.628,1,0
+Italy,Quirra_Sardegna,39.5266,9.6177,1,0
+Italy,Quistello,45.0113,10.978,1,0
+Italy,Quittengo,45.6613,8.028,1,0
+Italy,Quizano,45.328,10.0113,1,0
+Italy,Quorle,43.728,11.7113,1,0
+Italy,Racconigi,44.7781,7.7781,1,0
+Italy,Rada di Vado,44.2947,8.4781,1,0
+Italy,Ragusa_Sicilia,36.9281,14.7447,1,0
+Italy,Ravenna,44.4281,11.9947,1,0
+Italy,Ravenna_Emilia-Romagna,44.3789,12.2364,1,0
+Italy,Rebeccu_Sardegna,40.4281,8.8114,1,0
+Italy,Redu,44.6614,11.0781,1,0
+Italy,Reggello,43.6947,11.5447,1,0
+Italy,Reggio Calabria,38.3281,16.0947,1,0
+Italy,Reggio Emilia,44.6281,10.6281,1,0
+Italy,Reggio nell Emilia_Emilia-Romagna,44.7281,10.6114,1,0
+Italy,Reggiolo,44.9281,10.8114,1,0
+Italy,Regia Dogana_Sardegna,41.0114,9.6281,1,0
+Italy,Regona,45.2114,9.8281,1,0
+Italy,Reisoni,44.5447,9.2947,1,0
+Italy,Rende,39.3447,16.1947,1,0
+Italy,Resana,45.6447,11.9781,1,0
+Italy,Resia_Friuli-Venezia Giulia,46.4089,13.2311,1,0
+Italy,Revere,45.0614,11.1447,1,0
+Italy,Rheme Notre Dame,45.5781,7.1281,1,0
+Italy,Rho,45.5447,9.0447,1,0
+Italy,Riccione,43.9947,12.6614,1,0
+Italy,Riccione_Emilia-Romagna,44.0167,12.6764,1,0
+Italy,Rieti,42.4114,12.8614,1,0
+Italy,Rimini_Emilia-Romagna,44.0747,12.5922,1,0
+Italy,Rimini Miramare_Emilia-Romagna,44.0317,12.625,1,0
+Italy,Riolo Terme,44.2781,11.7281,1,0
+Italy,Riva del Garda,45.8947,10.8447,1,0
+Italy,Ro,44.9614,11.7614,1,0
+Italy,Rocca Malatina,44.3947,10.9781,1,0
+Italy,Roma,41.9114,12.4281,1,0
+Italy,Roma Ostiense,41.8781,12.4947,1,0
+Italy,Roma Prenestina,41.9114,12.5447,1,0
+Italy,Roma San Pietro,41.9114,12.4614,1,0
+Italy,Roma Smistamento,41.9281,12.5281,1,0
+Italy,Roma Trastevere,41.8781,12.4781,1,0
+Italy,Roma Tuscolana,41.8947,12.5281,1,0
+Italy,Roma-Termini,41.9114,12.5114,1,0
+Italy,Roma-Tiburtina,41.9114,12.5281,1,0
+Italy,Romagna,44.5114,12.2614,1,0
+Italy,Romagnano,45.6447,8.3947,1,0
+Italy,Romagnano al Monte,40.6447,15.4614,1,0
+Italy,Romagnano-Vietri-Salvit,40.6281,15.4614,1,0
+Italy,Romagnese,44.8447,9.3447,1,0
+Italy,Romagnoli,42.2114,14.4281,1,0
+Italy,Roman Apennines,44.0114,13.0114,1,0
+Italy,Romana_Sardegna,40.4947,8.5947,1,0
+Italy,Romanelli_Puglia,40.4503,17.2656,1,0
+Italy,Romanengo,45.3781,9.7947,1,0
+Italy,Romano,45.3947,7.8781,1,0
+Italy,Romano Alto,45.7947,11.7614,1,0
+Italy,Romano di Lombardia,45.5281,9.7614,1,0
+Italy,Romanoro,44.3114,10.5281,1,0
+Italy,Romans_Friuli-Venezia Giulia,45.9108,13.0289,1,0
+Italy,Romanziol,45.6947,12.5114,1,0
+Italy,Romasino_Sardegna,41.0295,8.2256,1,0
+Italy,Romazzano,42.7447,12.3947,1,0
+Italy,Rome,41.9781,12.6781,1,0
+Italy,Rome_Lazio,41.9114,12.4947,1,0
+Italy,Romeno,46.4114,11.1281,1,0
+Italy,Romentino,45.4781,8.7114,1,0
+Italy,Rometta,44.2114,10.0614,1,0
+Italy,Rosora,43.4947,13.0614,1,0
+Italy,Rovereto,45.8947,11.0447,1,0
+Italy,Rovigo,45.0781,11.7947,1,0
+Italy,Rtic Svetoga Andreja,45.6614,13.7614,1,0
+Italy,Rua,45.0281,6.9614,1,0
+Italy,Rua di Feletto_Veneto,45.925,12.2617,1,0
+Italy,Rualis_Friuli-Venezia Giulia,46.0933,13.4239,1,0
+Italy,Rualp,46.4614,11.6947,1,0
+Italy,Rubabuoi,40.5436,17.2103,1,0
+Italy,Rubano,45.4447,11.7947,1,0
+Italy,Rubbiano,42.7281,12.7114,1,0
+Italy,Rubbio,40.1114,16.2614,1,0
+Italy,Ruberto_Puglia,40.4739,17.2711,1,0
+Italy,Rubiana,45.1447,7.3947,1,0
+Italy,Rubicon River_Emilia-Romagna,44.1803,12.4603,1,0
+Italy,Rubicone,44.1447,12.4781,1,0
+Italy,Rubiera,44.6614,10.7947,1,0
+Italy,Rubra,42.0114,12.4947,1,0
+Italy,Rucchianico,42.3114,14.1947,1,0
+Italy,Ruda_Friuli-Venezia Giulia,45.8533,13.4117,1,0
+Italy,Rudavoi_Veneto,46.5481,12.2647,1,0
+Italy,Rudiano,45.4947,9.8781,1,0
+Italy,Rudnigsattel,46.5781,13.2447,1,0
+Italy,Ruen,46.8281,11.8114,1,0
+Italy,Ruffano,39.9947,18.2614,1,0
+Italy,Ruffia,44.7114,7.6114,1,0
+Italy,Rufina,43.8281,11.4947,1,0
+Italy,Rufreddo_Veneto,46.6283,12.1867,1,0
+Italy,Ruggera,45.0114,12.1447,1,0
+Italy,Rugiana,41.6947,15.8781,1,0
+Italy,Rugieri,39.5114,16.3114,1,0
+Italy,Ruginello,45.6447,9.3947,1,0
+Italy,Ruilles,44.9114,6.8281,1,0
+Italy,Ruina,44.9281,11.7447,1,0
+Italy,Ruinas_Sardegna,39.9206,8.9072,1,0
+Italy,Ruinaux,45.6281,7.2114,1,0
+Italy,Ruisseau Saint-Louis,43.7947,7.5447,1,0
+Italy,Runci,38.2781,15.8114,1,0
+Italy,Runzi,44.9947,11.5114,1,0
+Italy,Ruosina,44.0114,10.2781,1,0
+Italy,Ruota,43.7781,10.5947,1,0
+Italy,Ruoti,40.7281,15.6947,1,0
+Italy,Rupa_Friuli-Venezia Giulia,45.9028,13.6011,1,0
+Italy,Rupin Grande_Friuli-Venezia Giulia,45.735,13.8031,1,0
+Italy,Rupingrande,45.7447,13.7947,1,0
+Italy,Rupinpiccolo_Friuli-Venezia Giulia,45.7378,13.775,1,0
+Italy,Rupo,42.6947,13.6781,1,0
+Italy,Rus,46.0947,9.1447,1,0
+Italy,Ruscio,42.6614,12.9614,1,0
+Italy,Rusellae,42.8447,11.1781,1,0
+Italy,Russi_Emilia-Romagna,44.3839,12.0436,1,0
+Italy,Russo,44.4947,11.4447,1,0
+Italy,Rustici,42.9947,13.3447,1,0
+Italy,Rustico,43.5114,13.3614,1,0
+Italy,Rustighino,44.7114,9.7281,1,0
+Italy,Rustigne_Veneto,45.7672,12.4931,1,0
+Italy,Ruta,44.3447,9.1781,1,0
+Italy,Rutarji_Friuli-Venezia Giulia,46.0095,13.4858,1,0
+Italy,Rutigliano,41.0281,17.0114,1,0
+Italy,Rutino,40.3114,15.0781,1,0
+Italy,Rutor,45.6447,7.0281,1,0
+Italy,Rutte_Friuli-Venezia Giulia,46.5061,13.6175,1,0
+Italy,Ruttio_Emilia-Romagna,44.1583,12.3278,1,0
+Italy,Ruvacca_Trentino-Alto Adige,46.7747,12.2445,1,0
+Italy,Ruvale,39.2614,16.5447,1,0
+Italy,Ruviano,41.2281,14.4114,1,0
+Italy,Ruvo del Monte,40.8614,15.5447,1,0
+Italy,Ruvo di Puglia,41.1281,16.4947,1,0
+Italy,Ruzzano,44.4947,10.2947,1,0
+Italy,S Arrota_Sardegna,40.4115,9.5115,1,0
+Italy,S Elema_Sardegna,40.7448,9.3115,1,0
+Italy,S. Arpino,40.9782,14.2615,1,0
+Italy,Sacile_Friuli-Venezia Giulia,45.9668,12.5134,1,0
+Italy,Saint-Vincent,45.7615,7.6615,1,0
+Italy,Salerno_Campania,40.6948,14.7948,1,0
+Italy,Salerno,39.3782,16.4115,1,0
+Italy,Salo,45.6115,10.5282,1,0
+Italy,Salorno,46.2448,11.2282,1,0
+Italy,Salsomaggiore Terme,44.8282,9.9948,1,0
+Italy,Saltara,43.7615,12.9115,1,0
+Italy,San Benedetto del Tronto,42.9615,13.8948,1,0
+Italy,San Bonifacio,45.4115,11.2782,1,0
+Italy,San Donato Milanese,45.4282,9.2782,1,0
+Italy,San Felice sul Panaro,44.8448,11.1448,1,0
+Italy,San Giorgio in Bosco,45.5948,11.8115,1,0
+Italy,San Giovanni in Persiceto,44.6448,11.1948,1,0
+Italy,San Giuliano Milanese,45.4115,9.2948,1,0
+Italy,San Martino di Lupari,45.6615,11.8615,1,0
+Italy,San Remo_Liguria,43.8282,7.7782,1,0
+Italy,San Teodoro_Sardegna,40.7782,9.6615,1,0
+Italy,Santa Croce sull Arno,43.7115,10.7948,1,0
+Italy,Santhia,45.3782,8.1782,1,0
+Italy,Sardinia_Sardegna,40.0115,9.0115,1,0
+Italy,Sassari,40.6782,9.0115,1,0
+Italy,Sassari_Sardegna,40.7387,8.5718,1,0
+Italy,Sassuolo,44.5615,10.7948,1,0
+Italy,Savona_Liguria,44.2948,8.5115,1,0
+Italy,Savona,44.3115,8.2782,1,0
+Italy,Savona Letimbro,44.3115,8.4782,1,0
+Italy,Sbarra,42.5615,13.6948,1,0
+Italy,Sbarre,38.1115,15.6615,1,0
+Italy,Schio,45.7282,11.3615,1,0
+Italy,Scurano,44.5115,10.2948,1,0
+Italy,Sdazzina,44.9115,10.2448,1,0
+Italy,Sdobba,45.7448,13.5282,1,0
+Italy,Segrate,45.4948,9.2948,1,0
+Italy,Senigallia,43.7282,13.2282,1,0
+Italy,Sesto Calende,45.7448,8.6448,1,0
+Italy,Sesto San Giovanni,45.5448,9.2448,1,0
+Italy,Sferracavello_Sicilia,38.2115,13.2948,1,0
+Italy,Sferro_Sicilia,37.5115,14.8115,1,0
+Italy,Sforzacosta,43.2615,13.4282,1,0
+Italy,Sforzatica,45.6615,9.6115,1,0
+Italy,Sgarbozio,44.7782,9.7448,1,0
+Italy,Sgarroni,40.9282,15.5782,1,0
+Italy,Sghittosa,46.2615,12.8282,1,0
+Italy,Sgonico,45.7448,13.7615,1,0
+Italy,Sgonico_Friuli-Venezia Giulia,45.7479,13.7601,1,0
+Italy,Sgurgola,41.6782,13.1615,1,0
+Italy,Sicili,40.1448,15.5448,1,0
+Italy,Sicily_Sicilia,37.5115,14.0115,1,0
+Italy,Siena_Toscana,43.3282,11.3615,1,0
+Italy,Siena,43.2282,11.4115,1,0
+Italy,Skedenj_Friuli-Venezia Giulia,45.6387,13.7896,1,0
+Italy,Skutnik,46.3282,13.4448,1,0
+Italy,Slenza_Friuli-Venezia Giulia,46.5026,13.2671,1,0
+Italy,Slingia,46.7115,10.4782,1,0
+Italy,Slivia_Friuli-Venezia Giulia,45.7801,13.6759,1,0
+Italy,Sluderno,46.6782,10.5948,1,0
+Italy,Smirra,43.5948,12.6782,1,0
+Italy,Socchieve_Friuli-Venezia Giulia,46.4079,12.8543,1,0
+Italy,Socchieve,46.3948,12.8615,1,0
+Italy,Solofra,40.8448,14.8615,1,0
+Italy,Sorrento,40.6282,14.3782,1,0
+Italy,Spineda,45.0615,10.5282,1,0
+Italy,Spinetta Marengo,44.8948,8.6948,1,0
+Italy,Spoleto,42.7448,12.7448,1,0
+Italy,Squarci,44.4115,9.6948,1,0
+Italy,Squillace,38.7948,16.5282,1,0
+Italy,Squille,41.1615,14.4448,1,0
+Italy,Squinzano_Puglia,40.4476,18.0532,1,0
+Italy,Stradella,45.0948,9.3115,1,0
+Italy,Stresa,45.8948,8.5448,1,0
+Italy,Su Concali_Sardegna,39.2201,8.9146,1,0
+Italy,Suelli_Sardegna,39.5757,9.1426,1,0
+Italy,Sulmona,42.0615,13.9282,1,0
+Italy,Susegana_Veneto,45.8629,12.2598,1,0
+Italy,Suzzara,45.0115,10.7615,1,0
+Italy,Sveta Barbara_Friuli-Venezia Giulia,45.5968,13.7929,1,0
+Italy,Sveti Kriz_Friuli-Venezia Giulia,45.7462,13.7043,1,0
+Italy,Sveti Mihel,45.6115,13.7615,1,0
+Italy,Sybaris,39.7115,16.4782,1,0
+Italy,Syracusae_Sicilia,37.0782,15.3115,1,0
+Italy,Syrakus,37.0615,15.0115,1,0
+Italy,Taranto_Puglia,40.4877,17.2413,1,0
+Italy,Teramo,42.6616,13.6949,1,0
+Italy,Teramo_Abruzzo,42.6616,13.7116,1,0
+Italy,Termoli,42.0116,15.0116,1,0
+Italy,Terni_Umbria,42.5783,12.6283,1,0
+Italy,Terni,42.6949,12.3283,1,0
+Italy,Thapsus_Sicilia,37.1616,15.2449,1,0
+Italy,The Compagna,41.8449,12.5949,1,0
+Italy,The Marches_Marche,43.5116,13.2616,1,0
+Italy,The Olmi,44.6783,10.8949,1,0
+Italy,Thiene,45.7116,11.4949,1,0
+Italy,Thiesi_Sardegna,40.5283,8.7283,1,0
+Italy,Thourraz,45.7616,7.2616,1,0
+Italy,Thumel,45.5449,7.1116,1,0
+Italy,Thuras,44.9449,6.8283,1,0
+Italy,Thures Gorlier,44.9283,6.8283,1,0
+Italy,Thurio,39.6949,16.4783,1,0
+Italy,Tione di Trento,46.0449,10.7283,1,0
+Italy,Tombolo,45.6449,11.8449,1,0
+Italy,Torino Dora,45.0949,7.6949,1,0
+Italy,Torino Lingotto,45.0783,7.6616,1,0
+Italy,Torino Vanchiglia,45.0949,7.7116,1,0
+Italy,Torino-Porta Susa,45.0783,7.6783,1,0
+Italy,Torino-Porta-Nuova,45.0616,7.6949,1,0
+Italy,Torino-Stura,45.1283,7.7283,1,0
+Italy,Torre de Passeri,42.2449,13.9449,1,0
+Italy,Tortona,44.9116,8.8783,1,0
+Italy,Trani,41.2949,16.4283,1,0
+Italy,Trapani_Sicilia,38.0283,12.4949,1,0
+Italy,Travagliato,45.5283,10.0949,1,0
+Italy,Trentino_Trentino-Alto Adige,46.5116,11.3449,1,0
+Italy,Trento_Trentino-Alto Adige,46.0783,11.1449,1,0
+Italy,Trento,46.1449,11.1283,1,0
+Italy,Treviglio,45.5283,9.5949,1,0
+Italy,Treviso,45.8449,12.2283,1,0
+Italy,Treviso_Veneto,45.6783,12.2566,1,0
+Italy,Trieste,45.6783,13.7783,1,0
+Italy,Trieste_Friuli-Venezia Giulia,45.6602,13.7916,1,0
+Italy,Trino,45.2116,8.3116,1,0
+Italy,Triuggio,45.6616,9.2616,1,0
+Italy,Tualis_Friuli-Venezia Giulia,46.5449,12.8974,1,0
+Italy,Tubbiano,43.9449,10.5783,1,0
+Italy,Tubione,42.1116,13.2283,1,0
+Italy,Tubre,46.6616,10.4616,1,0
+Italy,Tuenno,46.3449,11.0283,1,0
+Italy,Tufillo,41.9283,14.6449,1,0
+Italy,Tufino,40.9616,14.5783,1,0
+Italy,Tufo,41.2783,13.7783,1,0
+Italy,Tufo Alto,42.1449,13.1116,1,0
+Italy,Tufo Basso,42.1616,13.1116,1,0
+Italy,Tufolo,39.0449,17.1283,1,0
+Italy,Tuglie,40.0783,18.0949,1,0
+Italy,Tuili_Sardegna,39.7263,8.9735,1,0
+Italy,Tula_Sardegna,40.7449,8.9949,1,0
+Italy,Tului_Sardegna,39.0949,8.6449,1,0
+Italy,Tumminello_Sicilia,37.6449,13.0116,1,0
+Italy,Tuna,44.9783,9.5783,1,0
+Italy,Tungoni_Sardegna,40.9283,8.9616,1,0
+Italy,Tunnel du Mont Cenis,45.2116,6.6783,1,0
+Italy,Tuoro,43.2116,12.0783,1,0
+Italy,Tuoro Alto,41.1116,14.5949,1,0
+Italy,Turania,42.1449,13.0116,1,0
+Italy,Turano,42.4449,12.7949,1,0
+Italy,Turano Lodigiano,45.2616,9.6283,1,0
+Italy,Turbigo,45.5449,8.7449,1,0
+Italy,Turchi,46.3616,10.3616,1,0
+Italy,Turi,40.9283,17.0283,1,0
+Italy,Turignano,43.6283,11.1116,1,0
+Italy,Turin,45.1449,7.3783,1,0
+Italy,Turin_Piemonte,45.0616,7.6783,1,0
+Italy,Turio,39.7116,16.4949,1,0
+Italy,Turovio,38.4283,16.3949,1,0
+Italy,Turri_Sardegna,39.7174,8.9294,1,0
+Italy,Turri Manna_Sardegna,39.9194,8.5274,1,0
+Italy,Turriaco_Friuli-Venezia Giulia,45.8338,13.4583,1,0
+Italy,Turrida_Friuli-Venezia Giulia,46.041,12.9444,1,0
+Italy,Turrito,43.9283,12.1283,1,0
+Italy,Turrivalignani,42.2616,14.0283,1,0
+Italy,Tursi,40.2616,16.4783,1,0
+Italy,Tusa_Sicilia,38.0283,14.2783,1,0
+Italy,Tuscan Archipelago,42.7616,10.3116,1,0
+Italy,Tuscana_Toscana,43.4283,11.0116,1,0
+Italy,Tuscania,42.4283,11.8783,1,0
+Italy,Tusciano,40.5949,14.8949,1,0
+Italy,Tussillo,42.2783,13.5283,1,0
+Italy,Tussio,42.2616,13.6449,1,0
+Italy,Tutino,39.9449,18.3616,1,0
+Italy,Uccea_Friuli-Venezia Giulia,46.3181,13.4098,1,0
+Italy,Ucria_Sicilia,38.0617,14.895,1,0
+Italy,Udine,46.1784,13.0117,1,0
+Italy,Udine_Friuli-Venezia Giulia,46.0436,13.1942,1,0
+Italy,Udoleto,45.6617,13.845,1,0
+Italy,Uetimo,46.5784,11.045,1,0
+Italy,Ufente,41.345,13.1784,1,0
+Italy,Uffogliano,43.9617,12.345,1,0
+Italy,Ufita,41.1617,14.945,1,0
+Italy,Ugento,39.945,18.1784,1,0
+Italy,Uggiano,40.1117,18.4617,1,0
+Italy,Uggiano Montefusco,40.395,17.6117,1,0
+Italy,Uggiate,45.845,8.995,1,0
+Italy,Ugliano,43.295,13.145,1,0
+Italy,Ugovizza_Friuli-Venezia Giulia,46.5259,13.4909,1,0
+Italy,Ugrigno,43.9117,12.245,1,0
+Italy,Uia Bessanese,45.3117,7.1284,1,0
+Italy,Ula Tirso_Sardegna,40.0617,8.9117,1,0
+Italy,Ulassai_Sardegna,39.8211,9.5106,1,0
+Italy,Ulignano,43.4284,10.9117,1,0
+Italy,Uliveto Terme,43.7117,10.545,1,0
+Italy,Ulmi_Sicilia,37.845,12.7784,1,0
+Italy,Uluzzo Portoselvaggio,40.1684,17.9775,1,0
+Italy,Ulzio,45.045,6.845,1,0
+Italy,Umbertide,43.3117,12.345,1,0
+Italy,Umbri,38.895,16.2284,1,0
+Italy,Umbria,43.0117,12.5117,1,0
+Italy,Umbriatico,39.3617,16.9284,1,0
+Italy,Umes,46.5117,11.5117,1,0
+Italy,Umito,42.745,13.4117,1,0
+Italy,Ummari_Sicilia,37.945,12.745,1,0
+Italy,Uncinano,42.7784,12.6784,1,0
+Italy,Uniti_Emilia-Romagna,44.4134,12.3364,1,0
+Italy,Unserfrau,46.7284,10.8784,1,0
+Italy,Unterinn,46.545,11.4117,1,0
+Italy,Untermais,46.6617,11.1617,1,0
+Italy,Uppello,42.9617,12.745,1,0
+Italy,Uras_Sardegna,39.7117,8.7145,1,0
+Italy,Urbania,43.6784,12.5284,1,0
+Italy,Urbe,44.5117,8.6117,1,0
+Italy,Urbignacco_Friuli-Venezia Giulia,46.2314,13.1539,1,0
+Italy,Urbino,43.7284,12.645,1,0
+Italy,Urbisaglia,43.2117,13.395,1,0
+Italy,Urbisaglia-Sforzacosta,43.2617,13.4117,1,0
+Italy,Urgnano,45.595,9.695,1,0
+Italy,Uri_Sardegna,40.6489,8.5,1,0
+Italy,Uria,38.895,16.745,1,0
+Italy,Ursinis_Friuli-Venezia Giulia,46.217,13.1428,1,0
+Italy,Ursulei_Sardegna,40.1117,9.5117,1,0
+Italy,Ururi,41.8284,15.0284,1,0
+Italy,Usago_Friuli-Venezia Giulia,46.1945,12.8839,1,0
+Italy,Uscio,44.4284,9.1784,1,0
+Italy,Usellus_Sardegna,39.82,8.8634,1,0
+Italy,Usi,42.7284,11.4784,1,0
+Italy,Usigliano,43.5617,10.595,1,0
+Italy,Usigni,42.7117,12.945,1,0
+Italy,Usini_Sardegna,40.6784,8.545,1,0
+Italy,Usmate,45.6617,9.3617,1,0
+Italy,Ussana_Sardegna,39.4036,9.0892,1,0
+Italy,Ussaramanna_Sardegna,39.7048,8.9209,1,0
+Italy,Ussassai_Sardegna,39.8206,9.4053,1,0
+Italy,Usseglio,45.245,7.2284,1,0
+Italy,Ustica_Sicilia,38.7117,13.195,1,0
+Italy,Uta_Sardegna,39.3,8.97,1,0
+Italy,Uvala Zavije,45.6117,13.8117,1,0
+Italy,Uvert,44.7617,7.1784,1,0
+Italy,Uzzano,43.9117,10.7117,1,0
+Italy,Uzzo,43.995,10.9284,1,0
+Italy,Valbondione,46.0451,10.0118,1,0
+Italy,Valeggio sul Mincio,45.3618,10.7451,1,0
+Italy,Valenzano,41.0451,16.8951,1,0
+Italy,Valle Mosso,45.6451,8.1618,1,0
+Italy,Varallo Sesia,45.8285,8.2618,1,0
+Italy,Varase,43.8451,7.5951,1,0
+Italy,Varese_Lombardia,45.8118,8.8451,1,0
+Italy,Varese,45.8118,8.8118,1,0
+Italy,Varese Ligure,44.3785,9.6285,1,0
+Italy,Vasto,42.1285,14.7118,1,0
+Italy,Veneto,45.7107,12.2374,1,0
+Italy,Venezia Marittima,45.4451,12.3118,1,0
+Italy,Venezia Mestre,45.4951,12.2451,1,0
+Italy,Venezia-Santa-Lucia,45.4451,12.3285,1,0
+Italy,Venice,45.5951,12.5785,1,0
+Italy,Venice_Veneto,45.4504,12.3385,1,0
+Italy,Verbania,45.9451,8.5618,1,0
+Italy,Vercelli,45.3285,8.4285,1,0
+Italy,Vergato,44.2951,11.1285,1,0
+Italy,Verona,45.4285,11.0451,1,0
+Italy,Verona_Veneto,45.4618,11.0118,1,0
+Italy,Verona Porta Nuova,45.4285,10.9785,1,0
+Italy,Verona-Porta-Vescovo,45.4451,11.0285,1,0
+Italy,Verzuolo,44.6118,7.4951,1,0
+Italy,Vho,45.1285,10.3785,1,0
+Italy,Viadana,44.9451,10.5451,1,0
+Italy,Viareggio,43.8785,10.2451,1,0
+Italy,Vibo Valentia_Calabria,38.6785,16.1118,1,0
+Italy,Vicenza_Veneto,45.5618,11.5618,1,0
+Italy,Vicenza,45.6785,11.4618,1,0
+Italy,Vigevano,45.3285,8.8618,1,0
+Italy,Vignate,45.4951,9.3785,1,0
+Italy,Vignola,44.4951,11.0118,1,0
+Italy,Villa Guardia,45.7785,9.0285,1,0
+Italy,Vipiteno,46.9118,11.4451,1,0
+Italy,Viterbo,42.4285,12.0951,1,0
+Italy,Viterbo_Lazio,42.4285,12.1118,1,0
+Italy,Vittoria_Sicilia,36.9618,14.5451,1,0
+Italy,Vo Sinistro,45.7451,10.9618,1,0
+Italy,Vobarno,45.6618,10.5118,1,0
+Italy,Vobbia,44.6618,8.9618,1,0
+Italy,Voceto,42.6451,13.3285,1,0
+Italy,Vodo Cadore_Veneto,46.4351,12.2612,1,0
+Italy,Voga,46.3118,9.3618,1,0
+Italy,Voghenza,44.7785,11.7618,1,0
+Italy,Voghera,44.9951,9.0285,1,0
+Italy,Vogogna,46.0285,8.2951,1,0
+Italy,Volania,44.7451,12.1451,1,0
+Italy,Volano_Emilia-Romagna,44.8196,12.274,1,0
+Italy,Volano,45.9285,11.0618,1,0
+Italy,Volargne,45.5618,10.8285,1,0
+Italy,Voldaora di Sopra_Trentino-Alto Adige,46.7671,12.0237,1,0
+Italy,Volla_Veneto,45.1101,12.2676,1,0
+Italy,Vologno,44.4118,10.4451,1,0
+Italy,Volongo,45.2118,10.3118,1,0
+Italy,Volpago,45.7951,12.1285,1,0
+Italy,Volpaia,43.5285,11.3951,1,0
+Italy,Volpara,44.7285,9.1285,1,0
+Italy,Volpedo,44.8951,8.9951,1,0
+Italy,Volperino,42.9951,12.8785,1,0
+Italy,Volpi,44.7285,9.8785,1,0
+Italy,Volpiano,45.2118,7.7785,1,0
+Italy,Volpino,45.3951,11.3285,1,0
+Italy,Vols,46.5285,11.5118,1,0
+Italy,Volsini,42.6785,11.9285,1,0
+Italy,Volta,45.7618,13.0451,1,0
+Italy,Volta Barozzo,45.3785,11.9118,1,0
+Italy,Volta Casaralta,44.5451,11.3785,1,0
+Italy,Volta Mantovana,45.3285,10.6618,1,0
+Italy,Voltaggio,44.6285,8.8451,1,0
+Italy,Voltago_Veneto,46.2846,12.0212,1,0
+Italy,Voltana,44.5618,11.9785,1,0
+Italy,Volterra,43.4118,10.8618,1,0
+Italy,Voltido,45.1118,10.3285,1,0
+Italy,Voltois_Friuli-Venezia Giulia,46.4346,12.8221,1,0
+Italy,Voltole,43.2118,12.7618,1,0
+Italy,Volton,45.6951,13.0618,1,0
+Italy,Voltre_Emilia-Romagna,44.0462,12.0526,1,0
+Italy,Voltri_Liguria,44.4451,8.7618,1,0
+Italy,Voltri,44.4451,8.7785,1,0
+Italy,Volturara Appula,41.5118,15.0618,1,0
+Italy,Volturara Irpina,40.8951,14.9285,1,0
+Italy,Volturino,41.4785,15.1285,1,0
+Italy,Volturno,41.0285,13.9285,1,0
+Italy,Volvera,44.9785,7.5285,1,0
+Italy,Vomano,42.6618,14.0451,1,0
+Italy,Vomero,40.8451,14.2451,1,0
+Italy,Vontotene,40.7951,13.4285,1,0
+Italy,Vonzo,45.3785,7.3618,1,0
+Italy,Voze,44.2285,8.4118,1,0
+Italy,Vrdela,45.6618,13.8118,1,0
+Italy,Vuezzis_Friuli-Venezia Giulia,46.5685,12.8782,1,0
+Italy,Vulcano,38.4118,14.9785,1,0
+Italy,Vulci,42.4285,11.1618,1,0
+Italy,Vulture,40.9618,15.6451,1,0
+Italy,Vunazzi,39.0451,16.3618,1,0
+Italy,Vuoiere,44.4451,6.9951,1,0
+Italy,Vuturino,39.2951,16.5618,1,0
+Italy,Wahlen_Trentino-Alto Adige,46.7638,12.2708,1,0
+Italy,Waidbruch,46.6119,11.5452,1,0
+Italy,Waldensian Valleys,44.8452,7.0952,1,0
+Italy,Walliser Alpen,46.0952,7.8452,1,0
+Italy,Weisssee Spitze,46.8619,10.7286,1,0
+Italy,Welitz,47.0452,12.2119,1,0
+Italy,Welsberg_Trentino-Alto Adige,46.7705,12.1227,1,0
+Italy,Welschellen,46.7286,11.8952,1,0
+Italy,Welschnofen,46.4452,11.5452,1,0
+Italy,Weng,45.8619,7.9286,1,0
+Italy,Wilder Pfaff,46.9786,11.1786,1,0
+Italy,Wildseespitze,46.9952,11.5952,1,0
+Italy,Winklerjoch,46.6619,12.6452,1,0
+Italy,Winnebach,46.8119,11.7786,1,0
+Italy,Wippach,45.9119,13.5619,1,0
+Italy,Wolkenstein,46.5619,11.7786,1,0
+Italy,Wollbachspitze,47.0619,11.9952,1,0
+Italy,Wormser Joch,46.5786,10.4286,1,0
+Italy,Xirbi_Sicilia,37.5287,14.0453,1,0
+Italy,Xitta_Sicilia,37.9953,12.562,1,0
+Italy,Zaccanopoli,38.6789,15.9622,1,0
+Italy,Zadina Pineta_Emilia-Romagna,44.2361,12.3978,1,0
+Italy,Zaffaria_Sicilia,38.1622,15.5122,1,0
+Italy,Zafferana_Sicilia,37.6955,15.1122,1,0
+Italy,Zaffignano,44.8955,9.6789,1,0
+Italy,Zagaria,39.3789,16.5455,1,0
+Italy,Zagarise,39.0122,16.6622,1,0
+Italy,Zagarolo,41.8455,12.8455,1,0
+Italy,Zagliano_Friuli-Venezia Giulia,46.0314,13.2228,1,0
+Italy,Zago,45.5622,11.0455,1,0
+Italy,Zahre_Friuli-Venezia Giulia,46.4769,12.7233,1,0
+Italy,Zambana,46.1789,11.0789,1,0
+Italy,Zambla Alta,45.8955,9.7955,1,0
+Italy,Zambra,43.5122,11.1122,1,0
+Italy,Zambrone,38.7122,15.9955,1,0
+Italy,Zammaro,38.6622,16.1122,1,0
+Italy,Zampani,42.8122,12.5455,1,0
+Italy,Zampil,46.3955,10.6955,1,0
+Italy,Zampis_Friuli-Venezia Giulia,46.1297,13.1922,1,0
+Italy,Zanacchi,44.7789,9.3622,1,0
+Italy,Zanca,42.8122,10.1455,1,0
+Italy,Zancona,42.8622,11.5289,1,0
+Italy,Zandobbio,45.6955,9.8622,1,0
+Italy,Zane,45.7289,11.4622,1,0
+Italy,Zaneca,44.0622,9.9622,1,0
+Italy,Zanengo,45.2289,9.8622,1,0
+Italy,Zanetti,45.9455,11.7622,1,0
+Italy,Zanica,45.6455,9.6955,1,0
+Italy,Zanon,45.2622,11.0622,1,0
+Italy,Zapparola,44.9789,9.9622,1,0
+Italy,Zappolino,44.4455,11.1289,1,0
+Italy,Zapponeta,41.4622,15.9622,1,0
+Italy,Zappulla_Sicilia,36.7789,14.8122,1,0
+Italy,Zarafa,39.9455,16.0789,1,0
+Italy,Zavattarello,44.8789,9.2789,1,0
+Italy,Zavena,46.0622,11.7789,1,0
+Italy,Zeddiani_Sardegna,40.003,8.6075,1,0
+Italy,Zegliacco_Friuli-Venezia Giulia,46.215,13.1705,1,0
+Italy,Zeglianutto_Friuli-Venezia Giulia,46.2116,13.1689,1,0
+Italy,Zelarino_Veneto,45.523,12.2164,1,0
+Italy,Zellina_Friuli-Venezia Giulia,45.8455,13.1936,1,0
+Italy,Zelo,45.5122,12.2289,1,0
+Italy,Zelo Buon Persico,45.4122,9.4289,1,0
+Italy,Zeme,45.2122,8.6789,1,0
+Italy,Zena,44.9455,9.8122,1,0
+Italy,Zenarella,44.3455,11.3789,1,0
+Italy,Zendri,45.7789,11.1122,1,0
+Italy,Zenich_Veneto,46.2683,12.045,1,0
+Italy,Zenna,46.1122,8.7622,1,0
+Italy,Zenson_Veneto,45.6905,12.5005,1,0
+Italy,Zeppara_Sardegna,39.7955,8.8455,1,0
+Italy,Zepponami,42.5289,12.0622,1,0
+Italy,Zerbo,45.1122,9.3955,1,0
+Italy,Zerbolo,45.2122,9.0122,1,0
+Italy,Zerfaliu_Sardegna,39.9708,8.7211,1,0
+Italy,Zergolon_Veneto,46.5066,12.5169,1,0
+Italy,Zeri,44.3455,9.7789,1,0
+Italy,Zeriolo_Veneto,45.6394,12.1169,1,0
+Italy,Zerman_Veneto,45.5916,12.2805,1,0
+Italy,Zermeghedo,45.4789,11.3789,1,0
+Italy,Zero_Veneto,45.5344,12.4266,1,0
+Italy,Zero Branco_Veneto,45.6141,12.1755,1,0
+Italy,Zevio,45.3789,11.1455,1,0
+Italy,Ziano,46.2955,11.5789,1,0
+Italy,Ziano di Fiemme,46.2955,11.5955,1,0
+Italy,Ziano Piacentino,45.0122,9.4122,1,0
+Italy,Zibello,45.0289,10.1455,1,0
+Italy,Zibido,45.2789,9.2789,1,0
+Italy,Zibido San Giacomo,45.3789,9.1122,1,0
+Italy,Zimella,44.6455,10.7455,1,0
+Italy,Zimone,45.4622,8.0455,1,0
+Italy,Zinaletto,44.5955,11.0955,1,0
+Italy,Zinasco,45.1289,9.0122,1,0
+Italy,Zinga,39.2622,16.9289,1,0
+Italy,Zinghera,42.8789,10.8955,1,0
+Italy,Ziona,44.2789,9.6289,1,0
+Italy,Ziracco_Friuli-Venezia Giulia,46.1239,13.3533,1,0
+Italy,Zoagli,44.3455,9.2789,1,0
+Italy,Zocca_Veneto,45.0219,12.1066,1,0
+Italy,Zocca,44.3622,10.9955,1,0
+Italy,Zocchetta,44.3789,10.9955,1,0
+Italy,Zogno,45.8122,9.6789,1,0
+Italy,Zola,46.4455,10.3455,1,0
+Italy,Zola Predosa,44.4955,11.2122,1,0
+Italy,Zoldo Alto_Veneto,46.3861,12.14,1,0
+Italy,Zolforata,41.7122,12.5455,1,0
+Italy,Zolla_Friuli-Venezia Giulia,45.7305,13.8239,1,0
+Italy,Zollino,40.2122,18.2622,1,0
+Italy,Zollnertorl,46.6122,13.0789,1,0
+Italy,Zomeais_Friuli-Venezia Giulia,46.2422,13.2361,1,0
+Italy,Zompicchia_Friuli-Venezia Giulia,45.9783,13.0161,1,0
+Italy,Zompitta_Friuli-Venezia Giulia,46.1811,13.2675,1,0
+Italy,Zona,38.3122,16.1789,1,0
+Italy,Zoppe_Veneto,45.9003,12.418,1,0
+Italy,Zoppe di Cadore,46.3955,12.1789,1,0
+Italy,Zoppola_Friuli-Venezia Giulia,45.9783,12.7797,1,0
+Italy,Zottier_Veneto,46.0758,12.1316,1,0
+Italy,Zouf Plan_Friuli-Venezia Giulia,46.5761,12.9825,1,0
+Italy,Zovello_Friuli-Venezia Giulia,46.5472,12.968,1,0
+Italy,Zovencedo,45.4289,11.5122,1,0
+Italy,Zuc dal Bor_Friuli-Venezia Giulia,46.4622,13.2711,1,0
+Italy,Zuc di Santins_Friuli-Venezia Giulia,46.3083,12.8722,1,0
+Italy,Zuccarello,44.1289,8.1289,1,0
+Italy,Zuecca,45.4455,12.3455,1,0
+Italy,Zuel_Veneto,46.5358,12.1605,1,0
+Italy,Zufritt Spitze,46.5122,10.7955,1,0
+Italy,Zuglio_Friuli-Venezia Giulia,46.4761,13.0347,1,0
+Italy,Zula,44.3622,11.3455,1,0
+Italy,Zumpano,39.3122,16.2955,1,0
+Italy,Zungoli,41.1289,15.2122,1,0
+Italy,Zungti,38.6622,15.9955,1,0
+Italy,Zunna,42.5955,12.9622,1,0
+Italy,Zuri_Sardegna,40.1289,8.8789,1,0
+Italy,Zurin_Friuli-Venezia Giulia,46.2228,13.1914,1,0

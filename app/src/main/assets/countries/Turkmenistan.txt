@@ -1,0 +1,45 @@
+Turkmenistan,Ashgabat_Ahal,37.9597,58.393,5,0
+Turkmenistan,Ashgabat,37.9525,58.4058,5,0
+Turkmenistan,Ashgabat Oblasty_Ahal,38.2597,59.7597,5,0
+Turkmenistan,Cheleken,39.2266,53.1099,5,0
+Turkmenistan,Cheleken_Balkan,39.4546,53.1249,5,0
+Turkmenistan,Eason-Ali,38.3101,54.7101,5,0
+Turkmenistan,Egri,38.0268,65.1434,5,0
+Turkmenistan,Esenguly,37.4757,53.9826,5,0
+Turkmenistan,Esenguly Demirgazyk,37.524,54.0023,5,0
+Turkmenistan,Esenguly Reydy,37.4448,53.8657,5,0
+Turkmenistan,Farab,39.1435,63.6769,5,0
+Turkmenistan,Farab_Lebap,39.1816,63.6133,5,0
+Turkmenistan,Ferma Shal-Cheken,38.2935,56.6102,5,0
+Turkmenistan,Firyuza,37.926,58.1013,5,0
+Turkmenistan,Fistashkovyy Khrebet_Mary,35.2835,62.4399,5,0
+Turkmenistan,Gyaurs,37.8064,58.7389,5,0
+Turkmenistan,Gyaurskiy Rayon,37.877,58.527,5,0
+Turkmenistan,Hari Rod_Ahal,37.4012,60.5273,5,0
+Turkmenistan,Leninizm_Lebap,38.5222,64.0716,5,0
+Turkmenistan,Mary,37.6109,61.8442,5,0
+Turkmenistan,Maryyskiy Rayon,38.0109,61.7609,5,0
+Turkmenistan,Nebitdag_Balkan,39.5229,54.376,5,0
+Turkmenistan,Qara Bel,36.2113,63.5946,5,0
+Turkmenistan,Qareh Tikan Su_Ahal,37.083,60.5355,5,0
+Turkmenistan,Qura Gel_Balkan,39.3902,53.1932,5,0
+Turkmenistan,Sarakhs_Ahal,36.5346,61.2254,5,0
+Turkmenistan,Tagta,41.6616,59.9116,5,0
+Turkmenistan,Turkmenabad_Lebap,39.113,63.5866,5,0
+Turkmenistan,Turkmenbashy_Balkan,40.0347,52.9813,5,0
+Turkmenistan,Vpadina Akchakaya,41.0618,58.2618,5,0
+Turkmenistan,Yak-Kala,38.1288,57.9621,5,0
+Turkmenistan,Yakeper_Mary,38.2293,62.1115,5,0
+Turkmenistan,Yangi-Kuyu,37.1621,62.7454,5,0
+Turkmenistan,Yangi-Su,41.0121,54.7788,5,0
+Turkmenistan,Yashguch,37.2788,60.6454,5,0
+Turkmenistan,Yaskhan,39.6788,55.5621,5,0
+Turkmenistan,Yasman,38.0788,58.2288,5,0
+Turkmenistan,Yasydepe_Balkan,37.5352,54.7496,5,0
+Turkmenistan,Yaz-Tepe,39.0954,63.3954,5,0
+Turkmenistan,Yerazli,37.7454,59.4621,5,0
+Turkmenistan,Yerbent,39.3288,58.6121,5,0
+Turkmenistan,Yesheksiyen,38.8454,58.6621,5,0
+Turkmenistan,Yoloten,37.3121,62.3621,5,0
+Turkmenistan,Yuldy-Dere,38.2954,56.7621,5,0
+Turkmenistan,Yurta-Baba,37.6129,54.4365,5,0

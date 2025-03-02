@@ -1,0 +1,78 @@
+Azerbaijan,26 Komissar adina Kend_Xanlar,40.5581,46.2172,4,198
+Azerbaijan,26Baky Komissary_Neftcala,39.3119,49.2094,4,207
+Azerbaijan,28 Aprel_Yevlax,40.6283,46.9767,4,200
+Azerbaijan,Babaser_Masalli,38.9469,48.6806,4,206
+Azerbaijan,Baki Kulaklari Dagi_Baki,40.2956,49.6261,4,207
+Azerbaijan,Baki Sahari_Baki,40.3000,49.7167,4,207
+Azerbaijan,Bakixanov_Baki*,40.4217,49.9644,4,207
+Azerbaijan,Baku_Baki,40.3953,49.8822,4,207
+Azerbaijan,Baku Archipelago_Ali Bayramli,39.5000,49.7500,4,208
+Azerbaijan,Baku Bay_Baki,40.3500,49.8933,4,207
+Azerbaijan,Baku-Baladshary_Baki,40.4314,49.8081,4,207
+Azerbaijan,Damirchi_Naxcivan,39.6108,44.9342,4,195
+Azerbaijan,Damirchilar_Xocali,39.7131,46.8417,4,200
+Azerbaijan,Damirchilyar_Qubadli,39.3150,46.6025,4,200
+Azerbaijan,Damirchilyar_Tartar,40.4267,46.8958,4,200
+Azerbaijan,Damirchilyar_Qazax,41.0878,45.2647,4,195
+Azerbaijan,Fadili_Xanlar,40.6469,46.1936,4,198
+Azerbaijan,Fakhlul_Xankandi,39.8167,46.7333,4,200
+Azerbaijan,Fakhraly_Goranboy,40.7478,46.5581,4,199
+Azerbaijan,Faldar_Zaqatala,41.4667,46.5167,4,198
+Azerbaijan,Faldar Cayi_Zaqatala,41.4361,46.4708,4,198
+Azerbaijan,Faradzhan_Lacin,39.5378,46.6831,4,200
+Azerbaijan,Farahli_Qazax,41.1064,45.1458,4,195
+Azerbaijan,Fardzhan_Qubadli,39.2731,46.5631,4,200
+Azerbaijan,Farmactapa Dagi_Lacin,39.7364,46.2053,4,198
+Azerbaijan,Farradzh_Lacin,39.8389,46.5150,4,199
+Azerbaijan,Farux_Xocali,40.0164,46.8011,4,200
+Azerbaijan,Farzali_Calilabad,39.1956,48.4772,4,205
+Azerbaijan,Farzalioba_Xacmaz,41.6392,48.6325,4,203
+Azerbaijan,Farzaly_Gadabay,40.6378,45.4561,4,196
+Azerbaijan,Fatalikand_Saatli,39.8778,48.5567,4,205
+Azerbaijan,Fatalipeya_Lacin,39.6022,46.5714	 	4,200
+Azerbaijan,Fatmayi_Abseron,40.5292,49.8456	 	4,207
+Azerbaijan,Fazyl_Saki,41.0344,47.2303,4,200
+Azerbaijan,Ferkhani_Kalbacar,40.1000,46.0667,4,198
+Azerbaijan,Filifli_Oguz,41.1169,47.5906,4,201
+Azerbaijan,Findigan_Xizi,40.9572,49.0428,4,205
+Azerbaijan,Fingya_Lacin,39.7611,46.5431,4,199
+Azerbaijan,Fioletovka_Fuzuli,39.6000,47.1333,4,201
+Azerbaijan,Fioletovka_Bilasuvar,39.5000,48.5167,4,205
+Azerbaijan,Firiq_Quba,41.1483,48.6264,4,203
+Azerbaijan,Fisdiqli_Qax,41.4450,46.7925,4,199
+Azerbaijan,Fizuli_Fuzuli,39.6003,47.1431,4,201
+Azerbaijan,Fuganly_Cabrayil,39.3539,47.0942,4,201
+Azerbaijan,Fuzuli_Samux,40.7992,46.4003,4,198
+Azerbaijan,Ganca_Ganca,40.6828,46.3606,4,198
+Azerbaijan,Ganca Sahari_Ganca,40.6500,46.3500,4,198
+Azerbaijan,Jabrail_Cabrayil,39.4000,47.0261,4,201
+Azerbaijan,Jagirch ay,39.3000,45.4500,4,197
+Azerbaijan,Jalilabad_Calilabad,39.2089,48.4972,4,205
+Azerbaijan,Jalilabad Rayonu_Calilabad,39.2500,48.5000,4,205
+Azerbaijan,Janub Sayi_Baki,40.2606,50.3950,4,209
+Azerbaijan,Janyat agh_Tartar,40.1386,46.7692,4,200
+Azerbaijan,Jaschma_Xizi,40.7031,49.4769,4,206
+Azerbaijan,Jdanov_Beylaqan,39.7756,47.6186,4,202
+Azerbaijan,Jewlach_Yevlax,40.6172,47.1500,4,200
+Azerbaijan,Jilan_Xocavand,39.4358,46.9697,4,201
+Azerbaijan,Jiloi Island_Baki,40.3272,50.5869,4,209
+Azerbaijan,Jiloy_Baki,40.3294,50.6031,4,209
+Azerbaijan,Joghas,41.0939,45.3419,4,195
+Azerbaijan,Jolfa_Naxcivan,38.9500,45.6319,4,198
+Azerbaijan,Jrakuys_Xocavand,39.5767,47.0133,4,201
+Azerbaijan,Jrver_Xocali,39.9689,46.8169,4,200
+Azerbaijan,Jukhary Aza_Naxcivan,38.9383,45.8283,4,198
+Azerbaijan,Julfa Rayonu_Naxcivan,39.1667,45.6667,4,197
+Azerbaijan,Kurdamir,40.3383,48.1608,4,203
+Azerbaijan,Kurdamir Rayonu_Kurdamir,40.2500,48.1667,4,203
+Azerbaijan,Mingacevir_Mingacevir,40.7700,47.0489,4,200
+Azerbaijan,Mingacevir Sahari_Mingacevir,40.7667,47.0000,4,200
+Azerbaijan,Qakh_Qax,41.4225,46.9242,4,199
+Azerbaijan,Quba,41.3597,48.5125,4,203
+Azerbaijan,Sheki_Saki,41.1919,47.1706,4,200
+Azerbaijan,Sumgait_Sumqayit,40.6167,49.6125,4,206
+Azerbaijan,Sumqayit_Sumqayit,40.5897,49.6686,4,207
+Azerbaijan,Sumqayit Sahari_Sumqayit,40.5833,49.6667,4,207
+Azerbaijan,Weli-Tschai_Masalli,39.0547,48.8744,4,206
+Azerbaijan,Welwel-Chai_Xacmaz,41.3858,49.0672,4,204
+Azerbaijan,Wosaru_Lankaran,38.7506,48.8703,4,207

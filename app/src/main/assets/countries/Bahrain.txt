@@ -1,0 +1,218 @@
+Bahrain,Al Hadd,26.2333,50.6500,3,246
+Bahrain,Al Hajar_Jidd Hafs,26.2111,50.5139,3,246
+Bahrain,Ali_Al Mintaqah ash Shamaliyah,26.1619,50.5164,3,247
+Bahrain,Ar Rifa_ or BA07,26.1300,50.5550,3,247
+Bahrain,Arad_Al Muharraq,26.2561,50.6322,3,246
+Bahrain,Bahrain_ or BA07,26.0000,50.5500,3,247
+Bahrain,Bahrain,26.0000,50.5000,3,247
+Bahrain,Bahrain International Airport_Al Muharraq,26.2728,50.6264,3,246
+Bahrain,Bandar ad Dar_Sitrah,26.1356,50.6350,3,247
+Bahrain,Bandar Jasra_Al Mintaqah al Gharbiyah,26.1500,50.4333,3,246
+Bahrain,Bandar Karzakkan_Al Mintaqah al Gharbiyah,26.1000,50.4667,3,247
+Bahrain,Bandar Nakhlah_Mintaqat Juzur Hawar,25.6333,50.7633,3,250
+Bahrain,Bandar Sadad_Al Mintaqah al Gharbiyah,26.0833,50.4667,3,247
+Bahrain,Bani Jamrah_Al Mintaqah ash Shamaliyah,26.2097,50.4597,3,246
+Bahrain,Barbar_Al Mintaqah ash Shamaliyah,26.2294,50.4808,3,246
+Bahrain,Barbura_ or BA07,26.1333,50.5833,3,247
+Bahrain,Basatin_Al Muharraq,26.2694,50.6078,3,246
+Bahrain,Bid`ah_Jidd Hafs,26.2253,50.5372,3,246
+Bahrain,Bilad al Qadim_Al Manamah,26.2117,50.5619,3,246
+Bahrain,Bilad al `Arab,25.0000,45.0000,3,234
+Bahrain,Bu Quwah_Jidd Hafs,26.2047,50.5200,3,246
+Bahrain,Bu `Ashirah_Al Manamah,26.2078,50.5772,3,246
+Bahrain,Budaiya_Al Mintaqah ash Shamaliyah,26.2131,50.4500,3,246
+Bahrain,Buri_Al Manamah,26.1514,50.4975,3,247
+Bahrain,Busdad Island_Mintaqat Juzur Hawar,25.6253,50.7769,3,250
+Bahrain,Central Region_Al Mintaqah al Wusta,26.1833,50.5167,3,246
+Bahrain,Dair_Al Muharraq,26.2842,50.6236,3,246
+Bahrain,Dar al Manadil_ or BA07,25.9786,50.6150,3,248
+Bahrain,Dar Kulaib_Al Mintaqah al Gharbiyah,26.0686,50.5039,3,247
+Bahrain,Dawhat al Budayyi`_Al Mintaqah ash Shamaliyah,26.2114,50.4372,3,246
+Bahrain,Dawhat al Farisiyah_Sitrah,26.0942,50.6297,3,247
+Bahrain,Dawhat al Mamtalah_Al Mintaqah al Gharbiyah,25.9011,50.5181,3,248
+Bahrain,Dawhat al Qudaybiyah_Sitrah,26.2225,50.6042,3,246
+Bahrain,Dawhat Salwa_Al Mintaqah al Gharbiyah,25.5500,50.6136,3,250
+Bahrain,Dil` ar Rifa`_ or BA07,26.0856,50.5172,3,247
+Bahrain,Dil` Salman Bin Du`ayj_Al Mintaqah al Gharbiyah,26.1494,50.4839,3,247
+Bahrain,Diraz_Al Mintaqah ash Shamaliyah,26.2181,50.4706,3,246
+Bahrain,Djannusan_Al Mintaqah ash Shamaliyah,26.2306,50.4947,3,246
+Bahrain,Djaww_ or BA07,25.9986,50.6167,3,248
+Bahrain,Djezira Hawar,25.6553,50.7494,3,249
+Bahrain,Djezira Rubadh_Mintaqat Juzur Hawar,25.7508,50.7817,3,249
+Bahrain,Djezire Nabi Sali_Al Manamah,26.1811,50.5847,3,247
+Bahrain,Djida_Al Mintaqah ash Shamaliyah,26.1942,50.4017,3,246
+Bahrain,Djidd Hafs_Jidd Hafs,26.2186,50.5478,3,246
+Bahrain,Dumistan_Al Mintaqah al Gharbiyah,26.1264,50.4811,3,247
+Bahrain,El Hayiya Island_Mintaqat Juzur Hawar,25.7000,50.8000,3,249
+Bahrain,Fasht ad Dubal_Al Hadd,26.2664,50.9544,3,247
+Bahrain,Fasht Adham_ or BA07,26.0333,50.7167,3,248
+Bahrain,Fasht al Hadba_Al Muharraq,26.2833,50.5833,3,246
+Bahrain,Fasht al Jarim_Al Mintaqah ash Shamaliyah,26.4789,50.5142,3,245
+Bahrain,Fasht Bartufi_Al Mintaqah ash Shamaliyah,26.2350,50.4600,3,246
+Bahrain,Fasht Bu Thawr_Mintaqat Juzur Hawar,25.8000,50.7667,3,249
+Bahrain,Fasht Rustan_Al Muharraq,26.2719,50.5706,3,246
+Bahrain,Ghuraifah_Mintaqat Juzur Hawar,26.2078,50.6025,3,247
+Bahrain,Gulf of Bahrayn,25.7422,50.6525,3,249
+Bahrain,Hadd ad Dib_Mintaqat Juzur Hawar,25.5561,50.8031,3,250
+Bahrain,Hadd al Bahrayn_Al Mintaqah al Gharbiyah,25.7978,50.5667,3,248
+Bahrain,Hadd al Jamal_ or BA07,25.8508,50.6078,3,248
+Bahrain,Hafirah_ or BA07,25.9975,50.5875,3,247
+Bahrain,Hair al Adhalah_Al Mintaqah ash Shamaliyah,26.5656,50.5072,3,245
+Bahrain,Halat_Sitrah,26.1667,50.6167,3,247
+Bahrain,Halat Abu Mahur_Al Muharraq,26.2444,50.6192,3,246
+Bahrain,Halat al-Salata_Al Hadd,26.2428,50.6386,3,246
+Bahrain,Halat Nun_ or BA07,25.7753,50.5983,3,249
+Bahrain,Hamad Town_Ar Rifa` wa al Mintaqah al Janubiyah,26.1153,50.5069,3,247
+Bahrain,Hamala_Al Mintaqah al Gharbiyah,26.1433,50.4594,3,246
+Bahrain,Hamala Camp_Al Mintaqah al Gharbiyah,26.1500,50.4833,3,247
+Bahrain,Harta_Al Manamah,26.2000,50.5833,3,246
+Bahrain,Hayr ar Ruq`ah,26.3178,50.3500,3,245
+Bahrain,Hayr Shutaya_Al Muharraq,26.5653,50.7772,3,245
+Bahrain,Hillah_Jidd Hafs,26.2214,50.5167,3,246
+Bahrain,Horat Unqa_Al Mintaqah al Gharbiyah,26.0294,50.5025,3,247
+Bahrain,Hujair_Al Mintaqah al Wusta,26.1833,50.5500,3,246
+Bahrain,Ikur_Sitrah,26.1431,50.6103,3,247
+Bahrain,Inner Harbour_Al Manamah,26.2500,50.5667,3,246
+Bahrain,Isa Town_Madinat `Isa,26.1667,50.5500,3,247
+Bahrain,Janabiya_Al Mintaqah ash Shamaliyah,26.1900,50.4678,3,246
+Bahrain,Jidhafs_Jidd Hafs,26.2167,50.5333,3,246
+Bahrain,Jufair_Al Manamah,26.2106,50.6117,3,247
+Bahrain,Jurdab_Madinat `Isa,26.1694,50.5753,3,247
+Bahrain,Kaflan_Al Manamah,26.1833,50.5833,3,247
+Bahrain,Kalaia Rock_Al Manamah,26.4167,50.5167,3,245
+Bahrain,Karanah_Jidd Hafs,26.2292,50.5094,3,246
+Bahrain,Karbabad_Jidd Hafs,26.2303,50.5294,3,246
+Bahrain,Karrzakkan_Al Mintaqah al Gharbiyah,26.1156,50.4819,3,247
+Bahrain,Kawkab al `Akr_Sitrah,26.1447,50.6067,3,247
+Bahrain,Kawkab Rayya_Al Muharraq,26.3000,50.6167,3,246
+Bahrain,Kawkab Salih_Al Manamah,26.1633,50.5886,3,247
+Bahrain,Kawkab Samahij_Al Muharraq,26.2833,50.6500,3,246
+Bahrain,Kawkab Umm as Sawali_Al Hadd,26.2225,50.6686,3,247
+Bahrain,Kawrah_Al Manamah,26.1833,50.5667,3,247
+Bahrain,Khadhra_Al Mintaqah al Wusta,26.1800,50.5111,3,246
+Bahrain,Kharijiyah_Sitrah,26.1636,50.6047,3,247
+Bahrain,Khasaifa Island_Al Muharraq,26.2919,50.6225,3,246
+Bahrain,Khawr al Bab_Al Mintaqah ash Shamaliyah,26.3997,50.4244,3,245
+Bahrain,Khawr Fasht_Al Mintaqah ash Shamaliyah,26.3314,50.4089,3,245
+Bahrain,Khor Kaliya,26.2089,50.6389,3,247
+Bahrain,Khor Lupin,26.1947,50.5717,3,246
+Bahrain,Khor Magta Tubli,26.2000,50.5667,3,246
+Bahrain,Khulaffat_Al Muharraq,26.2500,50.6333,3,246
+Bahrain,Khusaifa_Al Muharraq,26.3292,50.5708,3,246
+Bahrain,Khuwais_Al Mintaqah al Wusta,26.1667,50.5000,3,246
+Bahrain,Kubait_Jidd Hafs,26.2000,50.5167,3,246
+Bahrain,Kuraiya_Al Mintaqah ash Shamaliyah,26.1972,50.4628,3,246
+Bahrain,Kuriya_Sitrah,26.1722,50.6106,3,247
+Bahrain,Liya_Jidd Hafs,26.2606,50.5164,3,246
+Bahrain,Ma amir_Sitrah,26.1333,50.6086,3,247
+Bahrain,Madinat Hamad_Ar Rifa` wa al Mintaqah al Janubiyah,26.1333,50.5000,3,247
+Bahrain,Magsha_Jidd Hafs,26.2197,50.5231,3,246
+Bahrain,Mahazwarat Island_Mintaqat Juzur Hawar,25.6667,50.7833,3,250
+Bahrain,Mahazzah_Sitrah,26.1694,50.6261,3,247
+Bahrain,Mahuz_Al Muharraq,26.2122,50.5889,3,246
+Bahrain,Makaba_Al Mintaqah ash Shamaliyah,26.2108,50.4875,3,246
+Bahrain,Makhruq_ or BA07,26.1000,50.5833,3,247
+Bahrain,Malikiyah_Al Mintaqah al Gharbiyah,26.0981,50.4867,3,247
+Bahrain,Mamlahat al Mamtalah_Al Mintaqah al Gharbiyah,25.9453,50.4961,3,248
+Bahrain,Manama_Al Manamah,26.2361,50.5831,3,246
+Bahrain,Manama Harbour_Al Manamah,26.2372,50.5678,3,246
+Bahrain,Manamah Bay_Al Manamah,26.2489,50.5511,3,246
+Bahrain,Mani_Al Manamah,26.2167,50.5500,3,246
+Bahrain,Markh_Al Mintaqah ash Shamaliyah,26.2103,50.4733,3,246
+Bahrain,Marquban_Sitrah,26.1642,50.6183,3,247
+Bahrain,Marwadi_Al Mintaqah ash Shamaliyah,26.3169,50.4450,3,246
+Bahrain,Marwazan_Jidd Hafs,26.2214,50.5439,3,246
+Bahrain,Mina al Manamah_Al Manamah,26.2361,50.5725,3,246
+Bahrain,Mina Sulman_Al Manamah,26.2167,50.6000,3,246
+Bahrain,Mintaqat Juzur Hawar,25.6469,50.7764,3,250
+Bahrain,Moj_Al Mintaqah al Gharbiyah,26.0186,50.4722,3,247
+Bahrain,Muharraq_Al Muharraq,26.2500,50.6167,3,246
+Bahrain,Muharraq Bay_Al Muharraq,26.2636,50.6275,3,246
+Bahrain,Muharraq Island_Al Muharraq,26.2714,50.6303,3,246
+Bahrain,Muharraq Town_Al Muharraq,26.2572,50.6119,3,246
+Bahrain,Muhazza_Sitrah,26.1672,50.6275,3,247
+Bahrain,Musalla_Jidd Hafs,26.2122,50.5372,3,246
+Bahrain,Mutallah_Al Mintaqah al Gharbiyah,25.9242,50.5194,3,248
+Bahrain,Muwailaha_Jidd Hafs,26.2067,50.5589,3,246
+Bahrain,Na aija_Al Mintaqah ash Shamaliyah,26.2333,50.4333,3,246
+Bahrain,Naim_Al Hadd,26.2389,50.6353,3,246
+Bahrain,Nakhl Budayyi`at Ghazal_Al Mintaqah al Gharbiyah,26.0500,50.5000,3,247
+Bahrain,Northern Region_Al Mintaqah ash Shamaliyah,26.2167,50.4833,3,246
+Bahrain,Nur Juruft_Al Mintaqah ash Shamaliyah,26.2333,50.5000,3,246
+Bahrain,Nuwaidirat_Sitrah,26.1347,50.5975,3,247
+Bahrain,Oil City_ or BA07,26.0844,50.5506,3,247
+Bahrain,Outer Harbour_Jidd Hafs,26.2833,50.5333,3,246
+Bahrain,Qadam_Jidd Hafs,26.2156,50.5192,3,246
+Bahrain,Qal at al Farangi_Jidd Hafs,26.2333,50.5167,3,246
+Bahrain,Qalali_Al Muharraq,26.2733,50.6503,3,246
+Bahrain,Qal`at Abu Mahir_Al Muharraq,26.2414,50.6136,3,246
+Bahrain,Qal`at al Buqayshi_Al Mintaqah al Gharbiyah,26.0667,50.4833,3,247
+Bahrain,Qal`at Shaykh Khalid_Sitrah,26.1667,50.6000,3,247
+Bahrain,Qal`at `Arad_Jidd Hafs,26.2525,50.6269,3,246
+Bahrain,Qariya_Sitrah,26.1828,50.5836,3,247
+Bahrain,Qarn Ibrahim_ or BA07,25.9142,50.5528,3,248
+Bahrain,Qassar Abu Shahin_Al Hadd,26.2350,50.6681,3,247
+Bahrain,Qassar al Qulay`ah_Al Hadd,26.1850,50.6522,3,247
+Bahrain,Qassar Diwan_Al Hadd,26.1825,50.6636,3,247
+Bahrain,Qassar Jurdi_Al Muharraq,26.2839,50.6622,3,246
+Bahrain,Qassar Nun_ or BA07,25.7886,50.6031,3,249
+Bahrain,Qassar `Isa Bin Sayf al Binali_Madinat `Isa,26.1833,50.6000,3,247
+Bahrain,Qit`at ash Shajarah,26.0300,50.8889,3,248
+Bahrain,Qit`at Jaradah,26.1900,50.8975,3,247
+Bahrain,Qurayn adh Dhirban_ or BA07,25.9364,50.6028,3,248
+Bahrain,Rifaa Al Gharbi_ or BA07,26.1328,50.5203,3,247
+Bahrain,Rifa` ash Shamal_ or BA07,26.1375,50.5511,3,247
+Bahrain,Rifa`a Ash Sharqi_ or BA07,26.1239,50.5736,3,247
+Bahrain,Saafra Race Course_ or BA07,26.1167,50.5500,3,247
+Bahrain,Sadad_Al Mintaqah al Gharbiyah,26.0828,50.4897,3,247
+Bahrain,Safiah_ or BA07,26.1050,50.5386,3,247
+Bahrain,Sahlat al Fuqiyah_Jidd Hafs,26.2056,50.5306,3,246
+Bahrain,Sahlat al Hadriyah_Jidd Hafs,26.2017,50.5358,3,246
+Bahrain,Sajah_Al Muharraq,26.2667,50.5833,3,246
+Bahrain,Sakharah_Al Mintaqah al Gharbiyah,26.0867,50.5025,3,247
+Bahrain,Sakhir_ or BA07,26.0625,50.5272,3,247
+Bahrain,Sala_Al Mintaqah ash Shamaliyah,26.2658,50.4381,3,246
+Bahrain,Salba_Sitrah,26.1167,50.6167,3,247
+Bahrain,Salmabad_Al Mintaqah al Wusta,26.1831,50.5247,3,246
+Bahrain,Samahidj_Al Muharraq,26.2800,50.6350,3,246
+Bahrain,Sanabis_Jidd Hafs,26.2272,50.5508,3,246
+Bahrain,Sanad_Al Mintaqah al Wusta,26.1503,50.5819,3,247
+Bahrain,Sar_Al Mintaqah ash Shamaliyah,26.1942,50.4819,3,246
+Bahrain,Saya_Al Muharraq,26.2706,50.5917,3,246
+Bahrain,Shahrakkan_Al Mintaqah al Gharbiyah,26.0753,50.5014,3,247
+Bahrain,Shakhura_Jidd Hafs,26.2147,50.5069,3,246
+Bahrain,Sharaibah_Al Mintaqah ash Shamaliyah,26.2500,50.4667,3,246
+Bahrain,Sitra_Sitrah,26.1500,50.6167,3,247
+Bahrain,Sitrah Anchorage_Sitrah,26.1444,50.6419,3,247
+Bahrain,Sowad South Island_Mintaqat Juzur Hawar,25.6425,50.7997,3,250
+Bahrain,Sufala_Sitrah,26.1628,50.6256,3,247
+Bahrain,Tashshan_Jidd Hafs,26.2114,50.5461,3,246
+Bahrain,Thalb_ or BA07,25.9000,50.7167,3,248
+Bahrain,Thalib,25.9100,50.6981,3,248
+Bahrain,Tubli_Al Mintaqah al Wusta,26.1869,50.5494,3,246
+Bahrain,Tylos_ or BA07,25.9903,50.5508,3,247
+Bahrain,Um al-Baidh_Sitrah,26.1167,50.6333,3,247
+Bahrain,Um el Shajar_Al Hadd,26.2289,50.6558,3,247
+Bahrain,Umm al Hassam_Al Manamah,26.2025,50.5919,3,247
+Bahrain,Umm ash Shahin_Al Hadd,26.2283,50.6558,3,247
+Bahrain,Umm Ghuwaifa_ or BA07,26.1167,50.5333,3,247
+Bahrain,Umm Jidr_ or BA07,26.0111,50.5261,3,247
+Bahrain,Umm Jidr as Summan_ or BA07,25.8928,50.5650,3,248
+Bahrain,Umm Kharurah_Mintaqat Juzur Hawar,25.6628,50.7744,3,250
+Bahrain,Umm Nasan Island_Al Mintaqah al Gharbiyah,26.1497,50.4000,3,246
+Bahrain,Umm Saban_Al Mintaqah ash Shamaliyah,26.1994,50.4361,3,246
+Bahrain,Umm Shiyara_Al Hadd,26.2214,50.6567,3,247
+Bahrain,Umm Yadar_ or BA07,25.9022,50.5742,3,248
+Bahrain,Umm `Abd Allah_Al Mintaqah al Wusta,26.1500,50.5833,3,247
+Bahrain,Virgins Pool_Jidd Hafs,26.2000,50.5500,3,246
+Bahrain,Wadiyan_Sitrah,26.1592,50.6111,3,247
+Bahrain,Wasmiya_Al Mintaqah al Gharbiyah,26.0211,50.4750,3,247
+Bahrain,West Rifa Camp_ or BA07,26.1167,50.5833,3,247
+Bahrain,West Spit_Al Muharraq,26.2861,50.5281,3,246
+Bahrain,Western Region_Al Mintaqah al Gharbiyah,26.1167,50.4833,3,247
+Bahrain,Yabberi Rock_ or BA07,25.8828,50.6447,3,248
+Bahrain,Zalaqat as Sufun_Al Manamah,26.2442,50.6019,3,246
+Bahrain,Zallaq_Al Mintaqah al Gharbiyah,26.0475,50.4864,3,247
+Bahrain,Zimma_Al Hadd,26.2553,50.6469,3,246
+Bahrain,Zimna Bay_Al Hadd,26.2367,50.6436,3,246
+Bahrain,Zinj_Al Manamah,26.2153,50.5642,3,246

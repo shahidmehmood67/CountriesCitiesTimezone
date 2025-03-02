@@ -1,0 +1,420 @@
+Australia,Acacia Ridge,-27.5833,153.0333,10GMT,280
+Australia,Adelaide,-34.9333,138.6000,9.5GMT,284
+Australia,Adelaide Brook,-31.1167,152.7167,10GMT,279
+Australia,Adelaide Lead,-37.0667,143.6833,10GMT,280
+Australia,Aitkenvale,-19.2833,146.8000,10GMT,286
+Australia,Albany,-35.0169,117.8917,8GMT,294
+Australia,Albert Park,-34.8833,138.5208,9.5GMT,284
+Australia,Albury_New South Wales,-36.0833,146.9167,10GMT,279
+Australia,Albury_Queensland,-26.7833,147.3333,10GMT,283
+Australia,Alice Springs,-23.7000,133.8833,9.5GMT,289
+Australia,Alice Springs Waterhole,-23.6833,133.8833,9.5GMT,289
+Australia,Altona,-37.8667,144.8333,10GMT,279
+Australia,Ararat,-37.2833,142.9333,10GMT,280
+Australia,Ardeer Station,-37.7833,144.8000,10GMT,279
+Australia,Armadale,-37.8500,145.0167,10GMT,279
+Australia,Armidale,-30.5167,151.6500,10GMT,279
+Australia,Arncliffe,-33.9375,151.1500,10GMT,278
+Australia,Artarmon,-33.8167,151.1833,10GMT,278
+Australia,Ascot Vale,-37.7833,144.9167,10GMT,279
+Australia,Ashfield,-33.8833,151.1167,10GMT,278
+Australia,Atherton,-17.2667,145.4833,10GMT,287
+Australia,Auburn_Queensland,-25.9500,150.6167,10GMT,282
+Australia,Auburn_New South Wales,-33.8500,151.0333,10GMT,278
+Australia,Auburn_Victoria,-37.8167,145.0500,10GMT,279
+Australia,Auburn_South Australia,-34.0167,138.6833,9.5GMT,284
+Australia,Austral,-41.9167,145.3333,10GMT,277
+Australia,Ayers Rock,-25.3833,131.0833,9.5GMT,289
+Australia,Ballarat,-37.5667,143.8500,10GMT,280
+Australia,Balranald,-34.6333,143.5667,10GMT,281
+Australia,Bankstown,-33.9167,151.0333,10GMT,278
+Australia,Bassendean,-31.9000,115.9500,8GMT,296
+Australia,Bathurst,-33.4167,149.5667,10GMT,279
+Australia,Baulkham Hills,-33.7500,151.0000,10GMT,278
+Australia,Bayswater,-37.8500,145.2667,10GMT,279
+Australia,Beauty Point,-41.1667,146.8167,10GMT,276
+Australia,Bega,-36.6667,149.8333,10GMT,277
+Australia,Bellambi,-34.3667,150.9167,10GMT,278
+Australia,Belmore,-38.1333,141.7333,10GMT,281
+Australia,Belmore Basin,-34.4228,150.9067,10GMT,278
+Australia,Benalla,-36.5500,145.9833,10GMT,279
+Australia,Bendigo_Victoria,-36.7667,144.2833,10GMT,280
+Australia,Bendigo_South Australia,-33.2000,139.4167,9.5GMT,284
+Australia,Bentleigh East,-37.9167,145.0667,10GMT,279
+Australia,Bentley_New South Wales,-28.7667,153.1167,10GMT,280
+Australia,Bentley_Western Australia,-32.0000,115.9167,8GMT,296
+Australia,Berkeley,-34.4833,150.8500,10GMT,278
+Australia,Bermagui,-36.4167,150.0500,10GMT,277
+Australia,Bethania,-27.6833,153.1667,10GMT,280
+Australia,Bexley,-33.9500,151.1167,10GMT,278
+Australia,Birchip,-35.9833,142.9333,10GMT,281
+Australia,Blacktown,-33.7667,150.9167,10GMT,278
+Australia,Blakehurst,-33.9833,151.1000,10GMT,278
+Australia,Booragul,-32.9667,151.6000,10GMT,278
+Australia,Boronia,-37.8667,145.2833,10GMT,279
+Australia,Botany,-33.9667,151.2000,10GMT,278
+Australia,Bowral,-34.4667,150.4167,10GMT,278
+Australia,Braidwood,-35.4500,149.7833,10GMT,278
+Australia,Bribie Island,-27.0000,153.1167,10GMT,281
+Australia,Brighton-Le-Sands,-33.9500,151.1500,10GMT,278
+Australia,Brisbane,-27.5000,153.0167,10GMT,280
+Australia,Brisbane Creek,-33.6833,149.7000,10GMT,279
+Australia,Brisbane Range,-26.5833,152.1167,10GMT,281
+Australia,Brisbane River,-27.4000,153.1500,10GMT,280
+Australia,Brisbane Roads,-27.3000,153.1667,10GMT,280
+Australia,Brisbane Rock,-10.5914,142.2017,10GMT,290
+Australia,Brisbane Water,-33.4667,151.3333,10GMT,278
+Australia,Broadbeach,-28.0167,153.4333,10GMT,280
+Australia,Broadmeadows_New South Wales,-29.8500,152.3000,10GMT,279
+Australia,Broadmeadows_Victoria,-37.6667,144.9000,10GMT,279
+Australia,Broadmeadows Station,-37.6833,144.9333,10GMT,279
+Australia,Broken Hill,-31.9500,141.4333,9.5GMT,283
+Australia,Brookvale,-33.7667,151.2667,10GMT,278
+Australia,Broome,-17.9667,122.2333,8GMT,293
+Australia,Bruce,-32.4667,138.2000,9.5GMT,285
+Australia,Brunswick,-37.7667,144.9667,10GMT,279
+Australia,Brunswick East,-37.7833,144.9667,10GMT,279
+Australia,Brunswick West,-37.7833,144.9333,10GMT,279
+Australia,Bunbury,-33.3333,115.6333,8GMT,296
+Australia,Bundaberg,-24.8500,152.3500,10GMT,282
+Australia,Bundoora,-37.7000,145.0500,10GMT,279
+Australia,Burnie,-41.0667,145.9167,10GMT,277
+Australia,Burpengary,-27.1667,152.9500,10GMT,281
+Australia,Busselton,-33.6500,115.3333,8GMT,296
+Australia,Byron Bay,-28.6333,153.6167,10GMT,280
+Australia,Caboolture,-27.0833,152.9500,10GMT,281
+Australia,Cairns,-16.9167,145.7667,10GMT,287
+Australia,Caloundra,-26.8000,153.1333,10GMT,281
+Australia,Campbell Town,-41.9167,147.5000,10GMT,276
+Australia,Campbellfield,-37.6833,144.9500,10GMT,279
+Australia,Campbelltown_Victoria,-37.2000,143.9500,10GMT,280
+Australia,Campbelltown_South Australia,-34.8833,138.6667,9.5GMT,284
+Australia,Campbelltown_New South Wales,-34.0667,150.8167,10GMT,278
+Australia,Campbelltown Municipality,-34.0833,150.8333,10GMT,278
+Australia,Campsie Creek,-21.3667,142.4333,10GMT,287
+Australia,Canberra_Queensland,-26.7833,148.4333,10GMT,282
+Australia,Canberra_Australian Capital Territory,-35.2833,149.2167,10GMT,278
+Australia,Cardiff,-32.9500,151.6667,10GMT,278
+Australia,Caringbah,-34.0500,151.1333,10GMT,278
+Australia,Carlingford,-33.7833,151.0500,10GMT,278
+Australia,Carlton South,-37.8000,144.9667,10GMT,279
+Australia,Casula Station,-33.9500,150.9167,10GMT,278
+Australia,Cessnock,-32.8333,151.3500,10GMT,278
+Australia,Chatswood,-33.8000,151.1833,10GMT,278
+Australia,Chinchilla,-26.7500,150.6333,10GMT,282
+Australia,Christmas Island,-39.7000,143.8333,10GMT,279
+Australia,Chullora,-33.9000,151.0500,10GMT,278
+Australia,Churchill,-27.6500,152.7500,10GMT,280
+Australia,Clayton_Tasmania,-41.1667,146.2500,10GMT,277
+Australia,Clayton_Queensland,-24.9333,152.3667,10GMT,282
+Australia,Clayton_Victoria,-37.9167,145.1167,10GMT,279
+Australia,Clayton North,-37.9167,145.1333,10GMT,279
+Australia,Cobram,-35.9167,145.6500,10GMT,280
+Australia,Coburg,-37.7500,144.9667,10GMT,279
+Australia,Coburg Creek,-27.9167,153.1000,10GMT,280
+Australia,Coffs Harbour,-30.3000,153.1500,10GMT,279
+Australia,Colac,-38.3333,143.5833,10GMT,280
+Australia,Colo Vale,-34.4000,150.4833,10GMT,278
+Australia,Condell Park,-34.2167,150.6833,10GMT,278
+Australia,Condobolin,-33.0833,147.1500,10GMT,280
+Australia,Coogee,-32.1167,115.7667,8GMT,296
+Australia,Coolangatta,-28.1667,153.5333,10GMT,280
+Australia,Coolaroo Spring,-27.4333,116.9500,8GMT,295
+Australia,Cottesloe,-32.0000,115.7667,8GMT,296
+Australia,Craigieburn,-37.6000,144.9500,10GMT,279
+Australia,Cranbourne,-38.1000,145.2833,10GMT,279
+Australia,Creswick,-37.4167,143.9167,10GMT,280
+Australia,Cringila,-34.4667,150.8833,10GMT,278
+Australia,Crows Nest,-33.8281,151.2017,10GMT,278
+Australia,Croydon Park,-35.4000,138.9333,9.5GMT,283
+Australia,Dalby,-27.1833,151.2667,10GMT,281
+Australia,Dandenong,-37.9833,145.2000,10GMT,279
+Australia,Dapto,-34.5000,150.7833,10GMT,278
+Australia,Darra,-27.5667,152.9667,10GMT,280
+Australia,Darwin,-12.4667,130.8333,9.5GMT,291
+Australia,Deewhy,-33.7500,151.3000,10GMT,278
+Australia,Devonport,-41.1667,146.3500,10GMT,277
+Australia,Doncaster,-37.7833,145.1333,10GMT,279
+Australia,Doncaster East,-37.7833,145.1667,10GMT,279
+Australia,Doonside,-33.7667,150.8667,10GMT,278
+Australia,Dromana,-38.3333,144.9667,10GMT,279
+Australia,Dubbo,-32.2500,148.6167,10GMT,280
+Australia,Dundas,-32.4000,121.7667,8GMT,293
+Australia,Earlwood,-33.9500,151.1000,10GMT,278
+Australia,East Perth,-31.9500,115.8667,8GMT,296
+Australia,Eastwood,-33.8000,151.0833,10GMT,278
+Australia,Echuca,-36.1333,144.7500,10GMT,280
+Australia,Edgecliff,-33.8833,151.2500,10GMT,278
+Australia,Eight Mile Plains,-27.5833,153.1000,10GMT,280
+Australia,Emerald,-23.5333,148.1667,10GMT,284
+Australia,Endeavour Hill,-15.2500,129.7500,9.5GMT,291
+Australia,Enfiel,-37.7500,143.7833,10GMT,280
+Australia,Enmore,-30.7333,151.8000,10GMT,279
+Australia,Erskine,-32.7333,138.8500,9.5GMT,284
+Australia,Erskineville,-33.9000,151.1833,10GMT,278
+Australia,Eton,-21.2667,148.9667,10GMT,285
+Australia,Fairfield_Queensland,-23.2500,144.4167,10GMT,285
+Australia,Fairfield_Western Australia,-17.5667,125.0500,8GMT,292
+Australia,Fairfield_Victoria,-37.7833,145.0167,10GMT,279
+Australia,Fairfield_New South Wales,-33.8667,150.9500,10GMT,278
+Australia,Fawkner,-37.7167,144.9667,10GMT,279
+Australia,Flemington,-33.8667,151.0667,10GMT,278
+Australia,Flemington Bore,-21.1500,138.9000,10GMT,288
+Australia,Flemington Bridge,-37.7833,144.9500,10GMT,279
+Australia,Flemington Well,-23.8333,113.5167,8GMT,296
+Australia,Footscray,-37.8000,144.9000,10GMT,279
+Australia,Frankston,-38.1333,145.1167,10GMT,279
+Australia,Fremantle,-32.0500,115.7667,8GMT,296
+Australia,Gatton,-27.5500,152.2833,10GMT,281
+Australia,Geelong,-38.1583,144.3500,10GMT,279
+Australia,Geilston Bay,-42.8500,147.3333,10GMT,275
+Australia,Geraldton_Western Australia,-28.7667,114.6000,8GMT,296
+Australia,Geraldton_Queensland,-17.5333,146.0333,10GMT,287
+Australia,Gilles Plains,-34.8500,138.6500,9.5GMT,284
+Australia,Girrawillie Creek,-31.1333,149.8833,10GMT,280
+Australia,Gladesville,-33.8333,151.1333,10GMT,278
+Australia,Gladstone,-23.8500,151.2500,10GMT,296
+Australia,Glen Waverley,-37.8833,145.1667,10GMT,279
+Australia,Glenhaven,-33.7000,151.0000,10GMT,278
+Australia,Glenroy,-37.7000,144.9333,10GMT,279
+Australia,Glynde Hill,-23.6000,123.1833,8GMT,292
+Australia,Gold Coast,-28.0000,153.4333,10GMT,280
+Australia,Goomalling,-31.3167,116.8167,8GMT,295
+Australia,Gosford,-33.4333,151.3500,10GMT,278
+Australia,Gosnells,-32.0833,116.0000,8GMT,296
+Australia,Grafton,-29.6833,152.9333,10GMT,279
+Australia,Granville_New South Wales,-33.8333,151.0167,10GMT,278
+Australia,Granville_Queensland,-26.2167,144.5500,10GMT,284
+Australia,Green Valley Creek,-32.9500,149.4500,10GMT,279
+Australia,Greens Creek,-36.9333,142.9500,10GMT,281
+Australia,Griffith_Tasmania,-42.6333,147.9000,10GMT,275
+Australia,Griffith_New South Wales,-34.2833,146.0333,10GMT,280
+Australia,Gwynneville,-34.4167,150.8875,10GMT,278
+Australia,Gympie,-26.1833,152.6667,10GMT,281
+Australia,Hackham,-35.1500,138.5167,9.5GMT,283
+Australia,Hawker,-31.8833,138.4167,9.5GMT,285
+Australia,Healesville,-37.6500,145.5167,10GMT,279
+Australia,Hervey Bay,-25.0000,153.0000,10GMT,282
+Australia,Highgate Hill,-11.9667,143.2167,10GMT,289
+Australia,Hillston,-33.4833,145.5333,10GMT,281
+Australia,Hobart,-42.9167,147.3333,10GMT,275
+Australia,Hobart Rivulet,-42.8833,147.3333,10GMT,275
+Australia,Hobartville,-23.3167,146.5167,10GMT,285
+Australia,Hornby,-33.8342,151.2808,10GMT,278
+Australia,Hornsby,-33.7000,151.1000,10GMT,278
+Australia,Horsham,-36.7167,142.2000,10GMT,281
+Australia,Hughesdale,-37.9000,145.0833,10GMT,279
+Australia,Huntingdon,-31.4667,152.6500,10GMT,278
+Australia,Hurstville,-33.9667,151.1000,10GMT,278
+Australia,Illawong,-29.7000,114.9583,8GMT,296
+Australia,Ingleburn,-34.0000,150.8667,10GMT,278
+Australia,Inverell,-29.7833,151.1167,10GMT,280
+Australia,Ipswich,-27.6167,152.7667,10GMT,280
+Australia,Jamberoo,-34.6500,150.7833,10GMT,277
+Australia,Joondalup Lake,-31.7500,115.7833,8GMT,296
+Australia,Kalgoorlie,-30.7500,121.4667,8GMT,293
+Australia,Kardina,-26.0333,152.5667,10GMT,281
+Australia,Karratha,-20.8833,116.6667,8GMT,295
+Australia,Katanning,-33.7000,117.5500,8GMT,295
+Australia,Katherine,-14.4667,132.2667,9.5GMT,290
+Australia,Keilira,-36.7167,140.1500,9.5GMT,282
+Australia,Kenwick,-32.0333,115.9667,8GMT,296
+Australia,Keysborough,-38.0167,145.1667,10GMT,279
+Australia,Kingswood,-33.7500,150.7500,10GMT,278
+Australia,Kogarah,-33.9833,151.1167,10GMT,278
+Australia,Kuraby,-27.6000,153.1000,10GMT,280
+Australia,Lakemba,-33.9167,151.0833,10GMT,278
+Australia,Lalor,-37.6667,145.0167,10GMT,279
+Australia,Langford Creek,-22.6333,134.3667,9.5GMT,281
+Australia,Launceston,-41.4500,147.1667,10GMT,276
+Australia,Laverton,-37.8500,144.7500,10GMT,279
+Australia,Lavington,-36.0500,146.9333,10GMT,279
+Australia,Leeton,-34.5667,146.4000,10GMT,280
+Australia,Leeville,-28.9500,153.0000,10GMT,280
+Australia,Leumeah,-34.0500,150.8333,10GMT,278
+Australia,Lidcombe,-33.8667,151.0333,10GMT,278
+Australia,Lightning Ridge,-29.4333,147.9833,10GMT,281
+Australia,Lindfield,-33.7833,151.1667,10GMT,278
+Australia,Lismore,-28.8000,153.2667,10GMT,280
+Australia,Lithgow,-33.4833,150.1500,10GMT,278
+Australia,Liverpool,-33.9000,150.9333,10GMT,278
+Australia,Logan Village,-27.7667,153.1000,10GMT,280
+Australia,Loganlea,-27.6667,153.1333,10GMT,280
+Australia,Lurnea Station,-26.4000,146.7000,10GMT,283
+Australia,Mackay,-21.1500,149.2000,10GMT,285
+Australia,Macquarie Fields,-33.9833,150.8833,10GMT,278
+Australia,Maddington,-32.0500,115.9833,8GMT,296
+Australia,Magill,-34.9167,138.6667,9.5GMT,284
+Australia,Maleny,-26.7500,152.8500,10GMT,281
+Australia,Mandurah,-32.5500,115.7000,8GMT,296
+Australia,Manifold Hills,-22.7333,150.7833,10GMT,284
+Australia,Manly Vale,-33.8000,151.2833,10GMT,278
+Australia,Mareeba,-17.0000,145.4333,10GMT,287
+Australia,Maroochydore,-26.6500,153.1000,10GMT,281
+Australia,Maroubra,-33.9500,151.2333,10GMT,278
+Australia,Marrickville,-33.9167,151.1667,10GMT,278
+Australia,Maryborough,-25.5333,152.7000,10GMT,282
+Australia,Mascot,-33.9333,151.2000,10GMT,278
+Australia,Melaleuca Creek,-23.5833,149.9333,10GMT,283
+Australia,Melbergen,-33.7000,146.0500,10GMT,280
+Australia,Melbourne,-37.8167,144.9667,10GMT,279
+Australia,Melbourne Street Station,-27.4833,153.0167,10GMT,280
+Australia,Melrose Creek,-23.6333,142.1333,10GMT,286
+Australia,Menai,-34.0167,151.0167,10GMT,278
+Australia,Merrylands,-33.8333,150.9833,10GMT,278
+Australia,Mildura,-34.2000,142.1500,10GMT,282
+Australia,Mill Park,-37.6667,145.0667,10GMT,279
+Australia,Minto,-34.0333,150.8500,10GMT,278
+Australia,Modbury,-34.8333,138.6833,9.5GMT,284
+Australia,Moorabbin,-37.9367,145.0342,10GMT,279
+Australia,Mooroopna,-36.4000,145.3500,10GMT,279
+Australia,Morley Island,-28.7500,113.8125,8GMT,297
+Australia,Morwell,-38.2333,146.4000,10GMT,278
+Australia,Mosman,-33.8278,151.2333,10GMT,278
+Australia,Mount Druitt,-33.7667,150.8167,10GMT,278
+Australia,Mount Gambier,-37.8333,140.7667,9.5GMT,281
+Australia,Mount Isa,-20.7333,139.5000,10GMT,287
+Australia,Mulgrave,-37.9167,145.2000,10GMT,279
+Australia,Mulgrave Hill,-10.1167,142.1167,10GMT,290
+Australia,Muswellbrook,-32.2667,150.9000,10GMT,279
+Australia,Nambour,-26.6333,152.9500,10GMT,281
+Australia,Narre Warren,-38.0333,145.3000,10GMT,279
+Australia,Narromine,-32.1500,148.2500,10GMT,280
+Australia,Nedlands,-31.9833,115.8083,8GMT,296
+Australia,New Farm,-27.4667,153.0500,10GMT,280
+Australia,Newcastle,-32.9167,151.7500,10GMT,278
+Australia,Newman,-23.3667,119.7333,8GMT,294
+Australia,Noble Park,-37.9667,145.1667,10GMT,279
+Australia,North Bridge,-33.8103,151.2219,10GMT,278
+Australia,North Sydney,-33.8406,151.2072,10GMT,278
+Australia,Notting Hill,-37.9000,145.1167,10GMT,279
+Australia,Orange,-33.2833,149.1000,10GMT,279
+Australia,Oxenford Station,-27.8833,153.3167,10GMT,280
+Australia,Padstow,-33.9500,151.0333,10GMT,278
+Australia,Parramatta,-33.8167,151.0000,10GMT,278
+Australia,Peakhurst,-33.9667,151.0500,10GMT,278
+Australia,Penrith,-33.7500,150.7000,10GMT,278
+Australia,Penshurst_New South Wales,-33.9667,151.0833,10GMT,278
+Australia,Penshurst_Victoria,-37.8667,142.3000,10GMT,280
+Australia,Perth_Western Australia,-31.9333,115.8333,8GMT,296
+Australia,Perth_Tasmania,-41.5667,147.1667,10GMT,276
+Australia,Perth Basin,-32.0000,115.0000,8GMT,296
+Australia,Perthton,-27.3000,150.5667,10GMT,281
+Australia,Perthville,-33.4833,149.5333,10GMT,279
+Australia,Port Augusta West,-32.4833,137.7500,9.5GMT,285
+Australia,Port Hedland,-20.3167,118.5667,8GMT,294
+Australia,Port Macquarie,-31.4167,152.9167,10GMT,278
+Australia,Prahran,-37.8500,145.0000,10GMT,279
+Australia,Preston,-37.7500,145.0167,10GMT,279
+Australia,Punchbowl,-24.8000,149.5667,10GMT,283
+Australia,Pymble,-33.7500,151.1500,10GMT,278
+Australia,Quakers Hill,-33.7333,150.8833,10GMT,278
+Australia,Queanbeyan,-35.3500,149.2333,10GMT,278
+Australia,Queensland Crossing,-14.8833,134.5667,9.5GMT,290
+Australia,Randwick,-33.9167,151.2500,10GMT,278
+Australia,Raymond Terrace,-32.7500,151.7500,10GMT,278
+Australia,Redfern,-33.9000,151.2000,10GMT,278
+Australia,Regents Park,-33.8833,151.0167,10GMT,278
+Australia,Renmark,-34.1833,140.7500,9.5GMT,283
+Australia,Reservoir,-37.7167,145.0000,10GMT,279
+Australia,Rhodes,-33.8333,151.0833,10GMT,278
+Australia,Riverwood,-33.9500,151.0500,10GMT,278
+Australia,Rochedale,-27.5667,153.1333,10GMT,280
+Australia,Rockdale,-33.9500,151.1333,10GMT,278
+Australia,Rockhampton,-23.3833,150.5000,10GMT,283
+Australia,Rockingham,-32.2833,115.7167,8GMT,296
+Australia,Rooty Hill,-33.7667,150.8333,10GMT,278
+Australia,Roxby Downs,-30.7167,136.7667,9.5GMT,286
+Australia,Runcorn,-27.6000,153.0667,10GMT,280
+Australia,Ryde,-33.8167,151.1000,10GMT,278
+Australia,Rylstone,-32.8000,149.9667,10GMT,279
+Australia,Saint Clair Bore,-21.4333,144.8333,10GMT,286
+Australia,Saint Lucia,-27.5000,153.0000,10GMT,280
+Australia,Sale,-38.1000,147.0667,10GMT,278
+Australia,Satans Toe,-32.6333,143.5667,10GMT,282
+Australia,Seven Hills,-33.7833,150.9333,10GMT,278
+Australia,Shepparton,-36.3833,145.4000,10GMT,279
+Australia,Sidney Island,-20.4500,149.0167,10GMT,285
+Australia,Singleton,-32.5667,151.1833,10GMT,278
+Australia,South Perth,-31.9833,115.8667,8GMT,296
+Australia,South Yarra,-37.8333,144.9833,10GMT,279
+Australia,Southport,-27.9667,153.4000,10GMT,280
+Australia,Stanthorpe,-28.6667,151.9500,10GMT,280
+Australia,Strathfield_New South Wales,-33.8667,151.1000,10GMT,278
+Australia,Strathfield_Queensland,-21.2333,141.1333,10GMT,287
+Australia,Strathfield Station Bore,-21.3833,140.9667,10GMT,287
+Australia,Strathfieldsaye,-38.0500,147.2833,10GMT,278
+Australia,Sunnybank,-27.5833,153.0500,10GMT,280
+Australia,Sunshine,-37.7833,144.8333,10GMT,279
+Australia,Swan Hill,-35.3500,143.5667,10GMT,281
+Australia,Sydenham,-37.7000,144.7667,10GMT,279
+Australia,Sydney,-33.8833,151.2167,10GMT,278
+Australia,Sydney Bay,-29.0667,167.9500,10GMT,273
+Australia,Sydney Cove,-33.8667,151.2167,10GMT,278
+Australia,Sydney Creek,-16.3000,128.9500,8GMT,291
+Australia,Sydney Harbour,-33.8667,151.2500,10GMT,278
+Australia,Sydney Harbour Bridge,-33.8500,151.2000,10GMT,278
+Australia,Sydney Island,-16.6833,139.4667,10GMT,289
+Australia,Sydney Yeo Chasm,-27.0333,126.8167,8GMT,291
+Australia,Tamworth,-31.1000,150.9333,10GMT,279
+Australia,Taree,-31.9000,152.4667,10GMT,278
+Australia,Tasmania,-42.0000,147.0000,10GMT,276
+Australia,Taylors Lake,-36.8000,142.3833,10GMT,281
+Australia,Tennant Creek,-19.5333,134.4000,9.5GMT,289
+Australia,Thomastown,-37.6833,145.0167,10GMT,279
+Australia,Toowong,-27.4833,152.9833,10GMT,280
+Australia,Toowoomba,-27.5500,151.9667,10GMT,281
+Australia,Torquay,-38.3333,144.3167,10GMT,279
+Australia,Torrens Vale,-35.5167,138.3667,9.5GMT,283
+Australia,Townsville,-19.2500,146.8000,10GMT,286
+Australia,Traralgon,-38.1833,146.5333,10GMT,278
+Australia,Tumut,-35.3000,148.2167,10GMT,278
+Australia,Tweed Heads,-28.1833,153.5500,10GMT,280
+Australia,Unanderra,-34.4500,150.8500,10GMT,278
+Australia,Vermont,-37.8333,145.2000,10GMT,279
+Australia,Victoria_Queensland,-21.2333,148.9667,10GMT,285
+Australia,Victoria_Western Australia,-30.1833,119.1000,8GMT,294
+Australia,Victoria Bridge,-27.4667,153.0167,10GMT,280
+Australia,Victoria Park,-37.7833,145.0000,10GMT,279
+Australia,Victoria Reservoir,-32.0500,116.0667,8GMT,295
+Australia,Villawood,-33.8833,150.9667,10GMT,278
+Australia,Wagga Wagga,-35.1167,147.3667,10GMT,279
+Australia,Walgett,-30.0167,148.1167,10GMT,281
+Australia,Wallsend,-32.9167,151.6667,10GMT,278
+Australia,Wandin,-37.8000,145.4500,10GMT,279
+Australia,Wangaratta,-36.3667,146.3333,10GMT,279
+Australia,Warracknabeal,-36.2500,142.4167,10GMT,281
+Australia,Warrnambool,-38.3833,142.4833,10GMT,280
+Australia,Warwick,-28.2333,152.0167,10GMT,280
+Australia,Weipa,-12.6667,141.8667,10GMT,289
+Australia,Werribee_Western Australia,-31.7667,116.3500,8GMT,295
+Australia,Werribee_Victoria,-37.9000,144.6667,10GMT,279
+Australia,Werribee_Queensland,-23.1167,149.1333,10GMT,284
+Australia,Werribee River,-37.9833,144.6833,10GMT,279
+Australia,Westmead,-33.8167,150.9833,10GMT,278
+Australia,Whale Beach,-33.6167,151.3333,10GMT,278
+Australia,Wheelers Hill,-37.9000,145.1833,10GMT,279
+Australia,Whyalla,-33.0333,137.5833,9.5GMT,285
+Australia,Winton,-22.4000,143.0333,10GMT,286
+Australia,Wodonga,-36.1167,146.8833,10GMT,279
+Australia,Wollongong,-34.4333,150.8833,10GMT,278
+Australia,Wollongong Head,-34.4167,150.9167,10GMT,278
+Australia,Wyong,-33.2833,151.3500,10GMT,278
+Australia,X Reef,-10.9167,142.7833,10GMT,290
+Australia,Xantippe,-30.0333,117.0333,8GMT,295
+Australia,Xmas Creek,-18.8500,136.7167,9.5GMT,289
+Australia,Xmas Well,-26.2833,135.2333,9.5GMT,287
+Australia,Yandina,-26.5667,152.9667,10GMT,281
+Australia,Yarralumla Creek,-35.3000,149.0667,10GMT,278
+Australia,Yarrawonga,-36.0167,146.0000,10GMT,279
+Australia,Yarrowee,-37.6667,143.8500,10GMT,280
+Australia,Yeppoon,-23.1333,150.7333,10GMT,283
+Australia,Young,-34.3167,148.3000,10GMT,279
+Australia,Zadows Hill,-35.0000,139.3833,9.5GMT,283
+Australia,Zamia Creek,-24.4833,149.7000,10GMT,283
+Australia,Zara,-28.3167,153.2833,10GMT,280
+Australia,Zeehan,-41.8833,145.3333,10GMT,277
+Australia,Zenia Creek,-20.8500,148.7500,10GMT,285
+Australia,Zillmans Gap,-21.6333,149.1667,10GMT,285
+Australia,Zillmanton,-17.1333,144.4833,10GMT,287
+Australia,Zuizin Island,-10.1083,143.3181,10GMT,290

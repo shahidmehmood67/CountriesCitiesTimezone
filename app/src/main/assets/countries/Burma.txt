@@ -1,0 +1,234 @@
+Burma,Agadaung_Rakhine State,21.0500,92.8167,6.5,281
+Burma,Agadwin_Rakhine State,19.4833,93.6333,6.5,282
+Burma,Agat_Ayeyarwady,16.5667,95.3167,6.5,285
+Burma,Agayan_Ayeyarwady,16.6000,95.3333,6.5,285
+Burma,Agetu_Kachin State,27.1833,98.4500,6.5,278
+Burma,Agywezidonbweywa_Rakhine State,21.0000,92.6333,6.5,281
+Burma,Akyab_Rakhine State,20.1500,92.9000,6.5,282
+Burma,Akyab District_Rakhine State,20.5000,93.0000,6.5,281
+Burma,Arakan State_Rakhine State,19.0000,94.2500,6.5,283
+Burma,Bassein_Ayeyarwady,16.7833,94.7333,6.5,285
+Burma,Buthedaung_Rakhine State,20.8667,92.5333,6.5,281
+Burma,Campbell Island,13.1167,98.3167,6.5,287
+Burma,Centre Peak_Rakhine State,18.8000,93.6333,6.5,283
+Burma,Clara Island,10.9000,97.9167,6.5,289
+Burma,Clyde Island,12.1333,97.9833,6.5,288
+Burma,Clyde Point,13.0833,98.3167,6.5,287
+Burma,Coco Group,14.0833,93.3000,6.5,287
+Burma,Cone Island,12.7833,98.5333,6.5,288
+Burma,Corbin Island,12.4833,98.1500,6.5,288
+Burma,Cradle Rocks,14.1667,97.8833,6.5,287
+Burma,Crawford Shoal_Ayeyarwady,16.4833,94.2000,6.5,285
+Burma,Creek Point_ or BM09,16.5833,96.2833,6.5,285
+Burma,Criddles Island,12.0167,97.9833,6.5,288
+Burma,Crow Island,16.5000,97.6167,6.5,285
+Burma,Cupola Island,9.8000,98.1833,6.5,289
+Burma,Cutters Patch_Rakhine State,18.4833,93.9167,6.5,283
+Burma,Cypress Point_Rakhine State,20.7000,92.3833,6.5,281
+Burma,E-mu_Shan State,20.0167,96.9833,6.5,282
+Burma,East Spur,12.2500,97.7833,6.5,288
+Burma,Eastern Sand_ or BM09,16.4333,96.4000,6.5,285
+Burma,Egani,14.3500,98.1167,6.5,287
+Burma,Egayit_ or BM09,17.4667,96.5833,6.5,284
+Burma,Egayit_ or BM07,19.5500,95.3000,6.5,284
+Burma,Egayitpin_ or BM09,17.0667,96.1667,6.5,284
+Burma,Egyi Adet_ or BM09,19.4333,96.2833,6.5,283
+Burma,Ehti Taung_Kayin State,15.5167,98.0833,6.5,286
+Burma,Eintami_Ayeyarwady,16.8167,95.1500,6.5,285
+Burma,Eka_Mandalay,20.8333,96.4000,6.5,282
+Burma,Emun_Bago,16.9706,96.7275,6.5,285
+Burma,Eng-po_Shan State,22.0667,96.8167,6.5,281
+Burma,Errawaddy,15.8333,95.1000,6.5,285
+Burma,Escape Bay,12.3000,98.0167,6.5,288
+Burma,Eswa_Sagain,21.5333,95.9167,6.5,281
+Burma,Et_Shan State,22.2000,97.2000,6.5,281
+Burma,Et-et,13.3167,98.5167,6.5,287
+Burma,Et-et Chaung,13.3000,98.5000,6.5,287
+Burma,Etga_Sagain,23.9000,95.4667,6.5,279
+Burma,Etgyi_Shan State,23.4000,96.8667,6.5,280
+Burma,Etkyi_Sagain,23.1167,95.3667,6.5,280
+Burma,Ettaw_Sagain,22.1667,95.1667,6.5,280
+Burma,Falam District_Chin State,22.9167,93.6833,6.5,279
+Burma,False Peak,12.3667,97.9833,6.5,288
+Burma,False Rock_Rakhine State,18.6167,93.8833,6.5,283
+Burma,Fanow_ or BM07,20.4333,94.2500,6.5,282
+Burma,Fell Passage,12.3167,98.3500,6.5,288
+Burma,Fen-shui-ling-ya K ou,25.8167,98.6667,6.5,279
+Burma,Fengshuipo_Shan State,24.0333,98.6167,6.5,280
+Burma,Feronica Crossing,16.2667,97.6167,6.5,285
+Burma,Fisher Bay,13.0833,98.3000,6.5,287
+Burma,Fitzwilliam Island_Rakhine State,19.4167,93.6333,6.5,282
+Burma,Flat Island Spit_Rakhine State,20.1667,92.9500,6.5,282
+Burma,Flatt Island_Rakhine State,18.6167,93.7833,6.5,283
+Burma,Fletcher Island,11.8000,97.6500,6.5,288
+Burma,Fort Harrison_Kachin State,25.3667,97.8833,6.5,279
+Burma,Fort Morton_Kachin State,25.0333,97.7000,6.5,279
+Burma,Fort Stedman_Shan State,20.5833,96.9500,6.5,282
+Burma,Fort White_Chin State,23.2333,93.7833,6.5,279
+Burma,Foul Island_Rakhine State,18.0667,94.0833,6.5,283
+Burma,Foul Point_Rakhine State,20.2667,92.7500,6.5,281
+Burma,Freak Island,12.6833,97.8833,6.5,288
+Burma,Frederick Island_Rakhine State,19.8000,93.4000,6.5,282
+Burma,French Bay,12.6167,98.4000,6.5,288
+Burma,Fytche Point_Ayeyarwady,16.0500,94.4000,6.5,285
+Burma,Ghura Gomti_ or BM09,18.1000,96.6333,6.5,284
+Burma,Gifford Island,12.6500,98.2000,6.5,288
+Burma,Girah_ or BM09,18.1500,96.5833,6.5,284
+Burma,Glohng Kra,9.9667,98.5833,6.5,289
+Burma,Glohng Kum,10.7000,98.7833,6.5,289
+Burma,Hmawbi_Yangon,16.4539,96.1272,6.5,285
+Burma,Hmawbi_Ayeyarwady,16.3500,95.9333,6.5,285
+Burma,Hmawbi_ or BM09,17.1000,96.0333,6.5,284
+Burma,Hmawbi_Mon State,16.6375,97.6122,6.5,285
+Burma,Hmawbi Chaung_ or BM09,16.9833,96.0333,6.5,285
+Burma,Hmawbi Chaung_Mon State,16.6281,97.6125,6.5,285
+Burma,Hmawbiywathit_Mon State,16.6558,97.6003,6.5,285
+Burma,Idi Hka_Kachin State,26.4000,96.6000,6.5,277
+Burma,Imaw Bum_Kachin State,26.1667,98.4667,6.5,278
+Burma,Immi_Kachin State,25.1333,96.9333,6.5,279
+Burma,Immortality Point,13.1000,98.3167,6.5,287
+Burma,Impawkon_Shan State,20.4500,96.9000,6.5,282
+Burma,Imphal River,22.8667,94.0833,6.5,280
+Burma,Jack Island,11.8500,98.3000,6.5,288
+Burma,Jagrem_Sagain,25.3333,94.7333,6.5,278
+Burma,Jagun_Kachin State,26.5500,96.4167,6.5,277
+Burma,Jahtung_Kachin State,24.1167,97.6333,6.5,280
+Burma,Jahtungbum_Kachin State,24.5833,97.0167,6.5,279
+Burma,Jaipur_ or BM09,18.5500,96.4333,6.5,283
+Burma,Jaiwa Ga_Kachin State,25.9667,96.8833,6.5,278
+Burma,Jakhai_Kachin State,24.3667,97.5667,6.5,279
+Burma,Jaliapara_Rakhine State,20.7167,92.3500,6.5,281
+Burma,Jamali Chaung,10.5333,98.4833,6.5,289
+Burma,Jamaw_Kachin State,25.4167,96.3000,6.5,278
+Burma,James Island_Rakhine State,19.5333,93.5333,6.5,282
+Burma,Jamlon Hka_Kachin State,25.6000,96.4500,6.5,278
+Burma,Jampaw_Kachin State,26.1667,98.2333,6.5,278
+Burma,Jamu Bum_Kachin State,26.0000,96.6667,6.5,278
+Burma,Jane Island,11.3667,98.0167,6.5,288
+Burma,Jangdau_Kachin State,24.1167,97.6167,6.5,280
+Burma,Janhtang_Sagain,26.2667,96.0333,6.5,277
+Burma,Janhtang Bum_Sagain,26.2500,96.0333,6.5,277
+Burma,Janhtang Ga_Kachin State,26.5333,96.6333,6.5,277
+Burma,Janmai_Kachin State,24.2667,97.6500,6.5,279
+Burma,Janmai Pum_Kachin State,25.3333,96.1167,6.5,278
+Burma,Janmaigahtawng_Kachin State,25.5500,96.6333,6.5,278
+Burma,Janpan_Kachin State,25.9167,96.9167,6.5,278
+Burma,Japalu_Kachin State,27.1000,98.3500,6.5,278
+Burma,Jarakawng_Kachin State,25.8167,97.2500,6.5,278
+Burma,Jasewala_Kachin State,27.1500,98.4333,6.5,278
+Burma,Jat Ga_Kachin State,26.2667,96.6667,6.5,278
+Burma,Jatung Ga_Kachin State,26.4333,96.6833,6.5,277
+Burma,Jawang_Kachin State,25.7000,96.2333,6.5,278
+Burma,Jawmaw_Kachin State,24.4833,97.4667,6.5,279
+Burma,Jeang_Kachin State,24.0833,97.2500,6.5,279
+Burma,Jeikchaung_Rakhine State,19.9500,93.8000,6.5,279
+Burma,Jekau_Kachin State,24.3500,97.6833,6.5,279
+Burma,Jenkins Island,11.0333,98.6667,6.5,289
+Burma,Jergo Island_Rakhine State,18.8000,93.9667,6.5,283
+Burma,Jiangao Shan,25.5167,98.1333,6.5,279
+Burma,Jichai Hka_Sagain,26.7833,95.8167,6.5,277
+Burma,Jigawng_Kachin State,27.3000,98.5833,6.5,278
+Burma,Jih-tung Ho,27.6833,98.0333,6.5,277
+Burma,Jill Hka_Sagain,26.6833,95.7667,6.5,277
+Burma,John Island,12.7333,98.5833,6.5,288
+Burma,Johnny Island,12.3667,98.2167,6.5,288
+Burma,Johns Island_Rakhine State,19.7500,93.4500,6.5,282
+Burma,Julia Island,12.3333,98.2500,6.5,288
+Burma,Julian Island,11.8500,98.4333,6.5,288
+Burma,Jum Ga_Kachin State,25.8833,97.2500,6.5,278
+Burma,Jum Ga_Sagain,26.7000,96.1167,6.5,277
+Burma,Jum Hka_Kachin State,26.3333,97.6500,6.5,278
+Burma,Jumgahtawng_Kachin State,25.4833,96.6000,6.5,278
+Burma,Jumja_Kachin State,26.7000,98.3167,6.5,278
+Burma,Jusai_Kachin State,23.8500,97.3000,6.5,280
+Burma,Juwa_Kachin State,25.8000,97.9333,6.5,278
+Burma,Kawthaung_Tanintharyi,9.9833,98.5500,6.5,289
+Burma,Mandalay,14.1000,98.5667,6.5,287
+Burma,Mandalay Canal_Mandalay,21.8333,96.2000,6.5,281
+Burma,Mandalay District_Mandalay,22.0000,96.0000,6.5,281
+Burma,Mandalay Division_Mandalay,21.0000,96.0000,6.5,281
+Burma,Mandalay Hill_Mandalay,22.0333,96.1000,6.5,281
+Burma,Moulmein_Mon State,16.4914,97.6256,6.5,285
+Burma,Moulmein River,16.2000,97.5667,6.5,285
+Burma,Moulmein South,16.4333,97.6333,6.5,285
+Burma,Moulmeingyun_Ayeyarwady,16.3833,95.2667,6.5,285
+Burma,Naypyidaw,19.7633,96.0785,6.5,0
+Burma,Pyinmana_Mandalay,19.7333,96.2167,6.5,283
+Burma,Pyinmana_Shan State,22.5333,96.5333,6.5,280
+Burma,Pyinmanahaung_Mandalay,19.6833,96.1833,6.5,283
+Burma,Quoin Hill,13.1500,98.5667,6.5,287
+Burma,Quoin Hill_Rakhine State,17.7667,94.5333,6.5,284
+Burma,Quoin Island,10.3500,98.0667,6.5,289
+Burma,Rangoon_ or BM09,16.7500,96.2500,6.5,285
+Burma,Rangoon_Yangon,16.7833,96.1667,6.5,285
+Burma,Rangoon Ahlone_ or BM09,16.7833,96.1167,6.5,285
+Burma,Rangoon Airport_ or BM09,16.9167,96.1333,6.5,285
+Burma,Rangoon Division_Yangon,17.0000,96.1667,6.5,285
+Burma,Rangoon River_Yangon,16.4922,96.3453,6.5,285
+Burma,Sagaing_Sagain,21.8667,95.9833,6.5,281
+Burma,Sagaing_Shan State,20.7333,96.8833,6.5,282
+Burma,Sagaing District_Sagain,22.0000,95.5000,6.5,281
+Burma,Sagaing Division_Sagain,23.5000,95.5000,6.5,279
+Burma,Sagaingzu_Sagain,22.4833,95.6500,6.5,280
+Burma,Sagaingzu_Yangon,16.7464,96.6931,6.5,285
+Burma,Taunggyi_Mandalay,20.3167,95.8000,6.5,282
+Burma,Taunggyi,17.0833,97.1667,6.5,285
+Burma,Taunggyi_Sagain,23.1333,95.5167,6.5,280
+Burma,Taunggyi_Kayin State,18.7500,96.6000,6.5,283
+Burma,Taunggyi_Shan State,20.7833,97.0333,6.5,282
+Burma,Taunggyi_ or BM09,18.2833,96.6667,6.5,284
+Burma,Taunggyi_Ayeyarwady,17.0667,94.5833,6.5,284
+Burma,Taunggyi Chaung_Shan State,21.5333,96.9000,6.5,281
+Burma,Taunggyi Taung_ or BM09,18.7167,95.3000,6.5,283
+Burma,Taunggyigwe_ or BM09,17.2000,96.4000,6.5,284
+Burma,Taunggyigyaw_ or BM09,18.1500,96.9000,6.5,284
+Burma,Taunggyizu_ or BM09,18.4500,96.6667,6.5,284
+Burma,U-gin Taung_Shan State,23.2000,96.6333,6.5,280
+Burma,U-ri-daw_Shan State,19.9833,97.2167,6.5,283
+Burma,U-yin_Mandalay,22.2333,96.1333,6.5,281
+Burma,U-yin_ or BM07,19.2667,95.6667,6.5,282
+Burma,U-yinkwin_Rakhine State,18.4500,94.4333,6.5,283
+Burma,Ubo_Kayin State,18.9333,96.9333,6.5,283
+Burma,Ubokchaung_Kayin State,18.8500,96.7167,6.5,283
+Burma,Ubyetaung_Sagain,23.6833,95.9667,6.5,279
+Burma,Udakhi_Kayin State,17.9833,97.3833,6.5,284
+Burma,Udo_ or BM09,18.1167,96.2833,6.5,284
+Burma,Upi_Chin State,21.3667,92.6833,6.5,280
+Burma,Ura_Kachin State,24.6667,97.5333,6.5,279
+Burma,Ura Hka_Kachin State,25.8167,96.3833,6.5,278
+Burma,Urekhi_Kayin State,17.9667,97.3833,6.5,284
+Burma,Uri_Kachin State,25.4667,97.4833,6.5,279
+Burma,Utha_Sagain,23.1500,95.5333,6.5,280
+Burma,Uthai_Chin State,21.6833,92.8500,6.5,280
+Burma,Uyingale_Mandalay,21.8333,96.0167,6.5,281
+Burma,Vaga_Chin State,21.4667,93.9333,6.5,281
+Burma,Vaivet_Chin State,23.8500,93.4667,6.5,279
+Burma,Vakhawng Va_Chin State,22.5500,93.2500,6.5,280
+Burma,Vamkua_Chin State,22.6000,93.2333,6.5,280
+Burma,Vanai Va,22.3000,94.1333,6.5,280
+Burma,Vanglai_Chin State,23.9333,93.5833,6.5,279
+Burma,Vangte_Chin State,23.2500,93.6833,6.5,279
+Burma,Vaniam_Chin State,22.9333,93.7833,6.5,279
+Burma,Vanklang_Chin State,22.5333,93.8333,6.5,280
+Burma,Vansaye_Shan State,20.6125,100.1106,6.5,283
+Burma,Vanzang_Chin State,22.8500,93.3500,6.5,279
+Burma,Vapi Va_Chin State,22.1667,93.8833,6.5,280
+Burma,Vawmpnu Va_Chin State,22.1500,93.3500,6.5,280
+Burma,Vawnpayit_Kachin State,26.2667,98.3333,6.5,278
+Burma,Vazang_Chin State,23.1500,93.6833,6.5,279
+Burma,Vinghing_Shan State,23.4167,98.8667,6.5,280
+Burma,Vingkao_Shan State,23.1500,98.6000,6.5,281
+Burma,Vommual_Chin State,23.4167,93.8333,6.5,279
+Burma,Vownalu Mual_Chin State,23.2167,93.8500,6.5,279
+Burma,Vuangtu_Chin State,22.4833,93.2667,6.5,280
+Burma,Vuilu_Chin State,21.2667,93.4833,6.5,281
+Burma,Vutbuak_Chin State,23.3500,93.4500,6.5,279
+Burma,Yangon Taung,13.8833,98.3833,6.5,287
+Burma,Yangonbauk_Yangon,16.7133,96.0578,6.5,285
+Burma,Yangonchaung,13.8667,98.4167,6.5,287
+Burma,Yondaing Chaung_ or BM09,18.0167,96.9000,6.5,284
+Burma,Yondaw_Ayeyarwady,16.9500,95.0667,6.5,284
+Burma,Yonga_Sagain,22.0333,95.5167,6.5,281
+Burma,Yudawmu_Sagain,22.4833,95.5667,6.5,280
+Burma,Yumbya_Shan State,20.1333,96.7333,6.5,282
+Burma,Zugon_ or BM09,18.3333,95.6167,6.5,283

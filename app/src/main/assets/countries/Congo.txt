@@ -1,0 +1,109 @@
+Congo,Brazzaville,-4.2517,15.2531,1GMT,42
+Congo,Favre,-4.1156,12.8256,1GMT,45
+Congo,Ferme Kibouba,-4.0350,12.9233,1GMT,45
+Congo,Fia,-3.4308,14.8325,1GMT,43
+Congo,Fobo,-1.5322,15.8842,1GMT,44
+Congo,Foret de Bangou,-3.8894,14.4528,1GMT,43
+Congo,Foret de Golembou,-3.9608,15.7411,1GMT,42
+Congo,Foret de Koukou,-3.9086,14.3400,1GMT,44
+Congo,Foret de Leko,-2.9775,14.3606,1GMT,44
+Congo,Foret de Maloukou,-3.9914,15.5464,1GMT,42
+Congo,Foret de Mandiele,-3.9833,15.5783,1GMT,42
+Congo,Foret de Manpounou,-3.9433,15.6869,1GMT,42
+Congo,Foret de Mapounda,-3.8522,12.1508,1GMT,46
+Congo,Foret de Masage,-3.7517,14.2253,1GMT,44
+Congo,Foret de Mouso,-3.9536,15.7739,1GMT,42
+Congo,Foret de Ndoukou,-4.4914,13.0503,1GMT,44
+Congo,Foret de Ngourou,-4.0758,13.5747,1GMT,44
+Congo,Foret du Ndolo,-3.6181,12.7586,1GMT,45
+Congo,Fort Pousset,-0.4869,15.9081,1GMT,45
+Congo,Fouari,-2.7381,11.7167,1GMT,47
+Congo,Fouatou,-4.1839,14.7231,1GMT,43
+Congo,Foubou_Kouilou,-4.4833,12.4667,1GMT,45
+Congo,Foubou,-1.6333,15.8333,1GMT,44
+Congo,Fouiloussao,-4.6761,11.8464,1GMT,45
+Congo,Foula,-3.4086,15.1114,1GMT,43
+Congo,Foulou,-3.3419,13.1656,1GMT,45
+Congo,Fouma,-1.5781,14.9469,1GMT,45
+Congo,Foumbou,-4.7267,14.4614,1GMT,43
+Congo,Foumo N'Zabi,-4.8425,14.7208,1GMT,42
+Congo,Foundiba,-4.7325,14.6117,1GMT,42
+Congo,Foundou-Foundou,-4.1350,14.3708,1GMT,43
+Congo,Founika,-3.8706,14.7772,1GMT,43
+Congo,Founvou,-4.2550,13.3158,1GMT,44
+Congo,Fouomi,-0.8003,14.8778,1GMT,46
+Congo,Fouon,-3.2747,16.1833,1GMT,42
+Congo,Fouta,-4.9531,11.9731,1GMT,45
+Congo,Fouya,-1.4386,15.1014,1GMT,45
+Congo,Fulakari,-4.5828,14.9742,1GMT,42
+Congo,Gfou,-3.3853,15.0614,1GMT,43
+Congo,Grand Bois,-3.7264,13.3967,1GMT,45
+Congo,Hapilo,-4.3719,13.7786,1GMT,44
+Congo,Haute Djouari,-3.9678,15.0531,1GMT,43
+Congo,Haute Madzia,-4.1894,14.8078,1GMT,43
+Congo,Hauteurs de Tatsa,-3.5000,15.3500,1GMT,43
+Congo,Hidi,-4.6111,13.5933,1GMT,44
+Congo,Hikolo,-4.0017,13.9769,1GMT,44
+Congo,Hinda,-4.6133,12.0436,1GMT,45
+Congo,Hinga Dinika,-4.2494,12.7394,1GMT,45
+Congo,Hogoue,1.5333,14.2333,1GMT,50
+Congo,Holle,-4.5394,12.1472,1GMT,45
+Congo,Hollemoni,-4.5308,11.7772,1GMT,46
+Congo,Hombo,-1.0000,15.4167,1GMT,45
+Congo,Houtziongo,-2.7517,11.7978,1GMT,47
+Congo,Jacob,-4.1656,13.2928,1GMT,44
+Congo,Jeudi,-3.6708,14.5633,1GMT,44
+Congo,Jili,-3.2656,14.0589,1GMT,44
+Congo,Jimbekola,0.8000,14.5000,1GMT,48
+Congo,Joua,2.2000,14.5667,1GMT,50
+Congo,Kinshassa,1.9772,14.7761,1GMT,50
+Congo,L'Alima-Lefini,-2.0000,15.0000,1GMT,45
+Congo,Loubomo,-3.9814,12.2169,1GMT,46
+Congo,Pointe Noire,-4.8111,11.8875,1GMT,45
+Congo,Quartier Tchinouka,-4.7500,11.8667,1GMT,45
+Congo,Quimpanza,-4.5700,14.9511,1GMT,42
+Congo,Region de la Cuvette,-0.5000,16.0000,1GMT,45
+Congo,Region de la Lekoumou,-3.0000,13.5000,1GMT,45
+Congo,Region des Plateaux,-2.0000,15.5000,1GMT,44
+Congo,Reneville,-3.9919,14.8306,1GMT,43
+Congo,Reserve de la Nyanga-Nord,-2.9086,11.8556,1GMT,47
+Congo,Rio Loema,-5.0333,12.0167,1GMT,45
+Congo,Rio Zaire,-6.0667,12.4000,1GMT,44
+Congo,Riviere M Vemba,-4.7911,12.1506,1GMT,45
+Congo,Riviere N Gala,-4.8375,12.0114,1GMT,45
+Congo,Ssanga,-1.2178,16.8192,1GMT,44
+Congo,Ssembe,1.8608,14.7511,1GMT,49
+Congo,Uaga,1.8542,14.0447,1GMT,50
+Congo,Uon,-2.2333,15.1450,1GMT,44
+Congo,Usine Electrique du Djoue,-4.3167,15.2167,1GMT,42
+Congo,Vandji,-4.0642,11.3267,1GMT,46
+Congo,Villages Nghele,0.3114,14.8069,1GMT,48
+Congo,Vindza,-3.4181,14.5500,1GMT,44
+Congo,Vinnza,-4.3406,14.7653,1GMT,43
+Congo,Voba,-3.5650,13.2914,1GMT,45
+Congo,Vouali,-3.1467,14.1067,1GMT,45
+Congo,Vouanza,-4.5317,14.7633,1GMT,43
+Congo,Vouga,-2.9956,13.8742,1GMT,45
+Congo,Voula,-4.5811,14.9717,1GMT,42
+Congo,Vouloumamba,-4.1553,14.6847,1GMT,43
+Congo,Vounda I,-3.6428,12.1622,1GMT,46
+Congo,Vounda Loubetsi,-3.6725,12.1069,1GMT,46
+Congo,Voungouta,-4.3869,14.5633,1GMT,43
+Congo,Wala,-3.7847,14.1117,1GMT,44
+Congo,Walala,-4.3203,14.4511,1GMT,43
+Congo,Wanda,-4.5219,14.7119,1GMT,43
+Congo,Wanda Kouni,-4.5064,12.2622,1GMT,45
+Congo,Wandakousombi,-4.5864,12.4397,1GMT,45
+Congo,Wandjia,3.1181,17.3364,1GMT,48
+Congo,Wani,-2.3039,15.1664,1GMT,44
+Congo,Wanyi,-1.3297,15.1411,1GMT,45
+Congo,Wavou,-4.4958,12.5517,1GMT,45
+Congo,Weme,-3.6031,14.1886,1GMT,44
+Congo,Wendze,-2.3572,15.3067,1GMT,44
+Congo,Wongou_Pool,-3.4072,14.1139,1GMT,44
+Congo,Wongou_Niari,-4.3358,12.9222,1GMT,45
+Congo,Woulou,-1.4911,15.5814,1GMT,45
+Congo,Wuma,-0.6531,16.0550,1GMT,45
+Congo,Zenzele,0.6772,15.3358,1GMT,47
+Congo,Zevengue,-4.1394,12.0264,1GMT,46
+Congo,Zilala,-3.1511,12.0994,1GMT,47

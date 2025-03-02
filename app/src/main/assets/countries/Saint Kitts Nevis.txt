@@ -1,0 +1,30 @@
+Saint Kitts Nevis,Basseterre_Saint George Basseterre,17.3098,-62.7069,-4,0
+Saint Kitts Nevis,Basseterre Bay_Saint George Basseterre,17.2931,-62.7069,-4,0
+Saint Kitts Nevis,Cades Bay_Saint Thomas Lowland,17.1932,-62.6068,-4,0
+Saint Kitts Nevis,Charlestown_Saint Paul Charlestown,17.1432,-62.6068,-4,0
+Saint Kitts Nevis,Cotton Ground_Saint Thomas Lowland,17.1766,-62.6068,-4,0
+Saint Kitts Nevis,Dalzells_Saint Mary Cayon,17.36,-62.69,-4,0
+Saint Kitts Nevis,Dos d Ane Pond_Christ Church Nichola Town,17.36,-62.7733,-4,0
+Saint Kitts Nevis,Eden Browne_Saint James Windwa,17.1601,-62.5399,-4,0
+Saint Kitts Nevis,Fountain_Saint James Windwa,17.1769,-62.5731,-4,0
+Saint Kitts Nevis,Jessop_Saint Thomas Lowland,17.1606,-62.5894,-4,0
+Saint Kitts Nevis,Key Gut,17.344,-62.6893,-4,0
+Saint Kitts Nevis,Kitt Ghut_Saint George Gingerland,17.1274,-62.5226,-4,0
+Saint Kitts Nevis,Lavingtons Gut_Saint John Capesterre,17.4108,-62.7725,-4,0
+Saint Kitts Nevis,Nevis,17.161,-62.5723,-4,0
+Saint Kitts Nevis,Olivees Mountain,17.3278,-62.7389,-4,0
+Saint Kitts Nevis,Perry_Saint Peter Basseterre,17.3279,-62.7055,-4,0
+Saint Kitts Nevis,Potwork Estate_Saint James Windwa,17.2112,-62.5388,-4,0
+Saint Kitts Nevis,Rawlins_Saint George Gingerland,17.1447,-62.5553,-4,0
+Saint Kitts Nevis,Rawlins_Saint James Windwa,17.1947,-62.5719,-4,0
+Saint Kitts Nevis,Red Cliff_Saint George Gingerland,17.1114,-62.5053,-4,0
+Saint Kitts Nevis,Rices_Saint George Gingerland,17.1281,-62.5386,-4,0
+Saint Kitts Nevis,Richmond Lodge_Saint John Figtree,17.1281,-62.5719,-4,0
+Saint Kitts Nevis,Romney_Saint Thomas Middle Island,17.3447,-62.7719,-4,0
+Saint Kitts Nevis,Russells Rest_Saint James Windwa,17.1947,-62.5386,-4,0
+Saint Kitts Nevis,The Crater,17.3783,-62.7884,-4,0
+Saint Kitts Nevis,The Weir,17.3449,-62.7551,-4,0
+Saint Kitts Nevis,Upper Bourryau_Christ Church Nichola Town,17.3784,-62.7216,-4,0
+Saint Kitts Nevis,Vervine_Saint George Gingerland,17.1451,-62.5382,-4,0
+Saint Kitts Nevis,Willets_Saint Paul Capesterre,17.4119,-62.8048,-4,0
+Saint Kitts Nevis,Zetland_Saint George Gingerland,17.1455,-62.5711,-4,0

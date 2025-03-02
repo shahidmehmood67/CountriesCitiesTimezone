@@ -1,0 +1,310 @@
+Cyprus,Ayia Napa,34.9917,34.0000,2GMT,158
+Cyprus,Ayia Napa Forest,34.9917,34.0458,2GMT,158
+Cyprus,Ayia Napa Monastery,34.9917,33.9958,2GMT,158
+Cyprus,Famagusta,35.1250,33.9500,2GMT,158
+Cyprus,Famagusta Bay,35.1667,34.0000,2GMT,158
+Cyprus,Famagusta Walled City,35.1250,33.9417,2GMT,158
+Cyprus,Faraklos,35.0042,33.3750,2GMT,156
+Cyprus,Farfaris,35.2542,33.5708,2GMT,157
+Cyprus,Farkonies,34.9083,32.3750,2GMT,152
+Cyprus,Fasula,34.7667,33.0292,2GMT,154
+Cyprus,Felekkidhes,35.1500,33.6250,2GMT,157
+Cyprus,Fella Eshei,35.1625,33.5167,2GMT,156
+Cyprus,Filegeia,35.1000,32.6667,2GMT,153
+Cyprus,Filusa,34.9750,32.5000,2GMT,153
+Cyprus,Finikaria,34.7542,33.1000,2GMT,154
+Cyprus,Finoukli,35.0667,32.6125,2GMT,153
+Cyprus,Fiti,34.9292,32.5500,2GMT,153
+Cyprus,Five Fingers,35.3000,33.3333,2GMT,156
+Cyprus,Flasu,35.0625,32.8875,2GMT,154
+Cyprus,Frenaros,35.0417,33.9250,2GMT,158
+Cyprus,Frodisia,35.0667,32.6667,2GMT,153
+Cyprus,Ftanokafkalla,35.1458,33.1958,2GMT,155
+Cyprus,Fyllia,35.1875,33.0917,2GMT,155
+Cyprus,Girne,35.3417,33.3167,2GMT,156
+Cyprus,Haji Alis,34.6750,32.6708,2GMT,153
+Cyprus,Haji Moustafa,35.2042,33.7750,2GMT,157
+Cyprus,Hajipandelis House,35.2042,33.8625,2GMT,158
+Cyprus,Hajisolomou,35.3083,33.2958,2GMT,156
+Cyprus,Hala Sultan Tekesi,34.8875,33.6083,2GMT,156
+Cyprus,Halasa,34.7583,32.9208,2GMT,154
+Cyprus,Halbinsel Karpas,35.5000,34.2500,2GMT,159
+Cyprus,Halevga,35.2875,33.5250,2GMT,157
+Cyprus,Halleri,35.1683,32.6589,2GMT,154
+Cyprus,Hamidmandiralari,35.2250,33.3792,2GMT,156
+Cyprus,Hamitkoy,35.0747,32.9542,2GMT,154
+Cyprus,Hanbeli,35.3000,33.1083,2GMT,155
+Cyprus,Hapotami,34.6833,32.5917,2GMT,152
+Cyprus,Haranga,35.3250,33.9792,2GMT,158
+Cyprus,Hardasi,34.8958,32.9500,2GMT,154
+Cyprus,Harita Tepesi,35.2708,33.0792,2GMT,155
+Cyprus,Hasan Kiayia,35.1292,32.9583,2GMT,154
+Cyprus,Haspolat,35.2083,33.4208,2GMT,156
+Cyprus,Havara Pit,35.1292,33.6458,2GMT,157
+Cyprus,Hazreti Omer Turbesi,35.3375,33.3875,2GMT,156
+Cyprus,Hesna Katin,35.2125,33.3792,2GMT,156
+Cyprus,Hill Axylon,34.8083,32.5583,2GMT,153
+Cyprus,Hill Cikko,34.9833,32.7333,2GMT,153
+Cyprus,Hiloraka,34.8042,32.4083,2GMT,152
+Cyprus,Hirisida,35.2417,33.4833,2GMT,156
+Cyprus,Hirokitiya,34.8000,33.3417,2GMT,155
+Cyprus,Hirsofu Korfezi,35.1000,32.4167,2GMT,153
+Cyprus,Holi,34.9792,32.4458,2GMT,152
+Cyprus,Hulu,34.8708,32.5542,2GMT,153
+Cyprus,Idhalion City-Site,35.0250,33.4250,2GMT,156
+Cyprus,Ilakas,34.9208,32.6583,2GMT,153
+Cyprus,Ilker Karter Havaalani,35.2625,33.2667,2GMT,156
+Cyprus,Incesu,35.3333,33.2083,2GMT,156
+Cyprus,Incirli,35.1667,33.3458,2GMT,156
+Cyprus,Inia,34.9375,32.3833,2GMT,152
+Cyprus,Inonu,35.1583,33.7000,2GMT,157
+Cyprus,Ipsillat,35.2500,33.6833,2GMT,157
+Cyprus,Ipso,35.2583,33.7833,2GMT,157
+Cyprus,Ipsona,34.6833,32.9583,2GMT,154
+Cyprus,Irkas Teratsa,34.9833,32.6833,2GMT,153
+Cyprus,Irkon Lithari,34.9208,32.7083,2GMT,153
+Cyprus,Irmi,35.2994,32.9622,2GMT,155
+Cyprus,Isada,34.8417,32.4750,2GMT,152
+Cyprus,Iskele_Famagusta,35.2875,33.8917,2GMT,158
+Cyprus,Iskele_Larnaca,34.9125,33.6333,2GMT,156
+Cyprus,Istinjon,34.9708,32.5208,2GMT,153
+Cyprus,Istrovulo,35.1500,33.3417,2GMT,156
+Cyprus,Iyikoy,35.1125,32.8750,2GMT,154
+Cyprus,Jatitika,35.2750,33.6208,2GMT,157
+Cyprus,Jileros,34.7708,32.8833,2GMT,154
+Cyprus,Jilikas,35.2917,33.7583,2GMT,157
+Cyprus,Jira Eleni,34.7000,32.5667,2GMT,152
+Cyprus,Jirkavli Mevkisi,35.3333,33.7333,2GMT,157
+Cyprus,Larnaca,34.9250,33.6417,2GMT,156
+Cyprus,Larnaca Bay,34.9167,33.7500,2GMT,157
+Cyprus,Larnaca Castle,34.9083,33.6375,2GMT,156
+Cyprus,Larnaca Marina,34.9167,33.6417,2GMT,156
+Cyprus,Lefke,35.1100,32.8506,2GMT,154
+Cyprus,Limasol District,34.7830,32.9167,2GMT,154
+Cyprus,Limassol,34.6500,33.0167,2GMT,154
+Cyprus,Limassol Bay,34.6333,33.0833,2GMT,154
+Cyprus,Limassol Castle,34.6708,33.0417,2GMT,154
+Cyprus,Limassol Forest,34.8000,33.1167,2GMT,154
+Cyprus,Limassol Sheraton Marina,34.7083,33.1667,2GMT,154
+Cyprus,Liopetri,35.0083,33.8917,2GMT,157
+Cyprus,Naftes,34.6917,32.5708,2GMT,152
+Cyprus,Nangomi,35.6292,34.4833,2GMT,160
+Cyprus,Nannatidhes,35.0333,32.8792,2GMT,154
+Cyprus,Narlikoy,35.1333,32.8667,2GMT,154
+Cyprus,Nata,34.7667,32.5667,2GMT,153
+Cyprus,Nava,35.3917,33.7292,2GMT,157
+Cyprus,Nea Dimmata,35.1331,32.5231,2GMT,153
+Cyprus,Nea Pafo,34.7583,32.4083,2GMT,152
+Cyprus,Nektovika Forest,35.4917,34.2875,2GMT,159
+Cyprus,Nektovikla Fortress,35.4875,34.2917,2GMT,160
+Cyprus,Nemourka,34.8125,33.3333,2GMT,155
+Cyprus,Neohoryo,35.2375,33.4750,2GMT,156
+Cyprus,Neokhorion,35.0253,32.3647,2GMT,152
+Cyprus,Neraides,35.4000,33.7500,2GMT,158
+Cyprus,Neron tis Androuklias,35.0042,32.7000,2GMT,153
+Cyprus,Neta,35.4708,34.2167,2GMT,159
+Cyprus,New Appidhaki,34.9333,33.4625,2GMT,156
+Cyprus,New Asprovikla,35.3250,33.8417,2GMT,158
+Cyprus,New Mavro,34.8500,33.3917,2GMT,155
+Cyprus,New Pyla,34.9542,33.8583,2GMT,157
+Cyprus,New Tekkele Khan,35.2625,33.9083,2GMT,158
+Cyprus,Nicidari,35.0667,32.9917,2GMT,154
+Cyprus,Nicosia,35.1667,33.3667,2GMT,156
+Cyprus,Nikitas,35.1750,32.9583,2GMT,155
+Cyprus,Nikokla,34.7292,32.5750,2GMT,152
+Cyprus,Nikos,34.9992,32.8325,2GMT,154
+Cyprus,Niokhoritika,35.1458,33.1542,2GMT,155
+Cyprus,Niolimata,34.7958,32.4042,2GMT,152
+Cyprus,Niolita,35.1208,33.7167,2GMT,157
+Cyprus,Nisarka,34.8458,32.3750,2GMT,152
+Cyprus,Nisha,35.5792,34.2792,2GMT,160
+Cyprus,Nisi,34.9208,32.3208,2GMT,152
+Cyprus,Nisiri,34.6667,32.6875,2GMT,153
+Cyprus,Nisis Agios Georgios,35.0742,32.3350,2GMT,152
+Cyprus,Nisis Geronisos,34.9000,32.3167,2GMT,152
+Cyprus,Nisis Glykiotissa,35.3500,33.2917,2GMT,156
+Cyprus,Nisis Kila,35.5000,34.3333,2GMT,160
+Cyprus,Nisoi Kleides,35.7000,34.6000,2GMT,161
+Cyprus,Nisou,35.0208,33.3917,2GMT,156
+Cyprus,Norf Solter,34.9583,32.8583,2GMT,154
+Cyprus,Notadhes,35.6333,34.4792,2GMT,160
+Cyprus,Odu,34.8875,33.1500,2GMT,155
+Cyprus,Oglakli,35.0250,33.3250,2GMT,156
+Cyprus,Okniaris,35.3417,33.9542,2GMT,158
+Cyprus,Okso Adasi,35.1250,33.9542,2GMT,158
+Cyprus,Olos,35.5792,34.4167,2GMT,160
+Cyprus,Olympos_Famagusta,35.3542,33.7458,2GMT,157
+Cyprus,Olympos_Limassol,34.9417,32.8667,2GMT,154
+Cyprus,Olympus Range,34.9167,32.8333,2GMT,154
+Cyprus,Omerika,35.1250,33.7458,2GMT,157
+Cyprus,Omerli,35.1375,32.7667,2GMT,154
+Cyprus,Omodhos,34.8500,32.8083,2GMT,153
+Cyprus,Omorfo Korfezi,35.1792,32.8319,2GMT,154
+Cyprus,Omorphita,35.1917,33.3750,2GMT,156
+Cyprus,Onespotika,34.7750,32.5000,2GMT,152
+Cyprus,Oniseia,35.2875,33.3167,2GMT,156
+Cyprus,Ophrakas,34.7833,32.6667,2GMT,153
+Cyprus,Optomolia,35.5500,34.2250,2GMT,159
+Cyprus,Orga,35.3625,33.0333,2GMT,155
+Cyprus,Orie,35.1625,33.3917,2GMT,156
+Cyprus,Oritis Forest,34.7208,32.6333,2GMT,153
+Cyprus,Orkos,35.5458,34.1750,2GMT,159
+Cyprus,Ormani_Larnaca,34.9625,33.6458,2GMT,157
+Cyprus,Ormani_Paphos,35.1042,32.5542,2GMT,153
+Cyprus,Ormanici,34.7667,33.1833,2GMT,155
+Cyprus,Ormanici_Nicosia,35.0917,32.8292,2GMT,154
+Cyprus,Ormidhia Forest,34.9958,33.7750,2GMT,157
+Cyprus,Ormidia,34.9958,33.7833,2GMT,157
+Cyprus,Ormos Exarchos,35.6500,34.4625,2GMT,160
+Cyprus,Ormos Ronas,35.6000,34.3333,2GMT,160
+Cyprus,Ormos ton Korallion,34.8500,32.3667,2GMT,152
+Cyprus,Ornithas,34.7583,33.1917,2GMT,155
+Cyprus,Ornithi,35.1583,33.5708,2GMT,157
+Cyprus,Ornithi Chiftlik,35.1583,33.5583,2GMT,157
+Cyprus,Ornousa,35.3292,33.5417,2GMT,157
+Cyprus,Orounta,35.1042,33.0917,2GMT,155
+Cyprus,Ortakoy,35.2042,33.3417,2GMT,156
+Cyprus,Osia Maria,35.0375,32.2958,2GMT,152
+Cyprus,Osman Dere,35.2250,33.5083,2GMT,156
+Cyprus,Otello Kulesi,35.1292,33.9458,2GMT,158
+Cyprus,Otoun Yiolou,35.2750,33.6750,2GMT,157
+Cyprus,Otuken,34.8417,33.4417,2GMT,156
+Cyprus,Oumaes,35.3792,33.9667,2GMT,158
+Cyprus,Oupia,34.7375,33.2292,2GMT,155
+Cyprus,Ourania City-Site,35.6542,34.4583,2GMT,160
+Cyprus,Ouzoum Laxia,35.2417,33.4000,2GMT,156
+Cyprus,Ovalik,34.7333,32.5167,2GMT,152
+Cyprus,Ovgoros,35.3667,33.9333,2GMT,158
+Cyprus,Ovgos,35.2208,32.9583,2GMT,155
+Cyprus,Ovgos Dam,35.2167,33.0375,2GMT,155
+Cyprus,Oxies,34.7250,33.1708,2GMT,154
+Cyprus,Oxydena,35.1458,33.7500,2GMT,157
+Cyprus,Oxys,34.9333,33.2667,2GMT,155
+Cyprus,Ozalos,35.4458,34.1500,2GMT,159
+Cyprus,Ozankoy,35.3167,33.3500,2GMT,156
+Cyprus,Ozhan,35.2750,33.1083,2GMT,155
+Cyprus,Paphos,34.7667,32.4167,2GMT,152
+Cyprus,Paphos Point,34.7542,32.4028,2GMT,152
+Cyprus,Protaras,35.0125,34.0583,2GMT,158
+Cyprus,Rakhasin,34.7750,32.7625,2GMT,153
+Cyprus,Rakhmeli,34.9458,33.6417,2GMT,156
+Cyprus,Rakhokambos,34.7000,32.6042,2GMT,153
+Cyprus,Randi Forest,34.6833,32.6250,2GMT,153
+Cyprus,Repnia,35.0167,32.5625,2GMT,153
+Cyprus,Rialas,34.8250,33.2583,2GMT,155
+Cyprus,Rigatiko,35.3792,33.8750,2GMT,158
+Cyprus,Rigopoulos,35.0458,32.3375,2GMT,152
+Cyprus,River Alikos,35.0708,33.4500,2GMT,156
+Cyprus,River Asino,35.1000,32.9917,2GMT,155
+Cyprus,River Ayia,35.4417,34.1708,2GMT,159
+Cyprus,River Elisis,35.4750,34.2667,2GMT,159
+Cyprus,River Kambos,35.1500,32.8083,2GMT,154
+Cyprus,River Karyoti,35.1625,32.8667,2GMT,154
+Cyprus,River Katouris,35.1875,32.6833,2GMT,154
+Cyprus,River Kharanka,35.1583,33.9000,2GMT,158
+Cyprus,River Livadhi,35.1625,32.5458,2GMT,153
+Cyprus,River Pyrgos,35.1875,32.6844,2GMT,154
+Cyprus,River Xeros,35.1458,32.8333,2GMT,154
+Cyprus,River Yalias,35.1583,33.9125,2GMT,158
+Cyprus,Riyena,35.0542,32.5417,2GMT,153
+Cyprus,Rizokarpasso,35.6000,34.3750,2GMT,160
+Cyprus,Rock Dhora,34.7750,32.7292,2GMT,153
+Cyprus,Rocky Ridge,34.9875,32.5167,2GMT,153
+Cyprus,Rodhino,34.8833,33.5042,2GMT,156
+Cyprus,Rofesa,34.7208,32.8292,2GMT,153
+Cyprus,Romiu Kayaligi,34.6667,32.6333,2GMT,153
+Cyprus,Rophos,35.1750,33.1208,2GMT,155
+Cyprus,Rothesha,35.1625,33.4708,2GMT,156
+Cyprus,Rotseri,35.0042,33.0583,2GMT,155
+Cyprus,Rotsos,34.9292,33.5167,2GMT,156
+Cyprus,Roudia Bridge,34.8917,32.6875,2GMT,153
+Cyprus,Rouskia,34.8750,32.3417,2GMT,152
+Cyprus,Royal Manor of Covocle,34.7083,32.5750,2GMT,152
+Cyprus,Uc Sehitler,34.9750,33.5167,2GMT,156
+Cyprus,Uczeytinler,34.9333,32.8000,2GMT,154
+Cyprus,Ulucam,34.7708,32.6667,2GMT,153
+Cyprus,Ulukisla,35.2167,33.6167,2GMT,157
+Cyprus,Upper Dikomo,35.2708,33.3250,2GMT,156
+Cyprus,Uyku Tepesi,35.5292,34.3083,2GMT,160
+Cyprus,Uzundere,35.3333,33.4292,2GMT,156
+Cyprus,Uzundere Goleti,35.3250,33.4250,2GMT,156
+Cyprus,Uzunkoy,35.0750,33.7667,2GMT,157
+Cyprus,Uzunmese,34.9750,32.4875,2GMT,153
+Cyprus,West Paltaniotissa Forest,35.2875,33.4917,2GMT,156
+Cyprus,West Shoulder,34.9250,32.8417,2GMT,154
+Cyprus,White Promontory,34.6833,32.6417,2GMT,153
+Cyprus,Xalona_Larnaca,34.7542,33.3792,2GMT,155
+Cyprus,Xalona_Nicosia,35.1833,32.9917,2GMT,155
+Cyprus,Xalona_Paphos,35.0125,32.4667,2GMT,153
+Cyprus,Xeraes,34.7875,32.6083,2GMT,153
+Cyprus,Xerargaka,34.8083,32.7125,2GMT,153
+Cyprus,Xerarkaja,34.9250,32.6167,2GMT,153
+Cyprus,Xerarkaka,35.0542,32.8292,2GMT,154
+Cyprus,Xerarkakon,35.3708,33.6792,2GMT,157
+Cyprus,Xeri,35.0750,33.3208,2GMT,156
+Cyprus,Xerojiladha,34.7042,32.7458,2GMT,153
+Cyprus,Xerolivadhia,34.7333,32.7583,2GMT,153
+Cyprus,Xeromoutta,35.0125,32.7958,2GMT,154
+Cyprus,Xeron,34.7667,32.6750,2GMT,153
+Cyprus,Xeropigi,35.0083,32.6375,2GMT,153
+Cyprus,Xeropotamos_Paphos,34.7000,32.5500,2GMT,153
+Cyprus,Xeropotamos_Larnaca,34.7750,33.4667,2GMT,156
+Cyprus,Xeropotamos_Nicosia,35.1833,32.9542,2GMT,155
+Cyprus,Xeropotamos_Famagusta,35.2250,33.7792,2GMT,157
+Cyprus,Xeropotamos Monastery,35.1583,32.8750,2GMT,154
+Cyprus,Xeros,34.8500,32.3833,2GMT,154
+Cyprus,Xeros Potamo,34.7333,32.5625,2GMT,152
+Cyprus,Xerovounos,35.1500,32.7333,2GMT,154
+Cyprus,Xerovounos Forest B,35.1500,32.7250,2GMT,154
+Cyprus,Xerovounos Forest D,35.1458,32.7375,2GMT,154
+Cyprus,Xi-Vouno,34.7292,33.0208,2GMT,154
+Cyprus,Xilimbos,34.8625,32.8875,2GMT,154
+Cyprus,Xindes,34.9417,33.3958,2GMT,156
+Cyprus,Xindous,35.0708,33.0458,2GMT,155
+Cyprus,Xistaroudi Junction,34.9875,32.7500,2GMT,154
+Cyprus,Xomoutta,35.1708,33.4167,2GMT,156
+Cyprus,Xylias,34.9542,33.3917,2GMT,156
+Cyprus,Xyliatos,35.0333,33.0458,2GMT,155
+Cyprus,Xylna,35.0583,33.8333,2GMT,157
+Cyprus,Xylomandron,35.0625,32.3292,2GMT,152
+Cyprus,Xylomodhousa,35.2292,33.1125,2GMT,155
+Cyprus,Xylophaghou Forest,34.9667,33.8333,2GMT,157
+Cyprus,Xylophago,34.9792,33.8500,2GMT,157
+Cyprus,Xylosyrma,34.8375,33.3125,2GMT,155
+Cyprus,Xylotymbou,35.0167,33.7500,2GMT,157
+Cyprus,Xylourikos,34.8500,32.9792,2GMT,154
+Cyprus,Xystarka,35.0542,33.6500,2GMT,157
+Cyprus,Xystaroudhin,35.0833,32.6708,2GMT,153
+Cyprus,Zacharou,35.0475,32.6225,2GMT,153
+Cyprus,Zafer Burnu,35.7000,34.5833,2GMT,161
+Cyprus,Zaim Agha,35.1083,33.0833,2GMT,155
+Cyprus,Zakati,34.6639,33.0000,2GMT,154
+Cyprus,Zakerka,35.1833,33.0500,2GMT,155
+Cyprus,Zakharia,34.9833,32.5333,2GMT,153
+Cyprus,Zakharou,35.0458,32.6167,2GMT,153
+Cyprus,Zakharovouni,34.8792,33.2750,2GMT,155
+Cyprus,Zanaja,34.7333,32.8792,2GMT,154
+Cyprus,Zanatophoulia,34.8750,33.2958,2GMT,155
+Cyprus,Zanettis House,35.0625,33.5458,2GMT,156
+Cyprus,Zangalaki,35.1167,33.6250,2GMT,156
+Cyprus,Zefkos,34.8083,33.3667,2GMT,155
+Cyprus,Zeus Lavranios Sanctuary,34.7583,33.0292,2GMT,154
+Cyprus,Zevghari,34.5708,32.9333,2GMT,153
+Cyprus,Zeybekkoy,35.3833,34.0167,2GMT,158
+Cyprus,Zeytin Burnu,35.3250,34.0625,2GMT,158
+Cyprus,Zeytinlik_Kyrenia,35.3333,33.2958,2GMT,156
+Cyprus,Zeytinlik_Nicosia,35.0583,33.1042,2GMT,155
+Cyprus,Zeytinoza Tepesi,35.3042,33.2417,2GMT,156
+Cyprus,Zgouros,34.8500,33.3708,2GMT,155
+Cyprus,Zigovuno,35.5292,34.2333,2GMT,159
+Cyprus,Ziouni,34.7667,32.7000,2GMT,153
+Cyprus,Ziyamet,35.4708,34.1417,2GMT,159
+Cyprus,Ziyi,34.7333,33.3375,2GMT,155
+Cyprus,Zodhia,35.1667,33.0000,2GMT,155
+Cyprus,Zonias_Limassol,34.8083,33.1042,2GMT,154
+Cyprus,Zonias_Larnaca,34.9542,33.4917,2GMT,156
+Cyprus,Zoodhokhos,34.8958,33.0083,2GMT,154
+Cyprus,Zoopigi,34.8667,33.0167,2GMT,154
+Cyprus,Zorras Forest,35.4708,34.2292,2GMT,159
+Cyprus,Zoulophtidhes,34.7583,33.2833,2GMT,155
+Cyprus,Zumrutkoy,35.1750,33.0500,2GMT,155

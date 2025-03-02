@@ -1,0 +1,3 @@
+Svalbard And Jan Mayen,1934 Peak,77.2382,16.0716,2,0
+Svalbard And Jan Mayen,Longyearbreen,78.1941,15.5275,2,0
+Svalbard And Jan Mayen,Moffen,80.0276,14.5109,2,0

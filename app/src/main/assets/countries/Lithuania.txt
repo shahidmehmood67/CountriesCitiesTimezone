@@ -1,0 +1,68 @@
+Lithuania,Alytus,54.4264,24.0764,2,0
+Lithuania,Fabijoniskis,54.7435,25.2435,2,0
+Lithuania,Felinka,55.2935,24.9769,2,0
+Lithuania,Ferma Anedin,55.7102,21.4435,2,0
+Lithuania,Fistravishken,55.2102,21.9794,2,0
+Lithuania,Fluss Memel,55.3121,21.3919,2,0
+Lithuania,Fol vark Iotayne,55.5435,24.4102,2,0
+Lithuania,Fol vark Lyustberg,54.7602,23.9269,2,0
+Lithuania,Forsterei,55.7769,21.0935,2,0
+Lithuania,Frantskabuda,54.8102,23.0769,2,0
+Lithuania,Hanuszyszki,54.4937,24.6104,2,0
+Lithuania,Hawya,53.8271,25.5937,2,0
+Lithuania,Heiligenfliess,55.0771,22.6104,2,0
+Lithuania,Heydekrug,55.3593,21.4935,2,0
+Lithuania,Jielekciai,54.5939,23.1106,2,0
+Lithuania,Kaunas,54.894,23.894,2,0
+Lithuania,Kaunas_Kauno Apskritis,54.9107,23.9107,2,0
+Lithuania,Kaunas Petrasiunas,54.894,23.994,2,0
+Lithuania,Kaunasskoye More,54.894,24.094,2,0
+Lithuania,Klaipeda_Klaipedos Apskritis,55.7274,21.1274,2,0
+Lithuania,Klaipeda,55.5107,21.5107,2,0
+Lithuania,Klaipeda East,55.7274,21.2607,2,0
+Lithuania,Vilnius_Vilniaus Apskritis,54.6951,25.3285,2,0
+Lithuania,Vilnius,54.6451,25.2951,2,0
+Lithuania,Vilnius East,54.6785,25.5285,2,0
+Lithuania,Visaginas_Utenos Apskritis,55.6118,26.4285,2,0
+Lithuania,Visaginas,55.5951,26.4285,2,0
+Lithuania,Wajczajcie,56.2286,21.9452,2,0
+Lithuania,Wajgowa,55.7163,22.7636,2,0
+Lithuania,Waka Biala,54.6119,25.2119,2,0
+Lithuania,Wannaggen,55.5786,21.4286,2,0
+Lithuania,Warrub,55.308,21.3252,2,0
+Lithuania,Warruss,55.3,21.3019,2,0
+Lithuania,Waszki_Panevezio Apskritis,56.1786,24.2227,2,0
+Lithuania,Werden,55.35,21.5161,2,0
+Lithuania,Wersze,55.2119,21.5952,2,0
+Lithuania,Wewirzany,55.6125,21.6088,2,0
+Lithuania,Wideniance,54.1952,24.7452,2,0
+Lithuania,Widukle,55.415,22.91,2,0
+Lithuania,Wieksznie,56.2452,22.5286,2,0
+Lithuania,Wiezance,54.2452,24.9452,2,0
+Lithuania,Wileny,55.0952,23.2952,2,0
+Lithuania,Wilia,54.9119,23.8952,2,0
+Lithuania,Wilke,55.8619,22.1452,2,0
+Lithuania,Wilki,55.0619,23.5952,2,0
+Lithuania,Wilkomierz,55.2619,24.7619,2,0
+Lithuania,Wilkowyszki,54.6636,23.0441,2,0
+Lithuania,Wiluszy,56.2286,22.6619,2,0
+Lithuania,Windenburg,55.3583,21.2077,2,0
+Lithuania,Windenburger Hacken,55.3527,21.2013,2,0
+Lithuania,Wirballen,54.6386,22.8288,2,0
+Lithuania,Wirbaly,56.2286,21.5619,2,0
+Lithuania,Wischwill,55.0811,22.3969,2,0
+Lithuania,Wisztyniec,54.4663,22.723,2,0
+Lithuania,Wizuny,55.6119,25.5119,2,0
+Lithuania,Wladislawow,54.785,22.875,2,0
+Lithuania,Wobole,56.2119,21.7952,2,0
+Lithuania,Wobolniki,55.9786,24.7619,2,0
+Lithuania,Wodakle,55.5119,24.5119,2,0
+Lithuania,Wojdaty,54.6119,25.1786,2,0
+Lithuania,Wojnejki,56.0286,21.3619,2,0
+Lithuania,Wojnejkupis,56.0119,21.3286,2,0
+Lithuania,Wojnuta,55.3769,21.8763,2,0
+Lithuania,Wygontyszki,56.0286,22.1786,2,0
+Lithuania,Wylkowyszki,54.6991,23.0433,2,0
+Lithuania,Wysaki Dwor,54.5952,24.5452,2,0
+Lithuania,Ymeze,55.6288,22.0288,2,0
+Lithuania,Yonishkis_Siauliu Apskritis,56.2524,23.6274,2,0

@@ -1,0 +1,17 @@
+No Mans Land,Ash Shaykh Sulayman,31.8764,35.043,2,0
+No Mans Land,Bi r Mazzah,31.8431,35.0431,2,0
+No Mans Land,Bir et Tina,31.8431,35.0098,2,0
+No Mans Land,Bir Khatula,31.8265,35.0265,2,0
+No Mans Land,Deir Aiyub,31.8433,35.0267,2,0
+No Mans Land,Demilitarized Zone,31.8433,34.9767,2,0
+No Mans Land,El Manatir,31.8601,35.0768,2,0
+No Mans Land,Khirbat Baradah,31.8774,35.0274,2,0
+No Mans Land,Khirbat Dayr Nahlah,31.8774,34.994,2,0
+No Mans Land,Khirbat Kureikur,31.9274,35.044,2,0
+No Mans Land,Khirbat Sabhah,31.7607,35.244,2,0
+No Mans Land,Khirbat Shibli,31.8607,35.0607,2,0
+No Mans Land,Khirbat Umm Rujman,31.894,35.044,2,0
+No Mans Land,Montefiore,31.7942,35.2109,2,0
+No Mans Land,Sanhedriya,31.8115,35.2282,2,0
+No Mans Land,Talpiot,31.7616,35.2283,2,0
+No Mans Land,Wadi ar Rababi,31.7786,35.2452,2,0

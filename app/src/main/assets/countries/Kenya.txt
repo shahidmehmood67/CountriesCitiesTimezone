@@ -1,0 +1,133 @@
+Kenya,Eldoret_Rift Valley,0.5268,35.2934,3,0
+Kenya,Garissa_Coast,-0.4466,39.6686,3,0
+Kenya,Garissa District_North-Eastern,-0.4897,40.2603,3,0
+Kenya,Garissa Road,-1.0397,37.277,3,0
+Kenya,Isiolo_Eastern,0.5772,37.5938,3,0
+Kenya,Isiolo District_Eastern,1.0105,38.7605,3,0
+Kenya,Isiolo Trust Land_Eastern,0.5105,37.5105,3,0
+Kenya,Kajiado_Rift Valley,-1.8393,36.794,3,0
+Kenya,Kisumu_Nyanza,-0.0893,34.7607,3,0
+Kenya,Kisumu Bay_Nyanza,-0.0893,34.744,3,0
+Kenya,Kisumu District_Nyanza,-0.2393,34.9274,3,0
+Kenya,Kisumu Location_Nyanza,-0.0393,34.694,3,0
+Kenya,Kitale_Rift Valley,1.0274,35.0107,3,0
+Kenya,Kitale_Eastern,-1.4726,37.294,3,0
+Kenya,Kitale_Western,0.5607,34.6274,3,0
+Kenya,Kitale Tile Works_Rift Valley,1.044,35.0107,3,0
+Kenya,Kitui_Eastern,-1.356,38.0274,3,0
+Kenya,Kitui District_Eastern,-1.4893,38.5107,3,0
+Kenya,Lamu Island_Coast,-2.2745,40.8808,3,0
+Kenya,Malindi_Western,0.1442,34.6276,3,0
+Kenya,Malindi_Coast,-3.2058,40.1276,3,0
+Kenya,Malindi Bank_Coast,-3.3224,40.1776,3,0
+Kenya,Malindi Point_Coast,-3.2724,40.1276,3,0
+Kenya,Malindi Reef_Coast,-3.3058,40.1276,3,0
+Kenya,Malindi Road_Coast,-3.2558,40.1609,3,0
+Kenya,Mandera_North-Eastern,3.937,41.857,3,0
+Kenya,Mandera District_North-Eastern,3.5109,40.7609,3,0
+Kenya,Mombasa_Eastern,-1.6724,37.9276,3,0
+Kenya,Mombasa_Coast,-4.0391,39.6776,3,0
+Kenya,Mombasa District_Coast,-3.9891,39.6776,3,0
+Kenya,Mombasa Old Port_Coast,-4.0391,39.6942,3,0
+Kenya,Mombasa Road,-1.4558,37.0442,3,0
+Kenya,Mombasa Sub-Location_Eastern,-1.7058,37.9109,3,0
+Kenya,Mtongwe_Coast,-4.0558,39.6442,3,0
+Kenya,Nairobi,-1.189,37.1777,3,0
+Kenya,Nairobi_Nairobi Area,-1.2723,36.8277,3,0
+Kenya,Nairobi_Central,-0.389,37.0277,3,0
+Kenya,Nairobi_Nyanza,-1.1223,34.561,3,0
+Kenya,Nairobi Airport_Nairobi Area,-1.3057,36.9443,3,0
+Kenya,Nairobi Area,-1.2723,36.8443,3,0
+Kenya,Nairobi Dam_Nairobi Area,-1.3057,36.811,3,0
+Kenya,Nairobi Falls,-1.189,37.0777,3,0
+Kenya,Nairobi Hill_Nairobi Area,-1.289,36.8277,3,0
+Kenya,Nairobi Industrial Area_Nairobi Area,-1.289,36.8443,3,0
+Kenya,Nairobi National Park_Nairobi Area,-1.3557,36.8443,3,0
+Kenya,Nairobi South_Nairobi Area,-1.3057,36.8443,3,0
+Kenya,Nakuru_Rift Valley,-0.2723,36.0777,3,0
+Kenya,Nanyuki_Rift Valley,1.3443,36.6943,3,0
+Kenya,Nanyuki Tarn_Central,-0.139,37.311,3,0
+Kenya,Qarari_North-Eastern,3.528,40.5946,3,0
+Kenya,Queens Cave_Central,-0.472,36.7113,3,0
+Kenya,Quf Tika,3.5113,39.628,3,0
+Kenya,Quuyapet_Rift Valley,3.3113,35.078,3,0
+Kenya,Vanga_Coast,-4.6382,39.2285,3,0
+Kenya,Vasco da Gama Pillar_Coast,-3.2049,40.1451,3,0
+Kenya,Vee_Central,-1.0549,37.0285,3,0
+Kenya,Venjo_Nyanza,-0.8549,34.6951,3,0
+Kenya,Verwesu_Coast,-4.4882,39.3951,3,0
+Kenya,Vifanjoni_Coast,-3.9382,39.6451,3,0
+Kenya,Vikinduni_Coast,-4.2382,39.1618,3,0
+Kenya,Vilima Viwili_Coast,-3.5715,37.8118,3,0
+Kenya,Vilivili_Rift Valley,0.7785,34.8285,3,0
+Kenya,Vinda_Eastern,-1.1882,38.1285,3,0
+Kenya,Vinuni_Coast,-4.1715,39.5451,3,0
+Kenya,Vinyunduni_Coast,-3.9382,39.1451,3,0
+Kenya,Viratsi,0.1654,34.3165,3,0
+Kenya,Virembe_Western,0.2451,34.8618,3,0
+Kenya,Visiru_Western,0.0785,34.7118,3,0
+Kenya,Vitengeni_Coast,-3.3549,39.7285,3,0
+Kenya,Vivienne Falls_Eastern,-0.1215,37.3785,3,0
+Kenya,Vivini_Coast,-4.4549,39.3618,3,0
+Kenya,Viyalo_Western,0.1285,34.7118,3,0
+Kenya,Vohovole_Western,0.1285,34.7951,3,0
+Kenya,Voi_Coast,-3.3715,38.5785,3,0
+Kenya,Voi Sisal Estates_Coast,-3.3715,38.5951,3,0
+Kenya,Voo_Eastern,-1.6549,38.3451,3,0
+Kenya,Voo Location_Eastern,-1.6215,38.2618,3,0
+Kenya,Vuka_Coast,-1.8382,41.3951,3,0
+Kenya,Vulueni_Eastern,-1.9715,37.4285,3,0
+Kenya,Vumale_Western,0.0951,34.7285,3,0
+Kenya,Vumirirani_Coast,-4.0882,39.6451,3,0
+Kenya,Vuria_Coast,-3.4049,38.3118,3,0
+Kenya,Vyoga Dam_Coast,-3.7715,39.2785,3,0
+Kenya,Vyulya_Eastern,-1.4382,37.3951,3,0
+Kenya,Vyulya Sub-Location_Eastern,-1.4215,37.3951,3,0
+Kenya,Wajir_North-Eastern,1.7119,40.0286,3,0
+Kenya,Wajir Bor_North-Eastern,1.7619,40.5452,3,0
+Kenya,Wajir District_North-Eastern,1.7619,40.2619,3,0
+Kenya,Zacharia_Nyanza,-0.6211,34.8455,3,0
+Kenya,Zagatisi_Coast,-3.6545,38.5455,3,0
+Kenya,Zaikone_Eastern,-1.4545,37.3289,3,0
+Kenya,Zaina_Central,-0.4211,36.8622,3,0
+Kenya,Zakal_Rift Valley,0.0789,36.1289,3,0
+Kenya,Zambani_Eastern,-1.4045,38.0622,3,0
+Kenya,Zangani_Eastern,-0.8211,37.5122,3,0
+Kenya,Zare_Coast,-3.4878,38.3289,3,0
+Kenya,Zawadi_Rift Valley,0.1622,36.8622,3,0
+Kenya,Zawadi Estate_Central,-0.3878,36.9955,3,0
+Kenya,Zebra_Coast,-2.9711,38.2289,3,0
+Kenya,Zesi_Eastern,-1.7211,37.3289,3,0
+Kenya,Zesi Sub-Surface Dam_Eastern,-1.7045,37.3122,3,0
+Kenya,Zhongwani Sub-Location_Coast,-3.1211,39.9122,3,0
+Kenya,Ziani Sub-Location_Coast,-3.1711,39.5955,3,0
+Kenya,Zigira Sub-Location_Coast,-4.3545,39.4955,3,0
+Kenya,Zijituni_Coast,-2.3378,40.8289,3,0
+Kenya,Zinbout_Rift Valley,3.9955,34.4789,3,0
+Kenya,Zingout Hills_Rift Valley,4.0122,34.4289,3,0
+Kenya,Zingu_Eastern,-1.4045,38.5289,3,0
+Kenya,Ziwa la Gambi_Coast,-2.1711,40.4622,3,0
+Kenya,Ziwa la Junja_Coast,-2.0711,40.7789,3,0
+Kenya,Ziwa la Kibokoni_Coast,-2.1711,40.7622,3,0
+Kenya,Ziwa la Kombe_Coast,-2.2878,40.5789,3,0
+Kenya,Ziwa la Kongolola_Coast,-2.4378,40.1955,3,0
+Kenya,Ziwa la Kuta_Coast,-2.4878,40.2455,3,0
+Kenya,Ziwa la Maskiti_Coast,-2.4378,40.6455,3,0
+Kenya,Ziwa la Mkuni_Coast,-2.3711,40.5455,3,0
+Kenya,Ziwa la Munyu_Coast,-2.2045,40.8622,3,0
+Kenya,Ziwa la Muu_Coast,-2.4211,40.6789,3,0
+Kenya,Ziwa la Roka_Coast,-2.0545,40.7289,3,0
+Kenya,Ziwa la Shalu_Coast,-2.1211,40.4622,3,0
+Kenya,Ziwa Limited_Rift Valley,0.8122,35.2122,3,0
+Kenya,Ziwa Msaba_Coast,-2.3045,40.7122,3,0
+Kenya,Ziwala Malindi_Coast,-2.1878,40.8455,3,0
+Kenya,Ziwani_Coast,-4.2378,39.3622,3,0
+Kenya,Ziwani Sisal Estates_Coast,-3.2711,37.7622,3,0
+Kenya,Ziwani Swamp_Coast,-3.2545,37.7955,3,0
+Kenya,Ziwayu Island_Coast,-2.5878,40.5955,3,0
+Kenya,Zombe_Eastern,-0.9878,38.2289,3,0
+Kenya,Zombi_Eastern,-1.4378,38.2455,3,0
+Kenya,Zombo_Coast,-4.4211,39.2289,3,0
+Kenya,Zubaki_Coast,-1.4878,40.0622,3,0
+Kenya,Zulia_Rift Valley,4.1289,34.0789,3,0
+Kenya,Zuti_Central,-0.5045,36.9789,3,0

@@ -1,0 +1,106 @@
+Slovenia,Aidussina,45.8972,13.9208,1,0
+Slovenia,Ajba,46.1147,13.6558,1,0
+Slovenia,Ajdovscina,45.9166,13.9383,1,0
+Slovenia,Also-Bisztricze,46.5497,16.2983,1,0
+Slovenia,Antignano,45.5719,13.8447,1,0
+Slovenia,Artice,45.9636,15.5975,1,0
+Slovenia,Artuise,45.6225,14.0403,1,0
+Slovenia,Auzza,46.1105,13.67,1,0
+Slovenia,Azenski Vrh,46.6597,15.9764,1,0
+Slovenia,Bledsko Jezero,46.3737,14.1067,1,0
+Slovenia,Elsane,45.5129,14.2818,1,0
+Slovenia,Equile Lipizzano,45.6773,13.8926,1,0
+Slovenia,Eriacci,45.5998,14.1101,1,0
+Slovenia,Erjavceva Koca,46.4415,13.752,1,0
+Slovenia,Erjavec,46.4023,14.8162,1,0
+Slovenia,Ermanovec,46.1137,14.0748,1,0
+Slovenia,Erpelle,45.6173,13.9529,1,0
+Slovenia,Erzelj,45.8429,13.9204,1,0
+Slovenia,Faal,46.5541,15.4574,1,0
+Slovenia,Fara,45.4869,14.8885,1,0
+Slovenia,Fazan,45.5163,13.6058,1,0
+Slovenia,Feistritz Bach,46.6102,15.1769,1,0
+Slovenia,Felsobesztercze,46.5769,16.2769,1,0
+Slovenia,Felsolakos,46.5633,16.4283,1,0
+Slovenia,Felsolendva,46.8102,16.1102,1,0
+Slovenia,Fijesa,45.5346,13.5919,1,0
+Slovenia,Fleana,46.0066,13.511,1,0
+Slovenia,Ianezevo Brdo,45.6188,14.1627,1,0
+Slovenia,Idresca d Isonzo,46.2422,13.6013,1,0
+Slovenia,Idria della Baccia,46.1505,13.7902,1,0
+Slovenia,Idrija,46.1552,13.7783,1,0
+Slovenia,Idrijski Log,45.9633,14.0436,1,0
+Slovenia,Ig-Studenec,45.9708,14.5394,1,0
+Slovenia,Iljasevci,46.5849,16.1411,1,0
+Slovenia,Imeno,46.1424,15.6122,1,0
+Slovenia,Irje,46.2605,15.6438,1,0
+Slovenia,Iska,45.9344,14.5202,1,0
+Slovenia,Iska Vas,45.9505,14.5205,1,0
+Slovenia,Ivancna Gorica,45.9488,14.8149,1,0
+Slovenia,Ivanfalva,46.6808,16.1086,1,0
+Slovenia,Ivanje Selo,45.8452,14.3088,1,0
+Slovenia,Ivanjsevski Vrh,46.6313,15.9744,1,0
+Slovenia,Izica,46.0272,14.5272,1,0
+Slovenia,Izlake,46.1605,14.9605,1,0
+Slovenia,Izola,45.5474,13.6724,1,0
+Slovenia,Izsakocz,46.5994,16.2316,1,0
+Slovenia,Izvir,45.8605,15.5605,1,0
+Slovenia,Jesenice,45.9828,15.1495,1,0
+Slovenia,Kocevje,45.641,14.9176,1,0
+Slovenia,Kranj,46.2518,14.3724,1,0
+Slovenia,Ljubljana,46.2386,14.4669,1,0
+Slovenia,Ljubljana Marsh,45.9936,14.4547,1,0
+Slovenia,Ljubljana-Bezigrad,46.0941,14.5441,1,0
+Slovenia,Ljubljana-Center,46.0608,14.5441,1,0
+Slovenia,Ljubljana-Moste-Polje,46.0775,14.6275,1,0
+Slovenia,Ljubljana-Polje,46.0775,14.5941,1,0
+Slovenia,Ljubljana-Siska,46.1775,14.4441,1,0
+Slovenia,Ljubljana-Vic-Rudnik,46.0441,14.4275,1,0
+Slovenia,Maribor,46.5656,15.6576,1,0
+Slovenia,Maribor-Pobrezje_Duplek,46.5265,15.7809,1,0
+Slovenia,Maribor-Tabor,46.5173,15.6187,1,0
+Slovenia,Nova Gorica,45.9724,13.6546,1,0
+Slovenia,Polzela,46.2945,15.0779,1,0
+Slovenia,Rakitnik,45.7583,14.2056,1,0
+Slovenia,Republika Slovenija,46.2614,15.1781,1,0
+Slovenia,Trzic,46.3958,14.3352,1,0
+Slovenia,Udje,45.9381,14.617,1,0
+Slovenia,Uhk,46.1823,14.5214,1,0
+Slovenia,Ujkokenyes,46.7784,16.2117,1,0
+Slovenia,Ujtolgyes,46.6839,16.2203,1,0
+Slovenia,Ulaka,45.8423,14.6295,1,0
+Slovenia,Unec,45.8273,14.3056,1,0
+Slovenia,Unter Feising,46.6117,15.2617,1,0
+Slovenia,Unter-Drauburg,46.5998,15.0309,1,0
+Slovenia,Unter-Limbach,46.5731,16.4623,1,0
+Slovenia,Unteridria,46.0436,14.0389,1,0
+Slovenia,Unz,45.8803,14.2664,1,0
+Slovenia,Urabtsche,45.7881,13.9711,1,0
+Slovenia,Urdomb,46.745,16.2784,1,0
+Slovenia,Urh,46.0617,14.595,1,0
+Slovenia,Uriszek,46.7748,16.2523,1,0
+Slovenia,Ursina,46.2367,13.6614,1,0
+Slovenia,Ursna Sela,45.745,15.145,1,0
+Slovenia,Ursula Berg,46.495,14.9784,1,0
+Slovenia,Usklopec,45.8284,15.6617,1,0
+Slovenia,Uskoken Gebirge,45.7617,15.345,1,0
+Slovenia,Ustje,45.8836,13.9059,1,0
+Slovenia,Uttoglie,45.7656,13.895,1,0
+Slovenia,Uvala Dragonja,45.495,13.595,1,0
+Slovenia,Uvala Fisine,45.5175,13.6073,1,0
+Slovenia,Velenje,46.371,15.1221,1,0
+Slovenia,Wach-Berg,46.0786,15.4452,1,0
+Slovenia,Weitenstein,46.3936,15.3077,1,0
+Slovenia,Weixelburg,45.9658,14.7572,1,0
+Slovenia,Widem,46.583,16.0352,1,0
+Slovenia,Wigaun,45.83,14.3941,1,0
+Slovenia,Windisch-Feistritz,46.4047,15.5863,1,0
+Slovenia,Windische Buheln,46.5952,15.9286,1,0
+Slovenia,Windischgraz,46.5222,15.0925,1,0
+Slovenia,Wochein,46.3452,14.0952,1,0
+Slovenia,Wochein Feistritz,46.2888,13.9669,1,0
+Slovenia,Woditz,46.2119,14.5119,1,0
+Slovenia,Woiska,46.0369,13.9186,1,0
+Slovenia,Woschza,46.5119,13.8286,1,0
+Slovenia,Wuchern,46.6066,15.2494,1,0
+Slovenia,Wurzener Save,46.3619,14.1619,1,0

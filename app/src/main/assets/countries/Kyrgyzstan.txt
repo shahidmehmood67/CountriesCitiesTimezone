@@ -1,0 +1,248 @@
+Kyrgyzstan,Arasan,42.5764,78.3097,6,0
+Kyrgyzstan,Bishkek,42.8829,74.6101,6,0
+Kyrgyzstan,Bishkek Shaary_Bishkek,42.9098,74.6098,6,0
+Kyrgyzstan,Ebenfel d,42.8101,75.0268,6,0
+Kyrgyzstan,Egilik,42.7601,77.7601,6,0
+Kyrgyzstan,Ekachat,41.6101,75.0268,6,0
+Kyrgyzstan,Elektor,42.1768,75.9268,6,0
+Kyrgyzstan,Emgektala_Naryn,41.4001,75.6148,6,0
+Kyrgyzstan,Emir-Kul,40.8934,73.7101,6,0
+Kyrgyzstan,Engil chek,42.0601,79.0934,6,0
+Kyrgyzstan,Entek-chil_Naryn,41.5654,75.9818,6,0
+Kyrgyzstan,Epkin,42.1768,75.4268,6,0
+Kyrgyzstan,Erke-Kashka,40.4934,72.4934,6,0
+Kyrgyzstan,Erkintoo,40.4601,73.3101,6,0
+Kyrgyzstan,Eshsay,41.6934,72.5101,6,0
+Kyrgyzstan,Eski-Nookat,40.2768,72.6101,6,0
+Kyrgyzstan,Ferghan Mountains,41.0102,74.0102,6,0
+Kyrgyzstan,Fol baumka,42.7602,78.1269,6,0
+Kyrgyzstan,Frunze,42.7769,78.1935,6,0
+Kyrgyzstan,Frunzenskiy Rayon,40.0102,71.5935,6,0
+Kyrgyzstan,Frunzenskoye,40.1435,71.7269,6,0
+Kyrgyzstan,Hsin-t eng-ko-li Feng,42.0468,80.1262,6,0
+Kyrgyzstan,Ichkebash,41.6272,75.9105,6,0
+Kyrgyzstan,Ichkedzherges,42.5772,78.7105,6,0
+Kyrgyzstan,Ichkele-Tash,42.3605,79.3772,6,0
+Kyrgyzstan,Ichkesu,41.3105,74.9272,6,0
+Kyrgyzstan,Ichkili-Su,40.3938,73.9438,6,0
+Kyrgyzstan,Ikazyak,39.7438,73.7938,6,0
+Kyrgyzstan,Iki-Chat,42.0272,78.8938,6,0
+Kyrgyzstan,Il chibay,42.7272,78.5605,6,0
+Kyrgyzstan,Imeni Budennova,40.1605,73.4605,6,0
+Kyrgyzstan,Imeni Chkalova,41.7938,72.9605,6,0
+Kyrgyzstan,Imeni Fedorova,40.2105,73.5438,6,0
+Kyrgyzstan,Imeni Frunze,41.6605,72.6772,6,0
+Kyrgyzstan,Imeni Il icha,42.7772,75.9772,6,0
+Kyrgyzstan,Imeni Kalinina,40.8272,73.4938,6,0
+Kyrgyzstan,Imeni Kirova,41.3438,72.1772,6,0
+Kyrgyzstan,Imeni Kuybysheva_Naryn,41.5211,75.8649,6,0
+Kyrgyzstan,Imeni Molotova,40.8938,73.5105,6,0
+Kyrgyzstan,Imeni Pervogo Maya,41.8438,73.0105,6,0
+Kyrgyzstan,Imeni Vecheki,42.7438,78.4272,6,0
+Kyrgyzstan,Imeni Voroshilova,42.3272,76.4272,6,0
+Kyrgyzstan,In-Tyur,42.3105,78.6605,6,0
+Kyrgyzstan,Internatsional,40.5647,72.8872,6,0
+Kyrgyzstan,Irdyk,42.4605,78.3105,6,0
+Kyrgyzstan,Irgesh,40.1938,73.6105,6,0
+Kyrgyzstan,Iri-Dzhilga,42.6105,79.3438,6,0
+Kyrgyzstan,Iri-Su,40.4272,73.3438,6,0
+Kyrgyzstan,Irisu,40.4938,73.4272,6,0
+Kyrgyzstan,Irkishtam,39.6938,73.9272,6,0
+Kyrgyzstan,Irtash,41.8938,78.5772,6,0
+Kyrgyzstan,Isfana,39.8438,69.5272,6,0
+Kyrgyzstan,Ishan-Bulak,42.8605,77.3272,6,0
+Kyrgyzstan,Ishma,40.5938,73.0272,6,0
+Kyrgyzstan,Ishtok Pass,41.5938,78.1772,6,0
+Kyrgyzstan,Issok-ata Pass,42.4272,74.8105,6,0
+Kyrgyzstan,Issyk-Kul skiy Zapovednik,42.3877,77.2583,6,0
+Kyrgyzstan,Issykata,42.6605,75.0605,6,0
+Kyrgyzstan,Itagar,41.6438,71.8772,6,0
+Kyrgyzstan,Ivano-Alekseyevka,42.5272,72.2438,6,0
+Kyrgyzstan,Ivanovka_Chuy,42.8983,75.0944,6,0
+Kyrgyzstan,Izym-Bay,40.9105,73.7772,6,0
+Kyrgyzstan,Jalal-Abad,40.9439,73.0106,6,0
+Kyrgyzstan,Jamantau Mountains,40.9273,74.5939,6,0
+Kyrgyzstan,Jan-Bulak_Naryn,41.4467,75.7442,6,0
+Kyrgyzstan,Janart Pass,41.6773,78.8439,6,0
+Kyrgyzstan,Jangy Kanaly_(KG05,40.515,72.6695,6,0
+Kyrgyzstan,Jangy-Jer,39.6773,72.2773,6,0
+Kyrgyzstan,Jangy-Jer_Naryn,41.3262,76.6806,6,0
+Kyrgyzstan,Jangy-Kyshtak_(KG05,40.5475,72.7873,6,0
+Kyrgyzstan,Jangy-Talap_Naryn,41.4612,75.0248,6,0
+Kyrgyzstan,Japalak,40.5034,72.7748,6,0
+Kyrgyzstan,Jar,39.9773,69.3773,6,0
+Kyrgyzstan,Jergeto_Naryn,41.5809,75.7975,6,0
+Kyrgyzstan,Jeryuy-bashi Pass,42.1773,72.7606,6,0
+Kyrgyzstan,Jeto-Oguz,42.4439,78.2106,6,0
+Kyrgyzstan,Jety-Oguz,42.5106,78.0773,6,0
+Kyrgyzstan,Jida,40.3106,72.4439,6,0
+Kyrgyzstan,Jiptok Pass,39.8439,72.9606,6,0
+Kyrgyzstan,Jirgital,41.1106,73.2273,6,0
+Kyrgyzstan,Jitom Mountains,41.5939,77.0106,6,0
+Kyrgyzstan,Joon-Aryk_Naryn,41.992,75.7303,6,0
+Kyrgyzstan,Jumgol-tau Mountains,42.2606,74.3439,6,0
+Kyrgyzstan,Jusaly,40.3273,73.4273,6,0
+Kyrgyzstan,Kashgar,40.6315,72.8413,6,0
+Kyrgyzstan,Lake Issok-Kul_Ysyk-Kol,42.4275,77.2608,6,0
+Kyrgyzstan,Lake Sok Kul_Naryn,41.85,75.1552,6,0
+Kyrgyzstan,Lay-Tala,40.6108,73.6275,6,0
+Kyrgyzstan,Laylysu,41.4775,75.5275,6,0
+Kyrgyzstan,Lebedinovka_Bishkek,42.8911,74.6914,6,0
+Kyrgyzstan,Lednik Aksu,42.8441,77.1275,6,0
+Kyrgyzstan,Lednik Aylyamma,42.0441,78.7441,6,0
+Kyrgyzstan,Lednik Engil chek,42.3441,80.0108,6,0
+Kyrgyzstan,Lednik Kaindy,42.0941,79.6775,6,0
+Kyrgyzstan,Lednik Kan-Dzhaylyau,42.1441,79.5775,6,0
+Kyrgyzstan,Lednik Kay-Kap,41.9275,79.6775,6,0
+Kyrgyzstan,Lednik Kolpakovskogo,42.0941,78.2941,6,0
+Kyrgyzstan,Lednik Korzhenevskogo,39.4275,73.0608,6,0
+Kyrgyzstan,Lednik Lenina,39.4108,72.8941,6,0
+Kyrgyzstan,Lednik Mushketova,42.3108,79.9275,6,0
+Kyrgyzstan,Lednik Petrova,41.9108,78.3108,6,0
+Kyrgyzstan,Lednik Semenova,42.3775,79.9608,6,0
+Kyrgyzstan,Lednik Severnyy Inyl chek,42.2608,79.9941,6,0
+Kyrgyzstan,Lednik Yuzhnyy Inyl chek,42.1775,80.0108,6,0
+Kyrgyzstan,Lenin-Dzhol,41.0775,72.6441,6,0
+Kyrgyzstan,Leninpol,42.4941,71.9275,6,0
+Kyrgyzstan,Leninskoye_Bishkek,42.9711,74.6664,6,0
+Kyrgyzstan,Limbur,40.0775,71.1108,6,0
+Kyrgyzstan,Lipenskoye,42.5441,78.2108,6,0
+Kyrgyzstan,Lizogubovka,42.6775,78.8441,6,0
+Kyrgyzstan,Lugovoye,42.7775,78.2775,6,0
+Kyrgyzstan,Lyaglyan,40.3275,73.1108,6,0
+Kyrgyzstan,Lyangar,39.8108,72.0941,6,0
+Kyrgyzstan,Lyaylyak,39.9108,69.9275,6,0
+Kyrgyzstan,Lyaylyakskiy Rayon,39.8441,69.7608,6,0
+Kyrgyzstan,Lyublino,41.1608,73.2941,6,0
+Kyrgyzstan,Naiza,41.5943,70.3943,6,0
+Kyrgyzstan,Nariman,40.5652,72.8021,6,0
+Kyrgyzstan,Naron_Naryn,41.441,76.011,6,0
+Kyrgyzstan,Naryn_Jalal-Abad,41.3568,72.221,6,0
+Kyrgyzstan,Naryn Oblasty_Naryn,41.4443,75.9777,6,0
+Kyrgyzstan,Narynskaya Dolina,41.4277,76.011,6,0
+Kyrgyzstan,Narynskiy Rayon,41.5943,76.3443,6,0
+Kyrgyzstan,Naukatskiy Rayon,40.1777,72.761,6,0
+Kyrgyzstan,Naukent,41.061,72.5777,6,0
+Kyrgyzstan,Nayman,40.2943,72.3443,6,0
+Kyrgyzstan,Nazar-Makhram,40.6777,72.0777,6,0
+Kyrgyzstan,Nazyk,39.961,73.4777,6,0
+Kyrgyzstan,Nichka-Say,40.7777,73.611,6,0
+Kyrgyzstan,Nichke-Bel,39.561,73.361,6,0
+Kyrgyzstan,Nichke-Say,41.8277,73.0443,6,0
+Kyrgyzstan,Nikolayevskoye,42.711,78.311,6,0
+Kyrgyzstan,Niyaz,41.0277,72.961,6,0
+Kyrgyzstan,Nizhniy Norus_Bishkek,42.9346,74.7543,6,0
+Kyrgyzstan,Nizhniy Orok_Bishkek,42.8193,74.5468,6,0
+Kyrgyzstan,Nizhnyaya Ala-Archa_Bishkek,42.9299,74.5785,6,0
+Kyrgyzstan,Nookenskiy Rayon,41.261,72.5943,6,0
+Kyrgyzstan,Nora-Mau,41.6277,76.0943,6,0
+Kyrgyzstan,Noruskel,39.6277,72.3443,6,0
+Kyrgyzstan,Nov Pokrovka_Ysyk-Kol,42.3518,78.0091,6,0
+Kyrgyzstan,Novo-Mikhaylovka,42.8277,75.5443,6,0
+Kyrgyzstan,Novokonstantinovka,42.561,78.6777,6,0
+Kyrgyzstan,Novopavlovka_Bishkek,42.8816,74.4977,6,0
+Kyrgyzstan,Novopokrovka_Bishkek,42.8768,74.7471,6,0
+Kyrgyzstan,Novorossiyka_Ysyk-Kol,42.746,76.0902,6,0
+Kyrgyzstan,Novovoznesenovka,42.611,78.7443,6,0
+Kyrgyzstan,Noygut,40.0277,71.2277,6,0
+Kyrgyzstan,Nura,39.711,73.9277,6,0
+Kyrgyzstan,Osh_(KG05,40.5405,72.8011,6,0
+Kyrgyzstan,Osh,40.0111,73.0111,6,0
+Kyrgyzstan,Qaichi-davan,41.5946,78.828,6,0
+Kyrgyzstan,Qullai Lenin,39.3446,72.928,6,0
+Kyrgyzstan,Radinan,40.2781,72.1114,6,0
+Kyrgyzstan,Raut,39.7614,70.9281,6,0
+Kyrgyzstan,Ravat,39.9114,70.2114,6,0
+Kyrgyzstan,Razdol noye,42.6281,78.7447,6,0
+Kyrgyzstan,Razvaliny Dzhangy-Telek_Naryn,41.3633,75.1858,6,0
+Kyrgyzstan,Razvaliny Tuyamuyun,40.3664,72.5953,6,0
+Kyrgyzstan,Reka Ak-Say_Naryn,40.9003,76.61,6,0
+Kyrgyzstan,Reka Saty,42.7614,78.3447,6,0
+Kyrgyzstan,Renzhit,41.4114,71.8614,6,0
+Kyrgyzstan,Resha,42.1947,79.5281,6,0
+Kyrgyzstan,Rodnik Al cha-Bulak,40.8447,73.0781,6,0
+Kyrgyzstan,Rodnik Dzhida-Bulak,40.7114,73.3447,6,0
+Kyrgyzstan,Rodnik Sugat,40.6947,73.3447,6,0
+Kyrgyzstan,Romanovka,42.4781,71.9614,6,0
+Kyrgyzstan,Romanovskoye,42.8781,74.3447,6,0
+Kyrgyzstan,Rybach ye,42.4447,76.2114,6,0
+Kyrgyzstan,Rybpunkt_Ysyk-Kol,42.3808,77.9067,6,0
+Kyrgyzstan,Uch-Chat,41.795,79.2117,6,0
+Kyrgyzstan,Uch-shat-Pass,41.9284,79.345,6,0
+Kyrgyzstan,Uch-Tyube,39.9284,73.445,6,0
+Kyrgyzstan,Uchemchek_Ysyk-Kol,41.8798,77.0592,6,0
+Kyrgyzstan,Ukok_Naryn,42.2398,75.7853,6,0
+Kyrgyzstan,Ularly,39.895,72.6617,6,0
+Kyrgyzstan,Upa,40.8117,73.945,6,0
+Kyrgyzstan,Urta-Kyzyl,40.3117,72.6617,6,0
+Kyrgyzstan,Uyun-Tyur,42.3117,78.495,6,0
+Kyrgyzstan,Uyunkur,41.6617,73.1784,6,0
+Kyrgyzstan,Uzgorysh,41.4284,75.395,6,0
+Kyrgyzstan,Uzunbulak,42.145,75.2784,6,0
+Kyrgyzstan,Valyakish,40.2118,72.0951,6,0
+Kyrgyzstan,Vapalak-Tash,40.6285,73.4285,6,0
+Kyrgyzstan,Verkhne-Pokrovskoye,40.7118,73.1618,6,0
+Kyrgyzstan,Verkhniy Orok_Bishkek,42.8129,74.5351,6,0
+Kyrgyzstan,Verkhnyaya Alaarcha,42.7451,74.5285,6,0
+Kyrgyzstan,Vesheke,42.8118,75.8118,6,0
+Kyrgyzstan,Vidana,40.2285,72.9951,6,0
+Kyrgyzstan,Vladimirovka,42.5451,71.9118,6,0
+Kyrgyzstan,Vorontsovskoye,42.7285,74.5951,6,0
+Kyrgyzstan,Voroshilovskiy Rayon,42.7618,74.8451,6,0
+Kyrgyzstan,Voroshilovskoye_Bishkek,42.9087,74.6465,6,0
+Kyrgyzstan,Vos moye Marta_Naryn,41.4682,75.4162,6,0
+Kyrgyzstan,Vostochny Karakol_Naryn,42.216,75.259,6,0
+Kyrgyzstan,Vostochnyy,39.9285,69.6618,6,0
+Kyrgyzstan,Vostochnyy Seok_Naryn,42.2137,75.2585,6,0
+Kyrgyzstan,Vostok_Bishkek,42.911,74.6857,6,0
+Kyrgyzstan,Voyenno-Antonovskoye,42.8785,74.4118,6,0
+Kyrgyzstan,Vozhesenskoye,42.8451,73.8285,6,0
+Kyrgyzstan,Vurkhan_Ysyk-Kol,41.7665,77.0121,6,0
+Kyrgyzstan,Vzengegush,41.2385,78.1324,6,0
+Kyrgyzstan,Yaklikuchar-Say,41.0621,72.5288,6,0
+Kyrgyzstan,Yalgiz-Alcha,40.7954,73.6288,6,0
+Kyrgyzstan,Yalgyz-Yangak,41.1121,73.1954,6,0
+Kyrgyzstan,Yaman-Ail,41.0454,72.9788,6,0
+Kyrgyzstan,Yaman-Kyrchin,39.6288,72.6288,6,0
+Kyrgyzstan,Yan-Atyr,42.8454,76.3788,6,0
+Kyrgyzstan,Yanabadam,41.1288,72.7954,6,0
+Kyrgyzstan,Yangi-Aryk,40.4621,72.8454,6,0
+Kyrgyzstan,Yangi-Dzhol,41.8788,74.4621,6,0
+Kyrgyzstan,Yangi-Naukat,40.2621,72.5621,6,0
+Kyrgyzstan,Yangiturmysh_Jalal-Abad,41.8563,72.7643,6,0
+Kyrgyzstan,Yar-Kurgan,40.2621,72.8454,6,0
+Kyrgyzstan,Yartash,40.3454,72.6788,6,0
+Kyrgyzstan,Yaryktash,41.8454,72.0788,6,0
+Kyrgyzstan,Yash,40.1121,72.4788,6,0
+Kyrgyzstan,Yasso,40.7954,73.1454,6,0
+Kyrgyzstan,Yengi-Bazar,41.6788,70.8954,6,0
+Kyrgyzstan,Yerish,41.4288,72.3788,6,0
+Kyrgyzstan,Yeshki-Su,42.7621,78.4288,6,0
+Kyrgyzstan,Yshtyk_Ysyk-Kol,41.6138,78.2974,6,0
+Kyrgyzstan,Ysyk-Kol,42.4732,76.1924,6,0
+Kyrgyzstan,Ysyk-Kol Oblasty_Ysyk-Kol,42.0121,78.0121,6,0
+Kyrgyzstan,Yur evka_Chuy,42.7257,75.0482,6,0
+Kyrgyzstan,Zaalayskiy Khrebet,39.3455,72.5122,6,0
+Kyrgyzstan,Zaliv Pokrovskiy_Ysyk-Kol,42.398,77.8728,6,0
+Kyrgyzstan,Zaliv Przheval skogo,42.5955,78.1789,6,0
+Kyrgyzstan,Zaliv Tong_Ysyk-Kol,42.2022,76.9478,6,0
+Kyrgyzstan,Zaliv Tyup,42.7622,78.2789,6,0
+Kyrgyzstan,Zaliv Yurduk-Udzhar,42.2789,76.7122,6,0
+Kyrgyzstan,Zaluke-Dzhuka,42.3789,77.8955,6,0
+Kyrgyzstan,Zapadnoy Karakol,42.1455,74.0955,6,0
+Kyrgyzstan,Zar-Tash_Batken,40.2711,71.0411,6,0
+Kyrgyzstan,Zardale,39.6622,70.9622,6,0
+Kyrgyzstan,Zerger,40.8455,73.4122,6,0
+Kyrgyzstan,Zhalamysh,42.6789,74.3289,6,0
+Kyrgyzstan,Zhaman-Almaty,42.9289,76.9622,6,0
+Kyrgyzstan,Zhandy-Su,42.8955,76.6955,6,0
+Kyrgyzstan,Zharkynbayevo_Ysyk-Kol,42.7519,77.758,6,0
+Kyrgyzstan,Zhel -Karagay,42.8789,77.5122,6,0
+Kyrgyzstan,Zhel -Kil dek,42.7289,75.6455,6,0
+Kyrgyzstan,Zhuunu_Ysyk-Kol,42.2253,77.9816,6,0
+Kyrgyzstan,Zimovka Iskandera_Chuy,42.7528,75.9086,6,0
+Kyrgyzstan,Zimovka Kara-Bulak,41.1789,73.2455,6,0
+Kyrgyzstan,Zimovka Kulyugen,41.1289,72.7122,6,0
+Kyrgyzstan,Zindan,41.3622,73.1955,6,0
+Kyrgyzstan,Zindan-Su,40.8789,73.6789,6,0
+Kyrgyzstan,Zor-Ayryk,39.4455,72.1289,6,0

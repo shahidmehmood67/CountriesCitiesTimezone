@@ -1,0 +1,68 @@
+Viet Nam,An Giang 4_VM27,14.3597,109.1097,7,0
+Viet Nam,Cam Ranh_Khanh Hoa,11.9099,109.2266,7,0
+Viet Nam,Chau Doc_An Giang,10.7099,105.1266,7,0
+Viet Nam,Da Nang_VM17,21.7267,105.36,7,0
+Viet Nam,Da Nang_VM04,17.8267,105.91,7,0
+Viet Nam,Da Nang,16.0778,108.2308,7,0
+Viet Nam,Faifo_VM29,15.8894,108.4016,7,0
+Viet Nam,Fanthit Bay_VM36,10.8935,108.0935,7,0
+Viet Nam,Fantiet_Binh Thuan,10.9435,108.1102,7,0
+Viet Nam,Fausse Poulo Obi_Ca Mau,8.9602,104.5269,7,0
+Viet Nam,Fleuve du Cambodge,10.2102,106.7935,7,0
+Viet Nam,Fleuve Rouge,20.2935,106.5769,7,0
+Viet Nam,Fort de Rach Cat_Long An,10.5102,106.7269,7,0
+Viet Nam,Foukar_VM40,11.4769,107.0935,7,0
+Viet Nam,Fu Kho Luong_Lai Chau,22.5935,103.4769,7,0
+Viet Nam,Fukwok_Kien Giang,10.2102,104.0102,7,0
+Viet Nam,Futim_Thanh Hoa,19.9769,105.5435,7,0
+Viet Nam,Hanoi_Ha Noi,21.0437,105.8604,7,0
+Viet Nam,Hanoi Bac Mai_VM15,20.9937,105.8437,7,0
+Viet Nam,Hanoi Municipality_Ha Noi,21.1271,105.8937,7,0
+Viet Nam,Ho Chi Minh City_Ho Chi Minh,10.7604,106.6771,7,0
+Viet Nam,Hue_Thua Thien-Hue,16.4771,107.6104,7,0
+Viet Nam,Jarai Plateau_VM10,13.9273,108.0939,7,0
+Viet Nam,Je Siaou Ping_VM17,22.6606,104.7439,7,0
+Viet Nam,Jilahho_VM29,15.8439,107.6273,7,0
+Viet Nam,Jin Jiang,21.9128,105.205,7,0
+Viet Nam,Jiring_Lam Dong,11.5939,108.0773,7,0
+Viet Nam,Ju Hoai_VM28,12.2439,108.7939,7,0
+Viet Nam,Ju Lomo_Lam Dong,11.7106,108.5273,7,0
+Viet Nam,Phan Rang_Ninh Thuan,11.5779,108.9945,7,0
+Viet Nam,Quan 1_Ho Chi Minh,10.7613,106.7113,7,0
+Viet Nam,Quan 3_Ho Chi Minh,10.7946,106.703,7,0
+Viet Nam,Quan 8_Ho Chi Minh,10.578,106.653,7,0
+Viet Nam,Quang Ai_VM11,21.078,106.178,7,0
+Viet Nam,Quang Ngai,15.128,108.8113,7,0
+Viet Nam,Sai Gon_Soc Trang,9.4896,106.1115,7,0
+Viet Nam,U Minh Forest,9.6284,105.195,7,0
+Viet Nam,Uat Luy_VM29,15.9059,108.2623,7,0
+Viet Nam,Uat Mau_VM04,16.595,107.545,7,0
+Viet Nam,Uc Gian_Hai Phong,20.7784,106.645,7,0
+Viet Nam,Uc Ky_VM02,21.4784,105.9617,7,0
+Viet Nam,Uc Ly_VM16,20.8617,105.8284,7,0
+Viet Nam,Uc Tai_VM12,20.795,106.4284,7,0
+Viet Nam,Ung Hoa Phu_VM16,20.745,105.795,7,0
+Viet Nam,Ung Mo_VM12,20.7784,106.3117,7,0
+Viet Nam,Uoc Le 1_VM26,18.6784,105.6284,7,0
+Viet Nam,Uoc Ngoai_Thanh Hoa,19.7117,105.8117,7,0
+Viet Nam,Uon Khu_Lang Son,21.595,107.1617,7,0
+Viet Nam,Uong Bi_Quang Ninh,21.045,106.795,7,0
+Viet Nam,Uy Vien_VM26,18.6784,105.7784,7,0
+Viet Nam,Uyen Binh_Tay Ninh,11.645,106.2784,7,0
+Viet Nam,Vung Tau_Ba Ria-Vung Tau,10.3618,107.0785,7,0
+Viet Nam,W. Kien_VM27,14.9786,108.4786,7,0
+Viet Nam,Wang Neu Sou_VM19,22.2952,103.9619,7,0
+Viet Nam,West Vaico,10.5119,106.5619,7,0
+Viet Nam,Wi Baise 1_VM27,15.0952,108.5619,7,0
+Viet Nam,Wi Blang_VM27,15.0786,108.4286,7,0
+Viet Nam,Wi Kalh_VM27,15.0286,108.5452,7,0
+Viet Nam,Wi Rao 2_VM27,14.9952,108.5619,7,0
+Viet Nam,Wikamou_VM10,14.9452,108.4786,7,0
+Viet Nam,Windjia_VM10,15.0286,108.3952,7,0
+Viet Nam,Zabiaka_Quang Ninh,21.2122,107.5789,7,0
+Viet Nam,Zao Po_VM02,15.6622,107.8455,7,0
+Viet Nam,Zia Rong 1_VM29,15.6622,107.8122,7,0
+Viet Nam,Zin Kia_VM02,22.2622,105.8622,7,0
+Viet Nam,Zom Khe Lo_VM04,17.1455,106.9789,7,0
+Viet Nam,Zuid-Chineesche Zee,15.0122,115.0122,7,0
+Viet Nam,Zuong Maa_VM11,21.4455,106.6955,7,0

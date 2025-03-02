@@ -1,0 +1,134 @@
+Finland,Cadhdhervarre,69.1843,28.8466,2,166
+Finland,Cape Mikonkari_Oulu Laani,64.4432,24.1099,2,159
+Finland,Caprera_Lansi-Suomen Laani,63.1266,21.5599,2,155
+Finland,Carelia,64.0099,32.0099,2,169
+Finland,Chelko_Etela-Suomen Laani,59.9266,23.8432,2,157
+Finland,Chelo_Lansi-Suomen Laani,60.2432,21.9766,2,153
+Finland,Cherk Fiord_Etela-Suomen Laani,60.0382,24.0249,2,157
+Finland,Cherkgorson_Ahvenanmaa,60.0432,20.8432,2,152
+Finland,Ekenas_Etela-Suomen Laani,59.9768,23.4601,2,156
+Finland,Espoo_Etela-Suomen Laani,60.2601,24.6768,2,158
+Finland,Espoonlahti_Etela-Suomen Laani,60.1751,24.587,2,158
+Finland,Forssa_Etela-Suomen Laani,60.7935,23.6102,2,157
+Finland,Hameenlinna_Etela-Suomen Laani,61.0104,24.4604,2,158
+Finland,Heinavesi_Ita-Suomen Laani,62.4271,28.7604,2,164
+Finland,Helsingen_Lansi-Suomen Laani,63.7771,22.6104,2,157
+Finland,Helsinki_Lansi-Suomen Laani,60.6104,21.4437,2,158
+Finland,Helsinki_Etela-Suomen Laani,60.186,24.9446,2,154
+Finland,Helsinki roadstead_Etela-Suomen Laani,60.1723,24.9987,2,158
+Finland,Huittinen_Lansi-Suomen Laani,61.1771,22.7604,2,156
+Finland,Hyvinkaa_Etela-Suomen Laani,60.6437,24.8437,2,158
+Finland,Imatra_Etela-Suomen Laani,61.1772,28.8438,2,164
+Finland,Jarvenpaa_Ita-Suomen Laani,62.2106,29.8106,2,166
+Finland,Jarvenpaa_Oulu Laani,65.8106,28.7773,2,165
+Finland,Jarvenpaa_Lappi,69.4439,28.8106,2,166
+Finland,Jarvenpaa_Etela-Suomen Laani,60.4773,25.0939,2,159
+Finland,Jarvenpaa_Lansi-Suomen Laani,62.7106,25.5606,2,160
+Finland,Joensuu_Lansi-Suomen Laani,62.0939,23.4106,2,156
+Finland,Joensuu_Etela-Suomen Laani,60.6606,23.9273,2,157
+Finland,Joensuu_Lappi,69.9439,28.0773,2,165
+Finland,Joensuu_Ita-Suomen Laani,62.5939,29.7606,2,166
+Finland,Joensuu_Oulu Laani,64.6773,27.1439,2,163
+Finland,Jurmu_Oulu Laani,65.5106,27.9773,2,164
+Finland,Jyvaskyla_Lansi-Suomen Laani,62.2606,25.7606,2,160
+Finland,Jyvaskylan Maalaiskunta_Lansi-Suomen Laani,62.2939,25.7273,2,160
+Finland,Jyvaskylan Pitaja_Lansi-Suomen Laani,62.2606,25.6773,2,160
+Finland,Kajaani_Oulu Laani,64.1774,27.6774,2,163
+Finland,Kajaani_Ita-Suomen Laani,61.8774,27.344,2,162
+Finland,Kajaaninjoki_Oulu Laani,64.2774,27.6607,2,164
+Finland,Karhula_Etela-Suomen Laani,60.5607,27.0107,2,161
+Finland,Karis_Etela-Suomen Laani,60.094,23.6774,2,156
+Finland,Kemi_Lappi,65.7607,24.594,2,160
+Finland,Kemteleenlahti_Oulu Laani,64.9774,25.444,2,161
+Finland,Kiviniemi_Oulu Laani,64.9607,25.544,2,161
+Finland,Kokkola_Lansi-Suomen Laani,63.844,23.094,2,157
+Finland,Kotka_Lansi-Suomen Laani,63.8107,23.3774,2,158
+Finland,Kotka_Etela-Suomen Laani,60.4774,26.9274,2,161
+Finland,Kotka_Ita-Suomen Laani,62.2107,27.9107,2,163
+Finland,Kotkan Metsola_Etela-Suomen Laani,60.494,26.9107,2,161
+Finland,Kouvola_Etela-Suomen Laani,60.8774,26.7107,2,161
+Finland,Kuopio_Ita-Suomen Laani,62.894,27.6774,2,163
+Finland,Kurikka_Lansi-Suomen Laani,62.594,22.4274,2,156
+Finland,Lahti_Lappi,66.8275,24.4108,2,160
+Finland,Lahti_Oulu Laani,64.5441,27.2441,2,163
+Finland,Lahti_Etela-Suomen Laani,61.0108,25.6775,2,160
+Finland,Lahti_Lansi-Suomen Laani,60.7769,21.5558,2,154
+Finland,Lappeenranta_Etela-Suomen Laani,61.0608,28.1775,2,163
+Finland,Lohja_Etela-Suomen Laani,60.2608,24.0775,2,157
+Finland,Loviisa_Etela-Suomen Laani,60.4608,26.2441,2,160
+Finland,Maarianhamina_Ahvenanmaa,60.1109,19.9609,2,151
+Finland,Mariehamn_Ahvenanmaa,60.1109,19.9442,2,151
+Finland,Martinlaakso_Etela-Suomen Laani,60.2898,24.8534,2,158
+Finland,Masala_Etela-Suomen Laani,60.1642,24.5398,2,158
+Finland,Mellunmaki_Etela-Suomen Laani,60.2445,25.1415,2,159
+Finland,Mikkeli_Ita-Suomen Laani,61.6776,27.2609,2,162
+Finland,Nokia_Lansi-Suomen Laani,61.4777,23.511,2,157
+Finland,Nummela_Etela-Suomen Laani,60.511,24.6443,2,158
+Finland,Ohkola_Etela-Suomen Laani,60.5778,25.1611,2,159
+Finland,Oravais_Lansi-Suomen Laani,63.2611,22.5111,2,156
+Finland,Oravasaari_Lansi-Suomen Laani,62.1778,25.9278,2,160
+Finland,Oulu_Oulu Laani,65.0111,25.5111,2,161
+Finland,Oulunsalo_Oulu Laani,64.9444,25.4278,2,161
+Finland,Pietarsaari_Lansi-Suomen Laani,63.6779,22.7112,2,157
+Finland,Pitajanmaki_Oulu Laani,63.5779,25.5779,2,160
+Finland,Pitajanmaki_Etela-Suomen Laani,60.232,24.8779,2,158
+Finland,Pori_Lansi-Suomen Laani,61.4945,21.7945,2,154
+Finland,Porvoo_Etela-Suomen Laani,60.4112,25.6779,2,159
+Finland,Punkaharju_Ita-Suomen Laani,61.7612,29.4279,2,165
+Finland,Punkalaidun_Lansi-Suomen Laani,61.1279,23.1112,2,156
+Finland,Puumala_Ita-Suomen Laani,61.5945,28.2612,2,163
+Finland,Quarken_Ahvenanmaa,60.2613,20.0113,2,151
+Finland,Quenlandia,66.0113,28.0113,2,164
+Finland,Raahe_Oulu Laani,64.7114,24.5114,2,159
+Finland,Ristinummi_Lansi-Suomen Laani,63.1114,21.7281,2,155
+Finland,Rovaniemi_Lappi,66.5114,25.7114,2,162
+Finland,Rukki_Oulu Laani,64.6781,25.1114,2,160
+Finland,Salo_Lansi-Suomen Laani,60.3948,23.1448,2,156
+Finland,Savonlinna_Ita-Suomen Laani,61.8782,28.9282,2,165
+Finland,Seinajoki_Lansi-Suomen Laani,62.7948,22.8282,2,156
+Finland,Tampere_Lansi-Suomen Laani,61.5116,23.7616,2,157
+Finland,Turku_Lansi-Suomen Laani,60.4449,22.2949,2,155
+Finland,Turku Archipelago_Lansi-Suomen Laani,60.2616,22.0116,2,154
+Finland,Turku ja Pori_Lansi-Suomen Laani,61.0116,22.5116,2,155
+Finland,Vaasa_Lansi-Suomen Laani,63.0951,21.6785,2,155
+Finland,Vaasan Saaristo_Lansi-Suomen Laani,63.2451,21.2618,2,155
+Finland,Vantaa_Etela-Suomen Laani,60.3118,25.1785,2,159
+Finland,Vantaa,60.2246,24.9971,2,158
+Finland,Vantaankoski_Etela-Suomen Laani,60.3004,24.8621,2,158
+Finland,Vantaanpuisto_Etela-Suomen Laani,60.3054,24.8654,2,158
+Finland,Varkaus_Ita-Suomen Laani,62.3451,27.8785,2,163
+Finland,Waarankoskenkanava_Ita-Suomen Laani,62.3952,28.7286,2,164
+Finland,Waarenpea_Lansi-Suomen Laani,60.7119,21.3952,2,154
+Finland,Waderskar_Ahvenanmaa,60.4452,20.3952,2,152
+Finland,Wado_Etela-Suomen Laani,60.1963,25.0894,2,158
+Finland,Walepus_Lansi-Suomen Laani,60.9952,21.1952,2,153
+Finland,Walgrund_Lansi-Suomen Laani,63.2119,21.2452,2,155
+Finland,Waltimo_Ita-Suomen Laani,63.6786,28.8119,2,165
+Finland,Wassor_Lansi-Suomen Laani,63.1952,22.0286,2,156
+Finland,Waterpa_Etela-Suomen Laani,60.3786,26.4619,2,160
+Finland,Weikar_Lansi-Suomen Laani,63.0952,21.8952,2,155
+Finland,Weksala_Lansi-Suomen Laani,63.5119,22.3786,2,156
+Finland,Welkhovesi_Lansi-Suomen Laani,60.8952,21.3952,2,154
+Finland,Welkuanma_Lansi-Suomen Laani,60.4452,21.6452,2,154
+Finland,Wesso Landet_Etela-Suomen Laani,60.2952,25.7286,2,159
+Finland,West Bogskar_Ahvenanmaa,59.5119,20.3786,2,152
+Finland,West Tukan_Etela-Suomen Laani,60.1033,25.1433,2,159
+Finland,Westend_Etela-Suomen Laani,60.1786,24.8119,2,158
+Finland,Wester Ronnskar_Etela-Suomen Laani,60.15,24.9272,2,158
+Finland,Westerhankmo_Lansi-Suomen Laani,63.2286,21.8619,2,155
+Finland,Wias_Lansi-Suomen Laani,62.9452,21.6286,2,155
+Finland,Widskar_Lansi-Suomen Laani,59.9286,21.4786,2,153
+Finland,Widskar Fiard_Lansi-Suomen Laani,59.8952,21.4619,2,153
+Finland,Wihanti_Oulu Laani,64.4952,25.0119,2,160
+Finland,Wiiksinselka,62.4952,31.1619,2,168
+Finland,Wiitamaki_Oulu Laani,63.9452,26.4286,2,162
+Finland,Wildskar_Lansi-Suomen Laani,63.4452,21.8119,2,155
+Finland,Wiljakkala_Lansi-Suomen Laani,61.7119,23.2786,2,157
+Finland,Willinge_Etela-Suomen Laani,60.1705,25.1255,2,159
+Finland,Wirskar_Etela-Suomen Laani,60.2286,26.0452,2,160
+Finland,Wormo_Etela-Suomen Laani,60.0286,24.2286,2,157
+Finland,Zaaksy_Etela-Suomen Laani,61.1955,25.5622,2,160
+Finland,Zaliv Barezund fiord_Etela-Suomen Laani,59.9289,24.0955,2,157
+Finland,Zaliv Khallerviken_Etela-Suomen Laani,60.0647,24.2019,2,157
+Finland,Zaliv Mors-f yerd_Etela-Suomen Laani,60.1103,24.6211,2,158
+Finland,Zaliv Viro-Lakhti,60.5455,27.7955,2,162

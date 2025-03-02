@@ -1,0 +1,129 @@
+Palestine,Abasan al Kabir,31.333,34.3558,2,0
+Palestine,Abwein,32.0466,35.2122,2,0
+Palestine,Ajjur_HaDarom,31.793,34.6764,2,0
+Palestine,Akka_HaZafon,32.9333,35.0825,2,0
+Palestine,Ara_Hefa,32.4983,35.1233,2,0
+Palestine,Araba_HaZafon,32.8583,35.3455,2,0
+Palestine,Arrabah,32.4147,35.2116,2,0
+Palestine,As Salihiya_HaZafon,33.1764,35.6264,2,0
+Palestine,Asira ash Shamaliya,32.2597,35.2764,2,0
+Palestine,Bal`a,32.3417,35.1167,2,0
+Palestine,Baqa el Gharbiya_Hefa,32.4231,35.0548,2,0
+Palestine,Bat Yam_Tel Aviv,32.0329,34.7601,2,0
+Palestine,Beersheba_HaDarom,31.2431,34.7931,2,0
+Palestine,Beit Hanina,31.8431,35.2098,2,0
+Palestine,Beit Lehem Hagelilit_HaZafon,32.7437,35.1984,2,0
+Palestine,Beit Shean_HaZafon,32.5098,35.5098,2,0
+Palestine,Bethlehem,31.7265,35.2098,2,0
+Palestine,Bethlehem-Waldheim_HaZafon,32.7392,35.1804,2,0
+Palestine,Bir Zeit,31.9765,35.2098,2,0
+Palestine,Caesarea_Hefa,32.4932,34.8932,2,0
+Palestine,Camp Tel Litwinsky_HaMerkaz,32.0638,34.858,2,0
+Palestine,Cape Carmel_Hefa,32.8432,34.9766,2,0
+Palestine,Carmelus_Hefa,32.7385,35.0566,2,0
+Palestine,Carmiel_HaZafon,32.9271,35.3141,2,0
+Palestine,Castellum_HaDarom,31.8099,35.1599,2,0
+Palestine,Castrum Novum_HaZafon,33.2266,35.5599,2,0
+Palestine,Cedron,31.6766,35.4599,2,0
+Palestine,Cheikh Nattah_HaZafon,33.0432,35.5266,2,0
+Palestine,Chelomi_HaZafon,33.0766,35.1099,2,0
+Palestine,Chivta_HaDarom,30.8932,34.6432,2,0
+Palestine,Choumra_HaZafon,33.093,35.2943,2,0
+Palestine,Colonia_Yerushalayim,31.8099,35.1766,2,0
+Palestine,Corozain_HaZafon,32.9099,35.5766,2,0
+Palestine,Crocodile River_Hefa,32.5485,34.9093,2,0
+Palestine,Dabburiya_HaZafon,32.7058,35.3822,2,0
+Palestine,Deir Dibwan,31.9267,35.2767,2,0
+Palestine,Deir el Assad_HaZafon,32.9433,35.2767,2,0
+Palestine,Dhahiriya,31.4267,34.9767,2,0
+Palestine,Dura,31.51,35.0433,2,0
+Palestine,Elat_HaDarom,29.5934,34.9268,2,0
+Palestine,Fa ra,32.3102,35.3602,2,0
+Palestine,Falah_Hefa,32.7102,34.9435,2,0
+Palestine,Fardis Nabulsi_HaMerkaz,32.3102,34.9602,2,0
+Palestine,Farsh_HaDarom,30.9935,35.3435,2,0
+Palestine,Fash-shat ed Darwish_HaDarom,31.2158,35.3796,2,0
+Palestine,Fawwar Camp,31.4935,35.0769,2,0
+Palestine,Fazir_HaDarom,31.0269,34.5102,2,0
+Palestine,Furaydis_Hefa,32.6102,34.9602,2,0
+Palestine,Gaza,31.5103,34.477,2,0
+Palestine,Gaza Strip,31.427,34.3436,2,0
+Palestine,Haifa_Hefa,32.826,34.9996,2,0
+Palestine,Haifa Bay Area_Hefa,32.8668,35.0801,2,0
+Palestine,Haifa District_HaZafon,32.5937,35.0104,2,0
+Palestine,Haifa Harbor_Hefa,32.8271,35.0104,2,0
+Palestine,Haifa Sub-district_Hefa,32.8437,35.0104,2,0
+Palestine,Hebron,31.5437,35.1104,2,0
+Palestine,Holon_Tel Aviv,32.0218,34.7826,2,0
+Palestine,Iksal_HaZafon,32.6891,35.3327,2,0
+Palestine,Jabalia,31.5439,34.5106,2,0
+Palestine,Jabaliya,31.5439,34.4939,2,0
+Palestine,Jaljulia,31.8606,35.4939,2,0
+Palestine,Jamma`in,32.1409,35.2103,2,0
+Palestine,Jatt_Hefa,32.4089,35.0503,2,0
+Palestine,Jatt_HaZafon,32.9828,35.2434,2,0
+Palestine,Jenin,32.467,35.3064,2,0
+Palestine,Jenin Muquibila,32.5106,35.2939,2,0
+Palestine,Jericho,31.8773,35.4606,2,0
+Palestine,Jerusalem Airport,31.8773,35.2273,2,0
+Palestine,Jerusalem Corridor_Yerushalayim,31.7773,35.1773,2,0
+Palestine,Jerusalem Region_Yerushalayim,31.7606,35.0106,2,0
+Palestine,Kababir_Hefa,32.8107,34.9774,2,0
+Palestine,Kafer-Kama_HaZafon,32.7274,35.4524,2,0
+Palestine,Kafr Kanna_HaZafon,32.7607,35.3524,2,0
+Palestine,Kafr Manda_HaZafon,32.8179,35.271,2,0
+Palestine,Kafr Qari`_Hefa,32.5124,35.0876,2,0
+Palestine,Kaukab Abu el Hija_HaZafon,32.844,35.2607,2,0
+Palestine,Khan Younes,31.3546,34.3132,2,0
+Palestine,Khan Younis camp,31.3607,34.3274,2,0
+Palestine,Kufr Qasim_HaMerkaz,32.1249,34.9846,2,0
+Palestine,Lavi_HaZafon,32.798,35.4525,2,0
+Palestine,Lod_HaMerkaz,31.9622,34.9061,2,0
+Palestine,Misilya,32.3942,35.2942,2,0
+Palestine,Mqeible_HaZafon,32.5276,35.3053,2,0
+Palestine,Mughr Habayil Salman,32.2109,35.1776,2,0
+Palestine,Musmus_Hefa,32.5506,35.1673,2,0
+Palestine,Nablus,32.2321,35.2654,2,0
+Palestine,Nazareth_HaZafon,32.7146,35.3066,2,0
+Palestine,Nazareth Illit_HaZafon,32.7207,35.3402,2,0
+Palestine,Nisanit,31.561,34.5277,2,0
+Palestine,Or `Aqiva_Hefa,32.5183,34.9286,2,0
+Palestine,Orah_Yerushalayim,31.7611,35.1611,2,0
+Palestine,Otni el,31.4444,35.0278,2,0
+Palestine,Qabatiya,32.4199,35.2913,2,0
+Palestine,Qalansuwa_HaMerkaz,32.296,34.991,2,0
+Palestine,Qalqiliya,32.1977,34.9744,2,0
+Palestine,Qiryat Ata_Hefa,32.8119,35.1177,2,0
+Palestine,Rafah,31.2956,34.2622,2,0
+Palestine,Rafah Yam,31.3114,34.2281,2,0
+Palestine,Ram Allah,31.9114,35.2114,2,0
+Palestine,Ramla_HaMerkaz,31.9367,34.8783,2,0
+Palestine,Ramla Sub-district_HaMerkaz,31.9281,34.9281,2,0
+Palestine,Ramlah Bet_HaMerkaz,31.9175,34.8845,2,0
+Palestine,Romeima Quarter_Yerushalayim,31.8114,35.2114,2,0
+Palestine,Sakhnin_HaZafon,32.8737,35.3048,2,0
+Palestine,Salfit,32.0923,35.1876,2,0
+Palestine,Sammu`i_HaZafon,32.9698,35.4698,2,0
+Palestine,Shafa `Amr_HaZafon,32.8146,35.1809,2,0
+Palestine,Silwad,31.9948,35.2782,2,0
+Palestine,Sir,32.3782,35.3282,2,0
+Palestine,Sulam_HaZafon,32.6198,35.3448,2,0
+Palestine,Taiyibah_HaZafon,32.6116,35.4616,2,0
+Palestine,Tammun,32.2941,35.3952,2,0
+Palestine,Tamra_HaZafon,32.8602,35.2163,2,0
+Palestine,Taybah_HaMerkaz,32.2763,35.0197,2,0
+Palestine,Tel Aviv,32.0783,34.7783,2,0
+Palestine,Tel Aviv-Yafo_Tel Aviv,32.0794,34.7763,2,0
+Palestine,Tira_HaMerkaz,32.2444,34.9619,2,0
+Palestine,Tuba_HaZafon,32.9816,35.6119,2,0
+Palestine,Tulkarem,32.3283,35.0449,2,0
+Palestine,Tulkarm,32.3224,35.0374,2,0
+Palestine,Tur`an_HaZafon,32.7855,35.381,2,0
+Palestine,Umm al Fahm_Hefa,32.5275,35.1642,2,0
+Palestine,Valley of Kidron,31.7785,35.2451,2,0
+Palestine,Vardiya_Hefa,32.8118,35.0118,2,0
+Palestine,Vered Yeriho,31.8285,35.4451,2,0
+Palestine,Villa Melchett_HaZafon,32.8451,35.5285,2,0
+Palestine,West Bank,31.6786,35.2619,2,0
+Palestine,Yatta,31.4621,35.0954,2,0
+Palestine,Yerushalayim,31.7954,35.1954,2,0

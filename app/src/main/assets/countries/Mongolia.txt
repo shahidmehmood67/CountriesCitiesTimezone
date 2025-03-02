@@ -1,0 +1,94 @@
+Mongolia,Abaragin Khid_Dornogovi,45.7764,111.2097,8,0
+Mongolia,Adaatsag Uul_Dundgovi,46.643,105.7764,8,0
+Mongolia,Agutsa,49.2597,112.043,8,0
+Mongolia,Darhan_Selenge,49.6267,106.36,8,0
+Mongolia,Darhan,49.4933,105.9267,8,0
+Mongolia,Darhan_Bulgan,48.2433,103.96,8,0
+Mongolia,Darhan_Hentiy,46.6267,109.4267,8,0
+Mongolia,Darhan_Darhan Uul,49.4967,105.9328,8,0
+Mongolia,Darhan Guniy Sayr,41.8267,103.5267,8,0
+Mongolia,Darhan Guunii Datsang_Govi-Altay,46.4267,94.4433,8,0
+Mongolia,Darhan Guunii Huryee_Bayanhongor,46.6767,100.3433,8,0
+Mongolia,Darhan Jisa_Dundgovi,46.3433,108.2433,8,0
+Mongolia,Darhan Puntsag Bayshing_Govi-Altay,46.5433,94.06,8,0
+Mongolia,Darhan Uul_Hentiy,46.61,109.3433,8,0
+Mongolia,Darhan Uul Aymag_Darhan Uul,49.51,106.51,8,0
+Mongolia,Darhanhaan_Suhbaatar,46.7767,113.8767,8,0
+Mongolia,Darhanta Uula_Hovsgol,51.2933,99.8767,8,0
+Mongolia,Darhantayn Gol_Hovsgol,50.51,101.2767,8,0
+Mongolia,Darhantayn Huree_Hovsgol,50.5433,101.4267,8,0
+Mongolia,Djirgalantu_Hovd,48.0267,91.6433,8,0
+Mongolia,Ederengen Nuru,44.2601,97.7601,8,0
+Mongolia,Emeelt Uul_Dornod,46.6601,119.1934,8,0
+Mongolia,Erdenet_Orhon,49.0434,104.0934,8,0
+Mongolia,Friendship Peak,49.1435,87.8269,8,0
+Mongolia,Fu-p u-ssu-k u-li_Hovsgol,51.0102,100.5102,8,0
+Mongolia,Fujirutu_Dornod,49.3769,112.7102,8,0
+Mongolia,Funa Usa Nuur_Dornod,47.7602,117.8435,8,0
+Mongolia,Funsu Uul_Dornod,47.0769,115.7935,8,0
+Mongolia,Furufu Ho_Hentiy,48.6102,110.7602,8,0
+Mongolia,Furufu Shan_Omnogovi,42.6544,105.4258,8,0
+Mongolia,Furumu noru Hu_Govi-Altay,46.1769,93.5602,8,0
+Mongolia,Fushu mein obo_Dornod,47.3102,119.0602,8,0
+Mongolia,Gegeen Hiid_Dornod,48.2103,114.7603,8,0
+Mongolia,Ger Chuluu_Dornod,47.5603,119.1103,8,0
+Mongolia,Hibing Gol_Hovsgol,50.9271,101.6104,8,0
+Mongolia,Hiid Oboo_Arhangay,47.1604,102.1104,8,0
+Mongolia,Hiliyn Toyrom_Dornod,47.7271,115.8771,8,0
+Mongolia,J argalant_Selenge,49.8939,107.4606,8,0
+Mongolia,Jkh Tyul-bur_Bulgan,49.3939,102.9939,8,0
+Mongolia,K o-lu-lun_Dornod,48.0774,114.5107,8,0
+Mongolia,Kara-adzirga_Govi-Altay,45.8107,95.7607,8,0
+Mongolia,Khanbogd_Omnogovi,43.2107,107.2107,8,0
+Mongolia,Knunguigo,48.844,93.4274,8,0
+Mongolia,Lieh-ko_Bayanhongor,44.5608,100.8441,8,0
+Mongolia,Lonhin Ovoo_Dornod,48.3941,115.7941,8,0
+Mongolia,Looroyn Bulag_Hovd,45.1108,91.5608,8,0
+Mongolia,Looroyn Tuuri_Hovd,45.1275,91.5608,8,0
+Mongolia,Loosa sumu_Dundgovi,45.5275,105.7608,8,0
+Mongolia,Lower Khobdo Nuur_Bayan-Olgiy,48.5441,88.5441,8,0
+Mongolia,Lyung Somon_Tov,47.8775,105.2608,8,0
+Mongolia,Menengiin Tal_Dornod,47.3776,116.5109,8,0
+Mongolia,Nyalga_Tov,46.9777,108.311,8,0
+Mongolia,Otog Uul_Dzavhan,48.3111,94.1944,8,0
+Mongolia,Qara Qum_Ovorhangay,47.2446,102.8446,8,0
+Mongolia,Qingshi Shan,45.0446,92.8446,8,0
+Mongolia,Quelle Borzson_Omnogovi,42.5199,105.2616,8,0
+Mongolia,Schabuktai_Omnogovi,43.3782,106.4615,8,0
+Mongolia,Syowrei_Omnogovi,43.6282,102.5448,8,0
+Mongolia,Ulan Bator_Ulaanbaatar,47.9284,106.9284,8,0
+Mongolia,Vaishinte_Omnogovi,43.5018,103.5362,8,0
+Mongolia,Val Chingis Khana,48.5118,111.5118,8,0
+Mongolia,Vandan Dashiling Khure_Govi-Altay,46.8785,95.4785,8,0
+Mongolia,Vandzet_Omnogovi,43.1451,102.2451,8,0
+Mongolia,Vichzhin Gol_Govi-Altay,45.4618,93.5451,8,0
+Mongolia,Vlaa Vula_Hovsgol,50.6951,99.2451,8,0
+Mongolia,Vneshnyaya Mongoliya,47.0118,103.0118,8,0
+Mongolia,Vostochnaya Depressiya,44.5118,110.0118,8,0
+Mongolia,Vostochnyy Aymag_Dornod,48.0118,115.0118,8,0
+Mongolia,Vozvyshennost Dariganga_Suhbaatar,45.6785,115.2618,8,0
+Mongolia,Vpadina Shargain-gobi_Govi-Altay,46.2618,95.0118,8,0
+Mongolia,Xiaohongshan Gou,45.012,92.9953,8,0
+Mongolia,Xiaosongshu Gou,45.2953,90.7953,8,0
+Mongolia,Zafin Kawa,48.9122,93.3955,8,0
+Mongolia,Zagan Nor_Bayanhongor,45.5955,99.1622,8,0
+Mongolia,Zagan Tujurjuk_Dornogovi,44.8455,110.7622,8,0
+Mongolia,Zakhara_Tov,49.1622,108.5122,8,0
+Mongolia,Zaku goru_Bayanhongor,46.9455,99.1789,8,0
+Mongolia,Zaku Ho_Bayanhongor,46.8789,99.2955,8,0
+Mongolia,Zalatu_Dornogovi,44.3289,107.9122,8,0
+Mongolia,Zamin-fuduku_Suhbaatar,45.5455,113.2289,8,0
+Mongolia,Zaminshandi_Govi-Altay,44.5122,95.3455,8,0
+Mongolia,Zamun Ude_Dornogovi,43.7622,111.9289,8,0
+Mongolia,Zavkhan_Dzavhan,48.0122,96.0122,8,0
+Mongolia,Zeriku Ho_Hovsgol,50.3122,101.9289,8,0
+Mongolia,Zerin Nor_Uvs,48.6622,92.9622,8,0
+Mongolia,Zerugin-tsagan-noru Hu_Hovd,47.2289,92.7622,8,0
+Mongolia,Zezen Khana_Hentiy,47.3289,110.6622,8,0
+Mongolia,Zgyin-gol_Hentiy,48.7289,110.2789,8,0
+Mongolia,Zorgone Khuduk Well_Dornod,47.4122,115.7789,8,0
+Mongolia,Zun-fure_Tov,48.0122,108.5122,8,0
+Mongolia,Zun-Mod_Tov,47.7122,106.9622,8,0
+Mongolia,Zunharata ora_Dornod,49.0622,115.7955,8,0
+Mongolia,Zuruto Uula_Dornod,46.8455,115.3622,8,0
+Mongolia,Zuunkharaa_Selenge,48.6455,106.7455,8,0

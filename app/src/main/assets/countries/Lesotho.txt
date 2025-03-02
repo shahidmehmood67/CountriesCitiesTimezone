@@ -1,0 +1,107 @@
+Lesotho,Abele,-29.6236,27.6597,2,0
+Lesotho,Alehloana,-29.5403,28.243,2,0
+Lesotho,Alwyns Kop,-30.3903,27.6264,2,0
+Lesotho,Anone,-30.2736,27.7097,2,0
+Lesotho,Aujong,-29.8736,27.193,2,0
+Lesotho,Azariele,-29.6903,27.243,2,0
+Lesotho,Cairntoul,-30.6568,28.0932,2,0
+Lesotho,Cana,-29.1068,27.8599,2,0
+Lesotho,Chalani,-30.0734,27.9599,2,0
+Lesotho,Chere,-29.5901,27.1766,2,0
+Lesotho,Cock Spur,-29.9734,27.7432,2,0
+Lesotho,Corn Exchange,-28.9734,27.9932,2,0
+Lesotho,Cutting Camp,-30.2568,27.7599,2,0
+Lesotho,Digalaning Stream,-29.7067,28.4267,2,0
+Lesotho,Dihloireng,-30.2233,27.41,2,0
+Lesotho,Dikhaleng Nek,-29.2567,27.9933,2,0
+Lesotho,Dikhinbaning,-30.3233,28.1433,2,0
+Lesotho,Dikhoileng,-29.59,28.66,2,0
+Lesotho,Dikolobeng,-30.1233,27.6767,2,0
+Lesotho,Dilli Dilli,-30.5067,27.6767,2,0
+Lesotho,Dinakaning,-29.5067,28.8933,2,0
+Lesotho,Dinikeng River,-29.54,28.76,2,0
+Lesotho,Dinolsing River,-29.6233,28.91,2,0
+Lesotho,Dipetung Nek,-29.04,28.1267,2,0
+Lesotho,Diqonong Stream,-29.7233,28.76,2,0
+Lesotho,Ditsebi,-29.29,28.16,2,0
+Lesotho,Ditsuening,-29.79,28.3933,2,0
+Lesotho,Dukotsi,-29.3733,27.4767,2,0
+Lesotho,Emmaus,-29.7566,27.5601,2,0
+Lesotho,Fako,-29.2731,27.8269,2,0
+Lesotho,Fika La Tsuene,-30.2898,27.6602,2,0
+Lesotho,Fikalamotho Pass,-29.9398,27.7935,2,0
+Lesotho,Fikalatsoene,-30.3231,27.6269,2,0
+Lesotho,Fikalemahloana,-30.2565,27.9935,2,0
+Lesotho,Fikalemotko Stream,-30.0398,28.4935,2,0
+Lesotho,Fobani Nek,-29.0398,27.9269,2,0
+Lesotho,Fort Hartley,-30.3231,27.7602,2,0
+Lesotho,Fosi,-29.4231,27.8769,2,0
+Lesotho,Foso,-29.2565,27.5769,2,0
+Lesotho,Furumela,-29.5398,27.8102,2,0
+Lesotho,Gethsemane,-29.173,27.8936,2,0
+Lesotho,Good Shepherd,-30.0897,27.5103,2,0
+Lesotho,Griffiths,-30.2397,27.827,2,0
+Lesotho,Habana Morena,-29.0063,27.8104,2,0
+Lesotho,Haletswa,-28.9563,28.0604,2,0
+Lesotho,Haljoane,-29.0563,27.9604,2,0
+Lesotho,Hameeding,-28.8063,28.5604,2,0
+Lesotho,Hellspoort,-29.8563,27.4104,2,0
+Lesotho,Hermon,-29.7229,27.1271,2,0
+Lesotho,Hlakametsa,-28.6896,28.4437,2,0
+Lesotho,Hlakanelo,-29.7063,28.8104,2,0
+Lesotho,Hlapa,-30.4563,27.7271,2,0
+Lesotho,Hleoheng,-28.9063,27.8937,2,0
+Lesotho,Hloahloeng,-30.0229,28.2104,2,0
+Lesotho,Hlotse,-28.8729,28.0604,2,0
+Lesotho,Hololo,-28.7063,28.4437,2,0
+Lesotho,Honeymoon Hill,-29.1229,27.7771,2,0
+Lesotho,Ino,-29.3228,27.8605,2,0
+Lesotho,Isinxondo Stream,-30.5562,27.7272,2,0
+Lesotho,Jaele,-29.4561,27.8773,2,0
+Lesotho,Joels,-28.6727,28.2939,2,0
+Lesotho,John Matsaba,-29.6394,27.7606,2,0
+Lesotho,Jorilani,-29.4227,28.1273,2,0
+Lesotho,Kaphe,-29.956,27.6607,2,0
+Lesotho,Kelechane,-29.7226,27.7774,2,0
+Lesotho,Kena,-29.756,27.6607,2,0
+Lesotho,Kepi,-29.156,27.794,2,0
+Lesotho,Kepisi,-29.606,28.144,2,0
+Lesotho,Ketane Falls,-29.8893,27.9274,2,0
+Lesotho,Ketane River,-30.1226,27.894,2,0
+Lesotho,Kwepe,-29.8393,27.5774,2,0
+Lesotho,Leribe,-28.8225,28.1108,2,0
+Lesotho,Leribe District_Leribe,-28.9892,28.0108,2,0
+Lesotho,Leribe Plateau,-28.8392,28.1441,2,0
+Lesotho,Maseru,-29.3058,27.4942,2,0
+Lesotho,Na Nohama,-30.0557,27.861,2,0
+Lesotho,Nchipileng,-29.9057,27.561,2,0
+Lesotho,Ngoajane River,-28.7057,28.3777,2,0
+Lesotho,Nokong,-29.0723,28.0777,2,0
+Lesotho,Northern Karoo,-29.989,24.011,2,0
+Lesotho,Nthamaha,-29.9723,27.9277,2,0
+Lesotho,Ntjepeleng,-29.939,27.611,2,0
+Lesotho,Ntlamas,-29.1723,27.8777,2,0
+Lesotho,Ntlasing,-29.889,28.0277,2,0
+Lesotho,Ntsunyane,-29.589,27.6443,2,0
+Lesotho,Ntsupe,-29.6557,27.7777,2,0
+Lesotho,Old Mohales Hoek,-30.0889,27.4944,2,0
+Lesotho,Ongeluks Nek,-30.3389,28.2778,2,0
+Lesotho,Peka,-28.8388,28.2112,2,0
+Lesotho,Piting,-29.2388,27.7445,2,0
+Lesotho,Qoatsaneng,-29.322,27.5113,2,0
+Lesotho,Raboroko,-30.1386,27.3614,2,0
+Lesotho,Rakhobetso,-29.6386,27.5447,2,0
+Lesotho,Rakhoiti,-29.5053,27.5781,2,0
+Lesotho,Raleqheka,-29.6719,27.7114,2,0
+Lesotho,Ramabitsa,-29.7219,27.7281,2,0
+Lesotho,Ramatsediso,-30.0219,28.9281,2,0
+Lesotho,Ramoihloe Store,-29.7386,27.1614,2,0
+Lesotho,Relye,-28.9886,28.1947,2,0
+Lesotho,Ribaning Stream,-29.8553,27.6447,2,0
+Lesotho,Riet Vlei,-30.0053,27.3447,2,0
+Lesotho,Ubutsuane,-29.1883,29.195,2,0
+Lesotho,Upper Qeme,-29.4716,27.5284,2,0
+Lesotho,Van Rooyens Gate,-29.7382,27.1285,2,0
+Lesotho,Windsor Castle,-29.0048,29.1786,2,0
+Lesotho,Yeyateyaneng_Berea,-29.1546,27.9288,2,0
+Lesotho,Zion,-29.1211,27.9789,2,0

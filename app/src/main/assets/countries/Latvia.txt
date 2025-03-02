@@ -1,0 +1,63 @@
+Latvia,Cesis_Cesu Rajons,57.3432,25.3432,2,0
+Latvia,Fabriciuss_Cesu Rajons,57.1935,25.0602,2,0
+Latvia,Fabriki_Balvu Rajons,57.0935,27.6435,2,0
+Latvia,Falcgrave,56.6102,23.5435,2,0
+Latvia,Fedorki_Ludzas Rajons,56.4769,28.1602,2,0
+Latvia,Feimanka_Preilu Rajons,56.3435,26.3602,2,0
+Latvia,Feimanu Ezers,56.2769,27.0102,2,0
+Latvia,Feimanu Muiza_Rezeknes Rajons,56.2769,27.0602,2,0
+Latvia,Ferma_Kraslavas Rajons,56.0269,27.6102,2,0
+Latvia,Fiki_Aluksnes Rajons,57.5435,27.4769,2,0
+Latvia,Filkas_Jekabpils Rajons,56.4102,25.9602,2,0
+Latvia,Fogelholm_Riga,57.0055,24.1091,2,0
+Latvia,Fol vark Kenge_Valkas Rajons,57.3269,26.0935,2,0
+Latvia,Fol vark Kozary_Rezeknes Rajons,56.6935,27.0435,2,0
+Latvia,Fol vark Matuli_Rezeknes Rajons,56.3102,27.6602,2,0
+Latvia,Fol vark Murvmuyzha_Aizkraukles Rajons,56.4602,24.9269,2,0
+Latvia,Folmani_Talsu Rajons,57.6769,22.4769,2,0
+Latvia,Folvarcisi_Daugavpils Rajons,56.0769,26.3769,2,0
+Latvia,Folvarka_Rezeknes Rajons,56.3602,27.4935,2,0
+Latvia,Folvaroka_Kraslavas Rajons,56.1435,27.1602,2,0
+Latvia,Forsteja_Balvu Rajons,57.0435,27.1935,2,0
+Latvia,Franapole_Ludzas Rajons,56.5769,27.8102,2,0
+Latvia,Franci Pusmuizas Centrs_Saldus Rajons,56.5102,22.2602,2,0
+Latvia,Franciskopole_Aluksnes Rajons,57.3602,27.5102,2,0
+Latvia,Franksesava,56.5733,23.8855,2,0
+Latvia,Franopoles Ezers_Ludzas Rajons,56.5769,27.7935,2,0
+Latvia,Frauenburg_Saldus Rajons,56.6769,22.5102,2,0
+Latvia,Freydberd i_Ventspils Rajons,57.2769,21.6602,2,0
+Latvia,Fridrihmuiza_Madonas Rajons,57.2435,22.9102,2,0
+Latvia,Friki_Saldus Rajons,56.4269,22.5435,2,0
+Latvia,Hainasch_Limbazu Rajons,57.874,24.3682,2,0
+Latvia,Hatki_Rezeknes Rajons,56.4271,26.9771,2,0
+Latvia,Hazenpot_Liepajas Rajons,56.7271,21.6104,2,0
+Latvia,Henkhuzens_Kuldigas Rajons,56.7771,22.1937,2,0
+Latvia,Hercogi,56.7171,23.7246,2,0
+Latvia,Hoftenberga_Daugavpils Rajons,55.9104,26.6771,2,0
+Latvia,Horoseva_Ludzas Rajons,56.3437,28.2104,2,0
+Latvia,Hunnings Berg_Tukuma Rajons,57.0104,23.2187,2,0
+Latvia,Jekabpils_Jekabpils Rajons,56.4939,25.8606,2,0
+Latvia,Jurmala,56.9714,23.7606,2,0
+Latvia,Liepaja,56.5275,21.0275,2,0
+Latvia,Liepaja East_Liepajas Rajons,56.5275,21.1108,2,0
+Latvia,Liepaja Lake,56.4608,21.0608,2,0
+Latvia,Liepajas Rajons,56.5108,21.4275,2,0
+Latvia,Ogre,56.8222,24.6142,2,0
+Latvia,Rezekne,56.5281,27.3447,2,0
+Latvia,Riga,57.0114,24.0947,2,0
+Latvia,Riga Central_Riga,56.9947,24.0947,2,0
+Latvia,Riga Rumbula_Riga,56.8947,24.2281,2,0
+Latvia,Riga West_Rigas Rajons,56.9281,23.9781,2,0
+Latvia,Rigas Rajons,57.0114,24.3447,2,0
+Latvia,Rigas Udenskratuve,56.8503,24.3781,2,0
+Latvia,Ventspils,57.4012,21.5724,2,0
+Latvia,Ventspils Otrais_Ventspils Rajons,57.3962,21.6821,2,0
+Latvia,Ventspils South_Ventspils Rajons,57.3785,21.5618,2,0
+Latvia,Ventspilsskiy Rayon_Ventspils Rajons,57.3451,21.8451,2,0
+Latvia,Warklany_Madonas Rajons,56.6286,26.7452,2,0
+Latvia,Weleny_Rezeknes Rajons,56.5619,26.9619,2,0
+Latvia,Wenden_Cesu Rajons,57.3119,25.2619,2,0
+Latvia,Western Dvina,57.0736,24.0425,2,0
+Latvia,Windau Harbor_Ventspils,57.4127,21.5513,2,0
+Latvia,Windau River,57.4069,21.5575,2,0
+Latvia,Wolmar_Valmieras Rajons,57.5619,25.4119,2,0

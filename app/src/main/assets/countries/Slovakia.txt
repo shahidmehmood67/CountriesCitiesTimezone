@@ -1,0 +1,104 @@
+Slovakia,Banska Bystrica_Banskobystricky,48.7431,19.1598,1,0
+Slovakia,Banskobystricky Kraj_Banskobystricky,48.5098,19.5098,1,0
+Slovakia,Bratislava_Bratislavsky,48.1598,17.1265,1,0
+Slovakia,Dobsina,48.8267,20.3767,1,0
+Slovakia,Eastern Carpathians,45.5101,26.5101,1,0
+Slovakia,Ebed,47.7934,18.6601,1,0
+Slovakia,Eberhart,48.1768,17.3101,1,0
+Slovakia,Egbell,48.7268,17.1434,1,0
+Slovakia,Egeg,48.1601,18.8934,1,0
+Slovakia,Egeres,48.0268,18.8268,1,0
+Slovakia,Egres,48.6268,21.6268,1,0
+Slovakia,Egyhaz-Karcsa,47.9934,17.5934,1,0
+Slovakia,Egyhazas-Bast,48.1768,19.9601,1,0
+Slovakia,Eisenbrunndel,48.1934,17.0768,1,0
+Slovakia,Ekecs,47.8934,17.8268,1,0
+Slovakia,Ekel,47.8101,17.9434,1,0
+Slovakia,Eliasovce,48.1268,17.4768,1,0
+Slovakia,Eljaszowka,49.4268,20.6601,1,0
+Slovakia,Elo Patony,48.0434,17.4934,1,0
+Slovakia,Endred,48.1434,18.5268,1,0
+Slovakia,Engerau,48.1434,17.1268,1,0
+Slovakia,Eny,48.1768,18.4268,1,0
+Slovakia,Eperjes,48.0601,17.7101,1,0
+Slovakia,Erdopuszta,47.8768,18.3101,1,0
+Slovakia,Erdutka,49.3934,19.1934,1,0
+Slovakia,Eresteny Pusta,48.1768,19.2101,1,0
+Slovakia,Ersek-Lel,47.7768,17.9101,1,0
+Slovakia,Etreove Kracany,47.9934,17.5601,1,0
+Slovakia,Fyr,47.9435,18.4102,1,0
+Slovakia,Ida Potok,48.5938,20.9605,1,0
+Slovakia,Iglo,48.9605,20.5772,1,0
+Slovakia,Igram,48.2938,17.4772,1,0
+Slovakia,Ihla,49.1938,20.6272,1,0
+Slovakia,Ihrac,48.6605,18.9605,1,0
+Slovakia,Iklad Tanya,48.0272,18.4938,1,0
+Slovakia,Ilavka,48.9605,18.2772,1,0
+Slovakia,Ilianovka,49.0772,19.6438,1,0
+Slovakia,Ilias,48.7105,19.1605,1,0
+Slovakia,Iliasovo,48.1105,19.2772,1,0
+Slovakia,Ilija,48.4272,18.9105,1,0
+Slovakia,Ilona,48.4272,17.6938,1,0
+Slovakia,Ilonahalma,48.4938,20.2272,1,0
+Slovakia,Imbreg,48.4938,21.8272,1,0
+Slovakia,Imel,47.9105,18.1605,1,0
+Slovakia,Imrichov Kopec,48.3438,19.4438,1,0
+Slovakia,Imrovka,48.2938,19.3272,1,0
+Slovakia,Inovecke Hory,48.6772,18.0105,1,0
+Slovakia,Ipel,48.5772,19.7272,1,0
+Slovakia,Ipel ske Ul any,48.1438,19.0605,1,0
+Slovakia,Ipolica,49.0272,19.9605,1,0
+Slovakia,Ipoly-Kovacsi,48.1105,19.4772,1,0
+Slovakia,Ipolypaszto,47.9772,18.7772,1,0
+Slovakia,Ireg,48.2938,17.9772,1,0
+Slovakia,Isla,49.0438,21.2938,1,0
+Slovakia,Istebne,49.2272,19.2272,1,0
+Slovakia,Istok,48.5772,18.5938,1,0
+Slovakia,Istvanova,49.2438,19.0772,1,0
+Slovakia,Ivachnova,49.1105,19.4272,1,0
+Slovakia,Ivanic,48.4938,18.9105,1,0
+Slovakia,Ivanice,48.3438,20.2605,1,0
+Slovakia,Ivanka Majer,48.0772,18.8438,1,0
+Slovakia,Ivanka pri Dunaji,48.1938,17.2772,1,0
+Slovakia,Ivanov,47.9105,18.4772,1,0
+Slovakia,Ivanov Vrch,48.9605,21.5105,1,0
+Slovakia,Ivanovce,48.8438,17.9105,1,0
+Slovakia,Ivanovska Dolina,48.8605,17.8938,1,0
+Slovakia,Iviny,48.6272,19.4272,1,0
+Slovakia,Iza,47.7605,18.2438,1,0
+Slovakia,Izap,47.8605,17.7605,1,0
+Slovakia,Izbice,48.7772,17.8438,1,0
+Slovakia,Izipovce,49.1605,19.5105,1,0
+Slovakia,Izkovce,48.5605,21.9605,1,0
+Slovakia,Kosice_Kosicky,48.7274,21.2607,1,0
+Slovakia,Martin,49.0776,18.9442,1,0
+Slovakia,Martina,49.0776,19.8942,1,0
+Slovakia,Martincek,49.0942,19.3442,1,0
+Slovakia,Martinci,49.3609,18.3776,1,0
+Slovakia,Martinova,48.3109,20.1942,1,0
+Slovakia,Martinske Hole,49.0776,18.8109,1,0
+Slovakia,Nitra,47.811,18.1443,1,0
+Slovakia,Partizanske,48.6445,18.3945,1,0
+Slovakia,Piest any,48.6112,17.8445,1,0
+Slovakia,Presov_Presovsky,49.0112,21.2612,1,0
+Slovakia,Presoven,48.5779,17.8612,1,0
+Slovakia,Presovske,48.8112,21.4279,1,0
+Slovakia,Presovsky,49.1779,21.2612,1,0
+Slovakia,Prievidza,48.7779,18.6445,1,0
+Slovakia,Secovce,48.7115,21.6615,1,0
+Slovakia,Trencin_Trenciansky,48.9116,18.0449,1,0
+Slovakia,Trnava,48.2949,17.6449,1,0
+Slovakia,Vieska,48.2785,19.4785,1,0
+Slovakia,Waag,47.9286,18.0286,1,0
+Slovakia,Waagbistritz,49.1286,18.4619,1,0
+Slovakia,Wackowa,49.4286,21.1119,1,0
+Slovakia,Wagendrussel,48.8619,20.6452,1,0
+Slovakia,Walachen Hohe,48.8786,20.7119,1,0
+Slovakia,Waltersdorf,48.1119,17.2452,1,0
+Slovakia,Weidritz,48.1619,17.0786,1,0
+Slovakia,Weretyszow,49.3619,21.9119,1,0
+Slovakia,West Beskid Mountains,49.5119,19.5119,1,0
+Slovakia,Wielka Polana,49.3286,20.8952,1,0
+Slovakia,Wilczy Gron,49.5119,19.2452,1,0
+Slovakia,Winschendorf,49.2452,20.4452,1,0
+Slovakia,Zilina_Zilinsky,49.2289,18.7455,1,0

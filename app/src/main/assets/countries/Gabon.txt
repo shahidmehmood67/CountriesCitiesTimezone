@@ -1,0 +1,152 @@
+Gabon,Arabian Bar_Ogooue-Maritime,-1.2236,8.993,1,51
+Gabon,Areowonga_Ogooue-Maritime,-1.0236,8.943,1,52
+Gabon,Black Point_Estuaire,0.1265,9.7598,1,52
+Gabon,Black Rock_Nyanga,-3.5069,10.7265,1,48
+Gabon,Blavene_Woleu-Ntem,1.5598,12.2598,1,52
+Gabon,Buengui_Nyanga,-3.2735,11.6431,1,47
+Gabon,Buey_Woleu-Ntem,0.7598,11.4265,1,51
+Gabon,Bumba_Estuaire,0.1765,9.9931,1,52
+Gabon,Butica Uvinia_Estuaire,1.0598,9.6931,1,53
+Gabon,Butterfly Bank_Estuaire,0.3765,9.3598,1,53
+Gabon,Buzogo_Woleu-Ntem,1.5765,12.2431,1,52
+Gabon,Bwenguedi_Ogooue-Lolo,-1.1235,12.4931,1,48
+Gabon,Byal_Ogooue-Ivindo,0.5431,12.8598,1,50
+Gabon,Byemane_Woleu-Ntem,1.7765,11.4931,1,52
+Gabon,Byene_Moyen-Ogooue,-0.2902,10.5598,1,51
+Gabon,Clainbanego_Moyen-Ogooue,-0.8234,9.8932,1,51
+Gabon,Fada_Estuaire,0.3769,10.1602,1,52
+Gabon,Fala_Ngounie,-0.9398,10.6269,1,50
+Gabon,Fala-Nzamata_Moyen-Ogooue,-0.5898,10.3602,1,51
+Gabon,Falaba_Ogooue-Maritime,-1.0231,9.0769,1,51
+Gabon,Falaise Roches Namino_Ogooue-Maritime,-1.7231,9.2602,1,51
+Gabon,Falaise Tsidoke_Nyanga,-2.7731,10.2435,1,49
+Gabon,False Point Owendo_Estuaire,0.3102,9.5102,1,53
+Gabon,Fana_Estuaire,0.0435,9.4769,1,52
+Gabon,Fantele_Woleu-Ntem,1.2269,12.7602,1,51
+Gabon,Fara_Estuaire,0.7102,10.1769,1,52
+Gabon,Faux Cap_Estuaire,0.5269,9.3102,1,53
+Gabon,Febezok_Woleu-Ntem,1.5435,11.8102,1,52
+Gabon,Feme_Woleu-Ntem,2.2102,11.5102,1,53
+Gabon,Fera_Ngounie,-2.2898,11.3269,1,48
+Gabon,Fernan Vaz_Moyen-Ogooue,-0.4398,10.4769,1,51
+Gabon,Fernan Vaz_Ogooue-Maritime,-1.5565,9.2602,1,51
+Gabon,Fieng_Ogooue-Ivindo,-0.0398,11.8769,1,50
+Gabon,Findou_Ogooue-Maritime,-2.5065,9.8935,1,49
+Gabon,Foh_Estuaire,0.6102,10.3102,1,52
+Gabon,Foloe_Ogooue-Ivindo,0.9102,12.2769,1,51
+Gabon,Fone_Woleu-Ntem,1.4602,11.6102,1,52
+Gabon,Fortifie du Lekoni_Haut-Ogooue,-1.5731,14.2435,1,46
+Gabon,Fouala_Ogooue-Lolo,-0.9731,12.8269,1,48
+Gabon,Fouanga_Estuaire,0.2602,10.5269,1,52
+Gabon,Foubenzok_Ogooue-Ivindo,0.2435,11.9602,1,50
+Gabon,Foubenzork_Ogooue-Ivindo,0.2769,11.9769,1,50
+Gabon,Fouelou_Ngounie,-2.1731,11.1269,1,48
+Gabon,Fougamou_Ngounie,-1.2065,10.6102,1,50
+Gabon,Fouk Sole_Woleu-Ntem,0.7269,11.6602,1,51
+Gabon,Foula_Estuaire,0.6769,10.0602,1,52
+Gabon,Foula Fieng_Ogooue-Ivindo,0.2102,11.7935,1,50
+Gabon,Foula Tendi_Ogooue-Maritime,-2.6065,10.0435,1,49
+Gabon,Foulamayong_Ogooue-Maritime,-1.1898,9.4935,1,51
+Gabon,Foulameyong_Moyen-Ogooue,-0.5065,10.3435,1,51
+Gabon,Foulassi_Woleu-Ntem,0.8269,11.4935,1,51
+Gabon,Foulayong_Estuaire,0.8602,9.8935,1,53
+Gabon,Foulebeng II_Woleu-Ntem,1.0602,11.4935,1,52
+Gabon,Foulenzem_Estuaire,-0.0065,9.5935,1,52
+Gabon,Fouma_Estuaire,0.0935,10.3269,1,52
+Gabon,Founa_Moyen-Ogooue,-0.3898,11.3769,1,50
+Gabon,Foundou_Ogooue-Maritime,-2.6398,10.0435,1,49
+Gabon,Foundou Nzambi_Nyanga,-2.4231,10.9769,1,48
+Gabon,Fouramouanga_Ngounie,-1.1065,10.6435,1,50
+Gabon,Fouroumanga_Ngounie,-2.1898,11.5435,1,48
+Gabon,Franceville_Haut-Ogooue,-1.6231,13.5935,1,47
+Gabon,Fulabifum_Estuaire,0.2269,10.2435,1,52
+Gabon,Gamba_Ogooue-Maritime,-2.6397,9.9936,1,49
+Gabon,Gega Point_Ogooue-Maritime,-1.7897,9.2603,1,51
+Gabon,Ghebida_Ngounie,-1.2064,11.277,1,49
+Gabon,Heide Island_Ogooue-Maritime,-1.4729,9.2604,1,51
+Gabon,Hiaba_Ogooue-Maritime,-2.5563,9.9271,1,49
+Gabon,Himba_Ogooue-Maritime,-1.9063,9.3771,1,50
+Gabon,Houango_Ngounie,-2.2229,11.4271,1,48
+Gabon,Hublin_Ogooue-Maritime,-1.6063,9.5437,1,50
+Gabon,Huy I_Woleu-Ntem,0.5437,11.4771,1,51
+Gabon,Huy II_Woleu-Ntem,0.5271,11.4771,1,51
+Gabon,Jambi_Estuaire,0.1439,9.8439,1,52
+Gabon,Jara_Nyanga,-2.5561,10.8439,1,48
+Gabon,Jobo_Haut-Ogooue,-2.2227,13.8606,1,46
+Gabon,Joctane_Moyen-Ogooue,-0.8227,10.1106,1,51
+Gabon,Jogeboat_Estuaire,0.1773,10.1773,1,52
+Gabon,Junckville_Moyen-Ogooue,-0.0727,11.1773,1,51
+Gabon,Jungu River_Nyanga,-3.5727,10.8939,1,47
+Gabon,Kvang,0.9107,10.394,1,52
+Gabon,Lambarene_Moyen-Ogooue,-0.6892,10.2275,1,51
+Gabon,Lambarene_Ogooue-Maritime,-1.6725,9.4441,1,50
+Gabon,Lambarene_Ngounie,-1.0892,11.7441,1,49
+Gabon,Lambarene_Ogooue-Lolo,-1.1892,12.5108,1,48
+Gabon,Lambarene_Ogooue-Ivindo,0.6608,13.0441,1,50
+Gabon,Libreville_Estuaire,0.3941,9.4608,1,53
+Gabon,Luxibi River_Nyanga,-3.4392,10.7441,1,48
+Gabon,Lvouta_Ngounie,-1.9725,11.3275,1,49
+Gabon,Nfagne_Woleu-Ntem,1.9277,11.5777,1,53
+Gabon,Nfigou_Nyanga,-2.539,10.911,1,48
+Gabon,Nfongo_Woleu-Ntem,1.161,11.611,1,52
+Gabon,Nfoulameyong_Estuaire,0.2277,9.7277,1,52
+Gabon,Port Gentil_Ogooue-Lolo,-1.1555,11.8612,1,49
+Gabon,Port-Gentil_Ogooue-Maritime,-0.7055,8.7945,1,52
+Gabon,Quaben_Estuaire,0.4113,9.4446,1,53
+Gabon,Uale_Woleu-Ntem,0.7117,11.195,1,52
+Gabon,Ukoko_Estuaire,0.995,9.6117,1,53
+Gabon,Unoco_Ogooue-Maritime,-1.0216,9.0617,1,51
+Gabon,Uwinia-Spitz_Estuaire,1.0617,9.6784,1,53
+Gabon,Vanayeme_Estuaire,0.2785,10.1285,1,52
+Gabon,Vandarene_Ogooue-Maritime,-1.6549,9.5785,1,50
+Gabon,Vane_Estuaire,0.9618,9.8785,1,53
+Gabon,Varie_Ogooue-Maritime,-0.8882,9.4785,1,51
+Gabon,Vedi_Ngounie,-1.3882,11.7951,1,49
+Gabon,Vema_Woleu-Ntem,2.0785,12.0285,1,52
+Gabon,Vendze,1.2285,13.2118,1,50
+Gabon,Veolop_Woleu-Ntem,1.8618,11.6618,1,52
+Gabon,Viafe_Moyen-Ogooue,-0.5882,10.2451,1,51
+Gabon,Viafe_Woleu-Ntem,0.3451,11.4285,1,51
+Gabon,Vigne_Estuaire,0.4951,10.1285,1,52
+Gabon,Vijue Point_Estuaire,0.1118,9.7451,1,52
+Gabon,Village Bama_Ngounie,-2.1382,11.8951,1,48
+Gabon,Village Erogoue_Ogooue-Maritime,-0.6382,8.7285,1,52
+Gabon,Vinzi_Ngounie,-1.7215,11.6285,1,48
+Gabon,Vioboue_Ogooue-Ivindo,1.1951,14.1118,1,49
+Gabon,Vodvi_Ngounie,-2.3215,12.2785,1,47
+Gabon,Vombie_Estuaire,0.9618,9.5785,1,53
+Gabon,Vometsa_Ogooue-Ivindo,0.8285,12.3951,1,51
+Gabon,Vongou_Nyanga,-3.2715,11.7285,1,47
+Gabon,Vonmozel_Estuaire,0.3451,9.6451,1,52
+Gabon,Voumou_Haut-Ogooue,-2.3715,13.5451,1,46
+Gabon,Voungou_Nyanga,-3.2049,11.7451,1,47
+Gabon,Wafou_Ngounie,-2.1214,11.2452,1,48
+Gabon,Wagny_Ogooue-Lolo,-0.5548,12.3286,1,49
+Gabon,Waka_Ngounie,-1.3881,10.7619,1,50
+Gabon,Walee_Ogooue-Ivindo,1.2786,14.3452,1,49
+Gabon,Wango,-0.9214,9.6119,1,51
+Gabon,Wano_Ngounie,-2.0714,11.3952,1,48
+Gabon,Welle_Haut-Ogooue,-1.6214,13.3786,1,47
+Gabon,Weze_Ogooue-Maritime,-0.6381,9.1202,1,52
+Gabon,Wolo I_Ogooue-Lolo,-0.8714,12.9786,1,48
+Gabon,Wong,0.7286,12.9286,1,50
+Gabon,Wonga-Wongue National Park_Ogooue-Maritime,-0.4048,9.5119,1,52
+Gabon,Wotogo_Haut-Ogooue,-2.0881,14.0952,1,46
+Gabon,Woumou_Woleu-Ntem,2.1952,11.6619,1,53
+Gabon,Zalakouka_Ogooue-Lolo,-0.4545,12.4289,1,49
+Gabon,Zamaliga_Estuaire,0.0455,9.9955,1,52
+Gabon,Zamata_Moyen-Ogooue,-0.1045,10.8955,1,51
+Gabon,Zamelen I_Woleu-Ntem,1.8789,11.6455,1,52
+Gabon,Zanangoue_Woleu-Ntem,1.3955,11.5789,1,52
+Gabon,Zangui Mamba_Nyanga,-2.8711,10.2122,1,49
+Gabon,Zare_Estuaire,0.3622,10.1622,1,52
+Gabon,Zembi-Zanza_Nyanga,-3.4878,10.8455,1,48
+Gabon,Zilmac_Ogooue-Maritime,-1.6545,9.7622,1,50
+Gabon,Zindzele_Ogooue-Lolo,-1.2878,12.5455,1,48
+Gabon,Zogogone_Woleu-Ntem,1.6289,11.5455,1,52
+Gabon,Zogueloumou_Woleu-Ntem,2.2122,11.8455,1,53
+Gabon,Zomogneu_Estuaire,0.1622,10.7122,1,51
+Gabon,Zorengone_Woleu-Ntem,0.8122,10.4622,1,52
+Gabon,Zoulameyong_Estuaire,0.2455,10.1789,1,52
+Gabon,Zoungui_Ogooue-Lolo,-1.6211,12.4122,1,48
+Gabon,Zouri_Ogooue-Maritime,-1.0045,8.8955,1,52

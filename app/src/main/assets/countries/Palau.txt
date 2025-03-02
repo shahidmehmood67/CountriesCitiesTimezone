@@ -1,0 +1,219 @@
+Palau,70 Islands,7.1805,134.2722,9,0
+Palau,Calamadei,7.6371,134.6535,9,0
+Palau,Cape Aitaburai,7.1449,134.3907,9,0
+Palau,Cape Babelthuap,7.7349,134.6271,9,0
+Palau,Cape Bokurgel,7.4549,134.471,9,0
+Palau,Cape Gabadaguru,7.2852,134.3388,9,0
+Palau,Cape Medorom,6.8977,134.1293,9,0
+Palau,Cape Ngara,6.9074,134.1341,9,0
+Palau,Cape Ngatpokul,6.9221,134.1593,9,0
+Palau,Cape Pkula-Beap,7.3071,134.5016,9,0
+Palau,Cape Pkulangelul,6.9293,134.1324,9,0
+Palau,Cape Pkulatap-Rival,7.558,134.6449,9,0
+Palau,Carapellas,8.0513,134.7082,9,0
+Palau,Carp Island,7.0988,134.2821,9,0
+Palau,Carteret,2.9082,131.8266,9,0
+Palau,Chechol,7.3585,134.4516,9,0
+Palau,Chelbacheb,7.2432,134.3099,9,0
+Palau,Chelechui,7.4285,134.5032,9,0
+Palau,Cheleos,7.7318,134.6268,9,0
+Palau,Cheleu,7.1174,134.251,9,0
+Palau,Chemoi,7.198,134.3932,9,0
+Palau,Chesau,7.2093,134.4485,9,0
+Palau,Chiangel,8.0905,134.7263,9,0
+Palau,Chiyou,7.698,134.643,9,0
+Palau,Chochimer,7.7946,134.5802,9,0
+Palau,Chol,7.6782,134.6427,9,0
+Palau,Chol Elementary School,7.6827,134.6474,9,0
+Palau,Cholkong,7.6682,134.6016,9,0
+Palau,Chomedokl,7.2368,134.4068,9,0
+Palau,Chomet Ubet,7.5266,134.5099,9,0
+Palau,Chongelungel,7.3538,134.5404,9,0
+Palau,Chowid,7.1977,134.3882,9,0
+Palau,Chudel,7.1391,134.4016,9,0
+Palau,Coaengal,7.5032,134.6441,9,0
+Palau,Cormoran Reef,7.8527,134.5291,9,0
+Palau,Dabadora,7.4083,134.5411,9,0
+Palau,Dabadoru,7.41,134.5267,9,0
+Palau,Daerur,7.3708,134.4408,9,0
+Palau,Daimechesengel,7.6531,134.5917,9,0
+Palau,Dechor,7.6344,134.5933,9,0
+Palau,Delebog,7.7103,134.6486,9,0
+Palau,Delutaog,6.9125,134.1361,9,0
+Palau,Demul Iou,7.1783,134.4033,9,0
+Palau,Denges Passage,7.1311,134.3739,9,0
+Palau,Derromel,7.3636,134.4733,9,0
+Palau,Desomel,7.37,134.4458,9,0
+Palau,Dibard,7.42,134.635,9,0
+Palau,Diluches Meded,8.1031,134.7072,9,0
+Palau,Dimes,8.0853,134.7256,9,0
+Palau,Dlebebai,7.3492,134.5606,9,0
+Palau,Dmasech,7.1389,134.24,9,0
+Palau,Dngebard,7.3664,134.5875,9,0
+Palau,Dobesang Island,7.3594,134.4489,9,0
+Palau,Dormechol,7.5189,134.6317,9,0
+Palau,Doro Island,7.3569,134.4936,9,0
+Palau,Doro-To,7.3467,134.4922,9,0
+Palau,Duruokowaru Island,7.1264,134.3864,9,0
+Palau,Ebaduls Pier,7.3584,134.4868,9,0
+Palau,Echang,7.3537,134.459,9,0
+Palau,Edchib,7.2309,134.2437,9,0
+Palau,Edeng,7.3934,134.5601,9,0
+Palau,Eil Malik,7.1626,134.367,9,0
+Palau,Eil Malk,7.1476,134.3909,9,0
+Palau,Eimelik,7.4101,134.5101,9,0
+Palau,Eitelblong,7.3398,134.5229,9,0
+Palau,Ejinkoto Shoal,7.8979,134.597,9,0
+Palau,Elecbue,7.4398,134.4873,9,0
+Palau,Elechol ra Bkulabeluu,7.0012,134.2301,9,0
+Palau,Elechol ra Debed,7.0207,134.2307,9,0
+Palau,Elechol ra Imelechol,7.0512,134.2734,9,0
+Palau,Elechol ra Ngeriois,6.9126,134.1568,9,0
+Palau,Elechol ra Ngetechirur,7.0537,134.2657,9,0
+Palau,Elechol ra Nguruhei,6.9232,134.1346,9,0
+Palau,Elibel,8.0487,134.7065,9,0
+Palau,Elodesachel,7.3562,134.509,9,0
+Palau,Emeleol,7.0473,134.2715,9,0
+Palau,Emesiochel,7.2645,134.3476,9,0
+Palau,Emieangl,7.454,134.4834,9,0
+Palau,Emis,7.4768,134.5434,9,0
+Palau,Engas,7.4848,134.4973,9,0
+Palau,Engkasar,7.4776,134.6173,9,0
+Palau,Eomogan,7.144,134.3145,9,0
+Palau,Erakkueeru Island,7.5126,134.5048,9,0
+Palau,Erengoll,7.7726,134.5809,9,0
+Palau,Ertong,7.5159,134.624,9,0
+Palau,Erusumu Mountain,7.5662,134.6046,9,0
+Palau,Etichiech,7.444,134.5232,9,0
+Palau,Etiruir,7.5287,134.5376,9,0
+Palau,Euakor,7.359,134.454,9,0
+Palau,Euchelel Ngeruangl,8.1268,134.6851,9,0
+Palau,Fanah,5.3627,132.2358,9,0
+Palau,Fannog,7.5102,134.4602,9,0
+Palau,Halahol Point,7.0565,134.2757,9,0
+Palau,Hasekisu Reef,7.6437,134.5771,9,0
+Palau,Hatohobei,3.0104,131.1854,9,0
+Palau,Helen Channel,2.8937,131.7673,9,0
+Palau,Hells Pocket,7.054,134.2698,9,0
+Palau,Heren To,2.9887,131.824,9,0
+Palau,Higashi,7.8229,134.6118,9,0
+Palau,Higashi-Suido,7.8576,134.6646,9,0
+Palau,Hiruge,7.339,134.4951,9,0
+Palau,Hoimadelehesuh,7.2826,134.4093,9,0
+Palau,Hokusei-sho,7.9948,134.5526,9,0
+Palau,Honeymoon Beach,7.0115,134.2662,9,0
+Palau,Iebukel,7.7088,134.6483,9,0
+Palau,Iengel,7.7397,134.5772,9,0
+Palau,Ika,7.343,134.4916,9,0
+Palau,Ikelau,7.3502,134.4866,9,0
+Palau,Ikerdeu,7.4897,134.6411,9,0
+Palau,Ilagual Cove,6.9272,134.1647,9,0
+Palau,Ilebei,7.6727,134.6402,9,0
+Palau,Ilut Pebul,7.3377,134.5008,9,0
+Palau,Imetang,7.7202,134.6447,9,0
+Palau,Irikl,7.3599,134.4644,9,0
+Palau,Irrai,7.368,134.5683,9,0
+Palau,Irur,7.5844,134.5669,9,0
+Palau,Itab,7.3541,134.4611,9,0
+Palau,Itabchemingl,7.3372,134.5052,9,0
+Palau,Itaoch,7.4899,134.4927,9,0
+Palau,Itungelii,7.4852,134.5124,9,0
+Palau,Iuengrull,7.6716,134.6177,9,0
+Palau,Iungel,7.7316,134.6202,9,0
+Palau,Ivaiu,6.9022,134.1577,9,0
+Palau,Jimusho,6.912,134.14,9,0
+Palau,Koror,7.344,134.494,9,0
+Palau,Koror Hafen,7.3713,134.4899,9,0
+Palau,Koror Road,7.2815,134.4829,9,0
+Palau,Koror State,7.344,134.4857,9,0
+Palau,Kororu-to,7.3532,134.5051,9,0
+Palau,Lademisang,7.0189,134.2483,9,0
+Palau,Lild,7.5175,134.505,9,0
+Palau,Limestone Ridge,7.0525,134.2697,9,0
+Palau,Lkes,6.9414,134.2108,9,0
+Palau,Llebuchel,7.3558,134.4525,9,0
+Palau,Lmetmellasch,7.6139,134.6441,9,0
+Palau,Ngerulmud,7.5004,134.6243,9,0
+Palau,Queangal,8.0807,134.7238,9,0
+Palau,Rablissa,7.5242,134.6367,9,0
+Palau,Rael,7.3358,134.4931,9,0
+Palau,Rael Eding,7.4781,134.4656,9,0
+Palau,Rael Kedam,7.5281,134.5975,9,0
+Palau,Rael Orak,8.05,134.7022,9,0
+Palau,Raelkelat,7.5078,134.4969,9,0
+Palau,Ratmau,7.6072,134.5697,9,0
+Palau,Rebaikesil,7.2253,134.3856,9,0
+Palau,Remoked,6.987,134.2333,9,0
+Palau,Renrak,7.3722,134.5142,9,0
+Palau,Rikelau,7.1595,134.3275,9,0
+Palau,Rirs Bital,7.2245,134.392,9,0
+Palau,Risong,7.3161,134.4858,9,0
+Palau,Rmegetbu,7.3706,134.4381,9,0
+Palau,Rois Buiel,7.5008,134.5083,9,0
+Palau,Rois Emiangel,7.4625,134.4964,9,0
+Palau,Rois Ketund,7.3622,134.4617,9,0
+Palau,Roiseaur,7.0428,134.2625,9,0
+Palau,Roisebong,7.4367,134.5039,9,0
+Palau,Roisersuul,7.442,134.5897,9,0
+Palau,Roiskebesang,7.3581,134.4575,9,0
+Palau,Rrai,7.4436,134.6033,9,0
+Palau,Rurid Island,7.0414,134.2756,9,0
+Palau,Ryugu Island,7.3281,134.4947,9,0
+Palau,Saddle Mount,7.5012,134.4918,9,0
+Palau,Saipan Strait,6.974,134.199,9,0
+Palau,San Andres,5.3359,132.2326,9,0
+Palau,San Carlos,3.0207,131.1873,9,0
+Palau,Sanryo,7.3401,134.499,9,0
+Palau,Schoman Harbor,7.1337,134.3407,9,0
+Palau,Sehesengel,7.2018,134.3737,9,0
+Palau,Sengall,7.3571,134.5098,9,0
+Palau,Simono Island,7.3387,134.5087,9,0
+Palau,Sngelokl Bay,7.1121,134.269,9,0
+Palau,Sonsorol,5.3448,132.2282,9,0
+Palau,State of Airai,7.3782,134.5615,9,0
+Palau,State of Angaur,6.9115,134.1615,9,0
+Palau,State of Kayangel,8.0782,134.7198,9,0
+Palau,State of Melekeok,7.4948,134.6115,9,0
+Palau,State of Ngaraard,7.6282,134.6365,9,0
+Palau,State of Ngeremlengui,7.5532,134.574,9,0
+Palau,State of Ngiwal,7.5615,134.6282,9,0
+Palau,Stations-Hafen,7.3448,134.4782,9,0
+Palau,Stephen Reef,7.2587,134.4868,9,0
+Palau,Uchelbeluu,7.2839,134.5603,9,0
+Palau,Ucheliungs,7.3195,134.5098,9,0
+Palau,Uchulalei,7.3611,134.4731,9,0
+Palau,Uchulameradel,7.5184,134.502,9,0
+Palau,Uchulayas,7.3553,134.4748,9,0
+Palau,Ueno,7.3323,134.5081,9,0
+Palau,Ugula Kerregar,6.9292,134.1531,9,0
+Palau,Ugula Kerregar a Ilagiai,6.9334,134.1506,9,0
+Palau,Ukurakusetsu,7.5034,134.5159,9,0
+Palau,Ulach,8.0778,134.6964,9,0
+Palau,Ulapsagel,7.32,134.4895,9,0
+Palau,Uler,7.0284,134.2617,9,0
+Palau,Ulimang,7.6334,134.6506,9,0
+Palau,Ulong,7.287,134.3011,9,0
+Palau,Uluang,8.0767,134.7245,9,0
+Palau,Ulubosan,7.4998,134.4839,9,0
+Palau,Ulugol,7.6934,134.65,9,0
+Palau,Uluong,7.6195,134.6295,9,0
+Palau,Ulutei,7.5284,134.5403,9,0
+Palau,Umurbrogol Mountain,7.0217,134.2464,9,0
+Palau,Unkaseri,7.2298,134.4048,9,0
+Palau,Urdmang,7.6228,134.5903,9,0
+Palau,Urecheruchel,7.1409,134.3784,9,0
+Palau,Urrakalong,7.7117,134.6367,9,0
+Palau,Urukdapel,7.345,134.4617,9,0
+Palau,Uruktapi,7.2825,134.4367,9,0
+Palau,Urutoi-to,7.4873,134.6325,9,0
+Palau,Velasco Reef,8.3535,134.6243,9,0
+Palau,Warren Hastings Island,4.3361,132.3222,9,0
+Palau,West Entrance,7.9552,134.5075,9,0
+Palau,West Passage,7.5502,134.4808,9,0
+Palau,White Beach,7.0136,134.2294,9,0
+Palau,Wull,4.6713,131.9755,9,0
+Palau,Yalap,7.6454,134.6496,9,0
+Palau,Yar,7.2185,134.3824,9,0
+Palau,Yasi Island,7.3454,134.5121,9,0
+Palau,Yiilbelau,7.1282,134.2488,9,0
+Palau,Yo-suido,7.2132,134.3915,9,0

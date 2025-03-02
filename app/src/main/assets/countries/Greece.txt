@@ -1,0 +1,96 @@
+Greece,Agrinio_Aitolia kai Akarnania,38.6311,21.4175,2,132
+Greece,Alexandhroupolis_Evros,40.8572,25.8841,2,144
+Greece,Argos_Argolis,37.643,22.743,2,133
+Greece,Athens_Attiki,37.993,23.743,2,135
+Greece,Cephallenia_Kefallinia,38.2599,20.5932,2,130
+Greece,Chania_Chanion,35.5221,24.0255,2,131
+Greece,Chania_Trikala,39.4538,21.5649,2,134
+Greece,Chios,38.3777,26.1457,2,141
+Greece,Corfu_Kerkyra,39.6766,19.7599,2,131
+Greece,Creta,35.2599,24.7599,2,132
+Greece,Crete,35.1766,25.0099,2,133
+Greece,Didymotichon_Evros,41.3581,26.5061,2,146
+Greece,Drama,41.1644,24.1494,2,141
+Greece,Elefsina_Attiki,38.0434,23.5434,2,135
+Greece,Ioannina,39.678,20.8613,2,133
+Greece,Iraklion_Irakleion,35.1772,25.1772,2,133
+Greece,Iraklion_Serrai,41.2272,22.9105,2,139
+Greece,Iraklion,40.7772,23.0438,2,139
+Greece,Iraklion Harbor_Attiki,37.9688,23.6188,2,135
+Greece,Iraklion Harbour,35.3572,25.1605,2,133
+Greece,Jafer,41.2106,25.0273,2,143
+Greece,Jamali Rema_Pieria,40.3681,22.4503,2,137
+Greece,Jamion,39.7439,22.5439,2,136
+Greece,Janitsochori,37.4106,21.6939,2,130
+Greece,Janyina_Ioannina,39.7606,20.6773,2,133
+Greece,Jari,40.9939,24.4773,2,142
+Greece,Jijiler,40.2939,21.8773,2,136
+Greece,Johnston Bank,39.3106,25.3939,2,141
+Greece,Juma,40.4606,21.8439,2,136
+Greece,Juma Mahala,40.9773,23.3606,2,140
+Greece,Jumaya,41.1773,23.2773,2,140
+Greece,Jura_Kyklades,37.6273,24.7273,2,137
+Greece,Jura,41.3773,24.5606,2,142
+Greece,Jurt,41.4273,24.6273,2,143
+Greece,Kalamata_Messinia,37.0496,22.1249,2,131
+Greece,Kalo Nero,39.4607,22.544,2,136
+Greece,Karabairam,39.344,22.594,2,136
+Greece,Karlovassi Harbor_Samos,37.8057,26.6907,2,142
+Greece,Kavala,40.9504,24.4126,2,142
+Greece,Kavalariana,35.344,23.7607,2,130
+Greece,Kavalaris_Kilkis,41.2885,22.7968,2,139
+Greece,Kilkis,41.0107,22.6774,2,138
+Greece,Komotini_Rodopi,41.1335,25.4071,2,144
+Greece,Kos_Dodekanisos,36.904,27.2996,2,141
+Greece,Koufonisia_Kyklades,36.9318,25.6035,2,138
+Greece,Kozani,40.3118,21.7971,2,136
+Greece,Larissa_Larisa,39.5108,22.5108,2,136
+Greece,Lemnos_Lesvos,39.9275,25.2608,2,142
+Greece,Mavrovouni,39.4609,22.5942,2,136
+Greece,Megara_Attiki,38.0109,23.3565,2,135
+Greece,Mirina_Lesvos,39.8906,25.0851,2,141
+Greece,Mykonos_Kyklades,37.4609,25.3442,2,138
+Greece,Patras_Achaia,38.2556,21.7456,2,132
+Greece,Piraeus_Attiki,37.9726,23.6501,2,135
+Greece,Piramis Kitsevou,40.8779,21.2612,2,135
+Greece,Quaroni Rock,37.128,26.8613,2,141
+Greece,Rethymnon_Rethymnis,35.3761,24.4828,2,132
+Greece,Revmatia,39.3447,22.4447,2,135
+Greece,Rhodes_Dodekanisos,36.1781,28.0114,2,142
+Greece,Santorini_Kyklades,36.4071,25.4707,2,136
+Greece,Skotoussa,39.3948,22.5115,2,135
+Greece,Souda_Chanion,35.4959,24.0859,2,131
+Greece,Thessaloniki,40.6519,22.9555,2,138
+Greece,Thessaloniki Bay_Thessaloniki,40.6283,22.9283,2,138
+Greece,Timios Stavros,35.4283,23.6949,2,130
+Greece,Ubaya,41.2617,23.295,2,140
+Greece,Uchana,40.6117,21.795,2,136
+Greece,Uglis Potamos,41.2117,23.6617,2,140
+Greece,Umeni Reka,40.645,21.5784,2,136
+Greece,Unia Nisia_Dodekanisos,35.835,26.4698,2,137
+Greece,Urio,37.545,25.195,2,138
+Greece,Urisoules,37.3784,22.1617,2,131
+Greece,Ususlu_Kilkis,41.1139,22.8534,2,139
+Greece,Utch-Kaia,41.345,25.145,2,144
+Greece,Uzun Uluk Potamos,41.1284,25.5784,2,144
+Greece,Uzun-Koi,41.0617,24.6117,2,142
+Greece,Volos_Magnisia,39.3785,22.9576,2,136
+Greece,Weskukeika,38.1119,21.5452,2,131
+Greece,Western Thrace,41.0119,25.5119,2,144
+Greece,Windmill Point,39.6119,19.9452,2,131
+Greece,Wistonas_Kerkyra,39.7052,19.7069,2,131
+Greece,Witeika,38.1452,21.9286,2,132
+Greece,Wreck Rock,38.4619,21.0619,2,131
+Greece,Xanthi,41.1534,24.8956,2,143
+Greece,Yperia_Kyklades,36.8518,25.9093,2,138
+Greece,Ypsilas_Kerkyra,39.791,19.8854,2,131
+Greece,Ypso Bay_Kerkyra,39.7121,19.8621,2,131
+Greece,Ypsoma_Chios,38.2452,25.9871,2,141
+Greece,Ypsos_Kerkyra,39.7068,19.8488,2,131
+Greece,Zoodhokhos Piyi,39.3789,22.4122,2,135
+Greece,Zyfias_Chios,38.34,26.0916,2,141
+Greece,Zygogiannaiika_Karditsa,39.2553,21.735,2,134
+Greece,Zygos_Arta,39.2197,21.098,2,133
+Greece,Zygos,38.4622,21.4622,2,132
+Greece,Zygos_Kerkyra,39.7378,19.8111,2,131
+Greece,Zygourolivado_Karditsa,39.3341,21.6419,2,134

@@ -1,0 +1,279 @@
+Nicaragua,Daka Tingni_Atlantico Norte,14.36,-84.5733,-6,0
+Nicaragua,Dennis Cays_Atlantico Norte,14.4767,-82.8733,-6,0
+Nicaragua,Dipilto Viejo_Nueva Segovia,13.7433,-86.5067,-6,0
+Nicaragua,Diria_Granada,11.8933,-86.04,-6,0
+Nicaragua,Divisadero Liraqui,13.6767,-86.7733,-6,0
+Nicaragua,Duck Creek_Atlantico Sur,11.61,-83.69,-6,0
+Nicaragua,Facundo_Atlantico Sur,12.3269,-84.2231,-6,0
+Nicaragua,Falso Bluff_Atlantico Sur,12.1602,-83.6731,-6,0
+Nicaragua,Farallones de Cosiguina_Chinandega,13.093,-87.674,-6,0
+Nicaragua,Farrel Channel_Atlantico Norte,14.3935,-82.6898,-6,0
+Nicaragua,Farrel Reef_Atlantico Norte,14.3602,-82.6898,-6,0
+Nicaragua,Fendleys Reef_Atlantico Norte,14.1602,-82.7898,-6,0
+Nicaragua,Fila Cerro Frio_Matagalpa,13.0602,-85.8398,-6,0
+Nicaragua,Fila El Bosque_Matagalpa,13.0435,-85.7898,-6,0
+Nicaragua,Fila El Gobierno_Jinotega,13.1602,-85.8731,-6,0
+Nicaragua,Fila El Malacate_Chinandega,13.1602,-86.8398,-6,0
+Nicaragua,Fila El Pedernal_Chinandega,13.0602,-86.6898,-6,0
+Nicaragua,Fila El Venado_Nueva Segovia,13.8769,-86.0731,-6,0
+Nicaragua,Fila La Bujona_Nueva Segovia,13.5935,-85.9898,-6,0
+Nicaragua,Fila La Tranca,13.1435,-85.6231,-6,0
+Nicaragua,Fila Laguna Seca_Madriz,13.4602,-86.2898,-6,0
+Nicaragua,Fila Santa Basilia_Matagalpa,13.0269,-85.7565,-6,0
+Nicaragua,Fila Santa Isabel,13.3602,-86.5898,-6,0
+Nicaragua,Fila Ventilla_Nueva Segovia,13.5769,-85.9065,-6,0
+Nicaragua,Filadelfia_Chinandega,12.5935,-87.1065,-6,0
+Nicaragua,Filas de Cerro Verde_Atlantico Norte,13.2602,-85.1565,-6,0
+Nicaragua,Filas El Daniel_Atlantico Norte,13.4269,-85.0731,-6,0
+Nicaragua,Filas La Posolera_Matagalpa,13.3102,-85.4065,-6,0
+Nicaragua,Filete Cresta Montosa_Chinandega,12.9935,-87.5898,-6,0
+Nicaragua,Filete de Palo Alto_Managua,12.3935,-85.9731,-6,0
+Nicaragua,Filete La Fila Verde_Boaco,12.6102,-85.6231,-6,0
+Nicaragua,Filetes El Gallo_Carazo,11.6935,-86.2731,-6,0
+Nicaragua,Filo de Dipilto,13.7935,-86.5065,-6,0
+Nicaragua,Fish Creek_Rio San Juan,11.0602,-83.8231,-6,0
+Nicaragua,Flor_Rivas,11.3935,-85.9398,-6,0
+Nicaragua,Found Out Lagoon_Atlantico Sur,12.1602,-83.7065,-6,0
+Nicaragua,Franklin Reef_Atlantico Norte,14.1102,-82.7065,-6,0
+Nicaragua,French Cay_Atlantico Sur,12.4769,-83.4398,-6,0
+Nicaragua,Froster Cay_Atlantico Sur,12.4435,-83.4065,-6,0
+Nicaragua,Fruta de Pan_Rio San Juan,10.9769,-83.7565,-6,0
+Nicaragua,Fruta de Pan_Atlantico Norte,13.9769,-84.4065,-6,0
+Nicaragua,Fruta de Pan_Atlantico Sur,12.3935,-84.2231,-6,0
+Nicaragua,Fullen Point_Atlantico Sur,12.3935,-83.7231,-6,0
+Nicaragua,Fundadera_Jinotega,13.0769,-85.9065,-6,0
+Nicaragua,Hacienda Fatima_Rivas,11.1937,-85.7063,-6,0
+Nicaragua,Hacienda Guadalupe_Rivas,11.1937,-85.6563,-6,0
+Nicaragua,Hacienda La Palma_Rivas,11.2104,-85.5229,-6,0
+Nicaragua,Hacienda Las Brisas_Rivas,11.2437,-85.7396,-6,0
+Nicaragua,Ham Cays_Atlantico Norte,14.5771,-82.9563,-6,0
+Nicaragua,Hamacas_Chontales,12.0271,-84.9396,-6,0
+Nicaragua,Hanna Creek_Atlantico Sur,12.1437,-83.7563,-6,0
+Nicaragua,Hannibal Shoals_Atlantico Norte,14.4437,-82.5063,-6,0
+Nicaragua,Hansack Point_Atlantico Sur,12.0271,-83.7563,-6,0
+Nicaragua,Hatillo_Matagalpa,12.8437,-86.0229,-6,0
+Nicaragua,Hato de La Virgen_Chinandega,12.8104,-87.3896,-6,0
+Nicaragua,Hato Grande_Leon,12.4104,-86.8063,-6,0
+Nicaragua,Hato Nuevo_Chinandega,12.8271,-87.4063,-6,0
+Nicaragua,Hato Viejo_Leon,12.9271,-86.6063,-6,0
+Nicaragua,Haulover_Atlantico Norte,13.7104,-83.5063,-6,0
+Nicaragua,Hill Tara Tingni_Atlantico Norte,14.5437,-83.3229,-6,0
+Nicaragua,Hiyas_Atlantico Norte,13.5437,-85.2229,-6,0
+Nicaragua,Hog Cay_Atlantico Sur,11.9937,-83.7229,-6,0
+Nicaragua,Horno Chinampa,13.7937,-86.6563,-6,0
+Nicaragua,Horoal_Carazo,11.8937,-86.3396,-6,0
+Nicaragua,Huaunta_Atlantico Norte,13.5604,-83.5229,-6,0
+Nicaragua,Huehuete_Carazo,11.6271,-86.3063,-6,0
+Nicaragua,Humo_Boaco,12.6104,-85.1396,-6,0
+Nicaragua,J. L. Chavarria_Matagalpa,13.0773,-85.6394,-6,0
+Nicaragua,Jacote_Chontales,12.2606,-85.4561,-6,0
+Nicaragua,Jalapa_Nueva Segovia,13.9273,-86.1227,-6,0
+Nicaragua,Jalapa,13.9606,-86.1894,-6,0
+Nicaragua,Jeronimo_Matagalpa,12.7939,-85.6894,-6,0
+Nicaragua,Jicaral_Leon,12.7378,-86.3702,-6,0
+Nicaragua,Jicarito_Nueva Segovia,13.6606,-86.0727,-6,0
+Nicaragua,Jicarito_Leon,12.5439,-86.8061,-6,0
+Nicaragua,Jicaro_Nueva Segovia,13.7273,-86.1227,-6,0
+Nicaragua,Jicote_Matagalpa,12.8773,-86.1894,-6,0
+Nicaragua,Jinocuabo_Leon,12.6939,-86.5894,-6,0
+Nicaragua,Jinotega,13.1106,-85.9894,-6,0
+Nicaragua,Jinotepe_Carazo,11.8606,-86.1894,-6,0
+Nicaragua,Jiquilillo_Chinandega,12.7439,-87.4227,-6,0
+Nicaragua,Joaquin Zavala_Chinandega,12.6606,-87.1394,-6,0
+Nicaragua,Jobo_Chontales,11.7606,-85.2227,-6,0
+Nicaragua,Jocate_Esteli,13.3606,-86.2561,-6,0
+Nicaragua,Jocomico_Chinandega,13.2606,-86.7727,-6,0
+Nicaragua,Jocomico_Rivas,11.5439,-85.9061,-6,0
+Nicaragua,Jocomico_Jinotega,13.0273,-86.0561,-6,0
+Nicaragua,Jocote_Rivas,11.3439,-85.8394,-6,0
+Nicaragua,Jocote_Boaco,12.5773,-85.8394,-6,0
+Nicaragua,John Henderson Rock_Atlantico Norte,14.1939,-82.7227,-6,0
+Nicaragua,Juan Bautista Peguero_Chinandega,12.5637,-86.9677,-6,0
+Nicaragua,Juan Romero_Chinandega,12.6106,-87.0061,-6,0
+Nicaragua,Juan-Blan_Jinotega,13.8773,-85.7227,-6,0
+Nicaragua,Jucuapa Abajo_Matagalpa,12.8773,-85.9727,-6,0
+Nicaragua,Jucuapa Arriba_Matagalpa,12.8773,-85.9227,-6,0
+Nicaragua,Juigalpa_Chontales,12.0939,-85.3894,-6,0
+Nicaragua,Jumuyca_Nueva Segovia,13.6606,-86.1727,-6,0
+Nicaragua,Kauma Kwas Tingni_Atlantico Norte,14.3107,-84.3726,-6,0
+Nicaragua,Kiawas_Atlantico Sur,13.1774,-84.1226,-6,0
+Nicaragua,Kligna_Atlantico Norte,14.5774,-84.4226,-6,0
+Nicaragua,Kukulaya_Atlantico Norte,13.7107,-83.6893,-6,0
+Nicaragua,Managua,12.1617,-86.2574,-6,0
+Nicaragua,Nacascolo_Rivas,11.5777,-85.839,-6,0
+Nicaragua,Nacascolo_Leon,13.011,-86.4723,-6,0
+Nicaragua,Nagarote_Leon,12.2785,-86.5543,-6,0
+Nicaragua,Nagualapa_Leon,12.3943,-87.039,-6,0
+Nicaragua,Nahuahuas_Atlantico Norte,14.7277,-84.739,-6,0
+Nicaragua,Nancemi_Rivas,11.4777,-85.9557,-6,0
+Nicaragua,Nancite Dulce_Rivas,11.3777,-85.8057,-6,0
+Nicaragua,Nancite Dulce_Carazo,11.7777,-86.139,-6,0
+Nicaragua,Nandaime_Rivas,11.2777,-85.8557,-6,0
+Nicaragua,Nandarola_Granada,11.6943,-86.0223,-6,0
+Nicaragua,Nandasmo_Masaya,11.9443,-86.1057,-6,0
+Nicaragua,Nandayosi_Managua,12.1277,-86.5057,-6,0
+Nicaragua,Naranja_Rivas,11.0943,-85.7057,-6,0
+Nicaragua,Naranjo_Matagalpa,12.9277,-85.8057,-6,0
+Nicaragua,Naranjo_Managua,12.6277,-86.2223,-6,0
+Nicaragua,Nasma Almuk_Atlantico Norte,14.6443,-84.5223,-6,0
+Nicaragua,Nassa Cays_Atlantico Norte,14.3277,-82.939,-6,0
+Nicaragua,Navarretes_Carazo,11.811,-86.4557,-6,0
+Nicaragua,Nawawas_Atlantico Sur,12.5777,-84.7223,-6,0
+Nicaragua,Ned Thomas Cay_Atlantico Norte,14.1777,-82.789,-6,0
+Nicaragua,Nee Reef_Atlantico Norte,14.5443,-82.5557,-6,0
+Nicaragua,Nihrtara_Atlantico Norte,14.461,-83.3057,-6,0
+Nicaragua,Ninayeri_Atlantico Norte,14.4777,-83.2723,-6,0
+Nicaragua,Nindiri_Masaya,12.0157,-86.1084,-6,0
+Nicaragua,Niqui_Masaya,11.911,-86.089,-6,0
+Nicaragua,Nombre de Jesus_Matagalpa,12.5943,-85.939,-6,0
+Nicaragua,North Creek_Atlantico Norte,13.211,-83.5723,-6,0
+Nicaragua,Northwest Reef_Atlantico Norte,14.6277,-82.7723,-6,0
+Nicaragua,Northwest Spot_Atlantico Norte,14.211,-82.739,-6,0
+Nicaragua,Novios_Managua,12.3443,-86.039,-6,0
+Nicaragua,Nubes_Masaya,12.0277,-86.2723,-6,0
+Nicaragua,Nueva Guinea_Atlantico Sur,11.6943,-84.439,-6,0
+Nicaragua,Nuevo Amanecer_Atlantico Sur,12.8277,-84.189,-6,0
+Nicaragua,Obraje_Chinandega,12.8111,-86.9556,-6,0
+Nicaragua,Obraje_Leon,12.4611,-86.6056,-6,0
+Nicaragua,Obregon_Granada,11.9611,-85.9389,-6,0
+Nicaragua,Obregones_Matagalpa,12.7778,-85.7722,-6,0
+Nicaragua,Ochomogo_Rivas,11.6778,-85.9722,-6,0
+Nicaragua,Ococono_Nueva Segovia,13.7444,-86.6056,-6,0
+Nicaragua,Oconguas_Nueva Segovia,13.6444,-85.9056,-6,0
+Nicaragua,Oconwas_Atlantico Norte,13.7611,-84.1722,-6,0
+Nicaragua,Ocote de Abajo_Matagalpa,12.7611,-85.8556,-6,0
+Nicaragua,Ocotillo_Leon,12.7778,-86.3389,-6,0
+Nicaragua,Ocoton_Leon,12.6944,-86.8056,-6,0
+Nicaragua,Oculi_Jinotega,14.1778,-85.2556,-6,0
+Nicaragua,Ojoche_Nueva Segovia,13.4611,-86.1222,-6,0
+Nicaragua,Ojoche_Leon,12.6278,-86.6722,-6,0
+Nicaragua,Olama_Matagalpa,12.7278,-85.5389,-6,0
+Nicaragua,Olankeri_Atlantico Norte,14.2278,-83.5056,-6,0
+Nicaragua,Oli,13.7111,-84.8389,-6,0
+Nicaragua,Olimpo_Managua,11.9611,-86.3722,-6,0
+Nicaragua,Olomega_Leon,12.7278,-86.8556,-6,0
+Nicaragua,Omar Torrijos_Leon,12.2864,-86.8314,-6,0
+Nicaragua,Orilla_Granada,11.7944,-86.0389,-6,0
+Nicaragua,Orinoco_Atlantico Sur,12.5611,-83.7056,-6,0
+Nicaragua,Orosi_Rivas,11.1611,-85.3389,-6,0
+Nicaragua,Orota_Leon,12.5611,-86.7389,-6,0
+Nicaragua,Ostional_Rivas,11.1278,-85.7556,-6,0
+Nicaragua,Ostocal_Managua,12.3278,-85.9556,-6,0
+Nicaragua,Owen Shoals_Atlantico Norte,14.2944,-82.5556,-6,0
+Nicaragua,Oyanca,12.9444,-86.2389,-6,0
+Nicaragua,Oyoto_Nueva Segovia,13.4944,-86.7222,-6,0
+Nicaragua,Truskusirpi_Atlantico Norte,14.8116,-83.7384,-6,0
+Nicaragua,Uaflatara Rocks_Atlantico Norte,14.5784,-83.1883,-6,0
+Nicaragua,Uaham Cay_Atlantico Norte,14.395,-83.0216,-6,0
+Nicaragua,Ualpatara Reefs_Atlantico Norte,14.4617,-82.955,-6,0
+Nicaragua,Uanuatkira Rock_Atlantico Norte,14.4284,-82.855,-6,0
+Nicaragua,Uhran_Atlantico Norte,14.9617,-83.5216,-6,0
+Nicaragua,Uhri_Atlantico Norte,14.7784,-83.8216,-6,0
+Nicaragua,Uiplin Reefs_Atlantico Norte,14.4117,-82.9383,-6,0
+Nicaragua,Ukapina_Jinotega,14.195,-85.155,-6,0
+Nicaragua,Ukunni_Atlantico Norte,14.1617,-83.605,-6,0
+Nicaragua,Ulona River_Atlantico Norte,14.4617,-83.2216,-6,0
+Nicaragua,Uluaquin_Jinotega,14.1617,-85.505,-6,0
+Nicaragua,Ulwas_Atlantico Norte,14.7617,-83.9383,-6,0
+Nicaragua,Ulwas Tara_Atlantico Norte,14.7617,-83.9883,-6,0
+Nicaragua,Umbra Sumal_Atlantico Norte,14.6617,-84.6883,-6,0
+Nicaragua,Umbra Tingne_Atlantico Norte,14.6784,-84.655,-6,0
+Nicaragua,Umukhuas_Atlantico Norte,14.4117,-84.5383,-6,0
+Nicaragua,Unanwas Tingni_Atlantico Norte,14.5617,-84.5383,-6,0
+Nicaragua,Upa_Matagalpa,12.9284,-85.605,-6,0
+Nicaragua,Upla Pruan_Jinotega,14.395,-85.1883,-6,0
+Nicaragua,Urbaite_Rivas,11.5284,-85.5716,-6,0
+Nicaragua,Uskira_Atlantico Norte,14.495,-83.2716,-6,0
+Nicaragua,Usupon River_Atlantico Norte,13.845,-83.655,-6,0
+Nicaragua,Utila_Managua,12.045,-86.255,-6,0
+Nicaragua,Utlamasta_Atlantico Norte,14.995,-83.5216,-6,0
+Nicaragua,Wacwac_Atlantico Norte,13.9452,-83.5548,-6,0
+Nicaragua,Waham Reef_Atlantico Norte,14.5119,-82.8714,-6,0
+Nicaragua,Wailawas_Atlantico Norte,13.6619,-84.8214,-6,0
+Nicaragua,Wakaban_Atlantico Norte,14.0952,-83.5714,-6,0
+Nicaragua,Wakalwas Tingni_Atlantico Norte,14.5786,-84.8214,-6,0
+Nicaragua,Walakitan_Jinotega,14.5452,-85.0714,-6,0
+Nicaragua,Walkaeaya_Atlantico Sur,13.1286,-83.8881,-6,0
+Nicaragua,Walpa_Atlantico Sur,12.9452,-83.5214,-6,0
+Nicaragua,Wana Lagoon_Atlantico Norte,14.7619,-83.3214,-6,0
+Nicaragua,Wanar Kaban Bay_Atlantico Norte,14.3119,-83.2548,-6,0
+Nicaragua,Wani Tingni_Atlantico Norte,14.8119,-83.4048,-6,0
+Nicaragua,Wankluma_Atlantico Norte,13.2286,-83.5714,-6,0
+Nicaragua,Wanks River,15.0119,-83.1548,-6,0
+Nicaragua,Wari Creek Hill_Atlantico Norte,14.5952,-84.3214,-6,0
+Nicaragua,Wari Tingni_Atlantico Norte,14.6452,-84.2881,-6,0
+Nicaragua,Warnata_Atlantico Norte,14.3786,-83.5548,-6,0
+Nicaragua,Wasallama_Matagalpa,13.0786,-84.9881,-6,0
+Nicaragua,Wasbinusny Tingni_Atlantico Norte,14.4786,-84.4548,-6,0
+Nicaragua,Wasbuzo Tingni_Atlantico Norte,14.4286,-84.1381,-6,0
+Nicaragua,Waska_Atlantico Norte,14.8119,-83.7214,-6,0
+Nicaragua,Wasla Sirpe Tingni_Atlantico Norte,14.7119,-83.7214,-6,0
+Nicaragua,Wasla Tara_Atlantico Norte,14.6952,-83.6881,-6,0
+Nicaragua,Waslala_Matagalpa,12.9286,-85.9548,-6,0
+Nicaragua,Waslala_Atlantico Norte,13.2452,-85.3714,-6,0
+Nicaragua,Wasliwas_Atlantico Norte,14.3786,-83.8881,-6,0
+Nicaragua,Waspado_Atlantico Norte,13.6786,-84.8548,-6,0
+Nicaragua,Waspam_Atlantico Norte,14.7452,-83.9548,-6,0
+Nicaragua,Waspook_Atlantico Norte,14.6452,-84.4214,-6,0
+Nicaragua,Waspuk_Atlantico Norte,13.8119,-84.8714,-6,0
+Nicaragua,Wasurta Tingni_Atlantico Norte,14.4286,-84.2381,-6,0
+Nicaragua,Waula Point_Atlantico Sur,12.1786,-83.0548,-6,0
+Nicaragua,Wawa_Atlantico Norte,13.8952,-83.4548,-6,0
+Nicaragua,Wawasang_Atlantico Sur,12.5952,-83.7381,-6,0
+Nicaragua,Wawule_Matagalpa,12.9452,-85.7714,-6,0
+Nicaragua,Wayawas_Jinotega,14.3786,-85.1881,-6,0
+Nicaragua,Waylaska Tingni_Atlantico Norte,14.4952,-84.3881,-6,0
+Nicaragua,Wil Wil Tingni_Atlantico Norte,13.8286,-84.2048,-6,0
+Nicaragua,Wilder_Atlantico Norte,14.5786,-83.6048,-6,0
+Nicaragua,Wiliwa_Boaco,12.6286,-85.5548,-6,0
+Nicaragua,Williams Cay_Atlantico Sur,12.0119,-83.7381,-6,0
+Nicaragua,Willing Cay_Atlantico Sur,11.7119,-83.6714,-6,0
+Nicaragua,Wirapahani_Atlantico Norte,14.6952,-84.2381,-6,0
+Nicaragua,Witties Reef_Atlantico Norte,14.1786,-82.7048,-6,0
+Nicaragua,Wiwas_Atlantico Norte,14.4119,-83.7714,-6,0
+Nicaragua,Wiwili_Nueva Segovia,13.6286,-85.8214,-6,0
+Nicaragua,Wiwinak_Atlantico Norte,14.6286,-84.4548,-6,0
+Nicaragua,Wualpaxisco_Atlantico Norte,13.4786,-83.5381,-6,0
+Nicaragua,Wuina_Jinotega,14.0786,-85.2881,-6,0
+Nicaragua,Xiloa_Managua,12.2337,-86.3086,-6,0
+Nicaragua,Xolotlan,12.3517,-86.3386,-6,0
+Nicaragua,Yabaltara_Atlantico Norte,13.6121,-83.9046,-6,0
+Nicaragua,Yablis_Atlantico Norte,14.1788,-83.8046,-6,0
+Nicaragua,Yacalguas_Jinotega,13.7121,-85.7712,-6,0
+Nicaragua,Yacica_Matagalpa,13.0121,-85.7879,-6,0
+Nicaragua,Yagualica_Jinotega,13.0621,-86.0379,-6,0
+Nicaragua,Yakalpanani_Jinotega,14.1454,-85.4546,-6,0
+Nicaragua,Yalaguina_Madriz,13.4954,-86.4712,-6,0
+Nicaragua,Yali_Jinotega,13.3121,-86.1712,-6,0
+Nicaragua,Yami Bila_Atlantico Norte,14.6121,-83.3046,-6,0
+Nicaragua,Yankee Bila_Atlantico Norte,13.9788,-83.4879,-6,0
+Nicaragua,Yaoya_Atlantico Norte,13.6454,-84.6712,-6,0
+Nicaragua,Yaroki_Matagalpa,13.1954,-85.0046,-6,0
+Nicaragua,Yaule Abajo_Matagalpa,12.9121,-85.9712,-6,0
+Nicaragua,Yauya_Atlantico Norte,13.4621,-84.2546,-6,0
+Nicaragua,Yayule_Matagalpa,12.9954,-85.7212,-6,0
+Nicaragua,Younga_Chontales,11.8788,-84.8046,-6,0
+Nicaragua,Yslinwas Tingni_Atlantico Norte,14.3454,-84.3546,-6,0
+Nicaragua,Yucapuca_Jinotega,13.1954,-86.0212,-6,0
+Nicaragua,Yucapuca_Boaco,12.5621,-85.4879,-6,0
+Nicaragua,Yucica-Sur_Matagalpa,12.9788,-85.7879,-6,0
+Nicaragua,Yulnata_Atlantico Norte,14.6454,-83.6546,-6,0
+Nicaragua,Yulu_Atlantico Norte,14.0788,-83.5712,-6,0
+Nicaragua,Yulu Tingni_Atlantico Norte,14.4288,-83.9712,-6,0
+Nicaragua,Yupali_Jinotega,13.1288,-86.1546,-6,0
+Nicaragua,Zacatera_Nueva Segovia,13.5955,-85.8545,-6,0
+Nicaragua,Zaguatepe_Boaco,12.5289,-85.6378,-6,0
+Nicaragua,Zamaria_Jinotega,13.2955,-86.1211,-6,0
+Nicaragua,Zambrana_Managua,12.1614,-86.0678,-6,0
+Nicaragua,Zanatita_Rivas,11.2289,-85.2545,-6,0
+Nicaragua,Zancudal_Jinotega,13.4622,-86.1545,-6,0
+Nicaragua,Zapata_Leon,12.64,-86.6903,-6,0
+Nicaragua,Zapotal_Managua,12.1622,-86.1045,-6,0
+Nicaragua,Zapotal_Nueva Segovia,13.7122,-86.7545,-6,0
+Nicaragua,Zapote_Chinandega,12.5789,-87.2878,-6,0
+Nicaragua,Zapote_Madriz,13.5955,-86.4211,-6,0
+Nicaragua,Zapotilla_Nueva Segovia,13.6289,-86.0378,-6,0
+Nicaragua,Zapotillo_Rivas,11.1622,-85.3711,-6,0
+Nicaragua,Zapotillo,13.5122,-86.7378,-6,0
+Nicaragua,Zarzales_Leon,12.6739,-86.425,-6,0
+Nicaragua,Zavalos_Rio San Juan,11.0455,-84.4711,-6,0

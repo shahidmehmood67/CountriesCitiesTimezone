@@ -1,0 +1,91 @@
+New Zealand,Albany,-36.7167,174.7000,12,262
+New Zealand,Auckland,-37.0000,175.0000,12,261
+New Zealand,Auckland Harbour,-36.8333,174.8333,12,261
+New Zealand,Auckland Island,-50.7167,166.1333,12,256
+New Zealand,Auckland Islands,-50.6667,166.5000,12,255
+New Zealand,Auckland Rock,-39.4642,176.9319,12,257
+New Zealand,Blenheim,-41.5167,173.9500,12,257
+New Zealand,Canterbury,-43.5000,171.5000,12,257
+New Zealand,Christchurch,-43.5333,172.6667,12,256
+New Zealand,Dunedin,-45.8833,170.5167,12,256
+New Zealand,Gisborne,-38.6667,178.0167,12,257
+New Zealand,Glenfield,-36.7667,174.7333,12,262
+New Zealand,Greymouth,-42.4500,171.2000,12,258
+New Zealand,Hamilton,-37.7833,175.2833,12,260
+New Zealand,Hamilton Bay,-40.9833,173.8500,12,258
+New Zealand,Hamilton Burn,-45.7833,168.1833,12,258
+New Zealand,Hamilton Peak,-43.1167,171.6833,12,257
+New Zealand,Hamiltons Gap,-37.1333,174.5667,12,261
+New Zealand,Hastings,-39.6333,176.8500,12,257
+New Zealand,Hawera,-39.5833,174.2833,12,259
+New Zealand,Hawke s Bay,-39.5000,176.6667,12,257
+New Zealand,Invercargill,-46.4167,168.3500,12,257
+New Zealand,Kilbirnie,-41.3167,174.8000,12,257
+New Zealand,Lincoln,-43.6500,172.4833,12,256
+New Zealand,Manukau City,-36.9667,174.8000,12,261
+New Zealand,Maungakaramea,-35.8500,174.2167,12,263
+New Zealand,Morrinsville,-37.6500,175.5333,12,260
+New Zealand,Mount Eden,-36.8833,174.7500,12,261
+New Zealand,Mount Roskill,-36.9167,174.7500,12,261
+New Zealand,Napier,-39.4833,176.9167,12,257
+New Zealand,Nelson,-41.6667,172.5000,12,258
+New Zealand,New Lynn,-36.9167,174.6667,12,261
+New Zealand,New Plymouth,-39.0667,175.0667,12,259
+New Zealand,New Plymouth City,-39.0667,174.0833,12,260
+New Zealand,North Shore,-36.8000,174.7500,12,261
+New Zealand,Onehunga,-36.9167,174.7833,12,261
+New Zealand,Otahuhu,-36.9500,174.8500,12,261
+New Zealand,Otahuhu Point,-36.7856,174.9281,12,261
+New Zealand,Pakuranga,-36.8833,174.9167,12,261
+New Zealand,Palmerston North,-40.3667,175.6167,12,257
+New Zealand,Palmerston North City,-40.3500,175.6167,12,257
+New Zealand,Panmure,-36.8833,174.8667,12,261
+New Zealand,Ponsonby,-36.8500,174.7333,12,261
+New Zealand,Queenstown,-45.0333,168.6667,12,258
+New Zealand,Ranui Station,-36.8667,174.6167,12,262
+New Zealand,Riccarton,-43.5333,172.6000,12,256
+New Zealand,Roto Rua,-38.0833,176.2667,12,259
+New Zealand,Rotorua,-38.1500,176.2500,12,259
+New Zealand,Takanini,-37.0333,174.9167,12,261
+New Zealand,Taupo,-38.6833,176.0833,12,258
+New Zealand,Tauranga,-37.6833,176.1667,12,259
+New Zealand,Tauranga Airport,-37.6728,176.1939,12,259
+New Zealand,Tauranga Entrance,-37.6333,176.1667,12,259
+New Zealand,Te Anau,-45.3333,167.8500,12,259
+New Zealand,Timaru City,-44.4000,171.2500,12,257
+New Zealand,Valhalla Creek,-42.0167,174.0000,12,257
+New Zealand,Vancouver,-48.0333,166.5000,12,257
+New Zealand,Vancouver Arm,-45.5500,166.8833,12,259
+New Zealand,Vanina Stream,-42.9833,170.9500,12,258
+New Zealand,Venlaw,-46.3000,169.0333,12,257
+New Zealand,Venus Bay,-52.5608,169.1417,12,251
+New Zealand,Venus Cove,-52.5614,169.1361,12,251
+New Zealand,Vernon,-41.5667,173.9833,12,257
+New Zealand,Vernon Homestead,-41.5667,174.0667,12,257
+New Zealand,Verona Stream,-39.2667,175.1167,12,259
+New Zealand,Veronica Channel,-35.3000,174.1167,12,264
+New Zealand,Verter Burn,-45.8667,169.9833,12,256
+New Zealand,Victor Peak,-45.1167,167.1667,12,259
+New Zealand,Victoria Glacier,-43.5000,170.1167,12,258
+New Zealand,Victoria Gully,-45.5333,168.7000,12,258
+New Zealand,Victory Island,-40.7333,173.9167,12,258
+New Zealand,Vine Creek,-42.9667,171.1333,12,258
+New Zealand,Volta Glacier,-44.3667,168.7667,12,259
+New Zealand,Vosper Creek,-41.1000,172.8000,12,258
+New Zealand,Wanganui,-39.9500,175.0167,12,258
+New Zealand,Wellington,-41.2833,174.7667,12,257
+New Zealand,Wellington Harbour,-41.2833,174.8333,12,257
+New Zealand,Wellington Head,-41.2000,174.3833,12,257
+New Zealand,Wellington Reach,-35.7725,174.3783,12,263
+New Zealand,Wellington Rock,-36.5828,174.8192,12,262
+New Zealand,Wellington Statistical Area,-41.0000,175.5000,12,256
+New Zealand,Whangarei,-35.7333,174.3333,12,263
+New Zealand,Xmas Creek,-41.7500,171.6833,12,259
+New Zealand,Yncyca Bay,-41.1333,173.9000,12,258
+New Zealand,Zampa,-42.3500,172.4500,12,258
+New Zealand,Zeilian Creek,-43.9000,169.5167,12,258
+New Zealand,Zeno Rock,-36.7133,174.9906,12,261
+New Zealand,Zig-zag Creek,-44.1000,169.3500,12,258
+New Zealand,Zigzag,-43.6500,172.9167,12,256
+New Zealand,Zora Creek,-43.8167,169.8333,12,258
+New Zealand,Zora Glacier,-43.7667,169.8500,12,258

@@ -1,0 +1,88 @@
+Cuba,1 de Enero,21.9500,-78.4333,-5GMT,58
+Cuba,1 de Mayo,22.3500,-80.7833,-5GMT,57
+Cuba,2 da Palma,22.2167,-80.2667,-5GMT,57
+Cuba,2 de Mayo,22.7333,-81.7500,-5GMT,57
+Cuba,3 Hermanos,21.5167,-77.4833,-5GMT,59
+Cuba,4 Catalino,23.0167,-82.6167,-5GMT,56
+Cuba,Camaguey_Cienfuegos,22.1167,-80.5667,-5GMT,57
+Cuba,Camaguey_Santiago de Cuba,20.3000,-76.0500,-5GMT,60
+Cuba,Camaguey_Ciego de Avila,22.3667,-79.2667,-5GMT,58
+Cuba,Camaguey_Villa Clara,22.5667,-80.4500,-5GMT,57
+Cuba,Guantanamo,20.1453,-75.2061,-5GMT,60
+Cuba,Guantanamo Bay,20.0033,-75.1333,-5GMT,61
+Cuba,Guantanamo Bay Naval Airstation,19.9000,-75.2000,-5GMT,61
+Cuba,H. Casimba,20.2167,-74.1833,-5GMT,61
+Cuba,H. La Asuncion,20.2000,-74.1833,-5GMT,61
+Cuba,H. Molina,22.9500,-80.6333,-5GMT,57
+Cuba,Havana,23.1319,-82.3642,-5GMT,56
+Cuba,Havana Province,22.7500,-82.1667,-5GMT,56
+Cuba,Holguin,20.7833,-76.4833,-5GMT,60
+Cuba,Kabal'o-Dos,21.7694,-78.8144,-5GMT,58
+Cuba,Kacayo Breton,21.1172,-79.4258,-5GMT,58
+Cuba,Kaguasal,21.8594,-78.8561,-5GMT,58
+Cuba,Kamalote,21.8225,-78.8142,-5GMT,58
+Cuba,Kampo-Atuey,21.9219,-78.9911,-5GMT,58
+Cuba,Kangalito,21.9875,-78.8078,-5GMT,58
+Cuba,Kastil o,21.6642,-78.9286,-5GMT,58
+Cuba,Kentucky,20.0167,-75.6000,-5GMT,60
+Cuba,Kessel,22.7833,-82.8500,-5GMT,60
+Cuba,Kilo Nueve,22.3089,-78.7989,-5GMT,58
+Cuba,Kilometro 45,20.2333,-75.3000,-5GMT,60
+Cuba,Kimamura,22.4833,-83.4333,-5GMT,56
+Cuba,Kindelan,21.8667,-77.9667,-5GMT,59
+Cuba,Kirichi,21.6844,-78.3092,-5GMT,59
+Cuba,Kittery Beach,19.9014,-75.0892,-5GMT,60
+Cuba,Kohly,23.1092,-82.4108,-5GMT,56
+Cuba,Kosalia Soto,20.0500,-75.5167,-5GMT,60
+Cuba,Krusero-Pitakhones,21.7181,-78.8128,-5GMT,58
+Cuba,Kubi,22.9167,-82.4500,-5GMT,56
+Cuba,La Habana,23.1333,-82.0167,-5GMT,56
+Cuba,La Habana_Camaguey,21.3614,-78.3361,-5GMT,59
+Cuba,Matanzas_Pinar del Rio,22.6667,-83.5500,-5GMT,56
+Cuba,Matanzas_Holguin,21.0833,-75.9000,-5GMT,60
+Cuba,Matanzas Terminal,23.0667,-81.5333,-5GMT,57
+Cuba,Uberal,20.0667,-75.2667,-5GMT,60
+Cuba,Ugarte,22.4500,-79.9833,-5GMT,58
+Cuba,Ulacia,22.6725,-80.2017,-5GMT,57
+Cuba,Ulises,21.2000,-77.6167,-5GMT,59
+Cuba,Ullao,20.1750,-75.8150,-5GMT,60
+Cuba,Ulloa,22.4333,-80.3333,-5GMT,57
+Cuba,Ulpiano Fuentes,22.2333,-80.4000,-5GMT,57
+Cuba,Unas,21.0106,-76.3178,-5GMT,60
+Cuba,Unidad Proletaria,22.6833,-80.0167,-5GMT,57
+Cuba,Unitas,21.0414,-76.3100,-5GMT,60
+Cuba,Unzueta,22.8222,-81.0722,-5GMT,57
+Cuba,Urabo,21.5833,-78.1667,-5GMT,59
+Cuba,Urbano Noris,20.6000,-76.1333,-5GMT,60
+Cuba,Uriarte,22.7833,-80.0667,-5GMT,57
+Cuba,Uribi,22.0333,-80.3833,-5GMT,57
+Cuba,Urrechaga Grendier,22.8667,-81.4500,-5GMT,57
+Cuba,Urrutia_La Habana,22.8667,-82.3500,-5GMT,56
+Cuba,Urrutia_Villa Clara,22.3167,-79.5333,-5GMT,58
+Cuba,Urzurico,22.8833,-82.4333,-5GMT,56
+Cuba,Usabiaga,22.3833,-80.8000,-5GMT,57
+Cuba,Uvero_La Habana,22.9000,-82.5500,-5GMT,56
+Cuba,Uvero_Villa Clara,22.8589,-79.9283,-5GMT,57
+Cuba,Uvero_Santiago de Cuba,19.9542,-76.6061,-5GMT,60
+Cuba,Uvilla,21.0294,-75.8461,-5GMT,60
+Cuba,Varadero,23.1333,-81.3000,-5GMT,57
+Cuba,Varadero Beach,23.1500,-81.2667,-5GMT,57
+Cuba,Waganes,22.7667,-82.1000,-5GMT,56
+Cuba,Wajay_Ciudad de La Habana,23.0033,-82.4228,-5GMT,56
+Cuba,Wajay_Matanzas,22.8394,-81.6739,-5GMT,57
+Cuba,Waldo Diaz,22.8444,-80.5000,-5GMT,57
+Cuba,Walfrido,21.4667,-77.8667,-5GMT,59
+Cuba,Warren,21.7333,-78.7167,-5GMT,58
+Cuba,Webster,22.9217,-81.3294,-5GMT,57
+Cuba,Wencenslao Alonzo,21.5833,-78.5667,-5GMT,59
+Cuba,Wenceslao,21.6167,-78.6000,-5GMT,58
+Cuba,Wilfredo Pages,22.5333,-80.0167,-5GMT,58
+Cuba,William Soler,22.6500,-81.1333,-5GMT,57
+Cuba,Windmill Beach,19.8972,-75.1075,-5GMT,61
+Cuba,Windward Passage,20.0000,-73.8333,-5GMT,61
+Cuba,Windward Point,20.0167,-74.8500,-5GMT,61
+Cuba,Wireless Inlet,19.9667,-75.1333,-5GMT,61
+Cuba,Woodfred,20.5667,-75.7167,-5GMT,60
+Cuba,Xavier,20.3000,-76.1333,-5GMT,60
+Cuba,Xenes,22.9667,-81.8167,-5GMT,56
+Cuba,Xumancia,22.9667,-81.8000,-5GMT,56

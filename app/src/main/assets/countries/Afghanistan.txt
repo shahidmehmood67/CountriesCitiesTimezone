@@ -1,0 +1,86 @@
+Afghanistan,Aacbana,33.9008,66.0275,4.5GMT,249
+Afghanistan,Aaqadari Yosufkhel,33.0525,68.6481,4.5GMT,253
+Afghanistan,Ab Bakhsh,34.8667,63.2667,4.5GMT,243
+Afghanistan,Afamri Pass,35.8850,64.6794,4.5GMT,243
+Afghanistan,Aibak,36.2653,68.0167,4.5GMT,247
+Afghanistan,Aoshera,35.1933,63.0244,4.5GMT,242
+Afghanistan,Ara Kuh,32.2586,62.2547,4.5GMT,247
+Afghanistan,As Pesta,33.1272,66.7850,4.5GMT,251
+Afghanistan,Asadabad,34.8742,71.1431,4.5GMT,252
+Afghanistan,Ba Khersak,37.8611,71.1206,4.5GMT,248
+Afghanistan,Badakhshan,36.7500,72.0000,4.5GMT,250
+Afghanistan,Bagram,34.9661,69.2547,4.5GMT,250
+Afghanistan,Bagrame,34.4911,69.2756,4.5GMT,251
+Afghanistan,Balkh,36.6500,66.9333,4.5GMT,245
+Afghanistan,Balkhab,35.4783,66.6375,4.5GMT,246
+Afghanistan,Balkhak,33.7636,66.3606,4.5GMT,249
+Afghanistan,Balkhel,33.5594,69.8439,4.5GMT,253
+Afghanistan,Balkherzay,31.5922,67.1669,4.5GMT,254
+Afghanistan,Balkhian,33.6975,68.1978,4.5GMT,251
+Afghanistan,Balkhyan,34.2333,62.6500,4.5GMT,244
+Afghanistan,Ca khana,33.4719,65.7342,4.5GMT,249
+Afghanistan,Chalowza`i,33.9603,68.8733,4.5GMT,252
+Afghanistan,Da Afghanestan Shahi Dowlat,33.0000,65.0000,4.5GMT,249
+Afghanistan,Dyare Sermohammad,34.7333,68.6333,4.5GMT,250
+Afghanistan,Emarat,31.5200,66.3886,4.5GMT,254
+Afghanistan,Etomak,35.7719,67.3256,4.5GMT,247
+Afghanistan,Evadzkhel,33.3811,69.3700,4.5GMT,253
+Afghanistan,Fariab,36.0000,65.0000,4.5GMT,243
+Afghanistan,Flon,38.1336,70.5044,4.5GMT,247
+Afghanistan,Frich,36.7606,70.8886,4.5GMT,249
+Afghanistan,Gardez,33.5900,69.2325,4.5GMT,253
+Afghanistan,Gardezkhel,33.8736,69.2253,4.5GMT,252
+Afghanistan,Gereshk,31.8189,64.5703,4.5GMT,251
+Afghanistan,Ghazni,33.5608,68.3958,4.5GMT,252
+Afghanistan,Ghazni Dam,33.7575,68.3803,4.5GMT,251
+Afghanistan,Ghazni Gak,36.5386,67.8217,4.5GMT,246
+Afghanistan,Ghazni Lgad,34.1133,69.6361,4.5GMT,252
+Afghanistan,Ghazni River,32.7419,68.0972,4.5GMT,253
+Afghanistan,Ghaznigak,32.6275,65.8903,4.5GMT,251
+Afghanistan,Herat,34.3450,62.1997,4.5GMT,243
+Afghanistan,Herati,30.8972,64.1300,4.5GMT,252
+Afghanistan,Jalalabad,36.7647,65.8786,4.5GMT,243
+Afghanistan,Kabul,34.5167,69.1833,4.5GMT,251
+Afghanistan,Kabul Daraz,34.3442,62.2819,4.5GMT,243
+Afghanistan,Kabul River,33.9167,72.2333,4.5GMT,255
+Afghanistan,Kabul Tsappar,34.5667,70.9333,4.5GMT,253
+Afghanistan,Kabulay Mandeh,31.6731,67.1222,4.5GMT,254
+Afghanistan,Kabuli,33.4417,68.3367,4.5GMT,252
+Afghanistan,Kabuli Farari,35.5911,63.3347,4.5GMT,242
+Afghanistan,Kabuli Qeslaq,36.7242,69.0892,4.5GMT,247
+Afghanistan,Kabulian,32.0728,65.8731,4.5GMT,252
+Afghanistan,Kabuliha,34.3397,62.1517,4.5GMT,243
+Afghanistan,Kapissa,34.9056,69.7417,4.5GMT,251
+Afghanistan,Khowst,33.4186,70.2878,4.5GMT,254
+Afghanistan,Kunar,34.9500,71.1333,4.5GMT,252
+Afghanistan,Kywaja Laken,34.2311,70.1558,4.5GMT,252
+Afghanistan,Lashkar Gah,31.5831,64.3692,4.5GMT,251
+Afghanistan,Lgad,33.6469,69.9992,4.5GMT,253
+Afghanistan,Logar,33.8333,69.0000,4.5GMT,252
+Afghanistan,Mazar,33.9189,64.9536,4.5GMT,247
+Afghanistan,Mazar-i-Sharif,36.8333,67.2500,4.5GMT,245
+Afghanistan,Mzarak Kala,33.2850,69.8275,4.5GMT,254
+Afghanistan,Naray,31.4853,67.0414,4.5GMT,254
+Afghanistan,Nkhal,32.6950,69.2831,4.5GMT,254
+Afghanistan,Oftadeh Kalay,32.6358,62.0031,4.5GMT,246
+Afghanistan,Qalat,32.1056,66.9069,4.5GMT,253
+Afghanistan,Qandahar,31.6078,65.7053,4.5GMT,253
+Afghanistan,Qunduz,36.7267,68.8683,4.5GMT,247
+Afghanistan,S la,33.3436,67.5831,4.5GMT,251
+Afghanistan,Shahristan,34.3667,66.7833,4.5GMT,249
+Afghanistan,Sheberghan,36.6672,65.7536,4.5GMT,243
+Afghanistan,Surkhakan,34.5108,70.1856,4.5GMT,252
+Afghanistan,Taluqan,36.5000,69.5000,4.5GMT,248
+Afghanistan,Tarin Kowt,32.6281,65.8692,4.5GMT,251
+Afghanistan,Thak Laghar,33.7953,61.5986,4.5GMT,243
+Afghanistan,Udi,37.5286,69.7425,4.5GMT,247
+Afghanistan,Udkal,33.5297,64.8244,4.5GMT,248
+Afghanistan,Udkheyl,33.9703,69.0267,4.5GMT,252
+Afghanistan,Usa,33.1919,67.5247,4.5GMT,252
+Afghanistan,Uzda Tiza,34.6481,70.7469,4.5GMT,252
+Afghanistan,Uzhd Lakah,33.5814,69.8411,4.5GMT,253
+Afghanistan,Uzun Qol,37.1367,70.3197,4.5GMT,248
+Afghanistan,Volar,37.0719,70.7644,4.5GMT,248
+Afghanistan,Wardak,36.2528,68.8014,4.5GMT,248
+Afghanistan,Zaranj,30.9667,61.8833,4.5GMT,250
+Afghanistan,Zghome Ghar,34.0769,70.8694,4.5GMT,253

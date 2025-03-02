@@ -1,0 +1,6 @@
+Antarctica,Casey - Casey Station Bailey Peninsula,-66.1700,110.3100,8GMT,296
+Antarctica,DumontDUrville - Dumont-dUrville Base Terre Adelie,-66.4000,140.1000,10GMT,270
+Antarctica,Mawson - Mawson Station Holme Bay,-67.3600,62.5300,6GMT,339
+Antarctica,McMurdo - McMurdo Station Ross Island,-77.6000,166.3600,12GMT,238
+Antarctica,Palmer - Palmer Station Anvers Island,-64.4800,-64.6000,-4GMT,93
+Antarctica,South Pole - Amundsen-Scott Station South Pole,-90.0000,0.0000,12GMT,40

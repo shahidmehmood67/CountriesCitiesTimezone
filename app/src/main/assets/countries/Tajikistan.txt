@@ -1,0 +1,91 @@
+Tajikistan,AiwanjKhatlon,36.9886,68.0422,5,0
+Tajikistan,Bokhtarskiy Rayon,37.7765,68.7598,5,0
+Tajikistan,Chkalovsk,40.2485,69.7066,5,0
+Tajikistan,Du-Oba,39.1933,70.6433,5,0
+Tajikistan,Dushanbe,38.6561,68.7792,5,0
+Tajikistan,Dushanbe I Yakum,38.5667,68.8128,5,0
+Tajikistan,Dushanbe II Vtoroy,38.5689,68.7161,5,0
+Tajikistan,EchkiKhatlon,37.2784,69.0665,5,0
+Tajikistan,Efironos,38.4759,68.1704,5,0
+Tajikistan,Egron,38.2373,69.3229,5,0
+Tajikistan,Elisu,38.1434,73.6101,5,0
+Tajikistan,Elok,38.5965,68.4354,5,0
+Tajikistan,Elovar,38.6109,69.1857,5,0
+Tajikistan,EmomalyKhatlon,37.869,69.629,5,0
+Tajikistan,Emts,38.0148,71.679,5,0
+Tajikistan,Esanboy,38.0879,68.3868,5,0
+Tajikistan,Eshma,38.1984,68.7545,5,0
+Tajikistan,Eshma Pervaya,38.174,68.8337,5,0
+Tajikistan,Ezgand,38.7359,70.429,5,0
+Tajikistan,Faizabad,38.5549,69.3274,5,0
+Tajikistan,Faizabad Qala,37.3435,68.9769,5,0
+Tajikistan,Fakhrabad,38.3113,68.7166,5,0
+Tajikistan,Falakon,38.5177,68.7974,5,0
+Tajikistan,Falkhabad,38.2202,69.5171,5,0
+Tajikistan,Fandar ya,39.3908,68.5596,5,0
+Tajikistan,Fanfarok,38.7305,68.8219,5,0
+Tajikistan,Farkau,39.2435,68.9935,5,0
+Tajikistan,FarkhorKhatlon,37.5024,69.4119,5,0
+Tajikistan,Farkingi,38.7038,70.7385,5,0
+Tajikistan,FarobLeninobod,39.251,67.4802,5,0
+Tajikistan,Farrukh,38.6824,69.6649,5,0
+Tajikistan,Fatmev,39.4063,68.6955,5,0
+Tajikistan,Fatmovut,39.3813,68.8496,5,0
+Tajikistan,FayzabadKhatlon,37.6769,69.5038,5,0
+Tajikistan,Fayzabad,38.0983,69.8524,5,0
+Tajikistan,Fayzabadi-Bolo,38.5291,69.3344,5,0
+Tajikistan,Fayzabadskiy Rayon,38.5102,69.4269,5,0
+Tajikistan,FayzobodKhatlon,37.8196,69.5596,5,0
+Tajikistan,Fidzhom-Tyrdzha,38.4102,71.1435,5,0
+Tajikistan,Fil mandarLeninobod,39.4244,67.7591,5,0
+Tajikistan,FinskiyKhatlon,37.4833,69.3808,5,0
+Tajikistan,Firdavsy,38.1183,68.9474,5,0
+Tajikistan,Firishti,38.6063,69.0121,5,0
+Tajikistan,Firuzaabad,38.7169,68.816,5,0
+Tajikistan,Firuzoba,38.0624,69.9796,5,0
+Tajikistan,Foru,38.6938,69.6708,5,0
+Tajikistan,FrunzeKhatlon,37.4021,68.5769,5,0
+Tajikistan,Frunze,38.4996,68.2583,5,0
+Tajikistan,Frunzenskiy Rayon,38.5602,68.8102,5,0
+Tajikistan,Furqat,38.1333,68.8513,5,0
+Tajikistan,Hayoti Nav,38.1443,68.904,5,0
+Tajikistan,Hiloli AhmarKhatlon,37.9398,69.8129,5,0
+Tajikistan,Hisor,38.4923,68.6073,5,0
+Tajikistan,Hisor Tizmasi,39.0104,68.5104,5,0
+Tajikistan,Hot Sulphur Springs,37.6437,72.5604,5,0
+Tajikistan,HusanobodLeninobod,39.3776,68.0521,5,0
+Tajikistan,Hushyori,38.9054,68.8498,5,0
+Tajikistan,IstaravshanLeninobod,39.9213,69.0169,5,0
+Tajikistan,Jabbor Rasulov,40.1792,69.5189,5,0
+Tajikistan,JalbuziKhatlon,37.7403,69.3953,5,0
+Tajikistan,Jam iyatdehqonKhatlon,37.1264,68.117,5,0
+Tajikistan,Jaminishur Pass,37.4106,74.4606,5,0
+Tajikistan,Jantokli,38.1675,69.5909,5,0
+Tajikistan,Janzodara,38.2639,70.1373,5,0
+Tajikistan,Javoni,38.7548,69.6553,5,0
+Tajikistan,JavshangozKuhistoni Badakhshon,37.3698,72.4587,5,0
+Tajikistan,JayilganLeninobod,39.3148,71.5362,5,0
+Tajikistan,Jayrabuloq,38.6209,68.7287,5,0
+Tajikistan,JayralyKhatlon,37.9745,69.5975,5,0
+Tajikistan,JilikulKhatlon,37.5042,68.5417,5,0
+Tajikistan,JingazhirKuhistoni Badakhshon,38.8764,73.2689,5,0
+Tajikistan,Jirqal aKhatlon,37.8267,69.3609,5,0
+Tajikistan,Jiyak,38.4273,68.8106,5,0
+Tajikistan,Jorf,38.495,70.972,5,0
+Tajikistan,Jumhurii Tojikiston,39.0106,71.0106,5,0
+Tajikistan,KhujandLeninobod,40.2907,69.6424,5,0
+Tajikistan,Kuhistoni Badakhshon,38.0107,73.0107,5,0
+Tajikistan,KulobKhatlon,37.9199,69.7926,5,0
+Tajikistan,Kulobod,38.2835,69.0035,5,0
+Tajikistan,LublikorKhatlon,37.0522,68.0933,5,0
+Tajikistan,Luchob,38.5947,68.7866,5,0
+Tajikistan,MadmLeninobod,39.4453,68.3606,5,0
+Tajikistan,Madm,39.4578,68.3692,5,0
+Tajikistan,Norak,38.3966,69.3113,5,0
+Tajikistan,Ordzhonikidzeabadskiy Rayon,38.8444,69.3444,5,0
+Tajikistan,PendshikentLeninobod,39.5143,67.6262,5,0
+Tajikistan,QurghonteppaKhatlon,37.8477,68.7916,5,0
+Tajikistan,Turdybobo,38.5344,68.6308,5,0
+Tajikistan,Wagshiton,39.2952,67.8119,5,0
+Tajikistan,Waksh,37.1172,68.3158,5,0
+Tajikistan,Waznud,37.9619,71.2952,5,0

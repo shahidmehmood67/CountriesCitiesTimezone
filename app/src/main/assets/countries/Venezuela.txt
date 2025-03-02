@@ -1,0 +1,59 @@
+Venezuela,1 Beneficio_Falcon,11.0049,-70.6618,-4.5,0
+Venezuela,19 de Abril_Aragua,10.2263,-67.5018,-4.5,0
+Venezuela,Anaco_Anzoategui,9.443,-64.457,-4.5,0
+Venezuela,Anaco Abajo_Anzoategui,9.4297,-64.6775,-4.5,0
+Venezuela,Anacoco_Bolivar,6.7447,-61.1214,-4.5,0
+Venezuela,Barcelona_Anzoategui,9.0931,-64.6069,-4.5,0
+Venezuela,Barcelona_Sucre,10.6615,-63.1535,-4.5,0
+Venezuela,Barcelona_Apure,7.5765,-67.1902,-4.5,0
+Venezuela,Barcelona_Lara,9.9781,-70.7313,-4.5,0
+Venezuela,Barinas,8.639,-70.1974,-4.5,0
+Venezuela,Barquisimeto_Lara,10.0837,-69.313,-4.5,0
+Venezuela,Caracas_Distrito Federal,10.5099,-66.9068,-4.5,0
+Venezuela,Caracas_Portuguesa,9.0932,-69.8234,-4.5,0
+Venezuela,Caracas_Miranda,10.2599,-66.4068,-4.5,0
+Venezuela,Caracas del Este_Dependencias Federales,10.3766,-64.4234,-4.5,0
+Venezuela,Caracas del Oeste_Dependencias Federales,10.3766,-64.4401,-4.5,0
+Venezuela,Coro_Falcon,11.4266,-69.6568,-4.5,0
+Venezuela,El Tigre_Anzoategui,10.1434,-64.5066,-4.5,0
+Venezuela,Isla Margarita_Bolivar,6.2636,-67.367,-4.5,0
+Venezuela,Maracaibo_Zulia,10.6426,-71.6297,-4.5,0
+Venezuela,Maracaibo Norte_Zulia,10.7003,-71.5919,-4.5,0
+Venezuela,Maracay_Lara,10.0887,-69.6013,-4.5,0
+Venezuela,Maracay_Anzoategui,8.2442,-63.6558,-4.5,0
+Venezuela,Maracay_Aragua,10.2578,-67.5849,-4.5,0
+Venezuela,Maturin_Sucre,10.237,-64.4063,-4.5,0
+Venezuela,Maturin_Barinas,8.3942,-68.4058,-4.5,0
+Venezuela,Maturin_Tachira,7.654,-72.3377,-4.5,0
+Venezuela,Maturin_Anzoategui,9.7609,-63.1391,-4.5,0
+Venezuela,Maturin_Zulia,9.9137,-72.1502,-4.5,0
+Venezuela,Maturin_Monagas,9.7609,-63.1658,-4.5,0
+Venezuela,Maturin_Miranda,10.4776,-66.6058,-4.5,0
+Venezuela,Maturin_Lara,10.5781,-69.7158,-4.5,0
+Venezuela,Maturincito_Sucre,10.2809,-64.3391,-4.5,0
+Venezuela,Merida,8.6092,-71.1341,-4.5,0
+Venezuela,Porlamar_Nueva Esparta,10.9779,-63.8221,-4.5,0
+Venezuela,Puerto La Cruz_Anzoategui,10.2279,-64.6055,-4.5,0
+Venezuela,Puerto Ordaz_Bolivar,8.3093,-62.7074,-4.5,0
+Venezuela,Punto Fijo_Falcon,11.7109,-70.188,-4.5,0
+Venezuela,San Felix_Bolivar,8.3787,-62.6502,-4.5,0
+Venezuela,San Felix de Guayana_Bolivar,8.3648,-62.6413,-4.5,0
+Venezuela,Tigre_Carabobo,10.1616,-68.4051,-4.5,0
+Venezuela,Tigre Galan_Cojedes,9.8449,-68.2884,-4.5,0
+Venezuela,Tigre Sentado_Falcon,10.841,-69.6356,-4.5,0
+Venezuela,Tigre Viejo_Barinas,8.4949,-68.0051,-4.5,0
+Venezuela,Tigrera_Guarico,9.3088,-66.1478,-4.5,0
+Venezuela,Tigrero_Falcon,11.1177,-70.4917,-4.5,0
+Venezuela,Valencia_Tachira,7.6915,-72.4107,-4.5,0
+Venezuela,Valencia_Sucre,10.6274,-62.5388,-4.5,0
+Venezuela,Valencia_Bolivar,7.6451,-62.6121,-4.5,0
+Venezuela,Valencia_Carabobo,10.1924,-67.9921,-4.5,0
+Venezuela,Valencia_Zulia,10.9785,-72.1882,-4.5,0
+Venezuela,Valencia Basin_Aragua,10.1785,-67.7382,-4.5,0
+Venezuela,Warutain_Zulia,11.46,-71.9589,-4.5,0
+Venezuela,Wayamuliser_Zulia,11.4766,-71.9587,-4.5,0
+Venezuela,Wichepe_Zulia,11.3836,-71.9623,-4.5,0
+Venezuela,Wico_Anzoategui,9.0119,-64.1548,-4.5,0
+Venezuela,Wiuiquina_Delta Amacuro,9.1769,-61.1209,-4.5,0
+Venezuela,Wuevereno_Apure,7.5952,-69.8548,-4.5,0
+Venezuela,Yeguera_Apure,7.4824,-70.1737,-4.5,0

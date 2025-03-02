@@ -1,0 +1,108 @@
+Benin,Abomey_Zou,7.1833,1.9833,1,65
+Benin,Bohicon,7.2000,2.0667,1,65
+Benin,Cabare,10.4667,1.7000,1,69
+Benin,Campouya,10.4000,1.6167,1,68
+Benin,Cana,7.1333,2.0667,1,65
+Benin,Carnoville,8.8000,2.3167,1,66
+Benin,Chabale,7.9167,1.9167,1,66
+Benin,Chabe,8.0333,2.5000,1,65
+Benin,Chabegoguekparou,10.2167,3.2000,1,68
+Benin,Chabi-Kouma,10.0000,1.4667,1,68
+Benin,Chachu,9.1167,2.5667,1,67
+Benin,Chaine de l Atakopa,10.7500,1.5000,1,69
+Benin,Chaine des Dassas,7.7500,2.1667,1,65
+Benin,Chalagoye,8.4000,2.5833,1,66
+Benin,Chatehoue,6.9667,1.8333,1,65
+Benin,Chefu,11.4333,3.0833,1,69
+Benin,Chetti,7.8333,1.6667,1,66
+Benin,Chiakanoukone,10.3167,2.1167,1,68
+Benin,Chien-Bouanbou,9.7833,3.2333,1,67
+Benin,Choparacha,9.3667,1.4167,1,67
+Benin,Clove,7.0167,1.6500,1,65
+Benin,Cobedjo,6.8833,2.7167,1,64
+Benin,Cococodji,6.3833,2.2833,1,64
+Benin,Colline Doukor,9.5000,1.6500,1,67
+Benin,Colline Dourh,9.5167,1.6667,1,67
+Benin,Collines,8.0000,2.1667,1,66
+Benin,Condji,6.5667,1.7333,1,64
+Benin,Copargo_ or BN01,9.8375,1.5481,1,68
+Benin,Corossa,6.7667,2.6167,1,64
+Benin,Cosso-Kame,7.9167,2.2333,1,65
+Benin,Cotonou_Littoral,6.3500,2.4333,1,64
+Benin,Cotonou Lagoon,6.3667,2.4333,1,64
+Benin,Couba,10.4667,1.6333,1,69
+Benin,Couffo_Kouffo,7.0833,1.8333,1,65
+Benin,Couffonou,6.5833,2.0000,1,64
+Benin,Cousse,6.8333,2.1167,1,64
+Benin,Couzoume,6.4667,2.0333,1,64
+Benin,Cove,7.2333,2.3000,1,65
+Benin,Cuffo,6.5833,1.9833,1,64
+Benin,Djougou_Donga,9.7050,1.6669,1,68
+Benin,Edahi,8.3333,2.5833,1,66
+Benin,Edin,7.4000,1.7167,1,65
+Benin,Edjiridji,9.6333,1.4333,1,68
+Benin,Eglime,7.0833,1.6667,1,65
+Benin,Ehwe,8.0667,2.5333,1,65
+Benin,Ekanikle,10.3667,0.9833,1,69
+Benin,Ekle,8.4167,2.4333,1,66
+Benin,Ekpa,8.0000,1.7000,1,66
+Benin,Ekpe,6.4000,2.5333,1,64
+Benin,Ekpelegnou,9.5000,1.4167,1,68
+Benin,Ekpi,7.4500,1.6833,1,65
+Benin,Elaou,9.5500,1.4500,1,68
+Benin,Elekowa,9.1000,2.1667,1,67
+Benin,Emayou,7.4000,1.9500,1,65
+Benin,Eouihera,7.7500,1.6667,1,65
+Benin,Eratio_ or BN01,9.5381,1.5494,1,68
+Benin,Essaignon,7.9833,1.8167,1,66
+Benin,Esseakouon,8.5667,2.3667,1,66
+Benin,Esuime,7.1167,1.6333,1,65
+Benin,Etchin,8.1833,1.8833,1,66
+Benin,Eveji,7.3500,2.5667,1,65
+Benin,Ewe,7.4500,2.5833,1,65
+Benin,Guessou-Sud_ or BN03,10.0464,2.6456,1,68
+Benin,Ifemi,8.8667,2.0167,1,67
+Benin,Jabeta,7.9000,2.6667,1,65
+Benin,Janko,10.1333,3.4833,1,68
+Benin,Jassi,10.0333,3.5000,1,67
+Benin,Jiatin,10.4833,3.7667,1,68
+Benin,Jiga,7.3333,1.9333,1,65
+Benin,Jimmba,9.1500,2.5167,1,67
+Benin,Jougoi,10.7500,3.5667,1,68
+Benin,Kandi_Alibori,11.1342,2.9386,1,69
+Benin,Kandia Koubong,9.6333,1.4833,1,68
+Benin,Kandifo,11.1167,2.9667,1,69
+Benin,Ketou,9.1333,1.5667,1,67
+Benin,Nikki_ or BN03,9.9339,3.2044,1,67
+Benin,Parakou_Borgou,9.3500,2.6167,1,67
+Benin,Parakou,10.3167,3.0333,1,68
+Benin,Porto-Novo_Queme,6.4833,2.6167,1,64
+Benin,Quereke,9.7333,2.5167,1,67
+Benin,Rabanou,10.6667,2.8333,1,68
+Benin,Rafaitchikpa,9.4500,1.4667,1,67
+Benin,Rapides d Adjarala,6.9000,1.6000,1,65
+Benin,Rapides d Agbako,6.8167,1.6167,1,64
+Benin,Rapides d Arandoule,6.8500,1.6000,1,64
+Benin,Rapides de Belia,6.9333,1.5833,1,65
+Benin,Rapides de Katong,6.9167,1.5833,1,65
+Benin,Rapides du Barou,12.3500,2.7667,1,71
+Benin,Republique du Dahomey,9.5000,2.2500,1,67
+Benin,Rhomte,7.1333,1.7167,1,65
+Benin,Rini Lafia,11.9667,3.2167,1,70
+Benin,River Odwo,8.8333,2.2167,1,66
+Benin,River Opesuku,7.8500,2.6667,1,65
+Benin,Riviere Zou,6.4667,2.4167,1,64
+Benin,Sakete_Plateau,6.7167,2.6667,1,64
+Benin,Sakete,7.3667,1.9833,1,65
+Benin,Segbana_ or BN03,10.9278,3.6931,1,69
+Benin,Ueme,6.4833,2.5333,1,64
+Benin,Unet,11.2333,2.4167,1,69
+Benin,Vacon,6.5333,2.5667,1,64
+Benin,Vanhoui,9.5667,1.8500,1,67
+Benin,Venahoue,6.8167,1.6833,1,64
+Benin,Vergou,9.7167,1.8167,1,68
+Benin,Vionna,10.9833,3.2667,1,69
+Benin,Vivime,7.2167,1.6667,1,65
+Benin,Vodome,6.4167,1.7833,1,64
+Benin,Vome-Vegame,7.2333,1.6500,1,65
+Benin,Vossa,8.5000,2.3500,1,66

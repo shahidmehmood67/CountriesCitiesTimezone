@@ -1,0 +1,77 @@
+New Caledonia,Eacho,-20.7732,167.1434,11,0
+New Caledonia,Eath,-20.5732,166.5934,11,0
+New Caledonia,Ekure,-21.3732,167.9768,11,0
+New Caledonia,Ema,-21.5566,165.9101,11,0
+New Caledonia,Embouia,-21.5232,165.9934,11,0
+New Caledonia,Empoet,-21.3899,165.1601,11,0
+New Caledonia,Endjamia,-21.5232,165.9268,11,0
+New Caledonia,Engannene,-20.3899,164.6101,11,0
+New Caledonia,Eni,-21.6232,167.9601,11,0
+New Caledonia,Ennaboura,-21.0066,165.0934,11,0
+New Caledonia,Ennego,-21.9066,165.9768,11,0
+New Caledonia,Ennou,-20.7566,167.1601,11,0
+New Caledonia,Eo,-20.4399,166.6101,11,0
+New Caledonia,Erambere,-22.0899,166.4101,11,0
+New Caledonia,Escarpe Point,-20.6732,167.2268,11,0
+New Caledonia,Etang Saint-Nicolas,-21.6566,166.1601,11,0
+New Caledonia,Etenerene,-21.4566,168.0434,11,0
+New Caledonia,Ethi,-21.4899,167.8601,11,0
+New Caledonia,Jecoueje,-21.5394,166.0439,11,0
+New Caledonia,Jehuten,-20.4405,166.4109,11,0
+New Caledonia,Jeniene,-20.7561,167.1439,11,0
+New Caledonia,Nessadiou,-21.6223,165.5443,11,0
+New Caledonia,Noumea,-22.2557,166.461,11,0
+New Caledonia,Nouvelle-Caledonie,-21.489,165.511,11,0
+New Caledonia,Quai des Americains,-20.3887,164.1613,11,0
+New Caledonia,Quameni,-21.7887,165.978,11,0
+New Caledonia,Quameo,-22.5887,167.4446,11,0
+New Caledonia,Quareme River,-20.622,164.8613,11,0
+New Caledonia,Quiouyou,-21.522,166.0113,11,0
+New Caledonia,Uagap,-20.8716,165.2784,11,0
+New Caledonia,Uage,-22.555,167.5284,11,0
+New Caledonia,Uala,-19.6716,163.6617,11,0
+New Caledonia,Uapao Point,-21.5883,167.8617,11,0
+New Caledonia,Uara,-22.4316,166.8484,11,0
+New Caledonia,Ubatche,-20.4216,164.645,11,0
+New Caledonia,Udekeu,-21.4716,167.8784,11,0
+New Caledonia,Udie,-21.2216,165.1617,11,0
+New Caledonia,Ue,-21.9716,166.695,11,0
+New Caledonia,Ujeeteetr,-20.6133,166.3034,11,0
+New Caledonia,Unda Bay,-20.855,164.4784,11,0
+New Caledonia,Undejamien,-21.5716,166.0784,11,0
+New Caledonia,Ungue,-22.2883,166.9117,11,0
+New Caledonia,Unguie,-21.4716,165.895,11,0
+New Caledonia,Unia,-22.055,166.895,11,0
+New Caledonia,Upuaite,-22.655,167.495,11,0
+New Caledonia,Ure,-21.5883,167.9784,11,0
+New Caledonia,Usine,-20.8216,164.4784,11,0
+New Caledonia,Vahda,-21.0882,167.4451,11,0
+New Caledonia,Vahote,-20.7215,165.0618,11,0
+New Caledonia,Val de l Hermitage,-22.1715,166.4951,11,0
+New Caledonia,Val Fleuri,-22.1049,166.4451,11,0
+New Caledonia,Vallee,-20.9549,165.3618,11,0
+New Caledonia,Vallee de la Rade,-20.4049,164.2951,11,0
+New Caledonia,Vallee de la Roche,-20.4215,164.2785,11,0
+New Caledonia,Vallee des Bambous,-20.7382,164.8285,11,0
+New Caledonia,Vallee des Colons,-22.2715,166.4618,11,0
+New Caledonia,Vallee des Piquants,-20.4215,164.3451,11,0
+New Caledonia,Vallee Seche,-21.2382,165.2451,11,0
+New Caledonia,Vaoyane,-20.8215,164.7951,11,0
+New Caledonia,Vejeu,-21.4882,165.9951,11,0
+New Caledonia,Vengen,-20.7549,167.2785,11,0
+New Caledonia,Versailles,-21.0215,167.4451,11,0
+New Caledonia,Vieux-Touho,-20.7549,165.1618,11,0
+New Caledonia,Voemea,-22.5465,167.4118,11,0
+New Caledonia,Voh,-20.9549,164.7118,11,0
+New Caledonia,Vouavouto Cove,-20.9882,164.6785,11,0
+New Caledonia,Vulcain,-21.9049,166.3785,11,0
+New Caledonia,Yahoue,-22.1879,166.5121,11,0
+New Caledonia,Yamani,-20.8546,164.9454,11,0
+New Caledonia,Yambe,-20.4212,164.6788,11,0
+New Caledonia,Yangaouatch,-20.3212,164.2954,11,0
+New Caledonia,Yaouat,-19.5546,163.5954,11,0
+New Caledonia,Yate,-22.1546,166.9621,11,0
+New Caledonia,Yenghebane,-20.0879,163.9788,11,0
+New Caledonia,Yethebo,-21.4546,167.9954,11,0
+New Caledonia,Zoangani,-21.0211,167.4289,11,0
+New Caledonia,Zoze,-21.0378,167.4455,11,0

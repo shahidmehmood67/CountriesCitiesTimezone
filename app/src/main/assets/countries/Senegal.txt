@@ -1,0 +1,112 @@
+Senegal,Adebere_SG04,15.143,-12.7736,0,0
+Senegal,B ounounga_Thies,14.6906,-17.0955,0,0
+Senegal,Dakar,14.6808,-17.4281,0,0
+Senegal,Dakar Bango_SG04,16.0672,-16.4456,0,0
+Senegal,Dakar Dioi_Thies,14.9433,-16.7233,0,0
+Senegal,Dakar Region_Dakar,14.76,-17.3233,0,0
+Senegal,Dakar-Marine_Dakar,14.6947,-17.4256,0,0
+Senegal,Diourbel,14.66,-16.1733,0,0
+Senegal,Diourbel_Kaolack,14.2433,-16.1733,0,0
+Senegal,Diourbel Region_Diourbel,14.76,-16.24,0,0
+Senegal,Diourbel Sine_Fatick,14.51,-16.19,0,0
+Senegal,Efrane Kachiouane_Ziguinchor,12.5268,-16.7066,0,0
+Senegal,Eo Tiate_SG04,16.0768,-15.4566,0,0
+Senegal,Ierma_SG04,15.1272,-12.7228,0,0
+Senegal,Jamko_Tambacounda,13.2273,-12.3227,0,0
+Senegal,Jardin de Linndiane_Fatick,14.1939,-16.1227,0,0
+Senegal,Jevel_Kolda,13.0273,-14.0061,0,0
+Senegal,Jinnak_Fatick,13.6092,-16.5294,0,0
+Senegal,Jinnak Bolon_Fatick,13.6245,-16.5122,0,0
+Senegal,Joal_Thies,14.1773,-16.8227,0,0
+Senegal,Joal Patches_Thies,14.1439,-16.8561,0,0
+Senegal,Jogue Island_Ziguinchor,12.6106,-16.7394,0,0
+Senegal,Jogue Point_Ziguinchor,12.5939,-16.7561,0,0
+Senegal,Jokonsa Point_Fatick,13.7845,-16.6813,0,0
+Senegal,Jolof_SG08,15.2606,-15.7394,0,0
+Senegal,Jongsharr,13.6275,-16.1286,0,0
+Senegal,Jowangkerr_Ziguinchor,13.1695,-16.1597,0,0
+Senegal,Jumbas River_Fatick,13.7939,-16.6227,0,0
+Senegal,Kaolack,14.144,-16.0393,0,0
+Senegal,Koumpentoum_Tambacounda,13.994,-14.556,0,0
+Senegal,Louga_SG08,15.6108,-16.1892,0,0
+Senegal,Lougayama_Kaolack,14.5441,-14.6559,0,0
+Senegal,Matam_SG04,15.6776,-13.2391,0,0
+Senegal,Mboro_Thies,15.1609,-16.8891,0,0
+Senegal,Mbour_Thies,14.5109,-16.9891,0,0
+Senegal,Meouane_Thies,15.0942,-16.7558,0,0
+Senegal,Quack Oumgouna_Kaolack,13.7613,-16.0554,0,0
+Senegal,Quae Touda_SG04,15.778,-13.522,0,0
+Senegal,Quakhal_SG08,15.7446,-16.3554,0,0
+Senegal,Quarkere_Kaolack,14.4113,-15.4387,0,0
+Senegal,Quarrac_SG08,15.528,-16.0387,0,0
+Senegal,Quartier Usine_Dakar,14.7255,-17.4409,0,0
+Senegal,Quassoumassal_SG08,15.6946,-16.572,0,0
+Senegal,Richard Toll_SG04,16.4781,-15.6719,0,0
+Senegal,Rufisque_Dakar,14.7275,-17.2622,0,0
+Senegal,Sadio_Fatick,14.8115,-15.5385,0,0
+Senegal,Saint Louis_SG04,15.9948,-16.4885,0,0
+Senegal,Saint-Louis_SG04,16.0576,-16.4446,0,0
+Senegal,Tambacounda,13.7449,-13.6384,0,0
+Senegal,Thiago_SG04,16.4116,-15.7051,0,0
+Senegal,Thies,14.8116,-16.9217,0,0
+Senegal,Thies Nones_Thies,14.7949,-16.9551,0,0
+Senegal,Thies Region_Thies,14.7616,-16.8217,0,0
+Senegal,Tivaouane_Thies,15.0116,-16.4884,0,0
+Senegal,Touba_Kaolack,13.9616,-15.8217,0,0
+Senegal,Touba_Kolda,13.0044,-15.5756,0,0
+Senegal,Touba_Tambacounda,13.5116,-13.5884,0,0
+Senegal,Touba_Diourbel,14.8616,-15.8717,0,0
+Senegal,Touba_Ziguinchor,13.1533,-16.6417,0,0
+Senegal,Touba_SG04,15.8755,-16.3826,0,0
+Senegal,Uande_SG04,16.395,-14.1883,0,0
+Senegal,Usine Parc_Dakar,14.7311,-17.4361,0,0
+Senegal,Wadanba_Tambacounda,12.9619,-11.9048,0,0
+Senegal,Waima_Kolda,13.0286,-14.1214,0,0
+Senegal,Wakali Guinde_Tambacounda,14.8952,-12.5214,0,0
+Senegal,Wakelare Tabadian_Tambacounda,13.1286,-13.4381,0,0
+Senegal,Wakelibougou_Tambacounda,13.5452,-13.8381,0,0
+Senegal,Wakhal_Thies,14.8994,-17.0792,0,0
+Senegal,Wakhal Diamm_SG08,15.7672,-16.3823,0,0
+Senegal,Walankinndi_Tambacounda,12.4452,-12.0214,0,0
+Senegal,Wali Diala_Tambacounda,14.5119,-12.4381,0,0
+Senegal,Walidiala_Tambacounda,12.3786,-12.3714,0,0
+Senegal,Walo_SG04,16.0119,-15.9881,0,0
+Senegal,Wanba_Tambacounda,12.4952,-11.5714,0,0
+Senegal,Wanbo_Tambacounda,14.3619,-12.8881,0,0
+Senegal,Wandoulou_Tambacounda,12.8119,-11.9048,0,0
+Senegal,Waoumane_Kaolack,14.3786,-15.6381,0,0
+Senegal,Waounde_SG04,15.2786,-12.8548,0,0
+Senegal,Warar_Dakar,14.7722,-17.4762,0,0
+Senegal,Warbe_Kolda,13.0119,-14.8048,0,0
+Senegal,Wasrandou_Thies,14.7102,-17.0892,0,0
+Senegal,Wassa Waye_Dakar,14.7116,-17.1942,0,0
+Senegal,Wassadou_Kolda,12.7619,-14.1548,0,0
+Senegal,Wassadou_Tambacounda,12.7452,-12.0881,0,0
+Senegal,Wassadougou_Tambacounda,13.3619,-13.3214,0,0
+Senegal,Wassandara_Tambacounda,13.2286,-11.5381,0,0
+Senegal,Wayak Ndiaga_Dakar,14.7711,-17.2081,0,0
+Senegal,Wayambam_Dakar,14.8347,-17.2059,0,0
+Senegal,Waye Gui_Dakar,14.8213,-17.1728,0,0
+Senegal,Waye Sakal_Dakar,14.7952,-17.1684,0,0
+Senegal,Wekh Wekh_Dakar,14.8038,-17.2731,0,0
+Senegal,Wekhe_SG08,15.8213,-16.4445,0,0
+Senegal,Wel_Thies,14.898,-17.1414,0,0
+Senegal,Wendou Delo_SG08,15.1952,-15.2381,0,0
+Senegal,Wendou Maka_SG04,15.2619,-13.8714,0,0
+Senegal,Wendou Seno_SG08,15.2786,-15.0714,0,0
+Senegal,Weneri_Tambacounda,13.0286,-13.2214,0,0
+Senegal,Weni_Tambacounda,13.0452,-13.2048,0,0
+Senegal,Wenndia_Tambacounda,12.5452,-12.0881,0,0
+Senegal,West Nianija Creek,13.6619,-15.1881,0,0
+Senegal,Windou Bosseabe_SG04,15.3286,-12.9714,0,0
+Senegal,Woc-Woc_Tambacounda,14.0952,-13.8548,0,0
+Senegal,Woc-Wock_Tambacounda,14.0619,-13.9214,0,0
+Senegal,Wongourou_Tambacounda,12.5286,-12.5048,0,0
+Senegal,Wore_Kaolack,14.3786,-15.4214,0,0
+Senegal,Wore_Fatick,14.5119,-15.8048,0,0
+Senegal,Wouroli_Tambacounda,12.8119,-12.6381,0,0
+Senegal,Xangol Carantaba,12.812,-14.688,0,0
+Senegal,Xangol Sara Djide,12.6787,-14.5547,0,0
+Senegal,Yoff_Dakar,14.7727,-17.4618,0,0
+Senegal,Zighinkor_Ziguinchor,12.5955,-16.2597,0,0
+Senegal,Ziguinchor,12.5955,-16.2545,0,0

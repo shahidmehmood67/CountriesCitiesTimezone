@@ -1,0 +1,10 @@
+French Southern Antarctic Lands,Saint Pierre,-21.3402,55.4755,5,0
+French Southern Antarctic Lands,Abbot Islet,-49.107,70.0597,5,331
+French Southern Antarctic Lands,Abri Saint-Francois,-49.607,70.2597,5,331
+French Southern Antarctic Lands,D Entrecasteaux Head,-37.84,77.4933,5,323
+French Southern Antarctic Lands,Etang de la Decharge,-49.3399,70.2268,5,331
+French Southern Antarctic Lands,French Antarctica,-42.9898,67.0102,5,333
+French Southern Antarctic Lands,Jacotte,-49.3394,70.2106,5,331
+French Southern Antarctic Lands,Neve de la Lune,-49.1557,69.061,5,332
+French Southern Antarctic Lands,Swains Bay,-49.6052,69.7115,5,332
+French Southern Antarctic Lands,Val Daniele,-49.2382,69.3118,5,332

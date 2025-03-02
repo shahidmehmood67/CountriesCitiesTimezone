@@ -1,0 +1,61 @@
+Wallis Futuna,Ahoa,-13.2736,-176.1903,12,0
+Wallis Futuna,Alele,-13.2236,-176.1403,12,0
+Wallis Futuna,Alo,-14.307,-178.107,12,0
+Wallis Futuna,Baie de Mata utu,-13.3069,-176.1069,12,0
+Wallis Futuna,Baie de Mua,-13.3735,-176.1402,12,0
+Wallis Futuna,Banc Adolph,-11.9069,-178.1569,12,0
+Wallis Futuna,Banc de la Meurthe,-14.3402,-177.9569,12,0
+Wallis Futuna,Banka Tuskarora,-11.8235,-178.2402,12,0
+Wallis Futuna,Bayonnaise Seamount,-12.1069,-179.7069,12,0
+Wallis Futuna,Chenal Sain,-14.3234,-178.0401,12,0
+Wallis Futuna,Circonscription d Alo,-14.3068,-178.0234,12,0
+Wallis Futuna,Fakauita,-13.2398,-176.1731,12,0
+Wallis Futuna,Falaleu,-13.2898,-176.1398,12,0
+Wallis Futuna,Feletoa,-13.3731,-176.1731,12,0
+Wallis Futuna,Fineveke,-13.3065,-176.1898,12,0
+Wallis Futuna,Foi,-14.2898,-178.0731,12,0
+Wallis Futuna,Foss Bank,-14.4065,-175.9898,12,0
+Wallis Futuna,Fungauvea Pass,-13.2398,-176.2065,12,0
+Wallis Futuna,Gamua,-13.2397,-176.123,12,0
+Wallis Futuna,Green Point,-14.323,-178.0064,12,0
+Wallis Futuna,Haatofo,-13.3229,-176.1396,12,0
+Wallis Futuna,Halalo,-13.3396,-176.1729,12,0
+Wallis Futuna,Homeknoll Island,-12.9063,-175.6063,12,0
+Wallis Futuna,Iles Futuna,-14.3062,-178.0728,12,0
+Wallis Futuna,Ilot Nukufotu,-13.1728,-176.1562,12,0
+Wallis Futuna,Isabella Reef,-12.4062,-177.4062,12,0
+Wallis Futuna,Kolopopo,-13.3393,-176.156,12,0
+Wallis Futuna,Lac Lanutuli,-13.3059,-176.1725,12,0
+Wallis Futuna,Lalla Rookh Bank,-12.9059,-175.6559,12,0
+Wallis Futuna,Liku,-13.2559,-176.1225,12,0
+Wallis Futuna,Loka Hill,-13.2559,-176.1392,12,0
+Wallis Futuna,Mamelon Vert,-14.3391,-177.9724,12,0
+Wallis Futuna,Mata utu,-13.2724,-176.1224,12,0
+Wallis Futuna,Mont Bougainville,-14.3391,-178.0224,12,0
+Wallis Futuna,Mont Holo,-13.2724,-176.1558,12,0
+Wallis Futuna,Mont Lausikula,-13.3058,-176.2058,12,0
+Wallis Futuna,Mont Lulu Fakahega,-13.2558,-176.1558,12,0
+Wallis Futuna,Mont Singavi,-14.2558,-178.1391,12,0
+Wallis Futuna,Mouillage de Matalaa,-13.3224,-176.1224,12,0
+Wallis Futuna,Nukufetao,-13.339,-176.139,12,0
+Wallis Futuna,Pasco Reef,-13.0721,-174.4055,12,0
+Wallis Futuna,Passe Faioa,-13.3555,-176.1388,12,0
+Wallis Futuna,Point Finekova,-13.3555,-176.1221,12,0
+Wallis Futuna,Pointe de Sable,-14.3055,-178.0388,12,0
+Wallis Futuna,Pointe Falaise,-14.2888,-178.0555,12,0
+Wallis Futuna,Pointe Lalofetau,-13.3721,-176.1221,12,0
+Wallis Futuna,Pointe Puko,-13.3555,-176.1721,12,0
+Wallis Futuna,Pugega Point,-13.2721,-176.2055,12,0
+Wallis Futuna,Robbie Bank,-11.0386,-176.8719,12,0
+Wallis Futuna,Rochers de Champeaux,-14.2053,-178.1719,12,0
+Wallis Futuna,Rotumah Reef,-13.4053,-179.3386,12,0
+Wallis Futuna,Sail Rock,-13.3552,-176.1552,12,0
+Wallis Futuna,Siafiafi Seamount,-12.2385,-175.4885,12,0
+Wallis Futuna,Sigave,-14.2885,-178.1552,12,0
+Wallis Futuna,Singave,-14.2385,-178.1385,12,0
+Wallis Futuna,Tepa,-13.3051,-176.1384,12,0
+Wallis Futuna,Tufuone,-13.2051,-176.1551,12,0
+Wallis Futuna,Utuloa,-13.255,-176.1716,12,0
+Wallis Futuna,Uvea,-13.2883,-176.155,12,0
+Wallis Futuna,Vele,-14.3049,-178.0549,12,0
+Wallis Futuna,Wallis et Futuna,-13.2881,-176.1881,12,0

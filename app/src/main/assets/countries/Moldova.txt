@@ -1,0 +1,64 @@
+Moldova,Balti,47.7715,27.9387,2,0
+Moldova,Chisinau,47.0155,28.8674,2,0
+Moldova,Japca,47.9925,28.7142,2,0
+Moldova,Jeloboc,47.3675,28.9153,2,0
+Moldova,Jidavca,47.6203,28.9889,2,0
+Moldova,Joltai,46.1931,28.8867,2,0
+Moldova,Jora de Jos,47.4756,29.1189,2,0
+Moldova,Jora de Mijloc,47.4862,29.1067,2,0
+Moldova,Jora de Sus,47.4973,29.0867,2,0
+Moldova,Judetul Balti_Balti,47.6773,27.8439,2,0
+Moldova,Judetul Cahul_Cahul,45.9273,28.4273,2,0
+Moldova,Judetul Chisinau_Chisinau,47.0106,28.8439,2,0
+Moldova,Judetul Dubasari_Stinga Nistrului,47.3439,29.2606,2,0
+Moldova,Judetul Lapusna_Lapusna,46.6773,28.5106,2,0
+Moldova,Judetul Tighina_Tighina,46.6773,29.5106,2,0
+Moldova,Jura,47.5284,29.0537,2,0
+Moldova,Tighina,46.8422,29.4827,2,0
+Moldova,Tiraspol_Stinga Nistrului,46.8519,29.6549,2,0
+Moldova,Ukrainka_Tighina,46.4428,29.2845,2,0
+Moldova,Ulmu,47.0317,28.5575,2,0
+Moldova,Ulmul Mic,47.7645,29.1336,2,0
+Moldova,Unchitesti,47.9195,28.5014,2,0
+Moldova,Ungenskiy Rayon,47.345,27.9284,2,0
+Moldova,Ungeny_Ungheni,47.2159,27.8075,2,0
+Moldova,Ungheni,47.2173,27.8153,2,0
+Moldova,Unguri,48.4128,27.8792,2,0
+Moldova,Unkitesht,47.9409,28.5375,2,0
+Moldova,Unteni,47.4273,27.5942,2,0
+Moldova,Untesht,47.2553,27.8345,2,0
+Moldova,Untesti,47.2564,27.84,2,0
+Moldova,Urochishche Timush,47.1628,29.4367,2,0
+Moldova,Ursar,47.2331,28.2011,2,0
+Moldova,Ursoaia,45.8648,28.3273,2,0
+Moldova,Ursoaia Noua_Tighina,46.7386,29.3506,2,0
+Moldova,Ursoya_Tighina,46.7175,29.4573,2,0
+Moldova,Usatovka,46.6434,28.565,2,0
+Moldova,Ust ye,47.6736,27.6067,2,0
+Moldova,Ustya,47.2684,29.1367,2,0
+Moldova,Usurei,47.9025,27.607,2,0
+Moldova,Uyutnoye_Stinga Nistrului,46.8523,29.8778,2,0
+Moldova,Woronkow,47.7175,29.1311,2,0
+Moldova,Yablona Noua,47.8277,27.6252,2,0
+Moldova,Yablona Veke,47.8182,27.636,2,0
+Moldova,Yagorlyk,47.4104,29.2324,2,0
+Moldova,Yakobstal_Tighina,46.4999,29.5885,2,0
+Moldova,Yaloveny,46.9552,28.7899,2,0
+Moldova,Yalpuzhel,46.0396,28.5854,2,0
+Moldova,Yalpuzheny,46.5913,28.6346,2,0
+Moldova,Yar Mokov,47.9535,29.0702,2,0
+Moldova,Yargora,46.4396,28.4488,2,0
+Moldova,Yasnaya Polyana,46.1532,28.3165,2,0
+Moldova,Yedintsy-Tyrg_Edinet,48.1802,27.3171,2,0
+Moldova,Yegaren,48.2113,28.3671,2,0
+Moldova,Yegorovka,47.9218,27.6268,2,0
+Moldova,Yekimoutsy,47.7063,28.9124,2,0
+Moldova,Yenikoy,46.2338,28.4321,2,0
+Moldova,Yepureni,46.2754,28.2335,2,0
+Moldova,Yerzhovo,47.819,29.0202,2,0
+Moldova,Yetuliya,45.5513,28.4549,2,0
+Moldova,Yezereni-Nouy,47.6007,28.1093,2,0
+Moldova,Yezerini-Vek,47.5774,28.1015,2,0
+Moldova,Yur yevka,46.6802,28.7763,2,0
+Moldova,Yurchany,47.0932,28.2713,2,0
+Moldova,Yuzhnoye,45.7646,28.4896,2,0

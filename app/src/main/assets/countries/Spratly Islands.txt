@@ -1,0 +1,54 @@
+Spratly Islands,Banc Carnatic_disputed,10.1098,117.3598,8,0
+Spratly Islands,Banc Lord Auckland_disputed,10.3431,117.2931,8,0
+Spratly Islands,Banc Lys_disputed,11.3265,114.5931,8,0
+Spratly Islands,Banc North Viper_disputed,8.0265,115.3765,8,0
+Spratly Islands,Banc Reed_disputed,11.4598,116.9098,8,0
+Spratly Islands,Banc Stag_disputed,8.4098,112.9598,8,0
+Spratly Islands,Bittern Reef_disputed,9.2431,113.6765,8,0
+Spratly Islands,Bombay Shoal_disputed,9.4431,116.9265,8,0
+Spratly Islands,Boxall Reef_disputed,9.6098,116.1931,8,0
+Spratly Islands,Brisants Ardassier_disputed,7.9431,114.0598,8,0
+Spratly Islands,Brisants Gloucester_disputed,7.8765,114.2598,8,0
+Spratly Islands,Dao Ben Lac_disputed,11.11,115.01,8,0
+Spratly Islands,Dao Loai Ta_disputed,10.6933,114.4267,8,0
+Spratly Islands,Dao Song Tu Tay_disputed,11.4433,114.3433,8,0
+Spratly Islands,Dao Thi Tu_disputed,11.06,114.2933,8,0
+Spratly Islands,Dhaulle Shoal_disputed,9.5433,112.41,8,0
+Spratly Islands,Dido Bank_disputed,16.8267,112.8933,8,0
+Spratly Islands,Fei-hsin Tao_disputed,10.8435,115.8435,8,0
+Spratly Islands,Fu-po Chiao_disputed,9.3935,114.1935,8,0
+Spratly Islands,Fulushi Jiao_disputed,10.2602,113.6269,8,0
+Spratly Islands,Ilot Nam Yit_disputed,10.1938,114.3772,8,0
+Spratly Islands,Iroquois Reef_disputed,10.6605,116.1772,8,0
+Spratly Islands,Irving Reef_disputed,10.8938,114.9438,8,0
+Spratly Islands,Jackson Atoll_disputed,10.5106,115.7606,8,0
+Spratly Islands,Johnson Reef_disputed,9.6773,114.4606,8,0
+Spratly Islands,Kalayaan Islands_disputed,10.0107,114.0107,8,0
+Spratly Islands,Louisa Reef_disputed,6.3441,113.2441,8,0
+Spratly Islands,Nan-hsun-chiao_disputed,10.211,114.2277,8,0
+Spratly Islands,Nan-lo An-sha_disputed,8.4777,115.511,8,0
+Spratly Islands,Nan-tzu Chiao_disputed,11.411,114.2943,8,0
+Spratly Islands,Nan-yueh T ao_disputed,10.7777,114.461,8,0
+Spratly Islands,Nansha_disputed,10.3943,114.361,8,0
+Spratly Islands,Nanshan Island_disputed,10.761,115.8277,8,0
+Spratly Islands,Nares Bank_disputed,11.4277,116.1277,8,0
+Spratly Islands,Northeast Cay_disputed,11.4777,114.361,8,0
+Spratly Islands,Northeast Shea_disputed,8.5277,115.261,8,0
+Spratly Islands,Sand Cay_disputed,9.4115,115.4615,8,0
+Spratly Islands,Seahorse Shoal_disputed,10.8115,117.8115,8,0
+Spratly Islands,Shen-hsien Chiao_disputed,11.0782,117.4782,8,0
+Spratly Islands,Shuang-tzu Chiao_disputed,11.4782,114.3448,8,0
+Spratly Islands,Sin Cowe Island_disputed,9.8948,114.3282,8,0
+Spratly Islands,Soubie Reef_disputed,10.9282,114.1782,8,0
+Spratly Islands,Southampton Reefs_disputed,10.2115,115.3282,8,0
+Spratly Islands,Southern Reefs_disputed,10.4282,116.5448,8,0
+Spratly Islands,Spratley_disputed,8.6448,111.9282,8,0
+Spratly Islands,Stigant Reef_disputed,5.0115,112.5115,8,0
+Spratly Islands,Sud-Ouest Shea_disputed,7.9948,114.8782,8,0
+Spratly Islands,Viper Shoal_disputed,7.8451,115.0118,8,0
+Spratly Islands,West Sand_disputed,16.9786,112.2119,8,0
+Spratly Islands,Whitsun Reef_disputed,10.0119,114.5952,8,0
+Spratly Islands,Yang-hsin An-sha_disputed,10.7288,114.5288,8,0
+Spratly Islands,Yang-ming Chiao_disputed,10.8121,116.8621,8,0
+Spratly Islands,Yung-shu Chiao_disputed,9.6454,112.9621,8,0
+Spratly Islands,Yung-teng An-sha_disputed,11.5288,114.6454,8,0

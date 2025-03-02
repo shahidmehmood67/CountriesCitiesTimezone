@@ -1,0 +1,21 @@
+Tokelau,Afua,-9.3736,-171.2403,-1,0
+Tokelau,Atafu,-8.5236,-172.507,-1,0
+Tokelau,Atafu Atoll,-8.5403,-172.4903,-1,0
+Tokelau,Fakaafo,-9.3565,-171.2231,-1,0
+Tokelau,Fenua Fala,-9.3565,-171.2565,-1,0
+Tokelau,Matangi Island,-9.3391,-171.1724,-1,0
+Tokelau,Mawtu,-9.4224,-171.1891,-1,0
+Tokelau,Motuloa,-9.3558,-171.1891,-1,0
+Tokelau,Motunangea,-9.3724,-171.1891,-1,0
+Tokelau,Mulifonua,-9.3224,-171.2058,-1,0
+Tokelau,North West Island,-9.1057,-171.9223,-1,0
+Tokelau,Nukulakia,-9.4057,-171.2057,-1,0
+Tokelau,Nukunono,-9.189,-171.889,-1,0
+Tokelau,Pangai,-9.3888,-171.1888,-1,0
+Tokelau,Patalinga,-9.3888,-171.2221,-1,0
+Tokelau,Polynesia,-9.9888,-149.9888,-1,0
+Tokelau,Saumatafanga,-9.4052,-171.1885,-1,0
+Tokelau,Savaika,-9.3218,-171.1885,-1,0
+Tokelau,South East Island,-9.2052,-171.8218,-1,0
+Tokelau,Teafua,-9.3717,-171.2551,-1,0
+Tokelau,Union Islands,-8.9883,-171.7383,-1,0

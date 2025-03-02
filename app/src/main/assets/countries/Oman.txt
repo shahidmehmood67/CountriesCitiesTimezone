@@ -1,0 +1,232 @@
+Oman,Adam,22.393,57.543,4,0
+Oman,Al Buraymi,24.245,55.7619,4,0
+Oman,Al Farfarah,23.4219,58.0997,4,0
+Oman,Al Ghabirah,23.2564,57.3833,4,0
+Oman,Al Musana`a,23.7878,57.6539,4,0
+Oman,As Suwaiq_Al Batinah,23.8591,57.4483,4,0
+Oman,Bahla,22.9765,57.3098,4,0
+Oman,Barkah,23.719,57.8967,4,0
+Oman,Bay`ah_Musandam,25.6842,56.274,4,0
+Oman,Bisiyah,22.7265,57.2431,4,0
+Oman,Buraimi,24.2598,55.7598,4,0
+Oman,Camp Hill_Ash Sharqiyah,20.6766,58.8932,4,0
+Oman,Chashawfi,26.0913,56.1763,4,0
+Oman,East Horn Reef_Ash Sharqiyah,20.7101,58.9101,4,0
+Oman,East Khawr_Zufar,17.0332,54.1865,4,0
+Oman,Eastern Hajar,23.0101,58.5101,4,0
+Oman,Eastern Hajr_Ash Sharqiyah,22.8459,59.1101,4,0
+Oman,Edhell_Zufar,17.179,54.0904,4,0
+Oman,Edoff Assayr,17.1268,45.0934,4,0
+Oman,Edoff Assayr_Zufar,17.1229,54.0726,4,0
+Oman,Eerdeent_Zufar,17.1423,54.0048,4,0
+Oman,Eirehseer_Zufar,17.1732,54.0404,4,0
+Oman,Ejfoh_Zufar,17.152,54.1118,4,0
+Oman,Elphinstone Inlet_Musandam,26.2193,56.3595,4,0
+Oman,Engardhat Taqah_Zufar,17.0379,54.4434,4,0
+Oman,Enhorelah_Zufar,17.1873,54.1432,4,0
+Oman,Ennerdale Rock_Musandam,26.4732,56.5095,4,0
+Oman,Entainoot_Zufar,17.2018,54.4704,4,0
+Oman,Erdit,16.7101,53.2434,4,0
+Oman,Erigfien_Zufar,17.0782,54.5509,4,0
+Oman,Erikob,17.2434,54.0434,4,0
+Oman,Erkot_Zufar,17.1518,54.1726,4,0
+Oman,Erqoot Daham_Zufar,17.1015,54.3934,4,0
+Oman,Erqut Daham_Zufar,17.1654,54.3918,4,0
+Oman,Eshto_Zufar,17.1623,54.0315,4,0
+Oman,Ethli,22.022,58.2962,4,0
+Oman,Ethom Dhann_Zufar,17.1307,54.3762,4,0
+Oman,Eyeetaut_Zufar,17.1532,54.0673,4,0
+Oman,Fahud,22.3269,56.5602,4,0
+Oman,Falaj al Qaba il_Al Batinah,24.4383,56.6213,4,0
+Oman,Falaj Wusta_Al Batinah,23.5733,57.4544,4,0
+Oman,Ghubrah,19.1603,56.627,4,0
+Oman,Ghubrah_Masqat,23.5995,58.4159,4,0
+Oman,Haima,19.9437,56.3271,4,0
+Oman,Harat Hadd_Al Batinah,24.5026,56.5971,4,0
+Oman,Hassas,23.3265,58.0848,4,0
+Oman,Ibb,20.5105,58.1772,4,0
+Oman,Ibra,22.7008,58.5574,4,0
+Oman,Ibri,23.2469,56.5149,4,0
+Oman,Iliyet_Zufar,17.1455,54.7419,4,0
+Oman,Indaf_Zufar,17.0938,54.3874,4,0
+Oman,Inkeyzeti_Zufar,17.1511,54.0774,4,0
+Oman,Inqita`at Mirbat_Zufar,17.0374,54.4536,4,0
+Oman,Insaid,23.4605,56.7938,4,0
+Oman,Inshaf_Zufar,17.1938,54.1202,4,0
+Oman,Irad,18.3438,55.8772,4,0
+Oman,Irowk_Zufar,17.1219,54.4177,4,0
+Oman,Irq adh Dhubb,20.5772,56.6105,4,0
+Oman,Irq al Haza_Az Zahirah,23.4883,55.6908,4,0
+Oman,Irq al Khatrah_Az Zahirah,23.0552,55.5766,4,0
+Oman,Irq ar Ruwayk_Az Zahirah,23.2702,56.0386,4,0
+Oman,Irq at Tarif,22.6772,55.6438,4,0
+Oman,Irq Bu al Lahath,20.8438,56.4272,4,0
+Oman,Irq Raydah,22.6938,55.5605,4,0
+Oman,Irq Sabtah_Az Zahirah,23.5583,55.6936,4,0
+Oman,Irq Salil_Az Zahirah,23.2274,55.5783,4,0
+Oman,Irq Salil,23.2605,55.5105,4,0
+Oman,Irq Sufaiqi,20.7438,56.0938,4,0
+Oman,Irqat_Zufar,17.0877,54.6299,4,0
+Oman,Island Reef_Ash Sharqiyah,20.7152,58.9013,4,0
+Oman,Ithaff,17.0474,53.9933,4,0
+Oman,Ithi_Zufar,17.1761,54.5536,4,0
+Oman,Izakhar_Zufar,17.1341,54.3974,4,0
+Oman,Izki,22.9438,57.7772,4,0
+Oman,Izz,22.5611,58.6969,4,0
+Oman,Ja alan and Sur_Ash Sharqiyah,22.1448,59.2534,4,0
+Oman,Jabal Akhbar,23.1289,58.8964,4,0
+Oman,Khasab_Musandam,26.2024,56.2543,4,0
+Oman,La aqaybah_Musandam,26.3202,56.4286,4,0
+Oman,Labijah,23.4722,57.6758,4,0
+Oman,Lahaaf_Zufar,17.1947,54.0269,4,0
+Oman,Laifaat,24.6258,55.8255,4,0
+Oman,Lakbah,18.0941,56.4941,4,0
+Oman,Lali Laynah,23.1252,57.5883,4,0
+Oman,Lamehos_Musandam,26.1044,56.2416,4,0
+Oman,Lansab_Masqat,23.545,58.3533,4,0
+Oman,Lashkharah,21.8608,59.5775,4,0
+Oman,Lasmu,23.1161,58.8586,4,0
+Oman,Lawt,19.5775,57.6941,4,0
+Oman,Layh_Ash Sharqiyah,22.4322,59.2633,4,0
+Oman,Layjah,23.3114,57.5561,4,0
+Oman,Leger_Zufar,17.2016,54.9525,4,0
+Oman,Lekfayir_Musandam,26.05,56.3558,4,0
+Oman,Lekhwair,22.7608,55.5108,4,0
+Oman,Lihaban,23.8016,56.8839,4,0
+Oman,Limah_Musandam,25.9525,56.4361,4,0
+Oman,Limhas_Musandam,26.0627,56.3897,4,0
+Oman,Liqbi,18.2108,56.5608,4,0
+Oman,Lishgar,24.3275,56.1441,4,0
+Oman,Lislat,23.7127,56.763,4,0
+Oman,Liwa_Al Batinah,24.5469,56.5764,4,0
+Oman,Lizq,22.725,58.1825,4,0
+Oman,Lokhbeb,24.4441,56.0608,4,0
+Oman,Lothera,24.3775,56.0441,4,0
+Oman,Lub_Zufar,17.0858,54.053,4,0
+Oman,Luqmat Umm al Baqr,23.9077,56.0689,4,0
+Oman,Lutaym_Az Zahirah,23.0622,55.748,4,0
+Oman,Luwami_Masqat,23.6811,58.2147,4,0
+Oman,Luwayb,25.7814,56.2269,4,0
+Oman,Luwaydhijah,22.2108,57.0608,4,0
+Oman,Luzuq,23.3414,58.1333,4,0
+Oman,Mabrah_Al Batinah,23.6681,57.1687,4,0
+Oman,Manah,22.7942,57.6109,4,0
+Oman,Marmul,18.1442,55.2776,4,0
+Oman,Mirbat_Zufar,16.9995,54.7031,4,0
+Oman,Musairif,18.8109,53.9776,4,0
+Oman,Muscat_Masqat,23.6242,58.6042,4,0
+Oman,Muscat,21.0109,57.0109,4,0
+Oman,Muscat Island_Masqat,23.634,58.6101,4,0
+Oman,Nizwa,22.9443,57.5443,4,0
+Oman,Okkad_Zufar,17.0144,54.0489,4,0
+Oman,Oman,22.1778,58.0111,4,0
+Oman,Oman Promontory_Musandam,26.2817,56.4003,4,0
+Oman,Owtar_Zufar,17.1789,54.0953,4,0
+Oman,Pillar Rock_Masqat,23.622,58.6151,4,0
+Oman,Port Qaboos_Masqat,23.6334,58.5823,4,0
+Oman,Port salalah_Zufar,16.9509,54.0168,4,0
+Oman,Qarn Alam,21.4113,56.978,4,0
+Oman,Qurm,23.628,58.5113,4,0
+Oman,Rustaq,23.4022,57.4358,4,0
+Oman,Ruwi_Masqat,23.602,58.5614,4,0
+Oman,Saham_Al Batinah,24.1837,56.9001,4,0
+Oman,Sahma,20.2615,55.7615,4,0
+Oman,Saih Rawl,21.2615,56.1282,4,0
+Oman,Salala_Zufar,17.029,54.0943,4,0
+Oman,Seeb International Airport,23.5948,58.1948,4,0
+Oman,Shinas_Al Batinah,24.7548,56.4773,4,0
+Oman,Sohar_Al Batinah,24.3804,56.7554,4,0
+Oman,Sur_Ash Sharqiyah,22.5782,59.5404,4,0
+Oman,Thamarit_Zufar,17.6816,54.0449,4,0
+Oman,Thermod,23.8083,57.5141,4,0
+Oman,Ubaylah,24.2784,56.1617,4,0
+Oman,Udhaybah_Masqat,23.6123,58.3881,4,0
+Oman,Uhi_Al Batinah,24.4075,56.682,4,0
+Oman,Ujaydah,24.4617,56.0617,4,0
+Oman,Ukhayzir,22.6384,58.0181,4,0
+Oman,Ulub_Zufar,17.1014,54.0764,4,0
+Oman,Ulya,22.9392,58.09,4,0
+Oman,Umm Adailan,21.7117,58.645,4,0
+Oman,Umm al Dharr,22.1117,56.4784,4,0
+Oman,Umm al Fayarin_Musandam,26.1909,56.5586,4,0
+Oman,Umm al Hufayl_Az Zahirah,23.7623,55.6559,4,0
+Oman,Umm al Jarad,20.5784,57.5284,4,0
+Oman,Umm al Ja`arif_Al Batinah,24.1231,56.9528,4,0
+Oman,Umm al Samim,21.652,55.9114,4,0
+Oman,Umm al `Inah_Al Batinah,24.6242,56.5495,4,0
+Oman,Umm az Zumul,22.7617,55.5284,4,0
+Oman,Umm Bar,24.2195,55.9759,4,0
+Oman,Umm Dibiyan,22.8784,56.595,4,0
+Oman,Umm Ghattah_Az Zahirah,23.2092,56.3309,4,0
+Oman,Umm Salib_Az Zahirah,23.3664,56.3664,4,0
+Oman,Umm Samasim,24.745,56.4617,4,0
+Oman,UmmRusays_Ash Sharqiyah,20.4784,58.795,4,0
+Oman,Umq_Ash Sharqiyah,22.9111,59.0975,4,0
+Oman,Umran_Zufar,17.0989,54.3,4,0
+Oman,Unkulth_Zufar,17.1436,54.2895,4,0
+Oman,Uruq al Hazz,18.845,52.345,4,0
+Oman,Urzuq,17.0284,53.695,4,0
+Oman,Usayy,19.6784,57.5784,4,0
+Oman,Uwayfi,22.2617,56.995,4,0
+Oman,Wadi al Kabir,23.3,56.573,4,0
+Oman,Wadi Bani Khalid_Ash Sharqiyah,22.4833,59.1275,4,0
+Oman,Ya aribah,23.4007,57.7946,4,0
+Oman,Yahi Risakh,17.4954,54.5621,4,0
+Oman,Yal Braik,23.7918,57.6304,4,0
+Oman,Yal Bu Rashid_Al Batinah,23.876,57.3621,4,0
+Oman,Yal Burayk_Al Batinah,24.0282,57.0621,4,0
+Oman,Yal Sa`d,23.7604,57.6013,4,0
+Oman,Yal Wahiba,21.7621,58.6788,4,0
+Oman,Yanbu`_Al Batinah,24.2677,56.551,4,0
+Oman,Yanqal,23.5763,56.544,4,0
+Oman,Yanqul,23.5977,56.5529,4,0
+Oman,Yawiyah,23.1543,57.4593,4,0
+Oman,Ya`aqib,23.2471,56.6371,4,0
+Oman,Yenkit_Masqat,23.5268,58.7124,4,0
+Oman,Yibal,22.1788,56.0121,4,0
+Oman,Yidah_Musandam,26.1177,56.169,4,0
+Oman,Yida`ah,20.2121,57.7454,4,0
+Oman,Yidiyah al Bahr_Musandam,26.0974,56.4504,4,0
+Oman,Yidiyah Safiyah_Musandam,26.1049,56.4118,4,0
+Oman,Yika,23.3904,57.2004,4,0
+Oman,Yimah_Musandam,25.7107,56.2202,4,0
+Oman,Yistin_Ash Sharqiyah,22.4282,59.1902,4,0
+Oman,Yisub,17.8288,55.4121,4,0
+Oman,Yiti_Masqat,23.5388,58.6771,4,0
+Oman,Yiyailah_Musandam,26.1679,56.4304,4,0
+Oman,Zab,24.5622,55.9955,4,0
+Oman,Zabi`ah,23.4619,57.1269,4,0
+Oman,Zabyat,24.3622,56.3789,4,0
+Oman,Zab`in_Al Batinah,24.5264,56.3716,4,0
+Oman,Zaghi,25.713,56.2853,4,0
+Oman,Zahir,24.3122,56.1289,4,0
+Oman,Zahirah_Az Zahirah,23.4547,56.1311,4,0
+Oman,Zahiriyah_Ash Sharqiyah,20.3789,58.8122,4,0
+Oman,Zahr,19.1122,56.9789,4,0
+Oman,Zahr Sidrah,23.2622,58.5955,4,0
+Oman,Zahrayn_Musandam,26.115,56.2222,4,0
+Oman,Zahur,23.3111,57.5469,4,0
+Oman,Zakhir,24.6455,55.8289,4,0
+Oman,Zammah,23.2291,57.4147,4,0
+Oman,Zanair,17.5455,55.2789,4,0
+Oman,Zanatiyat_Ash Sharqiyah,20.3122,58.5955,4,0
+Oman,Zarub,24.2133,55.9708,4,0
+Oman,Zawahir,24.6311,55.8144,4,0
+Oman,Zaydi,22.5572,58.1891,4,0
+Oman,Zaymi,24.4622,56.2955,4,0
+Oman,Za`ab_Al Batinah,24.0153,57.0858,4,0
+Oman,Za`bah_Az Zahirah,23.7305,55.5191,4,0
+Oman,Za`faran_Al Batinah,24.4278,56.7136,4,0
+Oman,Zerbaiy_Zufar,17.1122,54.0122,4,0
+Oman,Zerd_Musandam,26.238,56.4158,4,0
+Oman,Zghiu,24.5766,55.9975,4,0
+Oman,Zibarah,21.4122,58.4122,4,0
+Oman,Zikt,23.1061,57.4428,4,0
+Oman,Zilaft_Ash Sharqiyah,22.6025,59.103,4,0
+Oman,Zimaima,22.1955,57.2122,4,0
+Oman,Zirkur_Zufar,17.3483,54.4983,4,0
+Oman,Ziyan,23.8955,57.3289,4,0
+Oman,Zufar,17.0547,54.1775,4,0
+Oman,Zuhayb,22.7955,56.5955,4,0
+Oman,Zukayt,22.8955,57.7622,4,0
+Oman,Zuwayhir,24.3955,56.0455,4,0

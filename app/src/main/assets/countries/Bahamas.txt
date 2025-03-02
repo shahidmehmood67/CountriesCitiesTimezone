@@ -1,0 +1,147 @@
+Bahamas,15 Feet Cay_Kemps Bay,24.0833,-77.5333,-5,58
+Bahamas,Abraham Bay_Acklins and Crooked Islands,22.4000,-73.9500,-5,61
+Bahamas,Adeline Cay_Ragged Island,22.1786,-75.7092,-5,60
+Bahamas,Allons Cay_Green Turtle Cay,26.9833,-77.6667,-5,58
+Bahamas,Ambergris Cay_Nichollstown and Berry Islands,25.6667,-77.8333,-5,58
+Bahamas,Angel Cays_Marsh Harbour,26.4500,-77.0500,-5,58
+Bahamas,Arthurs Town_Cat Island,24.6333,-75.6667,-5,59
+Bahamas,Eagle Rock_Marsh Harbour,26.5500,-76.9667,-5,58
+Bahamas,East Barracouta Rock_Exuma,23.6833,-76.2000,-5,59
+Bahamas,East Entrance_Acklins and Crooked Islands,22.0000,-74.3333,-5,61
+Bahamas,East Issac Island_Bimini,25.9500,-78.8500,-5,57
+Bahamas,East Wells_Bimini,25.7333,-77.2333,-5,58
+Bahamas,Eastern Bay_Cat Island,24.6000,-75.8833,-5,59
+Bahamas,Egg Island Reef_Harbour Island,25.5667,-76.8167,-5,59
+Bahamas,Elbow Bank_Bimini,25.3833,-78.8667,-5,57
+Bahamas,Elbow Cay_Bimini,23.9500,-80.4833,-5,57
+Bahamas,Elbow Cay_Marsh Harbour,26.5333,-76.9667,-5,58
+Bahamas,Elbow Cays_Bimini,23.9333,-80.4500,-5,57
+Bahamas,Eleuthera Point_Rock Sound,24.6667,-76.1833,-5,59
+Bahamas,Elizabeth Harbour_Exuma,23.5000,-75.7167,-5,60
+Bahamas,Englerston_New Providence,25.0500,-77.3333,-5,58
+Bahamas,Exuma,23.5333,-75.8333,-5,59
+Bahamas,Exuma Bank_Exuma,23.5833,-76.1667,-5,59
+Bahamas,Exuma District_Exuma,24.0333,-76.4833,-5,59
+Bahamas,Exuma Harbour_Exuma,23.5667,-75.8000,-5,59
+Bahamas,Exuma Islands_Exuma,24.2500,-76.5000,-5,59
+Bahamas,Fairfield_Acklins and Crooked Islands,22.7833,-74.2167,-5,60
+Bahamas,Falcon Cays_Marsh Harbour,26.4000,-76.9667,-5,58
+Bahamas,Fanny Cay_Nichollstown and Berry Islands,25.6833,-77.8333,-5,58
+Bahamas,Farmers Cay Cut_Exuma,23.9500,-76.3167,-5,59
+Bahamas,Farquharson_San Salvador and Rum Cay,24.0000,-74.4667,-5,60
+Bahamas,Fat Turtle Sound_Kemps Bay,24.4000,-77.7333,-5,58
+Bahamas,Fiddle Cay_Green Turtle Cay,26.8000,-77.3500,-5,58
+Bahamas,Finley Cay_Harbour Island,25.1167,-76.7667,-5,59
+Bahamas,Fish Cay_Acklins and Crooked Islands,22.5000,-74.2667,-5,60
+Bahamas,Fish Hawk Cay_Marsh Harbour,26.6167,-77.0333,-5,58
+Bahamas,Fishing Cays_New Providence,24.9833,-77.4667,-5,58
+Bahamas,Flamingo Cay_Ragged Island,22.9000,-75.8667,-5,60
+Bahamas,Flamingo Pond_Mayaguana,22.4167,-73.0167,-5,61
+Bahamas,Flamingo Pond_Fresh Creek,24.5000,-77.7333,-5,58
+Bahamas,Fleeming Channel_Harbour Island,25.2667,-76.9333,-5,59
+Bahamas,Fleeming Point_New Providence,24.9833,-77.5000,-5,58
+Bahamas,Florida Strait,25.0000,-79.7500,-5,57
+Bahamas,Foots Cay_Marsh Harbour,26.6500,-77.1167,-5,58
+Bahamas,Forbes_Exuma,23.4667,-75.6500,-5,60
+Bahamas,Fort Charlotte_New Providence,25.0833,-77.3833,-5,58
+Bahamas,Fort Fincastle_New Providence,25.0833,-77.3667,-5,58
+Bahamas,Fowl Cay_Exuma,24.2667,-76.5333,-5,59
+Bahamas,Frankfort Point_Cat Island,24.1333,-75.4000,-5,60
+Bahamas,Freeport,26.6667,-78.7500,-5,57
+Bahamas,Freeport Harbour_Freeport,26.5000,-78.7667,-5,57
+Bahamas,Freeport International Airport_Freeport,26.5500,-78.7000,-5,57
+Bahamas,Freetown_Cat Island,24.2833,-75.4167,-5,60
+Bahamas,French Wells_Acklins and Crooked Islands,22.6833,-74.2833,-5,60
+Bahamas,Frozen Cay_Nichollstown and Berry Islands,25.5500,-77.7000,-5,58
+Bahamas,Icely Rock_Ragged Island,22.0167,-75.7000,-5,60
+Bahamas,Iguana Cay_Kemps Bay,24.0333,-77.7167,-5,58
+Bahamas,Ile Andros_Kemps Bay,24.4333,-77.9500,-5,58
+Bahamas,Ile Bahama_Freeport,26.6333,-78.4167,-5,57
+Bahamas,Ile Crooked_Acklins and Crooked Islands,22.7500,-74.2167,-5,60
+Bahamas,Ile de la Fortune_Crooked Islands,22.6167,-74.3333,-5,60
+Bahamas,Ile George_Harbour Island,25.5500,-76.7667,-5,59
+Bahamas,Ile Longue_Long Island,23.2500,-75.1167,-5,60
+Bahamas,Ile Mariguana_Mayaguana,22.3833,-72.9500,-5,61
+Bahamas,Iles Berry_Nichollstown and Berry Islands,25.5667,-77.7500,-5,58
+Bahamas,Iles de Bahama_Cat Island,24.2500,-76.0000,-5,59
+Bahamas,Iles Planes_Ragged Island,22.6167,-73.5500,-5,61
+Bahamas,Inagua,21.0833,-73.3000,-5,61
+Bahamas,Industrious Hil_Cat Island,24.4500,-75.5500,-5,59
+Bahamas,Iron Cay_Marsh Harbour,26.4167,-77.0333,-5,58
+Bahamas,Ishmael_Ragged Island,22.3200,-75.7750,-5,60
+Bahamas,Island of Eleuthera_Governor s Harbour,25.1667,-76.2333,-5,59
+Bahamas,Island of New Providence_New Providence,25.0333,-77.4000,-5,58
+Bahamas,Isle Royale_Harbour Island,25.5167,-76.8500,-5,59
+Bahamas,Israel Creek_Marsh Harbour,26.5667,-77.1833,-5,58
+Bahamas,James Cistern_Governor s Harbour,25.3167,-76.3667,-5,59
+Bahamas,Joes Cays_High Rock,27.1000,-78.0500,-5,58
+Bahamas,John Millars_Rock Sound,24.6833,-76.1833,-5,59
+Bahamas,Josephs Cay_Rock Sound,24.9333,-76.1500,-5,59
+Bahamas,Joulter Cays_Nichollstown and Berry Islands,25.3000,-78.1333,-5,58
+Bahamas,Kemp Cay_Exuma,24.2333,-76.5000,-5,59
+Bahamas,Kemp Cay_Nichollstown and Berry Islands,25.7000,-77.8167,-5,58
+Bahamas,Kemps Bay,24.0333,-77.5500,-5,58
+Bahamas,Kemps Bay_Governor s Harbour,25.1000,-76.1500,-5,59
+Bahamas,Kerr Mount_San Salvador and Rum Cay,24.0167,-74.4833,-5,60
+Bahamas,Kidds Cove_Exuma,23.5000,-75.7667,-5,60
+Bahamas,Killarney_New Providence,25.0500,-77.4167,-5,58
+Bahamas,Killarney Lake_New Providence,25.0500,-77.4500,-5,58
+Bahamas,Kit Cays_Fresh Creek,24.5667,-77.7333,-5,58
+Bahamas,Knowles_Cat Island,24.4000,-75.4833,-5,59
+Bahamas,Krall Creek_Kemps Bay,23.8167,-77.7833,-5,58
+Bahamas,Macaras Shoal,22.2000,-77.2667,-5,59
+Bahamas,Nassau_New Providence,25.0833,-77.3500,-5,58
+Bahamas,Nassau Estate_New Providence,25.0333,-77.2833,-5,58
+Bahamas,Nassau Harbour_New Providence,25.1000,-77.3667,-5,58
+Bahamas,Nassau International Airport_New Providence,25.0500,-77.4667,-5,58
+Bahamas,O Brien Cay_Exuma,24.3333,-76.5500,-5,59
+Bahamas,O Neils_Long Island,23.5000,-75.2167,-5,60
+Bahamas,Oakes Field_New Providence,25.0500,-77.3667,-5,58
+Bahamas,Ocean Bight_Long Island,23.5833,-75.8500,-5,59
+Bahamas,Ocean Bight_Inagua,21.2500,-73.2500,-5,61
+Bahamas,Ocean Cay_Bimini,25.4167,-79.2167,-5,57
+Bahamas,Ocean Point_Marsh Harbour,26.2833,-77.0167,-5,58
+Bahamas,Okra Cross Point_Long Island,23.3000,-75.1167,-5,60
+Bahamas,Old Bahama Channel,22.5000,-78.8333,-5,58
+Bahamas,Old Bight_Cat Island,24.2500,-75.3500,-5,60
+Bahamas,Old Bight Landing_Cat Island,24.2167,-75.3833,-5,60
+Bahamas,Old Culmers Point_Rock Sound,24.8167,-76.1500,-5,59
+Bahamas,Old Fort Bay_New Providence,25.0500,-77.5333,-5,58
+Bahamas,Old Fort Point_New Providence,25.0500,-77.4833,-5,58
+Bahamas,Old Grays_Long Island,23.2167,-75.0833,-5,60
+Bahamas,Old House Point_Marsh Harbour,26.5500,-77.0500,-5,58
+Bahamas,Old Place_San Salvador and Rum Cay,23.9667,-74.4833,-5,60
+Bahamas,Old Yankee Cay_High Rock,27.9333,-78.0167,-5,57
+Bahamas,Orange Cays_Freeport,24.9333,-79.1500,-5,57
+Bahamas,Orange Creek_Cat Island,24.6500,-75.7167,-5,59
+Bahamas,Orange Creek Point_Cat Island,24.6333,-75.7333,-5,59
+Bahamas,Oree Bay_Inagua,21.2833,-73.0667,-5,61
+Bahamas,Outer Point Cay_Marsh Harbour,26.5500,-77.0667,-5,58
+Bahamas,Over Yonder Cay_Exuma,24.2167,-76.4667,-5,59
+Bahamas,Owens Town_Fresh Creek,24.8833,-78.0333,-5,58
+Bahamas,Oyster Cay_Exuma,24.7167,-76.8167,-5,59
+Bahamas,Quarters_San Salvador and Rum Cay,24.1000,-74.5167,-5,60
+Bahamas,Queen s Cove_Freeport,26.5500,-78.7167,-5,57
+Bahamas,Queens Channel_Kemps Bay,23.3333,-77.0000,-5,59
+Bahamas,Quintus Rocks_Harbour Island,25.2833,-76.8833,-5,59
+Bahamas,Tee Cay_Cat Island,24.5667,-75.8833,-5,59
+Bahamas,Thompson Cay_Nichollstown and Berry Islands,25.4167,-77.8333,-5,58
+Bahamas,Thrift Harbour Creek_Green Turtle Cay,26.5500,-77.8500,-5,58
+Bahamas,Treasure Cay_Green Turtle Cay,26.6667,-77.2667,-5,58
+Bahamas,Turtle Rock_Long Island,23.2333,-75.2833,-5,60
+Bahamas,Turtle Rocks_Bimini,25.6667,-79.3333,-5,57
+Bahamas,Twin Cay_Exuma,24.2000,-76.5000,-5,59
+Bahamas,Twin Cays_Ragged Island,22.3361,-75.7800,-5,60
+Bahamas,Umbrella Cay_Green Turtle Cay,27.0167,-77.7167,-5,58
+Bahamas,United Estates_San Salvador and Rum Cay,24.1000,-74.4500,-5,60
+Bahamas,Upper Bogue_Harbour Island,25.4500,-76.6667,-5,59
+Bahamas,Upper Conch Point_Freeport,26.5333,-78.5667,-5,57
+Bahamas,Upper Samphire Cay_New Providence,25.2000,-76.9667,-5,59
+Bahamas,Upper Sandy Harbour_Freeport,26.8167,-78.5000,-5,57
+Bahamas,Upper Wreck Point_Governor s Harbour,25.1167,-76.1000,-5,59
+Bahamas,Vigilant Cay_Nichollstown and Berry Islands,25.4333,-77.7667,-5,58
+Bahamas,Yamacraw Beach_New Providence,25.0167,-77.2500,-5,58
+Bahamas,Yellow Cay_Kemps Bay,24.2333,-77.9667,-5,58
+Bahamas,Young Islet_Exuma,23.8167,-76.1833,-5,59
+Bahamas,Zanicles Settlement_Cat Island,24.1333,-75.3667,-5,60
+Bahamas,Zion Hill_Cat Island,24.6167,-75.6500,-5,59

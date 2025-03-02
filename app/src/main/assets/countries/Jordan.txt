@@ -1,0 +1,147 @@
+Jordan,Ajlun_JO14,32.3436,35.7605,2,0
+Jordan,Al Mazar_Al Karak,31.0753,35.7058,2,0
+Jordan,Amaun_JO07,30.3097,35.4764,2,0
+Jordan,Amman_JO11,31.9597,35.943,2,0
+Jordan,Amman Station_JO11,31.9764,35.993,2,0
+Jordan,Aqaba_`Amman,29.5364,35.0175,2,0
+Jordan,Aqaba Airport_Al `Aqabah,29.593,35.093,2,0
+Jordan,Aqaba Station_Al `Aqabah,29.5097,35.043,2,0
+Jordan,Az Zarqa_JO11,31.6597,35.7097,2,0
+Jordan,Azraq ash Shishan_JO11,31.843,36.8264,2,0
+Jordan,Bayt Idis_JO14,32.4467,35.7095,2,0
+Jordan,Bayt Ra s_JO14,32.6098,35.8598,2,0
+Jordan,Bayt Yafa_JO14,32.5265,35.7931,2,0
+Jordan,Cape Costigan,31.3599,35.4932,2,0
+Jordan,Cape Molineux,31.2599,35.4432,2,0
+Jordan,Chbeike_JO10,32.4099,37.2432,2,0
+Jordan,Doqara_JO14,32.6094,35.7447,2,0
+Jordan,Halawa_JO14,32.3968,35.6712,2,0
+Jordan,Hawwarah_JO14,32.544,35.9182,2,0
+Jordan,Hawwarah_JO11,31.7104,35.8604,2,0
+Jordan,Ibbin_JO14,32.3772,35.8272,2,0
+Jordan,Ibder_JO14,32.6772,35.7938,2,0
+Jordan,Ibharmala_Al Karak,31.4272,35.7605,2,0
+Jordan,Ibillin_JO14,32.3605,35.8438,2,0
+Jordan,Ibn Dhib_JO07,30.5605,35.5105,2,0
+Jordan,Ihseinan_JO07,29.8772,35.7605,2,0
+Jordan,Imra`_Al Karak,31.3622,35.6955,2,0
+Jordan,Inbah_JO14,32.4908,35.7661,2,0
+Jordan,Iraq Abu az Zighan_JO13,32.1105,36.0438,2,0
+Jordan,Iraq at Tahunah_JO14,32.2105,35.6938,2,0
+Jordan,Irbed_JO14,32.5605,35.8605,2,0
+Jordan,Irbid_JO14,32.5661,35.8605,2,0
+Jordan,Irbid_Al Karak,31.2105,35.8438,2,0
+Jordan,Irhab_JO10,32.3272,36.1105,2,0
+Jordan,Irjan_JO14,32.4069,35.7422,2,0
+Jordan,Irjan el Gharbiya_JO11,31.9938,35.9272,2,0
+Jordan,Irmadan_JO11,31.9105,36.0438,2,0
+Jordan,Ishtafeina_JO14,32.3772,35.7605,2,0
+Jordan,Iskandar_JO11,31.8938,35.9772,2,0
+Jordan,Iso`ar_Al Karak,31.0438,35.4772,2,0
+Jordan,Itmayrah_JO14,32.4105,36.0105,2,0
+Jordan,Izar_Al Karak,31.2063,35.6811,2,0
+Jordan,Jerash_JO14,32.2912,35.9059,2,0
+Jordan,Jordan,31.0106,36.0106,2,0
+Jordan,Jordan Petroleum Refinery_JO13,32.1439,36.1106,2,0
+Jordan,Karak_JO07,31.1954,35.7154,2,0
+Jordan,Karaka_At Tafilah,30.9107,35.6607,2,0
+Jordan,Khalda_JO11,32.0107,35.8607,2,0
+Jordan,Kufr Asad_JO14,32.6107,35.7274,2,0
+Jordan,Kufr `Awan_JO14,32.444,35.694,2,0
+Jordan,Kufrinjah_JO14,32.3079,35.7138,2,0
+Jordan,Lahun_JO11,31.4775,35.8608,2,0
+Jordan,Lajjun_Al Karak,31.2441,35.8775,2,0
+Jordan,Land of Gilead_JO14,32.4275,35.7608,2,0
+Jordan,Lasan Awwal Station_JO07,30.0941,35.5275,2,0
+Jordan,La`ban_At Tafilah,30.9275,35.7108,2,0
+Jordan,La`ban_Al Karak,30.9608,35.7275,2,0
+Jordan,Libb_JO11,31.6108,35.7775,2,0
+Jordan,Liwa al Balqa_Al Balqa,32.0108,35.6775,2,0
+Jordan,Liwa al Karak_Al Karak,31.1775,35.7608,2,0
+Jordan,Liwa Ma`an_Ma`an,30.3441,36.5941,2,0
+Jordan,Liwa `Ajlun_`Ajlun,32.3441,35.7608,2,0
+Jordan,Liwa `Ajlun_Irbid,32.5108,35.8441,2,0
+Jordan,Lshuni_Al Balqa,31.9008,35.5886,2,0
+Jordan,Maadi_Al Balqa,32.1776,35.6276,2,0
+Jordan,Madaba_JO11,31.7276,35.8109,2,0
+Jordan,Mafraq_JO10,32.3609,36.2109,2,0
+Jordan,Mafraq Airport_JO10,32.3776,36.2609,2,0
+Jordan,Mafraq Governorate_Al Mafraq,32.3442,37.9276,2,0
+Jordan,Mahattat Ma`an_JO07,30.1942,35.7776,2,0
+Jordan,Malka_JO14,32.6853,35.7631,2,0
+Jordan,Ma`ain_JO11,31.6912,35.7448,2,0
+Jordan,Ma`an_JO07,30.2109,35.7442,2,0
+Jordan,Mu tah_Al Karak,31.1034,35.7053,2,0
+Jordan,Nabi Hud_JO14,32.261,35.9277,2,0
+Jordan,Nab` al Hammam_JO14,32.2277,35.911,2,0
+Jordan,Nab` al Murayghah_JO07,30.111,35.5277,2,0
+Jordan,Nab` al Yamam_JO07,30.0277,35.4777,2,0
+Jordan,Nab` er Ruseis_JO07,30.161,35.4277,2,0
+Jordan,Nab` Umm Rus_JO07,30.1277,35.4943,2,0
+Jordan,Nadira_JO13,32.3227,35.9879,2,0
+Jordan,Nafi`_JO11,31.8777,35.961,2,0
+Jordan,Nahal Qishon,32.6277,35.5777,2,0
+Jordan,Nahareyim_JO14,32.6443,35.5943,2,0
+Jordan,Nahlah_JO14,32.2943,35.8443,2,0
+Jordan,Najdah_JO14,32.2443,35.811,2,0
+Jordan,Nakb Shtar_JO07,30.011,35.4943,2,0
+Jordan,Naqb ar Ruba`i_JO07,30.2777,35.3777,2,0
+Jordan,Naqb Ashtar_JO07,29.9943,35.5277,2,0
+Jordan,Naqqaz_Al Karak,31.1649,35.7157,2,0
+Jordan,Nasib_Al Karak,31.3443,35.7777,2,0
+Jordan,Natifah_JO14,32.5293,35.8363,2,0
+Jordan,Nawkhah_At Tafilah,30.8777,35.6443,2,0
+Jordan,Na`ur_JO11,31.8943,35.8443,2,0
+Jordan,Nebi Yusha`_Al Balqa,32.0777,35.7277,2,0
+Jordan,Nekhel_Al Karak,31.0777,35.7943,2,0
+Jordan,Nesheinish_Al Karak,31.0943,35.761,2,0
+Jordan,Nessar_Al Karak,31.111,35.811,2,0
+Jordan,Netel_JO11,31.661,35.8777,2,0
+Jordan,Niji_JO07,30.5277,35.561,2,0
+Jordan,Nufaylat Wadi Musa_JO07,30.4443,35.311,2,0
+Jordan,Nuhud al Bint_JO07,29.9766,37.0646,2,0
+Jordan,Numeira_Al Karak,31.1479,35.5216,2,0
+Jordan,Nuqayb al Bawl_JO10,32.1777,36.111,2,0
+Jordan,Nuqrat el Atrash_JO10,32.2777,36.1943,2,0
+Jordan,Nuweiga_JO07,30.1943,35.4777,2,0
+Jordan,Nuweijis_JO11,31.9943,35.961,2,0
+Jordan,Nu`aiyima_JO14,32.4313,35.9241,2,0
+Jordan,Ouadi ech Shaumar_JO14,32.7111,35.9611,2,0
+Jordan,Ouadi el Aaqeb,32.1611,36.3111,2,0
+Jordan,Ouadi el Hachad_JO10,32.4944,37.2611,2,0
+Jordan,Ouadi er Radjil,32.3778,37.1778,2,0
+Jordan,Ouadi Mchami,32.4611,36.9944,2,0
+Jordan,Ouadi Sarab,32.5944,37.2444,2,0
+Jordan,Petra_JO07,30.3445,35.4445,2,0
+Jordan,Pisga_JO11,31.7787,35.7379,2,0
+Jordan,Prince Abdullah Bridge,31.8112,35.5612,2,0
+Jordan,Qumaym_JO11,32.5816,35.743,2,0
+Jordan,Ramtha_JO14,32.5706,36.0183,2,0
+Jordan,Ruseifa_JO13,32.0281,36.0614,2,0
+Jordan,Sahab_JO11,31.8901,36.0159,2,0
+Jordan,Salt_Al Balqa,32.0507,35.7387,2,0
+Jordan,Sama_JO10,32.4782,36.2448,2,0
+Jordan,Sama_JO14,32.6448,35.8282,2,0
+Jordan,Shaubak_JO07,30.5448,35.5782,2,0
+Jordan,Shuna Shamaliya_JO14,32.6179,35.6237,2,0
+Jordan,Souf_JO14,32.3282,35.8448,2,0
+Jordan,Sweifiye_JO11,31.9615,35.8782,2,0
+Jordan,Sweileh_JO11,32.0365,35.8496,2,0
+Jordan,Tafielah Governorate_At Tafilah,30.7616,35.5949,2,0
+Jordan,Tafila_JO11,30.8449,35.6116,2,0
+Jordan,Tleil el Jmu`a_JO07,29.9458,36.8447,2,0
+Jordan,Tlul al- Esagef_JO10,32.2449,37.6283,2,0
+Jordan,Wadi Musa_JO07,30.3786,35.4286,2,0
+Jordan,Wadi Musaymir_JO07,30.168,35.1997,2,0
+Jordan,Yabboq,32.1277,35.5538,2,0
+Jordan,Yaduda_JO11,31.8621,35.9288,2,0
+Jordan,Yajuz_JO11,32.0454,35.9288,2,0
+Jordan,Yaribah_JO14,32.5454,35.9621,2,0
+Jordan,Yarmouk University_JO14,32.4954,36.0121,2,0
+Jordan,Yarmuk River,32.6454,35.5788,2,0
+Jordan,Yarut_Al Karak,31.3107,35.7329,2,0
+Jordan,Yerqa_Al Balqa,31.9907,35.7054,2,0
+Jordan,Yubla_JO14,32.6954,35.8288,2,0
+Jordan,Zara`a_Al Karak,31.2455,35.7789,2,0
+Jordan,Zarqa_JO13,32.0955,36.1122,2,0
+Jordan,Zarqa Governorate_At Tafilah,31.8455,36.8455,2,0

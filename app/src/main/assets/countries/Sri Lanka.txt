@@ -1,0 +1,105 @@
+Sri Lanka,Addalachenai_North Eastern,7.2597,81.8597,5.5,0
+Sri Lanka,Akkaraipattu_North Eastern,7.2264,81.8597,5.5,0
+Sri Lanka,Akurana_North Western,7.6597,80.0264,5.5,0
+Sri Lanka,Akurana_Central,7.3764,80.6264,5.5,0
+Sri Lanka,Akurana_Sabaragamuwa,6.7764,80.293,5.5,0
+Sri Lanka,Balangoda_Sabaragamuwa,6.659,80.682,5.5,0
+Sri Lanka,Bambalapitiya_Western,6.8976,79.8717,5.5,0
+Sri Lanka,Battaramulla_Western,6.9098,79.9265,5.5,0
+Sri Lanka,Batticaloa District_North Eastern,7.7598,81.5098,5.5,0
+Sri Lanka,Colombo_Western,6.9418,79.8577,5.5,0
+Sri Lanka,Colombo District_Western,6.8766,80.0266,5.5,0
+Sri Lanka,Colombo Fort_Western,6.9435,79.8602,5.5,0
+Sri Lanka,Colombo Harbour_Western,6.9563,79.8605,5.5,0
+Sri Lanka,Colombogama_Sabaragamuwa,6.5932,80.5099,5.5,0
+Sri Lanka,Colpetty_Western,6.8932,79.8599,5.5,0
+Sri Lanka,Dehiwala_Western,6.8614,79.8753,5.5,0
+Sri Lanka,Eravur_North Eastern,7.7768,81.6101,5.5,0
+Sri Lanka,Fairfield_Central,6.9269,80.6769,5.5,0
+Sri Lanka,Fairlawn_Central,6.7769,80.6435,5.5,0
+Sri Lanka,Fairlawn Falls_Central,6.7769,80.6269,5.5,0
+Sri Lanka,Faithlie_Central,6.9602,80.6435,5.5,0
+Sri Lanka,Fassifern West_Central,6.9102,80.7102,5.5,0
+Sri Lanka,Fellside_Uva,6.7935,81.0602,5.5,0
+Sri Lanka,Fermoyle_Uva,6.8602,81.1269,5.5,0
+Sri Lanka,Ferndale_Central,7.3602,80.8435,5.5,0
+Sri Lanka,Ferriby_Western,6.9269,80.1935,5.5,0
+Sri Lanka,Fetteresso_Central,6.7769,80.6935,5.5,0
+Sri Lanka,Figland_Southern,6.3102,80.5935,5.5,0
+Sri Lanka,Flensberg_North Western,7.7102,80.3769,5.5,0
+Sri Lanka,Florence_Central,7.0102,80.4602,5.5,0
+Sri Lanka,Fordyce_Central,6.8769,80.6602,5.5,0
+Sri Lanka,Fort Ostenburg_North Eastern,8.5435,81.2269,5.5,0
+Sri Lanka,Francewatta_Southern,6.0769,80.8102,5.5,0
+Sri Lanka,Friedlands_Central,6.7769,80.6769,5.5,0
+Sri Lanka,Frotoft_Central,7.0769,80.7102,5.5,0
+Sri Lanka,Fruithill_Central,6.9102,80.5935,5.5,0
+Sri Lanka,Galle_Southern,6.0639,80.222,5.5,0
+Sri Lanka,Gurutalawa_Uva,6.8534,80.9331,5.5,0
+Sri Lanka,Hapugastalawa_Central,7.0771,80.5771,5.5,0
+Sri Lanka,J P Totum_Sabaragamuwa,6.4939,80.6106,5.5,0
+Sri Lanka,Ja Ela_Western,7.1092,79.8689,5.5,0
+Sri Lanka,Jaffna_North Eastern,9.6773,80.0106,5.5,0
+Sri Lanka,Jaffna Beacon_North Eastern,9.6439,80.0439,5.5,0
+Sri Lanka,Jaffna District_North Eastern,9.7606,80.0939,5.5,0
+Sri Lanka,Jaffna Jetty Number 1_North Eastern,9.6606,80.0273,5.5,0
+Sri Lanka,Jaffna Lagoon_North Eastern,9.5939,80.2606,5.5,0
+Sri Lanka,Jaffna on Rocks_North Eastern,9.6606,80.0439,5.5,0
+Sri Lanka,Jaffna Peninsula_North Eastern,9.7606,80.1773,5.5,0
+Sri Lanka,Jaffna Road_North Central,8.1606,80.5439,5.5,0
+Sri Lanka,Jaligoda_Western,6.8273,79.9273,5.5,0
+Sri Lanka,Jamburutugoda_Southern,6.0273,80.4106,5.5,0
+Sri Lanka,Jankure_North Western,7.5273,80.5273,5.5,0
+Sri Lanka,Jatunkanda_Sabaragamuwa,6.3773,80.6439,5.5,0
+Sri Lanka,Jawatta_Western,6.6273,79.9773,5.5,0
+Sri Lanka,Jayamanna_Southern,6.0606,80.4939,5.5,0
+Sri Lanka,Jayanthipura_North Central,8.0106,81.0106,5.5,0
+Sri Lanka,Julgamuwa_Southern,6.2106,81.1606,5.5,0
+Sri Lanka,Kalubowila West_Western,6.8774,79.8774,5.5,0
+Sri Lanka,Kamburapola_Sabaragamuwa,6.994,80.244,5.5,0
+Sri Lanka,Kandy_Central,7.3071,80.6457,5.5,0
+Sri Lanka,Kandy District_Central,7.2607,80.7607,5.5,0
+Sri Lanka,Kandy Lake_Central,7.3107,80.644,5.5,0
+Sri Lanka,Kandy Plateau_Central,7.2607,80.6774,5.5,0
+Sri Lanka,Kattankudi_North Eastern,7.6857,81.7407,5.5,0
+Sri Lanka,Kurunegala_North Western,7.4974,80.3754,5.5,0
+Sri Lanka,Kurunegala District_North Western,7.7607,80.2607,5.5,0
+Sri Lanka,Maharagama_North Western,7.3609,80.1442,5.5,0
+Sri Lanka,Maradana_Western,6.9356,79.8742,5.5,0
+Sri Lanka,Matale Town_Central,7.4826,80.6353,5.5,0
+Sri Lanka,Mawanella_Sabaragamuwa,7.2576,80.4534,5.5,0
+Sri Lanka,Miella_Southern,6.1276,80.6942,5.5,0
+Sri Lanka,Monaragala District_Uva,6.6776,81.3442,5.5,0
+Sri Lanka,Moratuwa_Western,6.7842,79.8934,5.5,0
+Sri Lanka,Moratuwa_North Western,7.4276,80.4109,5.5,0
+Sri Lanka,Moratuwatta_North Western,7.4942,79.8442,5.5,0
+Sri Lanka,Nawalapitiya_Central,7.066,80.5468,5.5,0
+Sri Lanka,Negombo_Western,7.2196,79.8468,5.5,0
+Sri Lanka,Nintavur_North Eastern,7.361,81.861,5.5,0
+Sri Lanka,Nugegoda_Western,6.8838,79.9018,5.5,0
+Sri Lanka,Panadura_Western,6.7245,79.9154,5.5,0
+Sri Lanka,Paragahadeniya_North Western,7.4279,80.4779,5.5,0
+Sri Lanka,Peradeniya_Central,7.2743,80.614,5.5,0
+Sri Lanka,Polonnaruwa_North Central,7.9445,81.0112,5.5,0
+Sri Lanka,Puttalam_North Western,8.0445,79.8279,5.5,0
+Sri Lanka,Queelwatte_Central,6.7946,80.6446,5.5,0
+Sri Lanka,Queens Bay_Western,6.7446,80.1446,5.5,0
+Sri Lanka,Queensberry_Central,6.9946,80.6113,5.5,0
+Sri Lanka,Queensland_Central,6.828,80.578,5.5,0
+Sri Lanka,Queenwood_Central,6.9113,80.6446,5.5,0
+Sri Lanka,Quina Totam_Central,6.8113,80.7113,5.5,0
+Sri Lanka,Quinchberry_Central,6.9613,80.6946,5.5,0
+Sri Lanka,Rajagiriya_Western,6.9242,79.9053,5.5,0
+Sri Lanka,Saintamaruthu_North Eastern,7.3948,81.8448,5.5,0
+Sri Lanka,Sri Jayawardenepura Kotte,6.8868,79.9187,5.5,0
+Sri Lanka,Sri Jayavardhanapura_Western,6.9143,79.9198,5.5,0
+Sri Lanka,Tihariya_Western,7.1355,80.0833,5.5,0
+Sri Lanka,Tundawela_Uva,7.1116,81.0283,5.5,0
+Sri Lanka,Uyanwatta_Western,6.745,80.0284,5.5,0
+Sri Lanka,Wattala_Western,7.0016,79.9052,5.5,0
+Sri Lanka,Weligama_Southern,5.9786,80.4286,5.5,0
+Sri Lanka,Weuda_North Western,7.4119,80.1786,5.5,0
+Sri Lanka,Weudagama_North Western,7.5452,80.2119,5.5,0
+Sri Lanka,Zabedia_Western,7.2455,79.9122,5.5,0
+Sri Lanka,Zowdegala_Southern,6.0789,80.4789,5.5,0
+Sri Lanka,Zululand_Central,7.3455,80.7122,5.5,0

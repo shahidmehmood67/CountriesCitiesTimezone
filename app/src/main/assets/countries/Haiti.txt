@@ -1,0 +1,161 @@
+Haiti,Cap-Haitien_Nord,19.7599,-72.1901,-5,0
+Haiti,Gonaives_Artibonite,19.4436,-72.6897,-5,0
+Haiti,Ile a la Mane_Ouest,18.8772,-72.8895,-5,0
+Haiti,Ile a Vache_Sud,18.0772,-73.6228,-5,0
+Haiti,Ile Croissant_Ouest,18.6938,-72.7562,-5,0
+Haiti,Ile Rat_Nord,19.8105,-72.3062,-5,0
+Haiti,Ilet Port Margot_Nord,19.8438,-72.4228,-5,0
+Haiti,Ilet Remy_Grand Anse,18.5605,-73.6728,-5,0
+Haiti,Inginac Shoals_Ouest,18.5772,-72.3562,-5,0
+Haiti,Irlan_Artibonite,19.4605,-72.3062,-5,0
+Haiti,Jeremie_Grand Anse,18.6773,-74.1561,-5,0
+Haiti,Ka Berthe_Grand Anse,18.5107,-73.3726,-5,0
+Haiti,Ka Boffe_Grand Anse,18.494,-73.4393,-5,0
+Haiti,Ka Coq_Sud,18.1107,-73.6893,-5,0
+Haiti,Ka Dieu_Grand Anse,18.5607,-73.6893,-5,0
+Haiti,Ka Joeph_Ouest,18.344,-72.656,-5,0
+Haiti,Ka Lacour_Nord-Est,19.544,-71.956,-5,0
+Haiti,Ka Lafie_Grand Anse,18.4774,-73.4226,-5,0
+Haiti,Ka Lafond_Grand Anse,18.5774,-73.5226,-5,0
+Haiti,Ka Michaud_Artibonite,19.5274,-72.4226,-5,0
+Haiti,Ka Robin_Artibonite,19.5774,-72.5726,-5,0
+Haiti,Ka Roi_Artibonite,19.5857,-72.7737,-5,0
+Haiti,Ka Savon_Grand Anse,18.4774,-73.756,-5,0
+Haiti,Ka Tanbour_Ouest,18.4274,-72.556,-5,0
+Haiti,Ka Trouillot_Ouest,18.394,-72.2393,-5,0
+Haiti,Ka Zabeth_Ouest,18.4774,-72.0226,-5,0
+Haiti,Kabeille_Nord,19.844,-72.606,-5,0
+Haiti,Kaeli_Ouest,18.6954,-72.0387,-5,0
+Haiti,Kalami_Centre,18.744,-72.156,-5,0
+Haiti,Kaliko Beach_Ouest,18.8774,-72.5893,-5,0
+Haiti,Kanie_Nord,19.3274,-72.0393,-5,0
+Haiti,Kenscoff_Ouest,18.4613,-72.2762,-5,0
+Haiti,Koa_Artibonite,19.3774,-72.3893,-5,0
+Haiti,Kobe_Centre,18.8774,-72.056,-5,0
+Haiti,Kyona Beach_Ouest,18.844,-72.5726,-5,0
+Haiti,Les Cayes_Sud,18.2941,-73.7392,-5,0
+Haiti,Miragoane_Grand Anse,18.3942,-73.1058,-5,0
+Haiti,O Brian_Sud-Est,18.3611,-72.4222,-5,0
+Haiti,O Gorman_Ouest,18.5778,-72.1389,-5,0
+Haiti,Oban_Sud-Est,18.2444,-72.4222,-5,0
+Haiti,Obeissant_Grand Anse,18.4111,-73.1389,-5,0
+Haiti,Obere_Grand Anse,18.5778,-74.1889,-5,0
+Haiti,Obleon_Ouest,18.4489,-72.2608,-5,0
+Haiti,Obo_Nord-Ouest,19.7661,-73.1397,-5,0
+Haiti,Octon_Nord-Est,19.4278,-71.7222,-5,0
+Haiti,Odelique_Nord,19.8111,-72.6389,-5,0
+Haiti,Odige_Artibonite,19.7944,-72.7389,-5,0
+Haiti,Odije_Artibonite,19.2111,-72.4722,-5,0
+Haiti,Odino_Artibonite,19.5778,-72.7222,-5,0
+Haiti,Oge_Nord-Est,19.6111,-71.8889,-5,0
+Haiti,Olivier_Grand Anse,18.4278,-73.0389,-5,0
+Haiti,Olivier_Ouest,18.3278,-73.7056,-5,0
+Haiti,Oneflime_Grand Anse,18.4444,-74.2222,-5,0
+Haiti,Operon_Sud-Est,18.3353,-72.515,-5,0
+Haiti,Opet_Artibonite,19.6658,-72.7775,-5,0
+Haiti,Opio_Ouest,18.4111,-71.9056,-5,0
+Haiti,Oranger_Sud-Est,18.2611,-71.8889,-5,0
+Haiti,Orangers_Sud-Est,18.2444,-72.5056,-5,0
+Haiti,Oranges River_Sud-Est,18.2455,-72.5308,-5,0
+Haiti,Oriani_Sud-Est,18.3111,-71.8222,-5,0
+Haiti,Oriani_Ouest,18.3278,-71.9222,-5,0
+Haiti,Ostry_Artibonite,19.1944,-72.5556,-5,0
+Haiti,Otage_Sud-Est,18.2319,-72.7322,-5,0
+Haiti,Ouache_Sud,18.2944,-74.0222,-5,0
+Haiti,Oualandou_Artibonite,19.3778,-72.3056,-5,0
+Haiti,Ouanalope_Nord,19.3444,-72.1389,-5,0
+Haiti,Oulandou_Artibonite,19.4444,-72.2889,-5,0
+Haiti,Ounongo_Grand Anse,18.4944,-74.3222,-5,0
+Haiti,Petionville_Ouest,18.5237,-72.2741,-5,0
+Haiti,Port au Prince International_Ouest,18.5945,-72.2888,-5,0
+Haiti,Port-au-Prince_Ouest,18.5279,-72.3055,-5,0
+Haiti,Qartier-Morin_Nord,19.678,-72.1554,-5,0
+Haiti,Quaiche_Nord,19.7174,-72.1106,-5,0
+Haiti,Quanamenthe_Nord-Est,19.5613,-71.722,-5,0
+Haiti,Quaquillo Perotte_Artibonite,19.0446,-72.5387,-5,0
+Haiti,Quartier_Sud,18.3113,-73.3387,-5,0
+Haiti,Quartier Morin_Nord,19.708,-72.1456,-5,0
+Haiti,Quatre Villes_Artibonite,19.3113,-72.4554,-5,0
+Haiti,Quenepe_Grand Anse,18.4946,-73.1554,-5,0
+Haiti,Quentin_Nord,19.6946,-72.4554,-5,0
+Haiti,Quenton_Grand Anse,18.6113,-74.172,-5,0
+Haiti,Quepont_Centre,19.0946,-71.922,-5,0
+Haiti,Quermain_Sud-Est,18.2446,-71.8554,-5,0
+Haiti,Querset_Artibonite,18.9946,-72.5054,-5,0
+Haiti,Quetan_Grand Anse,18.4613,-73.222,-5,0
+Haiti,Quinte_Centre,18.8446,-71.9054,-5,0
+Haiti,Quiperie_Ouest,18.4327,-72.9856,-5,0
+Haiti,Quiquitte_Ouest,18.328,-72.822,-5,0
+Haiti,Quisa_Nord-Ouest,19.7446,-72.9387,-5,0
+Haiti,Quisqueya_Ouest,18.9613,-72.6887,-5,0
+Haiti,Quiton_Grand Anse,18.578,-74.172,-5,0
+Haiti,Quvray_Nord-Est,19.6113,-71.9554,-5,0
+Haiti,Usine Nadal_Ouest,18.6617,-72.255,-5,0
+Haiti,Wacacou_Nord-Est,19.3286,-71.7714,-5,0
+Haiti,Wallondry_Nord,19.4286,-72.1881,-5,0
+Haiti,Walsh_Nord,19.7044,-72.1164,-5,0
+Haiti,Wampas_Centre,18.8619,-71.9048,-5,0
+Haiti,Wan Degras_Centre,19.2119,-71.7214,-5,0
+Haiti,Waney_Ouest,18.5452,-72.3881,-5,0
+Haiti,Welch_Nord,19.7119,-72.2048,-5,0
+Haiti,Welch_Nord-Est,19.4786,-71.7048,-5,0
+Haiti,Welsh_Sud,18.1525,-73.8312,-5,0
+Haiti,Whale Rocks_Grand Anse,18.5119,-74.4548,-5,0
+Haiti,Wilfrid_Sud-Est,18.2619,-72.4548,-5,0
+Haiti,Williamson_Ouest,18.8619,-72.5714,-5,0
+Haiti,Windward Passage,20.0119,-73.8214,-5,0
+Haiti,Woreau_Sud-Est,18.1786,-72.7548,-5,0
+Haiti,Yaguana_Ouest,18.5229,-72.6218,-5,0
+Haiti,Yannais_Artibonite,19.4621,-72.4712,-5,0
+Haiti,Yaquezi Point_Nord-Est,19.744,-71.9773,-5,0
+Haiti,Yaya_Grand Anse,18.6288,-74.1546,-5,0
+Haiti,Yayou_Nord,19.3954,-72.2379,-5,0
+Haiti,Yeague Point_Nord,19.7954,-72.3379,-5,0
+Haiti,Yilier_Grand Anse,18.4621,-73.2879,-5,0
+Haiti,Ylain_Centre,18.8288,-72.0212,-5,0
+Haiti,Yobec_Artibonite,19.3788,-72.4379,-5,0
+Haiti,Yocan_Artibonite,19.1621,-72.6712,-5,0
+Haiti,Yocelle_Nord,19.5454,-72.1712,-5,0
+Haiti,Yoke_Sud-Est,18.2788,-72.8046,-5,0
+Haiti,Yombe_Sud-Est,18.2621,-72.1879,-5,0
+Haiti,Yon_Artibonite,19.4788,-72.6379,-5,0
+Haiti,Yousse_Artibonite,19.0454,-72.6546,-5,0
+Haiti,Yrva_Ouest,18.9668,-72.649,-5,0
+Haiti,Yvon_Grand Anse,18.3954,-73.0546,-5,0
+Haiti,Zabethe_Artibonite,18.9711,-72.5047,-5,0
+Haiti,Zabo_Sud-Est,18.1955,-72.8878,-5,0
+Haiti,Zabotte_Grand Anse,18.4455,-74.3545,-5,0
+Haiti,Zabricet_Nord-Ouest,19.8955,-72.5711,-5,0
+Haiti,Zaire_Nord,19.4955,-72.1878,-5,0
+Haiti,Zamor_Nord,19.5955,-72.2045,-5,0
+Haiti,Zanglais_Sud,18.2789,-73.4378,-5,0
+Haiti,Zeb a Fleche_Nord-Ouest,19.8289,-72.9211,-5,0
+Haiti,Zeb Fine_Sud-Est,18.253,-72.2722,-5,0
+Haiti,Zeb Guinin_Nord,19.4289,-72.1545,-5,0
+Haiti,Zemi_Grand Anse,18.4789,-74.0378,-5,0
+Haiti,Zemir_Artibonite,19.2122,-72.4045,-5,0
+Haiti,Zephir_Centre,18.7955,-71.7211,-5,0
+Haiti,Zephir_Nord,19.5455,-72.1211,-5,0
+Haiti,Zephir_Ouest,18.5789,-72.2711,-5,0
+Haiti,Zephirin_Nord,19.6455,-72.2545,-5,0
+Haiti,Zepine_Nord,19.5789,-72.1378,-5,0
+Haiti,Zepingle_Sud,18.2955,-73.4378,-5,0
+Haiti,Zerbe Boule_Nord-Ouest,19.8455,-72.8378,-5,0
+Haiti,Zerbe Fine_Sud-Est,18.2455,-71.9211,-5,0
+Haiti,Zerbe Guinee_Ouest,18.8497,-72.9584,-5,0
+Haiti,Zetrois_Grand Anse,18.6289,-73.6878,-5,0
+Haiti,Zetroits_Ouest,18.875,-72.9361,-5,0
+Haiti,Zidor_Artibonite,19.3122,-72.3378,-5,0
+Haiti,Zigne_Nord,19.3955,-72.0211,-5,0
+Haiti,Zigue_Nord,19.7622,-72.5878,-5,0
+Haiti,Zo Boeuf_Artibonite,19.5289,-72.8211,-5,0
+Haiti,Zombi_Sud,18.2789,-73.7045,-5,0
+Haiti,Zombi_Artibonite,19.5789,-72.8545,-5,0
+Haiti,Zoracon_Centre,19.0789,-71.8045,-5,0
+Haiti,Zorange_Ouest,18.8955,-73.1711,-5,0
+Haiti,Zoranger_Sud-Est,18.2289,-72.8045,-5,0
+Haiti,Zoranger_Artibonite,19.6955,-72.9045,-5,0
+Haiti,Zoranger_Centre,18.7789,-72.2545,-5,0
+Haiti,Zorazo_Ouest,18.4455,-72.2878,-5,0
+Haiti,Zoulien_Ouest,18.448,-72.195,-5,0
+Haiti,Zumy_Sud-Est,18.2955,-72.3211,-5,0

@@ -1,0 +1,65 @@
+Ghana,Accra,5.5597,-0.207,0,64
+Ghana,Accra International Airport,5.6097,-0.157,0,64
+Ghana,Accra Plains,6.0097,0.343,0,64
+Ghana,Accra Point,5.5264,-0.1903,0,64
+Ghana,Accra Region_Greater Accra,5.7597,0.0097,0,64
+Ghana,Accra Roads,5.5264,-0.207,0,64
+Ghana,Agona Swedru,5.543,-0.6903,0,64
+Ghana,Bjambigi,10.4265,0.1765,0,69
+Ghana,Cape Coast,5.1099,-1.2401,0,64
+Ghana,Florto,5.8435,0.8102,0,64
+Ghana,Ifakrom,5.7438,-2.3728,0,65
+Ghana,Ifou,7.3272,-3.3062,0,67
+Ghana,Impatasia,7.4938,-2.5728,0,67
+Ghana,Insu,5.5938,-1.9228,0,65
+Ghana,Issa,10.3938,-2.3228,0,69
+Ghana,Kasoe,8.4774,-0.0226,0,67
+Ghana,Koforidua,6.094,-0.2393,0,64
+Ghana,Kumasi,5.4607,-0.956,0,64
+Ghana,Kumasi_Western,4.8646,-2.0735,0,64
+Ghana,Nima,5.5943,-0.189,0,64
+Ghana,Queen Annes Point,5.128,-1.1887,0,64
+Ghana,Quigba,6.1113,0.878,0,64
+Ghana,Quittah,5.928,0.9946,0,64
+Ghana,River Ahema,4.9447,-2.2053,0,64
+Ghana,River Kulpwan,10.3614,-1.0719,0,69
+Ghana,River Munni,5.3614,-0.6553,0,64
+Ghana,Roani Bank,4.9114,-1.6053,0,64
+Ghana,Sekondi,4.9448,-1.6885,0,64
+Ghana,Sekondi Bay,4.9615,-1.6718,0,64
+Ghana,Sekondi Waterworks,5.0282,-1.7385,0,64
+Ghana,Takoradi,4.8949,-1.7384,0,64
+Ghana,Takoradi Bay,4.9116,-1.7051,0,64
+Ghana,Takoradi Harbour,4.8949,-1.7217,0,64
+Ghana,Takoradi Reef,4.8783,-1.7217,0,64
+Ghana,Tamale_Northern,9.6966,-0.8209,0,68
+Ghana,Tamale,9.6949,-0.8217,0,68
+Ghana,Tamale Port,9.1783,-1.1551,0,68
+Ghana,Tema,10.4949,-0.1384,0,69
+Ghana,Tema Harbour,5.6449,0.0283,0,64
+Ghana,Temane Natinga,10.8783,-0.1217,0,69
+Ghana,Uabuli,9.6617,0.1117,0,68
+Ghana,Uane,7.9617,0.2784,0,66
+Ghana,Uani Lagoon,5.1117,-2.8883,0,64
+Ghana,Uati,7.045,0.5617,0,65
+Ghana,Uaua,7.2117,0.3117,0,65
+Ghana,Uauwa,7.6784,0.4784,0,66
+Ghana,Udu,5.095,-1.355,0,64
+Ghana,Ukonia Ahenkro,7.1284,0.3284,0,65
+Ghana,Ukusi,6.3617,0.045,0,65
+Ghana,Ulebul,8.1284,0.2284,0,66
+Ghana,Ulu,10.695,-2.5383,0,70
+Ghana,Umpigo,9.145,0.1784,0,67
+Ghana,Unblele,6.1284,0.7617,0,64
+Ghana,Ungokofe,6.3284,0.7284,0,64
+Ghana,Unke,6.745,0.3784,0,65
+Ghana,Unya,7.445,-1.255,0,66
+Ghana,Uoch_Northern,10.1378,0.1634,0,69
+Ghana,Urasua,6.7284,-2.855,0,66
+Ghana,Urnbo,7.995,0.345,0,66
+Ghana,Urukwane,8.4284,-1.455,0,67
+Ghana,Utekoche,5.9284,0.0784,0,64
+Ghana,Uuli,6.1117,0.9284,0,64
+Ghana,Uwasi_Upper East,10.495,-1.2216,0,69
+Ghana,Wa,8.4286,-2.3048,0,67
+Ghana,Xelu,7.0787,0.512,0,65

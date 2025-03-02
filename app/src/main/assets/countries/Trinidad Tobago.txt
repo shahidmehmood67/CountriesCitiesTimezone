@@ -1,0 +1,165 @@
+Trinidad Tobago,Arima,10.643,-61.2736,-4,0
+Trinidad Tobago,Arima Fuel Reserve_Saint George,10.6764,-61.2903,-4,0
+Trinidad Tobago,Arima River_Arima,10.593,-61.257,-4,0
+Trinidad Tobago,Avocat_Saint Patrick,10.2097,-61.5236,-4,0
+Trinidad Tobago,Bamboo_Saint Patrick,10.0931,-61.8235,-4,0
+Trinidad Tobago,Barataria_Saint George,10.6598,-61.4569,-4,0
+Trinidad Tobago,Barrackpore_Victoria,10.2098,-61.3902,-4,0
+Trinidad Tobago,Caroni,10.6099,-61.3734,-4,0
+Trinidad Tobago,Caroni River,10.6266,-61.4901,-4,0
+Trinidad Tobago,Caroni Savanna_Caroni,10.5599,-61.4068,-4,0
+Trinidad Tobago,Caroni Savannah,10.6099,-61.4401,-4,0
+Trinidad Tobago,Chaguanas_Caroni,10.5266,-61.4068,-4,0
+Trinidad Tobago,Chaguanas Ward_Caroni,10.5099,-61.3734,-4,0
+Trinidad Tobago,Couva_Caroni,10.4266,-61.4401,-4,0
+Trinidad Tobago,Cumuto Village_Saint Andrew,10.5932,-61.1901,-4,0
+Trinidad Tobago,Cunupia Village_Caroni,10.5599,-61.3568,-4,0
+Trinidad Tobago,Curepe_Saint George,10.6432,-61.3901,-4,0
+Trinidad Tobago,Dabadie_Saint George,10.6267,-61.3067,-4,0
+Trinidad Tobago,Damian Bay_Saint George,10.7767,-61.4067,-4,0
+Trinidad Tobago,Damien River_Saint George,10.81,-61.3233,-4,0
+Trinidad Tobago,Darien Rock,10.5433,-60.5733,-4,0
+Trinidad Tobago,Defour Point_Saint David,10.8433,-60.99,-4,0
+Trinidad Tobago,Dehert Bay_Saint George,10.6933,-61.6733,-4,0
+Trinidad Tobago,Delaford_Tobago,11.2767,-60.5567,-4,0
+Trinidad Tobago,Delaford Bay_Tobago,11.26,-60.54,-4,0
+Trinidad Tobago,Delgada Point_Saint George,10.6933,-61.6567,-4,0
+Trinidad Tobago,Demerara Shoal,10.0767,-61.94,-4,0
+Trinidad Tobago,Dibe_Saint George,10.6933,-61.5233,-4,0
+Trinidad Tobago,Diego Martin_Saint George,10.71,-61.5733,-4,0
+Trinidad Tobago,Dinsley_Saint George,10.6433,-61.34,-4,0
+Trinidad Tobago,Dopsion Point_Saint David,10.7933,-60.9233,-4,0
+Trinidad Tobago,Doubloon River_Saint Andrew,10.4767,-61.04,-4,0
+Trinidad Tobago,Douce Branche River_Saint Andrew,10.51,-61.1733,-4,0
+Trinidad Tobago,Dow Village_Caroni,10.41,-61.44,-4,0
+Trinidad Tobago,Drachen Schlund,10.1767,-61.9567,-4,0
+Trinidad Tobago,Dragons Mouths,10.76,-61.7567,-4,0
+Trinidad Tobago,Drew Bank_Tobago,11.0767,-60.8567,-4,0
+Trinidad Tobago,Duncan_Victoria,10.26,-61.44,-4,0
+Trinidad Tobago,Dunmore Hill_Victoria,10.2767,-61.3233,-4,0
+Trinidad Tobago,Durity River,10.1767,-61.3733,-4,0
+Trinidad Tobago,Earthigg_Port-of-Spain,10.6768,-61.4899,-4,0
+Trinidad Tobago,Easterfield_Tobago,11.2268,-60.6732,-4,0
+Trinidad Tobago,Eau Claire River_Mayaro,10.1434,-61.0732,-4,0
+Trinidad Tobago,Ecclesville Village_Nariva,10.3268,-61.1232,-4,0
+Trinidad Tobago,Eckel Ville_Victoria,10.3268,-61.3732,-4,0
+Trinidad Tobago,Edith Falls_Saint George,10.7268,-61.6232,-4,0
+Trinidad Tobago,El Cupan River_Saint Andrew,10.7268,-61.1399,-4,0
+Trinidad Tobago,El Mamo River,10.6101,-61.2232,-4,0
+Trinidad Tobago,El Manacal_Saint George,10.7101,-61.3399,-4,0
+Trinidad Tobago,El Rincon River_Saint Andrew,10.4934,-61.1732,-4,0
+Trinidad Tobago,El Tucuche_Saint George,10.7434,-61.4066,-4,0
+Trinidad Tobago,Embarcadere Corbeau_Saint George,10.6768,-61.7399,-4,0
+Trinidad Tobago,Entrada Point_Saint George,10.7101,-61.6566,-4,0
+Trinidad Tobago,Erasmus River_Tobago,11.3101,-60.6066,-4,0
+Trinidad Tobago,Erin_Saint Patrick,10.0934,-61.6232,-4,0
+Trinidad Tobago,Erin Bay_Saint Patrick,10.0768,-61.7066,-4,0
+Trinidad Tobago,Erin Bouffe_Saint Patrick,10.0601,-61.6066,-4,0
+Trinidad Tobago,Erin Savanna_Saint Patrick,10.1101,-61.6399,-4,0
+Trinidad Tobago,Escondida Cove_Saint George,10.6768,-61.6232,-4,0
+Trinidad Tobago,Espolon Point_Saint George,10.6768,-61.6566,-4,0
+Trinidad Tobago,Felicity Hall_Caroni,10.4602,-61.4565,-4,0
+Trinidad Tobago,Fernando Ravine_Saint David,10.8269,-61.0398,-4,0
+Trinidad Tobago,Fourmi Bay_Tobago,11.3269,-60.6065,-4,0
+Trinidad Tobago,Freeport_Caroni,10.4602,-61.4065,-4,0
+Trinidad Tobago,Fromager Bay_Tobago,11.2435,-60.7398,-4,0
+Trinidad Tobago,Fyzabad_Saint Patrick,10.1935,-61.5398,-4,0
+Trinidad Tobago,Icacos_Saint Patrick,10.0605,-61.8895,-4,0
+Trinidad Tobago,Iere_Victoria,10.2938,-61.3728,-4,0
+Trinidad Tobago,Iguane River_Mayaro,10.1605,-61.0228,-4,0
+Trinidad Tobago,Inniss River_Victoria,10.0938,-61.2395,-4,0
+Trinidad Tobago,Irois_Saint Patrick,10.1438,-61.7395,-4,0
+Trinidad Tobago,Irois Bay_Saint Patrick,10.1605,-61.7395,-4,0
+Trinidad Tobago,Islet a Bateau_Saint Andrew,10.7272,-60.9728,-4,0
+Trinidad Tobago,Islot Bay_Saint Patrick,10.0772,-61.8062,-4,0
+Trinidad Tobago,Isolote Point_Saint Patrick,10.0772,-61.7728,-4,0
+Trinidad Tobago,Jaraysingh_Saint Andrew,10.5439,-61.1227,-4,0
+Trinidad Tobago,Jerningham Junction_Caroni,10.5606,-61.3727,-4,0
+Trinidad Tobago,Kapur Ridge_Mayaro,10.1607,-61.1226,-4,0
+Trinidad Tobago,Kilgwyn_Tobago,11.1607,-60.806,-4,0
+Trinidad Tobago,Killdeer River_Nariva,10.3774,-61.106,-4,0
+Trinidad Tobago,Marabella_San Fernando,10.3109,-61.4391,-4,0
+Trinidad Tobago,Maraval_Saint George,10.7109,-61.5058,-4,0
+Trinidad Tobago,Montrose_Caroni,10.5276,-61.3891,-4,0
+Trinidad Tobago,Naranja_Saint George,10.7443,-61.389,-4,0
+Trinidad Tobago,Naranjo River_Saint George,10.7277,-61.4057,-4,0
+Trinidad Tobago,Naranjo River_Saint Andrew,10.6777,-61.2057,-4,0
+Trinidad Tobago,Nariva,10.3777,-61.1557,-4,0
+Trinidad Tobago,Nariva Lagoon,10.4277,-61.0557,-4,0
+Trinidad Tobago,Nariva River_Nariva,10.3943,-61.0057,-4,0
+Trinidad Tobago,Navaret River_Nariva,10.411,-61.0723,-4,0
+Trinidad Tobago,Navet_Nariva,10.361,-61.1557,-4,0
+Trinidad Tobago,Navet Dam_Nariva,10.411,-61.2223,-4,0
+Trinidad Tobago,Navette_Mayaro,10.211,-61.0223,-4,0
+Trinidad Tobago,Neg River_Saint Patrick,10.2277,-61.5723,-4,0
+Trinidad Tobago,Nelson_Saint George,10.661,-61.589,-4,0
+Trinidad Tobago,Neptune_Saint David,10.8443,-60.889,-4,0
+Trinidad Tobago,Nestor_Saint Andrew,10.5277,-61.139,-4,0
+Trinidad Tobago,North Manzanilla_Saint Andrew,10.5277,-61.0223,-4,0
+Trinidad Tobago,Nutmeg Grove_Tobago,11.2443,-60.689,-4,0
+Trinidad Tobago,O Brien Point_Saint David,10.8444,-60.9389,-4,0
+Trinidad Tobago,O Meara Savanna_Saint George,10.6111,-61.2722,-4,0
+Trinidad Tobago,Ogis_Saint Andrew,10.5611,-61.1222,-4,0
+Trinidad Tobago,Omega_Nariva,10.4111,-61.0056,-4,0
+Trinidad Tobago,Oropuche_Saint Patrick,10.2278,-61.5222,-4,0
+Trinidad Tobago,Oropuche_Saint Andrew,10.6111,-61.0889,-4,0
+Trinidad Tobago,Oropuche Bank,10.2611,-61.5389,-4,0
+Trinidad Tobago,Oropuche Lagoon,10.2444,-61.5056,-4,0
+Trinidad Tobago,Oropuche River,10.2111,-61.4389,-4,0
+Trinidad Tobago,Oropuna River_Saint George,10.6111,-61.3556,-4,0
+Trinidad Tobago,Ortinola_Saint George,10.7111,-61.3056,-4,0
+Trinidad Tobago,Ortoire_Victoria,10.2778,-61.3056,-4,0
+Trinidad Tobago,Ortoire Hill,10.3444,-60.9889,-4,0
+Trinidad Tobago,Otaheite Bay,10.2444,-61.5389,-4,0
+Trinidad Tobago,Othoe Point_Victoria,10.0778,-61.3056,-4,0
+Trinidad Tobago,Ouplay_Caroni,10.3944,-61.4389,-4,0
+Trinidad Tobago,Palmiste Point_Saint Patrick,10.0779,-61.5055,-4,0
+Trinidad Tobago,Palo Seco_Saint Patrick,10.0945,-61.5721,-4,0
+Trinidad Tobago,Piarco_Saint George,10.5945,-61.3221,-4,0
+Trinidad Tobago,Port-of-Spain,10.6612,-61.5055,-4,0
+Trinidad Tobago,Princes Town_Victoria,10.2779,-61.3721,-4,0
+Trinidad Tobago,Quarahoon River_Saint Patrick,10.0946,-61.722,-4,0
+Trinidad Tobago,Quebrada River_Saint Patrick,10.178,-61.4554,-4,0
+Trinidad Tobago,Quemada Point_Saint Patrick,10.0446,-61.872,-4,0
+Trinidad Tobago,Quinam River_Saint Patrick,10.078,-61.4887,-4,0
+Trinidad Tobago,Quitasol Rock_Saint George,10.7113,-61.7054,-4,0
+Trinidad Tobago,Rio Claro_Nariva,10.3114,-61.1719,-4,0
+Trinidad Tobago,Saca Manteca_Caroni,10.4615,-61.2885,-4,0
+Trinidad Tobago,San Fernando,10.2948,-61.4552,-4,0
+Trinidad Tobago,San Juan_Saint George,10.6615,-61.4385,-4,0
+Trinidad Tobago,San Juan River_Saint George,10.6282,-61.4218,-4,0
+Trinidad Tobago,Sangre Grande Town_Saint Andrew,10.5948,-61.1052,-4,0
+Trinidad Tobago,Scarborough_Tobago,11.1948,-60.7218,-4,0
+Trinidad Tobago,Siparia Village_Saint Patrick,10.1448,-61.4885,-4,0
+Trinidad Tobago,Tableland_Victoria,10.2783,-61.2551,-4,0
+Trinidad Tobago,Trinidad,10.5116,-61.2384,-4,0
+Trinidad Tobago,Trinidad and Tobago,11.0116,-60.9884,-4,0
+Trinidad Tobago,Trinidad River,10.2283,-61.4884,-4,0
+Trinidad Tobago,Tunapuna_Saint George,10.6449,-61.3717,-4,0
+Trinidad Tobago,Valencia_Saint Andrew,10.6618,-61.1882,-4,0
+Trinidad Tobago,Valencia River_Saint David,10.6451,-61.1882,-4,0
+Trinidad Tobago,Valsayn_Saint George,10.6618,-61.4049,-4,0
+Trinidad Tobago,Vance River_Saint Patrick,10.2118,-61.6382,-4,0
+Trinidad Tobago,Vistabella River,10.2951,-61.4382,-4,0
+Trinidad Tobago,Waller Field_Saint George,10.6286,-61.2048,-4,0
+Trinidad Tobago,Ward of Charuma_Nariva,10.3952,-61.1881,-4,0
+Trinidad Tobago,Ward of Cocal_Nariva,10.3786,-61.0714,-4,0
+Trinidad Tobago,Ward of La Brea_Saint Patrick,10.1786,-61.6381,-4,0
+Trinidad Tobago,Ward of Montserrat_Caroni,10.4286,-61.3381,-4,0
+Trinidad Tobago,Ward of San Rafael_Saint George,10.5452,-61.2548,-4,0
+Trinidad Tobago,Ward of Siparia_Saint Patrick,10.1619,-61.4548,-4,0
+Trinidad Tobago,Ward of Tacarigua_Saint George,10.6786,-61.3714,-4,0
+Trinidad Tobago,Ward of Toco_Saint David,10.7952,-61.0381,-4,0
+Trinidad Tobago,Ward of Valencia_Saint Andrew,10.6952,-61.1548,-4,0
+Trinidad Tobago,Warners Village_Caroni,10.5786,-61.4048,-4,0
+Trinidad Tobago,Wasp Shoal,11.1119,-60.8548,-4,0
+Trinidad Tobago,Waterloo_Caroni,10.4786,-61.4548,-4,0
+Trinidad Tobago,West-Indie,20.0119,-69.9881,-4,0
+Trinidad Tobago,White Islets_Mayaro,10.1452,-60.9881,-4,0
+Trinidad Tobago,Wild Cow River_Tobago,11.3286,-60.5881,-4,0
+Trinidad Tobago,Williamsville_Victoria,10.3119,-61.3714,-4,0
+Trinidad Tobago,Windbelt Reserve_Saint Andrew,10.6119,-61.0214,-4,0
+Trinidad Tobago,Woodbrook_Port-of-Spain,10.6619,-61.5214,-4,0
+Trinidad Tobago,Woodland_Saint Patrick,10.2119,-61.4714,-4,0
+Trinidad Tobago,Yarra Reserve_Saint George,10.7788,-61.3212,-4,0
+Trinidad Tobago,Yarra River_Saint George,10.8121,-61.3379,-4,0

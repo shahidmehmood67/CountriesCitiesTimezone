@@ -1,0 +1,147 @@
+Costa Rica,27 de Abril,10.2500,-85.7167,-6GMT,59
+Costa Rica,9 Millas,10.0000,-83.1500,-6GMT,60
+Costa Rica,Alajuela,10.0167,-84.2167,-6GMT,60
+Costa Rica,Cartago,9.8667,-83.9167,-6GMT,60
+Costa Rica,Curacao,10.1167,-85.1667,-6GMT,59
+Costa Rica,Delicias,10.2500,-84.2667,-6GMT,60
+Costa Rica,Dorotea,10.2500,-83.4500,-6GMT,60
+Costa Rica,Dos Brazos,8.5333,-83.4000,-6GMT,61
+Costa Rica,Fila,8.8667,-83.2833,-6GMT,61
+Costa Rica,Fila Aguacate,9.6500,-84.3500,-6GMT,60
+Costa Rica,Fila Costena,8.8000,-83.1000,-6GMT,61
+Costa Rica,Fila de Aguacate,10.0333,-84.4667,-6GMT,60
+Costa Rica,Fila de Bustamante,9.7167,-84.1333,-6GMT,60
+Costa Rica,Fila de Cedral,9.8500,-84.1500,-6GMT,60
+Costa Rica,Fila de Matama,9.6667,-83.3333,-6GMT,60
+Costa Rica,Fila Durika,9.4500,-83.2667,-6GMT,60
+Costa Rica,Fila Negra,9.6500,-84.5667,-6GMT,60
+Costa Rica,Filadelphia,10.4500,-85.5667,-6GMT,59
+Costa Rica,Filadelphia Sur,9.8667,-83.0167,-6GMT,60
+Costa Rica,Finca Cote,10.5833,-84.9333,-6GMT,59
+Costa Rica,Finca Delicias,10.6333,-85.4667,-6GMT,59
+Costa Rica,Finca Los Pilares,10.9167,-84.3167,-6GMT,59
+Costa Rica,Finca Mata de Cana,10.6167,-85.4333,-6GMT,59
+Costa Rica,Finca Platanar,10.2167,-85.1667,-6GMT,59
+Costa Rica,Flathead Island,5.5167,-87.0333,-6GMT,61
+Costa Rica,Flor,9.8667,-83.8167,-6GMT,60
+Costa Rica,Florecilla,9.8500,-84.4333,-6GMT,60
+Costa Rica,Florencia,9.8833,-83.6833,-6GMT,60
+Costa Rica,Fourth Cliff,10.0833,-83.5667,-6GMT,60
+Costa Rica,Fraijanes,10.1500,-84.2000,-6GMT,60
+Costa Rica,Francia,10.1333,-83.5500,-6GMT,60
+Costa Rica,Fresca,9.8667,-85.1500,-6GMT,59
+Costa Rica,Fuente,9.9333,-84.0333,-6GMT,60
+Costa Rica,Grecia,10.0667,-84.3167,-6GMT,60
+Costa Rica,Heredia,10.0000,-84.1167,-6GMT,60
+Costa Rica,Jabilla,9.8667,-85.2333,-6GMT,59
+Costa Rica,Jerico,10.9167,-85.1500,-6GMT,59
+Costa Rica,Jirona,10.9000,-85.4333,-6GMT,59
+Costa Rica,Josefina,10.4333,-84.3000,-6GMT,60
+Costa Rica,Joya,9.8167,-84.0833,-6GMT,60
+Costa Rica,Junquillo Abajo,9.8333,-84.3000,-6GMT,60
+Costa Rica,Kamuck,9.2833,-83.0333,-6GMT,61
+Costa Rica,Katsi,9.5167,-82.9333,-6GMT,61
+Costa Rica,Keith,9.9167,-84.0833,-6GMT,60
+Costa Rica,Kilometro Veintinueve,8.7000,-83.1167,-6GMT,61
+Costa Rica,Kodi,9.5833,-83.1667,-6GMT,60
+Costa Rica,Koroma,9.5333,-82.9833,-6GMT,60
+Costa Rica,Koschny,10.4333,-84.4167,-6GMT,60
+Costa Rica,Limon,10.0000,-83.0333,-6GMT,60
+Costa Rica,Limon_San Jose,9.8667,-84.4333,-6GMT,60
+Costa Rica,Limon_Guanacaste,10.3333,-85.5667,-6GMT,59
+Costa Rica,Limon Bay,9.9833,-83.0167,-6GMT,60
+Costa Rica,Limonal_Alajuela,9.8833,-84.5667,-6GMT,60
+Costa Rica,Limonal_Guanacaste,10.2333,-85.0167,-6GMT,59
+Costa Rica,Limonal_San Jose,9.7833,-84.1167,-6GMT,60
+Costa Rica,Limoncito,8.8333,-83.0167,-6GMT,61
+Costa Rica,Nacaome,10.1500,-85.3667,-6GMT,59
+Costa Rica,Nacascola,10.6333,-85.6833,-6GMT,59
+Costa Rica,Nacascolo,10.6167,-85.7000,-6GMT,59
+Costa Rica,Nambi,10.2167,-85.5000,-6GMT,59
+Costa Rica,Nantalz,9.5167,-83.0333,-6GMT,60
+Costa Rica,Napoles,9.6000,-84.0667,-6GMT,60
+Costa Rica,Naranjal,9.9833,-85.5500,-6GMT,59
+Costa Rica,Naranjo,9.6000,-83.9500,-6GMT,60
+Costa Rica,Naranjos Agrios,10.5333,-85.0000,-6GMT,59
+Costa Rica,Navarro,9.8167,-83.8833,-6GMT,60
+Costa Rica,Negritas Islands,9.8167,-84.8500,-6GMT,60
+Costa Rica,Neily,8.6500,-82.9333,-6GMT,61
+Costa Rica,Nicoya,10.1500,-85.4500,-6GMT,59
+Costa Rica,Nicoya Peninsula,10.0000,-85.4167,-6GMT,59
+Costa Rica,Nosara,9.9833,-85.6500,-6GMT,59
+Costa Rica,Noventa y Ocho,11.1667,-85.5500,-6GMT,59
+Costa Rica,Nubes,10.3667,-84.8667,-6GMT,59
+Costa Rica,Nuevo Colon,10.5167,-85.6833,-6GMT,59
+Costa Rica,Nuez Island,5.5667,-87.0500,-6GMT,61
+Costa Rica,Obandito,10.5000,-85.6667,-6GMT,59
+Costa Rica,Obispo,10.1500,-85.4000,-6GMT,59
+Costa Rica,Ochoa,10.1833,-85.1167,-6GMT,59
+Costa Rica,Ochomogo,9.9000,-83.9500,-6GMT,60
+Costa Rica,Ococa,9.8000,-84.2000,-6GMT,60
+Costa Rica,Ocotal,10.5500,-85.7333,-6GMT,59
+Costa Rica,Ojo de Agua_Cartago,9.6167,-83.8000,-6GMT,60
+Costa Rica,Ojo de Agua_Guanacaste,10.1667,-85.4000,-6GMT,59
+Costa Rica,Ojo de Agua_Alajuela,9.9500,-84.2000,-6GMT,60
+Costa Rica,Ojo de Agua_Puntarenas,8.6833,-83.4667,-6GMT,61
+Costa Rica,Ojochal_Guanacaste,10.4500,-85.6167,-6GMT,59
+Costa Rica,Ojochal_Puntarenas,10.0667,-84.7000,-6GMT,60
+Costa Rica,Olivia,9.6167,-82.7833,-6GMT,61
+Costa Rica,Olla Cero,8.9167,-83.4167,-6GMT,61
+Costa Rica,Olochal,9.0833,-83.6500,-6GMT,60
+Costa Rica,Ora,9.8667,-85.4500,-6GMT,59
+Costa Rica,Oratorio,9.9000,-83.8333,-6GMT,60
+Costa Rica,Oricuajo,9.9500,-84.6167,-6GMT,60
+Costa Rica,Oriente_Guanacaste,10.2833,-85.5333,-6GMT,59
+Costa Rica,Oriente_Cartago,9.8333,-83.6833,-6GMT,60
+Costa Rica,Orosi,9.8000,-83.8500,-6GMT,60
+Costa Rica,Orotina,9.9000,-84.5333,-6GMT,60
+Costa Rica,Ortega,10.3667,-85.4667,-6GMT,59
+Costa Rica,San Jose_Alajuela,10.5000,-84.5333,-6GMT,59
+Costa Rica,San Jose_Heredia,10.0500,-84.1167,-6GMT,60
+Costa Rica,San Jose_Guanacaste,10.3833,-84.9667,-6GMT,59
+Costa Rica,San Jose Cabekar,9.5167,-83.1500,-6GMT,60
+Costa Rica,San Jose Sabana,9.9333,-84.1000,-6GMT,60
+Costa Rica,San Josecito_Alajuela,10.6167,-84.7667,-6GMT,59
+Costa Rica,San Josecito_Heredia,10.0167,-84.1000,-6GMT,60
+Costa Rica,San Josecito_San Jose,9.9000,-84.1000,-6GMT,60
+Costa Rica,Ujarras_Cartago,9.8333,-83.8333,-6GMT,60
+Costa Rica,Ujarras_Guanacaste,10.2167,-85.0333,-6GMT,59
+Costa Rica,Ujarraz,9.2500,-83.2833,-6GMT,60
+Costa Rica,Ujum Durika,9.3833,-83.3167,-6GMT,60
+Costa Rica,Universidad,9.9333,-84.0500,-6GMT,60
+Costa Rica,Upala,10.9000,-85.0333,-6GMT,59
+Costa Rica,Urena,9.3833,-83.7000,-6GMT,60
+Costa Rica,Uriche,10.0000,-84.1000,-6GMT,60
+Costa Rica,Urinama,9.5500,-83.3667,-6GMT,60
+Costa Rica,Uruca,9.9500,-84.1000,-6GMT,60
+Costa Rica,Uruchica,9.5333,-83.0667,-6GMT,60
+Costa Rica,Utasca,9.8333,-83.7833,-6GMT,60
+Costa Rica,Uvia Island,10.0000,-83.0000,-6GMT,60
+Costa Rica,Uvita_Puntarenas,9.1500,-83.7500,-6GMT,60
+Costa Rica,Uvita_Guanacaste,10.2333,-85.1667,-6GMT,59
+Costa Rica,Uvita Point,9.1500,-83.7667,-6GMT,60
+Costa Rica,Venecia,10.3667,-84.2833,-6GMT,60
+Costa Rica,Verbena Sur,9.9333,-83.7000,-6GMT,60
+Costa Rica,Vigia,10.1000,-85.2833,-6GMT,59
+Costa Rica,Villa Nueva,9.7667,-84.1000,-6GMT,60
+Costa Rica,Villalta,9.7333,-85.2000,-6GMT,59
+Costa Rica,Violin Point,8.8000,-83.6500,-6GMT,61
+Costa Rica,Wafer Bay,5.5500,-87.0667,-6GMT,61
+Costa Rica,Wafer Islands,5.5167,-87.1000,-6GMT,61
+Costa Rica,Waldeck,10.1000,-83.3833,-6GMT,60
+Costa Rica,Watsi,9.6167,-82.8667,-6GMT,60
+Costa Rica,Westfalia,9.9333,-83.0167,-6GMT,60
+Costa Rica,Williamsburg,10.1667,-83.5833,-6GMT,60
+Costa Rica,Wreck Point,10.3000,-85.8500,-6GMT,59
+Costa Rica,Xiroles,9.5833,-82.9667,-6GMT,60
+Costa Rica,Yas,9.8500,-83.8167,-6GMT,60
+Costa Rica,Yesta,9.7167,-83.0500,-6GMT,60
+Costa Rica,Yolanda,9.8500,-83.6833,-6GMT,60
+Costa Rica,Yurro La Arena,10.0833,-84.1500,-6GMT,60
+Costa Rica,Yurro Seco,10.1000,-84.1500,-6GMT,60
+Costa Rica,Zagala Nueva,10.1500,-84.7667,-6GMT,59
+Costa Rica,Zagala Vieja,10.1000,-84.7833,-6GMT,59
+Costa Rica,Zancudo,8.5333,-83.1333,-6GMT,61
+Costa Rica,Zapotal,9.3167,-83.5167,-6GMT,60
+Costa Rica,Zaragoza,10.0500,-84.4333,-6GMT,60
+Costa Rica,Zent,10.0333,-83.2833,-6GMT,60

@@ -1,0 +1,85 @@
+Zimbabwe,100 Acre Lots_Matabeleland North,-20.2037,28.7263,2,0
+Zimbabwe,Birchenough Bridge,-19.9569,32.3431,2,0
+Zimbabwe,Bulawayo_Matabeleland North,-20.1402,28.5931,2,0
+Zimbabwe,Bulawayo Airport_Matabeleland North,-20.0094,28.634,2,0
+Zimbabwe,Bulawayo Central Hospital_Matabeleland North,-20.1566,28.6267,2,0
+Zimbabwe,Bulawayo District_Matabeleland North,-20.0735,28.5098,2,0
+Zimbabwe,Bulawayo Spruit_Matabeleland North,-20.0755,28.6179,2,0
+Zimbabwe,Bulawayo Township_Matabeleland North,-20.1288,28.6481,2,0
+Zimbabwe,Clydesdale,-19.2734,32.7099,2,0
+Zimbabwe,Harare,-17.9896,30.9271,2,0
+Zimbabwe,Harare_Mashonaland East,-17.8074,31.0551,2,0
+Zimbabwe,Harare International Airport_Mashonaland East,-17.9099,31.1115,2,0
+Zimbabwe,Harare Province_Harare,-17.8063,31.0437,2,0
+Zimbabwe,Masvingo,-20.0724,30.8442,2,0
+Zimbabwe,Masvingo District,-20.4891,31.0109,2,0
+Zimbabwe,Masvingo Province_Masvingo,-20.9891,31.0109,2,0
+Zimbabwe,Mutare,-18.9558,32.6776,2,0
+Zimbabwe,Outpost,-17.9222,29.7444,2,0
+Zimbabwe,Quagga Kloof,-18.6887,32.3113,2,0
+Zimbabwe,Quagga Mine,-19.0387,32.2446,2,0
+Zimbabwe,Quagga Mine Reserve,-19.022,32.2446,2,0
+Zimbabwe,Quagga Pan Ranch,-21.4054,30.5946,2,0
+Zimbabwe,Quaggas Hoek,-19.5554,32.7613,2,0
+Zimbabwe,Quando,-17.9387,32.2613,2,0
+Zimbabwe,Quarantine Camp,-20.722,31.4613,2,0
+Zimbabwe,Quarrie,-17.022,29.7613,2,0
+Zimbabwe,Quarrie Kraal,-20.2054,29.578,2,0
+Zimbabwe,Quarries,-18.4887,30.928,2,0
+Zimbabwe,Quarry,-18.322,30.078,2,0
+Zimbabwe,Quedajaha,-19.2554,27.4446,2,0
+Zimbabwe,Queens Inn Hotel,-19.7887,28.7613,2,0
+Zimbabwe,Queens Prize,-18.4387,30.1613,2,0
+Zimbabwe,Queensdale,-18.422,30.1613,2,0
+Zimbabwe,Queensdale_Matabeleland North,-20.0837,28.6241,2,0
+Zimbabwe,Queensdale_Mashonaland East,-17.8429,31.1035,2,0
+Zimbabwe,Queenswood,-19.1387,29.6613,2,0
+Zimbabwe,Questeds Dam,-20.422,27.8446,2,0
+Zimbabwe,Quinnington_Mashonaland East,-17.7234,31.1332,2,0
+Zimbabwe,Quizizi,-18.3554,26.3946,2,0
+Zimbabwe,Utserenga,-19.2716,32.3784,2,0
+Zimbabwe,Victoria Falls,-17.9049,25.8618,2,0
+Zimbabwe,Xabamude,-19.288,27.4287,2,0
+Zimbabwe,Xanadu,-18.0547,31.262,2,0
+Zimbabwe,Xanixani,-19.4713,27.4453,2,0
+Zimbabwe,Xanthippe,-19.1213,29.5287,2,0
+Zimbabwe,Xekene Estate,-18.3713,30.9453,2,0
+Zimbabwe,Xixi-Amabandi Pan,-19.3047,26.462,2,0
+Zimbabwe,Xmas,-20.2213,30.7953,2,0
+Zimbabwe,Xmas Pass,-18.9047,32.6453,2,0
+Zimbabwe,Xoboholo,-19.4213,27.2453,2,0
+Zimbabwe,Xoce_Matabeleland North,-20.0244,28.7601,2,0
+Zimbabwe,Xotjeni,-19.288,27.5453,2,0
+Zimbabwe,Yabongwe,-17.7212,29.6121,2,0
+Zimbabwe,Yadkin,-21.0379,28.4788,2,0
+Zimbabwe,Yadziyavana,-18.6879,28.5954,2,0
+Zimbabwe,Yahokwe,-18.1046,32.7121,2,0
+Zimbabwe,Yahombi,-20.9379,30.9288,2,0
+Zimbabwe,Yak,-18.6212,29.8121,2,0
+Zimbabwe,Yale,-18.2379,29.9621,2,0
+Zimbabwe,Yamarombe,-17.5212,31.1288,2,0
+Zimbabwe,Yamazura,-16.9712,29.6121,2,0
+Zimbabwe,Yambigwe,-21.0046,30.7454,2,0
+Zimbabwe,Yandi,-21.3879,31.1121,2,0
+Zimbabwe,Yank Iron,-18.2546,29.9954,2,0
+Zimbabwe,Yankee Doodle,-19.7046,29.9954,2,0
+Zimbabwe,Yardley,-18.8879,32.6788,2,0
+Zimbabwe,Yarrowdale,-17.4546,30.9954,2,0
+Zimbabwe,Yeanling,-17.1046,29.9788,2,0
+Zimbabwe,Yekabiyinhle,-19.8379,28.4288,2,0
+Zimbabwe,Yekabiyinhle Extension,-19.8379,28.4454,2,0
+Zimbabwe,Yellow Jacket Mine_Mashonaland Central,-17.4679,31.1132,2,0
+Zimbabwe,Yeoville,-19.0712,29.6788,2,0
+Zimbabwe,Yeovilton,-19.6712,30.3454,2,0
+Zimbabwe,Yettom,-19.9546,31.3288,2,0
+Zimbabwe,YMT,-19.5046,30.0621,2,0
+Zimbabwe,Yomba Extension,-16.9379,30.4121,2,0
+Zimbabwe,Yonder,-19.9379,28.1288,2,0
+Zimbabwe,York,-18.2879,32.0788,2,0
+Zimbabwe,Yorkshire,-19.3212,29.7288,2,0
+Zimbabwe,Yorkshire Estate,-18.2712,32.1288,2,0
+Zimbabwe,Yova Borehole,-18.9879,28.4454,2,0
+Zimbabwe,Ypres,-20.2712,32.6788,2,0
+Zimbabwe,Yukon,-21.1712,28.8288,2,0
+Zimbabwe,Yuma,-20.2546,31.1954,2,0
+Zimbabwe,Yungusa Borehole,-18.9212,28.3788,2,0

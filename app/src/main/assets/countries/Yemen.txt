@@ -1,0 +1,117 @@
+Yemen,Aden,12.7764,45.0264,3,0
+Yemen,Aden Bereke,13.843,43.793,3,0
+Yemen,Aden College_`Adan,12.8958,45.0011,3,0
+Yemen,Aden Directorate_`Adan,12.8097,45.043,3,0
+Yemen,Aden Harbour_`Adan,12.8122,44.9503,3,0
+Yemen,Aden Peninsula_`Adan,12.7753,45.0266,3,0
+Yemen,Adena,13.5597,44.6264,3,0
+Yemen,Al Batnah,13.3764,43.9097,3,0
+Yemen,Al Hami_Hadramawt,14.8194,49.8355,3,0
+Yemen,Al Kurb_YM06,13.6794,44.7497,3,0
+Yemen,Al Mahabishah_YM12,15.9344,43.4144,3,0
+Yemen,Al Qatan_Hadramawt,15.8503,48.4653,3,0
+Yemen,Ataq,14.5597,46.8097,3,0
+Yemen,Baihan el-Asfal,14.9431,45.7765,3,0
+Yemen,Bait al Faqih_Al Hudaydah,14.5259,43.3342,3,0
+Yemen,Balhaf,13.9765,48.1931,3,0
+Yemen,Cape Humaira,12.2599,52.1599,3,0
+Yemen,Cape Nujaira,12.1766,52.4099,3,0
+Yemen,Cemetery Hill,12.6432,53.8932,3,0
+Yemen,Chail,13.5599,44.7432,3,0
+Yemen,Chamadah_YM12,15.6266,43.6599,3,0
+Yemen,Chapel Hill_`Adan,12.7907,44.9985,3,0
+Yemen,Chevalier Point_YM17,12.6563,43.4302,3,0
+Yemen,Chuwairiban_YM09,15.9599,46.3766,3,0
+Yemen,Clematis Shoal,15.3266,42.3766,3,0
+Yemen,Conquest Bay_`Adan,12.7707,45.0057,3,0
+Yemen,Cota,13.2766,44.2099,3,0
+Yemen,Crater_`Adan,12.7874,45.0427,3,0
+Yemen,Dammaj_Sa`dah,16.9031,43.8172,3,0
+Yemen,Dhala_YM06,13.7067,44.7408,3,0
+Yemen,Dhamar,14.56,44.4117,3,0
+Yemen,Dhamar al Qarn_Dhamar,14.515,44.4172,3,0
+Yemen,Duba` ad Dakhil Ma`ilah_YM17,13.2225,43.9933,3,0
+Yemen,Fuwa_Hadramawt,14.4894,49.0449,3,0
+Yemen,Ghayl,16.0436,44.777,3,0
+Yemen,Ghayl Ba Wazir_Hadramawt,14.7864,49.3764,3,0
+Yemen,Haid al- Ajiz,14.6937,46.2271,3,0
+Yemen,Harib,14.9437,45.5104,3,0
+Yemen,Hodaidah_Al Hudaydah,14.8082,42.9626,3,0
+Yemen,Hodeida_Al Hudaydah,15.0104,43.0104,3,0
+Yemen,Hodeida,14.8104,43.2104,3,0
+Yemen,Ibb,13.9772,44.1938,3,0
+Yemen,Izan_YM07,14.4086,44.768,3,0
+Yemen,Khashamir_Hadramawt,15.9185,48.5963,3,0
+Yemen,Ma rib,15.4276,45.3609,3,0
+Yemen,Maklan,13.8442,44.9109,3,0
+Yemen,Mukalla_Hadramawt,14.5409,49.1423,3,0
+Yemen,Mukalla Bay,14.5109,49.1109,3,0
+Yemen,Nisab,14.5277,46.511,3,0
+Yemen,Obal,14.9989,43.5533,3,0
+Yemen,Okem,15.6778,42.7278,3,0
+Yemen,Om Mari,14.6111,43.4111,3,0
+Yemen,Oreste Point,16.3886,42.773,3,0
+Yemen,Orj_Al Hudaydah,15.1361,42.8767,3,0
+Yemen,Oste,14.0444,44.0444,3,0
+Yemen,Otma,14.6611,43.9444,3,0
+Yemen,Palinurus Shoal_Hadramawt,14.9237,50.6829,3,0
+Yemen,Parifa,14.4112,43.8112,3,0
+Yemen,Perim Harbour_YM17,12.6579,43.424,3,0
+Yemen,Perim Island_YM17,12.6679,43.4262,3,0
+Yemen,Pile Island,14.0945,42.8279,3,0
+Yemen,Pilot s Pier_`Adan,12.8001,44.984,3,0
+Yemen,Pirie Point_YM17,12.6529,43.4226,3,0
+Yemen,Prince of Wales Pier_`Adan,12.8026,44.9931,3,0
+Yemen,Province of Al Mahwit_Al Mahwit,15.4945,43.5779,3,0
+Yemen,Province of Dhamar_Dhamar,14.5112,44.5112,3,0
+Yemen,Province of Ibb,14.0112,44.2612,3,0
+Yemen,Qarn Bin `Adwan_Hadramawt,15.5705,48.0702,3,0
+Yemen,Rada_Dhamar,14.7281,44.5114,3,0
+Yemen,Saiwun_Hadramawt,15.9548,48.8048,3,0
+Yemen,Sana_YM12,16.1562,42.2901,3,0
+Yemen,Sana,15.4115,47.7782,3,0
+Yemen,Sanaa_Sana,15.3662,44.2182,3,0
+Yemen,Sanaa,13.8448,44.6948,3,0
+Yemen,Shibam_Sana,15.5218,44.3109,3,0
+Yemen,Shibam,14.9801,43.5237,3,0
+Yemen,Shibam_Al Mahwit,15.5207,43.9196,3,0
+Yemen,Shibam_Hadramawt,15.9384,48.6382,3,0
+Yemen,Shihr_Hadramawt,14.7723,49.6184,3,0
+Yemen,Shuhair_Hadramawt,14.6957,49.404,3,0
+Yemen,Taiz_YM17,13.5116,44.0116,3,0
+Yemen,Taiz,13.5783,44.0449,3,0
+Yemen,Taiz_Dhamar,14.7949,44.0449,3,0
+Yemen,Tarim_Hadramawt,16.0685,49.0105,3,0
+Yemen,Taris_Hadramawt,15.9427,48.7597,3,0
+Yemen,Thamar_Dhamar,14.5588,44.4644,3,0
+Yemen,Umm Surrah_Abyan,13.6711,45.8525,3,0
+Yemen,Vaila,14.6118,43.9451,3,0
+Yemen,Yabein,13.7954,46.6121,3,0
+Yemen,Yabis_Al Hudaydah,14.5121,43.4954,3,0
+Yemen,Yabu`_YM06,13.1582,44.3474,3,0
+Yemen,Yafa,13.8454,45.2621,3,0
+Yemen,Yafa`_Dhamar,14.5765,44.3513,3,0
+Yemen,Yafi` as Sufla,13.6621,45.4788,3,0
+Yemen,Yahar_YM07,14.0265,44.8549,3,0
+Yemen,Yahari,13.6788,45.2621,3,0
+Yemen,Yakar_Dhamar,14.9257,44.3254,3,0
+Yemen,Yakhtul_YM17,13.4596,43.281,3,0
+Yemen,Yam,16.9788,45.0621,3,0
+Yemen,Yaman Tihama,14.5121,43.2621,3,0
+Yemen,Yana`ah_YM17,13.5352,43.8979,3,0
+Yemen,Yaramis_Abyan,13.414,45.4593,3,0
+Yemen,Yarim_YM13,14.3093,44.3924,3,0
+Yemen,Yashhar,15.9454,45.0288,3,0
+Yemen,Yastar,15.1788,46.8121,3,0
+Yemen,Yazidi,13.7954,45.3788,3,0
+Yemen,Yeb`ith,14.7788,47.8121,3,0
+Yemen,Yemen Arab Republic,15.5121,47.5121,3,0
+Yemen,Yishub,12.3288,53.7621,3,0
+Yemen,Yislan,14.2621,44.8954,3,0
+Yemen,Yufrus,13.4665,43.9585,3,0
+Yemen,Yusuf,13.8954,45.8954,3,0
+Yemen,Yusufi,13.3454,44.4121,3,0
+Yemen,Zebid_Al Hudaydah,14.2069,43.3278,3,0
+Yemen,Zerab,13.7622,44.2789,3,0
+Yemen,Zeranik-es-Sham,14.5789,43.3455,3,0
+Yemen,Zirajah_Sana,15.1455,44.4122,3,0

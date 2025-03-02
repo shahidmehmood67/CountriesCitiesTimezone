@@ -1,0 +1,61 @@
+Marshall Islands,Delap,7.0933,171.1433,12,0
+Marshall Islands,Ebeye,8.7768,167.7434,12,0
+Marshall Islands,Flipper Point,19.3102,166.6435,12,0
+Marshall Islands,Fourteen Islands,4.6435,168.7269,12,0
+Marshall Islands,Fragile,11.6769,162.2602,12,0
+Marshall Islands,Fruhstucks Island,5.9935,169.6102,12,0
+Marshall Islands,Furodaisu-suido,7.0935,171.5102,12,0
+Marshall Islands,Hane Shima,19.3271,166.6437,12,0
+Marshall Islands,Harappu-To,6.0271,169.4604,12,0
+Marshall Islands,Hartstrings,11.4104,162.3937,12,0
+Marshall Islands,Haupt-Einfahrt,8.3437,171.0604,12,0
+Marshall Islands,Heel Point,19.3271,166.6604,12,0
+Marshall Islands,Helut,7.3937,168.7771,12,0
+Marshall Islands,Higashi,9.4771,170.2604,12,0
+Marshall Islands,Higashi-Kaku,6.0104,169.7437,12,0
+Marshall Islands,Higashi-suido,11.4271,162.3937,12,0
+Marshall Islands,Hogaerikku-To,11.6937,162.2271,12,0
+Marshall Islands,Hohe Insel,7.0937,171.7437,12,0
+Marshall Islands,Hokusei,9.9937,169.0271,12,0
+Marshall Islands,Hokuto,11.3604,166.9937,12,0
+Marshall Islands,Hokuto-suido,6.2104,172.1104,12,0
+Marshall Islands,Legan,8.9941,167.5941,12,0
+Marshall Islands,Majuro,7.0667,171.2667,12,0
+Marshall Islands,Ngain,6.2277,169.461,12,0
+Marshall Islands,Ngalu,6.211,171.7277,12,0
+Marshall Islands,Oa-to,5.8444,169.5611,12,0
+Marshall Islands,Obire,9.3611,167.5111,12,0
+Marshall Islands,Odile,9.8444,169.2278,12,0
+Marshall Islands,Odjia,9.4611,170.0444,12,0
+Marshall Islands,Olot,8.7778,171.1944,12,0
+Marshall Islands,Ombiririen-to,10.0778,165.9778,12,0
+Marshall Islands,Omelek,9.0611,167.7444,12,0
+Marshall Islands,Ongw,8.8944,171.0278,12,0
+Marshall Islands,Oninaen,6.0278,172.0611,12,0
+Marshall Islands,Onmak,8.9111,170.9611,12,0
+Marshall Islands,Onumak,9.0778,167.5111,12,0
+Marshall Islands,Oreba,9.3278,166.9278,12,0
+Marshall Islands,Oscar,11.5444,162.2944,12,0
+Marshall Islands,Ost-kap,5.9778,169.7111,12,0
+Marshall Islands,Otirik,11.2611,169.8111,12,0
+Marshall Islands,Vira,11.6118,162.3451,12,0
+Marshall Islands,Yaamo,7.4621,168.5788,12,0
+Marshall Islands,Yappui Island,10.2288,169.9954,12,0
+Marshall Islands,Yarabaru-To,8.9121,170.9121,12,0
+Marshall Islands,Yaruto,5.9288,169.6454,12,0
+Marshall Islands,Yaruuto To,5.8621,169.6454,12,0
+Marshall Islands,Yattokoton,6.2288,172.0454,12,0
+Marshall Islands,Yeiri,11.6454,162.2954,12,0
+Marshall Islands,Yeldo,10.0621,166.0288,12,0
+Marshall Islands,Yoran,11.5954,165.5621,12,0
+Marshall Islands,Yoruroppu-to,9.2954,167.3621,12,0
+Marshall Islands,Yugui,11.4621,166.6954,12,0
+Marshall Islands,Yuniirikku-To,8.3454,171.1621,12,0
+Marshall Islands,Yurochi Island,11.6954,165.3954,12,0
+Marshall Islands,Yuzugan Island,11.4121,167.0454,12,0
+Marshall Islands,Yvonne,11.5621,162.3788,12,0
+Marshall Islands,Zeyakku-to,7.4955,168.7622,12,0
+Marshall Islands,Ziegen-Insel,9.5455,169.8955,12,0
+Marshall Islands,Zubumaru-to,7.3622,168.8955,12,0
+Marshall Islands,Zwadjelinn,9.0955,167.3455,12,0
+Marshall Islands,Zyaritto,7.1289,171.3789,12,0

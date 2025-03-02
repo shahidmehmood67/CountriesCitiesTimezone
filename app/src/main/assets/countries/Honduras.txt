@@ -1,0 +1,97 @@
+Honduras,Danli_El Paraiso,14.01,-86.24,-6,0
+Honduras,Facundo_Cortes,14.8602,-87.8898,-6,0
+Honduras,Farallanes_Colon,15.8935,-86.2565,-6,0
+Honduras,Figueroa_Francisco Morazan,14.5435,-86.8398,-6,0
+Honduras,Finca Cobb_Yoro,15.4269,-87.8398,-6,0
+Honduras,Finca de Cafe Mira Mar_Choluteca,13.2352,-87.0601,-6,0
+Honduras,Finca El Eden_Choluteca,13.2435,-87.0429,-6,0
+Honduras,Finca San Paulo_Choluteca,13.2446,-87.0479,-6,0
+Honduras,First Bight_Islas de la Bahia,16.3935,-86.3898,-6,0
+Honduras,Florencia_Francisco Morazan,14.0935,-87.1731,-6,0
+Honduras,Flores_Atlantida,15.6102,-87.2398,-6,0
+Honduras,Flores del Terrero_Colon,15.5435,-86.3065,-6,0
+Honduras,Florian_Gracias a Dios,15.8935,-84.6731,-6,0
+Honduras,Floricunda_Francisco Morazan,14.4102,-87.3898,-6,0
+Honduras,Fonseca_Choluteca,13.1252,-87.2481,-6,0
+Honduras,Kahka_Gracias a Dios,14.7274,-84.7726,-6,0
+Honduras,Kalpo_Gracias a Dios,15.2107,-83.4226,-6,0
+Honduras,Kamananta_Gracias a Dios,14.7774,-84.806,-6,0
+Honduras,Kanko_Gracias a Dios,15.244,-83.456,-6,0
+Honduras,Katski_Gracias a Dios,15.3774,-83.6726,-6,0
+Honduras,KaurKira_Gracias a Dios,15.3274,-83.5726,-6,0
+Honduras,Kayu Sirpe_Gracias a Dios,14.9774,-83.7893,-6,0
+Honduras,Kele-Kele_Cortes,15.594,-87.7726,-6,0
+Honduras,Kiaskira_Gracias a Dios,15.3607,-83.706,-6,0
+Honduras,Kiauban_Gracias a Dios,15.7774,-84.5226,-6,0
+Honduras,Kilometro 17_Atlantida,15.694,-87.306,-6,0
+Honduras,Klu Kum Yapla_Gracias a Dios,15.0107,-83.3226,-6,0
+Honduras,Kluki_Gracias a Dios,15.194,-83.456,-6,0
+Honduras,Kluski_Gracias a Dios,15.0107,-83.8726,-6,0
+Honduras,Knob Island_Valle,13.294,-87.656,-6,0
+Honduras,Koko_Gracias a Dios,15.3107,-84.1893,-6,0
+Honduras,Kokota_Gracias a Dios,15.294,-83.8393,-6,0
+Honduras,Krata_Gracias a Dios,15.444,-83.8226,-6,0
+Honduras,Krautara_Gracias a Dios,15.044,-84.9226,-6,0
+Honduras,Kropunta_Gracias a Dios,15.5274,-84.306,-6,0
+Honduras,Kruta_Gracias a Dios,15.2274,-83.3893,-6,0
+Honduras,Kuka Auika_Gracias a Dios,14.794,-83.906,-6,0
+Honduras,Kungkungwas_Olancho,14.9774,-85.0726,-6,0
+Honduras,Kuri_Gracias a Dios,15.0607,-83.6226,-6,0
+Honduras,Kuswa Apaika_Gracias a Dios,15.7607,-84.506,-6,0
+Honduras,La Ceiba_El Paraiso,13.6352,-87.0831,-6,0
+Honduras,La Ceiba_Comayagua,14.5941,-87.8392,-6,0
+Honduras,La Ceiba_Francisco Morazan,13.8108,-87.2725,-6,0
+Honduras,La Ceiba_Santa Barbara,15.0108,-88.2559,-6,0
+Honduras,La Ceiba_Valle,13.4441,-87.7225,-6,0
+Honduras,La Ceiba_Cortes,15.1608,-88.1225,-6,0
+Honduras,La Ceiba_Choluteca,13.4825,-87.0145,-6,0
+Honduras,La Ceiba_Copan,14.8608,-88.6559,-6,0
+Honduras,La Ceiba_Lempira,14.1275,-88.2392,-6,0
+Honduras,La Ceiba_Atlantida,15.6775,-86.7392,-6,0
+Honduras,San Pedro Sula_Cortes,15.5115,-87.9885,-6,0
+Honduras,Tegucigalpa_Francisco Morazan,14.1116,-87.2051,-6,0
+Honduras,Tela_Atlantida,15.6783,-87.4884,-6,0
+Honduras,Tela y Trujillo_Atlantida,15.8116,-87.4884,-6,0
+Honduras,Ubiel_Francisco Morazan,13.8117,-87.2883,-6,0
+Honduras,Ulapa_Santa Barbara,14.9784,-88.5716,-6,0
+Honduras,Unji_Gracias a Dios,15.495,-83.905,-6,0
+Honduras,Utlla Almuck_Gracias a Dios,15.5784,-84.005,-6,0
+Honduras,Uyaca_Yoro,15.5117,-86.455,-6,0
+Honduras,Waksma_Gracias a Dios,15.4452,-84.3881,-6,0
+Honduras,Walpata_Gracias a Dios,15.2786,-83.8381,-6,0
+Honduras,Wampusirpi_Gracias a Dios,15.1952,-84.6048,-6,0
+Honduras,Wanquibila_Olancho,14.9786,-84.9881,-6,0
+Honduras,Warunta_Gracias a Dios,15.3452,-84.2048,-6,0
+Honduras,Wasprasni_Olancho,14.8952,-85.3048,-6,0
+Honduras,Waspuc_Gracias a Dios,14.6286,-84.4214,-6,0
+Honduras,Water Cays_Islas de la Bahia,16.0702,-86.9631,-6,0
+Honduras,Wauplaya_Gracias a Dios,15.1952,-84.1214,-6,0
+Honduras,Wawina_Gracias a Dios,15.4286,-84.4214,-6,0
+Honduras,Waxma_Gracias a Dios,15.4952,-84.4548,-6,0
+Honduras,Wayales_Gracias a Dios,14.6286,-84.7048,-6,0
+Honduras,Wisilca_Yoro,15.0619,-87.1881,-6,0
+Honduras,Wual Palanta_Gracias a Dios,15.1952,-84.6214,-6,0
+Honduras,Yabunan_Gracias a Dios,14.6288,-84.6712,-6,0
+Honduras,Yaguaconte_Copan,14.6788,-88.7879,-6,0
+Honduras,Yamaguare_Francisco Morazan,14.2788,-86.9712,-6,0
+Honduras,Yamaguare_El Paraiso,14.2621,-86.6712,-6,0
+Honduras,Yamaranguila_Intibuca,14.2954,-88.2379,-6,0
+Honduras,Yargual_Lempira,14.1954,-88.4546,-6,0
+Honduras,Yarguera_Copan,14.5454,-88.8379,-6,0
+Honduras,Yarula_La Paz,14.0288,-88.0379,-6,0
+Honduras,Yarumela_La Paz,14.3454,-87.6212,-6,0
+Honduras,Yastepec_Francisco Morazan,13.9582,-87.1985,-6,0
+Honduras,Yaunera_Copan,14.6288,-88.7879,-6,0
+Honduras,Yauyupe_El Paraiso,13.7552,-87.0479,-6,0
+Honduras,Ylamapa_Atlantida,15.6621,-86.4379,-6,0
+Honduras,Yolomon_Lempira,14.1788,-88.3546,-6,0
+Honduras,Yoqulateca_Francisco Morazan,14.8121,-87.1212,-6,0
+Honduras,Yucal_Lempira,14.1288,-88.5212,-6,0
+Honduras,Yucuma_Francisco Morazan,13.959,-87.1329,-6,0
+Honduras,Yuena_Lempira,14.8288,-88.5546,-6,0
+Honduras,Yuenita_Lempira,14.8288,-88.5712,-6,0
+Honduras,Yululo_Santa Barbara,14.8621,-88.2379,-6,0
+Honduras,Yupural_Lempira,14.1121,-88.6379,-6,0
+Honduras,Yure_Francisco Morazan,13.7788,-87.2712,-6,0
+Honduras,Yusguare_Choluteca,13.3127,-87.1018,-6,0
+Honduras,Zepate_Francisco Morazan,14.2455,-87.1545,-6,0

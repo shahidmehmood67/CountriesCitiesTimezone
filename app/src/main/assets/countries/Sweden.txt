@@ -1,0 +1,566 @@
+Sweden,Alingsas_Vastra Gotaland,57.9597,12.5764,1,0
+Sweden,Almehult_Kronobergs Lan,56.543,14.743,1,0
+Sweden,Almhult_Kronobergs Lan,56.5597,14.143,1,0
+Sweden,Almhults Kommun_Kronobergs Lan,56.5597,14.1264,1,0
+Sweden,Alstermo_Kronobergs Lan,56.9764,15.643,1,0
+Sweden,Alvesta_Kronobergs Lan,56.9097,14.5597,1,0
+Sweden,Alvesta Kommun_Kronobergs Lan,56.9264,14.5097,1,0
+Sweden,Alvsbyn_Norrbottens Lan,65.643,21.0764,1,0
+Sweden,Alvsbyns Kommun_Norrbottens Lan,65.7097,21.0097,1,0
+Sweden,Alvsjo_Stockholms Lan,59.293,18.0097,1,0
+Sweden,Amal_Vastra Gotaland,58.4764,12.593,1,0
+Sweden,Aneby_Jonkopings Lan,57.843,14.8097,1,0
+Sweden,Ange_Vasternorrlands Lan,62.5264,15.6264,1,0
+Sweden,Ange_Jamtlands Lan,63.6097,13.2264,1,0
+Sweden,Angered_Vastra Gotaland,57.793,12.1097,1,0
+Sweden,Arboga Kommun_Vastmanlands Lan,59.393,15.843,1,0
+Sweden,Arebro_Kronobergs Lan,57.0097,15.1597,1,0
+Sweden,Arlanda_Stockholms Lan,59.6597,17.943,1,0
+Sweden,Arlov_Skane Lan,55.643,13.0764,1,0
+Sweden,Arvika_Varmlands Lan,59.6764,12.643,1,0
+Sweden,Arvika Kommun_Varmlands Lan,59.7764,12.6597,1,0
+Sweden,Asarum_Blekinge Lan,56.193,14.843,1,0
+Sweden,Aseda_Kronobergs Lan,57.1764,15.343,1,0
+Sweden,Atvidaberg_Ostergotlands Lan,58.2097,16.0097,1,0
+Sweden,Avesta_Dalarnas Lan,60.193,16.1264,1,0
+Sweden,Avesta Kommun_Dalarnas Lan,60.2264,16.343,1,0
+Sweden,Avesta Storfors_Dalarnas Lan,60.1597,16.1764,1,0
+Sweden,Balsta_Uppsala Lan,59.5931,17.5098,1,0
+Sweden,Bergshamra_Stockholms Lan,59.6445,18.6379,1,0
+Sweden,Bjuv_Skane Lan,56.0931,12.9098,1,0
+Sweden,Bjuvs Kommun_Skane Lan,56.0931,12.9265,1,0
+Sweden,Blackeberg_Stockholms Lan,59.3598,17.8765,1,0
+Sweden,Blekinge_Blekinge Lan,56.3265,15.0931,1,0
+Sweden,Boden_Norrbottens Lan,65.8098,21.6931,1,0
+Sweden,Bodens Kommun_Norrbottens Lan,65.8431,21.6765,1,0
+Sweden,Bohus_Vastra Gotaland,57.8598,12.0265,1,0
+Sweden,Boliden_Vasterbottens Lan,64.8765,20.3931,1,0
+Sweden,Bollnas_Gavleborgs Lan,61.3598,16.3765,1,0
+Sweden,Bollnas Kommun_Gavleborgs Lan,61.3598,16.4431,1,0
+Sweden,Boras_Vastra Gotaland,57.7265,12.9265,1,0
+Sweden,Boras Kommun_Vastra Gotaland,57.7598,12.9765,1,0
+Sweden,Boras Viared_Vastra Gotaland,57.7098,12.8431,1,0
+Sweden,Borasen_Vastra Gotaland,58.0598,12.4431,1,0
+Sweden,Borasgarden_Vastra Gotaland,59.0431,11.4265,1,0
+Sweden,Borasjon_Orebro Lan,58.9765,14.5598,1,0
+Sweden,Borasstugan_Norrbottens Lan,66.3431,16.2765,1,0
+Sweden,Borlange_Dalarnas Lan,60.4265,15.5098,1,0
+Sweden,Borlange Kommun_Dalarnas Lan,60.4765,15.4265,1,0
+Sweden,Botkyrka Kommun_Stockholms Lan,59.1765,17.8931,1,0
+Sweden,Boxholm_Ostergotlands Lan,58.1765,15.0098,1,0
+Sweden,Bracke_Jamtlands Lan,62.7598,15.4265,1,0
+Sweden,Bracke_Vasternorrlands Lan,63.1765,18.3931,1,0
+Sweden,Bracke_Hallands Lan,57.4098,12.2931,1,0
+Sweden,Bracke_Skane Lan,56.2598,12.5431,1,0
+Sweden,Bracke_Vastra Gotaland,57.9931,11.6765,1,0
+Sweden,Bracke Kommun_Jamtlands Lan,62.7931,15.6765,1,0
+Sweden,Broby_Skane Lan,56.2598,14.0931,1,0
+Sweden,Campsgrund_Uppsala Lan,60.7099,17.8766,1,0
+Sweden,Cape Smyge_Skane Lan,55.3599,13.3932,1,0
+Sweden,Capella Ecumenica_Ostergotlands Lan,58.4266,16.7266,1,0
+Sweden,Carlsborg_Norrbottens Lan,65.8099,23.2932,1,0
+Sweden,Carlsdal_Orebro Lan,59.9266,14.5932,1,0
+Sweden,Carlsvik_Vasternorrlands Lan,62.3985,17.4221,1,0
+Sweden,Cattegat,57.0099,11.0099,1,0
+Sweden,Ceamicohkat_Norrbottens Lan,68.0599,19.2766,1,0
+Sweden,Cederslund_Vastra Gotaland,58.4099,11.6599,1,0
+Sweden,Centralhamnen_Skane Lan,56.0432,12.7099,1,0
+Sweden,Charlottenberg_Varmlands Lan,59.8932,12.2932,1,0
+Sweden,Charlottenborg_Skane Lan,56.0599,12.9432,1,0
+Sweden,Charlottenborg_Ostergotlands Lan,58.5432,15.0766,1,0
+Sweden,Charlottenburg_Sodermanlands Lan,59.4432,16.5266,1,0
+Sweden,Charlottendal_Vastra Gotaland,57.8766,13.2766,1,0
+Sweden,Charlottendal_Uppsala Lan,60.1266,18.2432,1,0
+Sweden,Charlottenlund_Skane Lan,55.4432,13.6932,1,0
+Sweden,Citadellet_Skane Lan,55.8766,12.8266,1,0
+Sweden,Citadellhamnen_Skane Lan,55.6099,12.9932,1,0
+Sweden,Clemensnas_Vasterbottens Lan,64.7266,21.1432,1,0
+Sweden,Coalmmejavri_Norrbottens Lan,68.8766,20.5266,1,0
+Sweden,Cokkagaisse,66.6766,15.7266,1,0
+Sweden,Covccujavri_Norrbottens Lan,68.5099,20.6266,1,0
+Sweden,Cuolakjavri_Norrbottens Lan,67.8766,18.0432,1,0
+Sweden,Cyprusgrundet_Norrbottens Lan,65.7932,22.7766,1,0
+Sweden,Dala Jarna_Dalarnas Lan,60.5767,14.3933,1,0
+Sweden,Degerfors_Orebro Lan,59.2433,14.4433,1,0
+Sweden,Dingle_Vastra Gotaland,58.5433,11.5767,1,0
+Sweden,Ed_Varmlands Lan,59.1768,12.8432,1,0
+Sweden,Ed_Vastra Gotaland,58.9268,11.9268,1,0
+Sweden,Ekenassjon_Jonkopings Lan,57.5101,15.0101,1,0
+Sweden,Eksjo_Jonkopings Lan,57.6768,14.9601,1,0
+Sweden,Eksjo Kommun_Jonkopings Lan,57.6768,15.2101,1,0
+Sweden,Emmaboda_Kalmar Lan,56.6101,15.6268,1,0
+Sweden,Enkoping_Uppsala Lan,60.0434,18.2268,1,0
+Sweden,Enkopings Kommun_Uppsala Lan,59.6768,17.1101,1,0
+Sweden,Eskilstuna_Sodermanlands Lan,59.3601,16.7101,1,0
+Sweden,Eskilstuna Kommun_Sodermanlands Lan,59.3434,16.4934,1,0
+Sweden,Eskilstunaan_Sodermanlands Lan,59.4601,16.4934,1,0
+Sweden,Eslov_Skane Lan,55.8434,13.3268,1,0
+Sweden,Eslovs Kommun_Skane Lan,55.8601,13.3268,1,0
+Sweden,Fagersta_Vastmanlands Lan,60.0102,15.7935,1,0
+Sweden,Fagersta_Gavleborgs Lan,60.5435,16.3435,1,0
+Sweden,Fagersta Kommun_Vastmanlands Lan,59.9769,15.8435,1,0
+Sweden,Falkenberg_Hallands Lan,56.9269,12.4435,1,0
+Sweden,Falkenbergs Kommun_Hallands Lan,56.9102,12.5435,1,0
+Sweden,Falkoping_Vastra Gotaland,58.1769,13.5602,1,0
+Sweden,Falkopings Kommun_Vastra Gotaland,58.2102,13.5269,1,0
+Sweden,Falsterbo_Kalmar Lan,57.6602,16.3935,1,0
+Sweden,Falun_Dalarnas Lan,60.6102,15.6435,1,0
+Sweden,Faluns Kommun_Dalarnas Lan,60.6102,15.6769,1,0
+Sweden,Fargelanda_Vastra Gotaland,58.5769,12.0102,1,0
+Sweden,Farsta_Stockholms Lan,59.2602,18.0935,1,0
+Sweden,Filipstad_Varmlands Lan,59.7269,14.1769,1,0
+Sweden,Finspang_Ostergotlands Lan,58.7269,15.7935,1,0
+Sweden,Fittja_Stockholms Lan,59.2602,17.8769,1,0
+Sweden,Flemmingsberg_Stockholms Lan,59.8102,18.6769,1,0
+Sweden,Flen_Sodermanlands Lan,59.0769,16.5935,1,0
+Sweden,Forshaga Kommun_Varmlands Lan,59.5435,13.4769,1,0
+Sweden,Fosie_Skane Lan,55.5769,13.0102,1,0
+Sweden,Frovi_Orebro Lan,59.4769,15.3769,1,0
+Sweden,Gadeberg_Jonkopings Lan,57.5103,14.5936,1,0
+Sweden,Gallivare_Norrbottens Lan,67.1436,20.827,1,0
+Sweden,Gavle_Sodermanlands Lan,58.7436,16.6936,1,0
+Sweden,Gavle_Gavleborgs Lan,60.677,17.177,1,0
+Sweden,Gavle Kommun_Gavleborgs Lan,60.7103,17.177,1,0
+Sweden,Gavle Sandviken_Gavleborgs Lan,60.5936,16.9436,1,0
+Sweden,Gavleborgs Lan,61.5103,16.2603,1,0
+Sweden,Getaberga_Skane Lan,56.2436,14.127,1,0
+Sweden,Getaborg_Ostergotlands Lan,58.5936,16.9103,1,0
+Sweden,Getbergstjarn_Dalarnas Lan,60.6936,14.677,1,0
+Sweden,Gimo_Uppsala Lan,60.1436,18.127,1,0
+Sweden,Gislaved_Jonkopings Lan,57.3103,13.5436,1,0
+Sweden,Gislaveds Kommun_Jonkopings Lan,57.2603,13.4603,1,0
+Sweden,Gnosjo_Jonkopings Lan,57.377,13.7436,1,0
+Sweden,Goberga_Ostergotlands Lan,58.027,14.8603,1,0
+Sweden,Goberget_Dalarnas Lan,60.1103,15.3436,1,0
+Sweden,Goteborg_Kalmar Lan,57.0436,16.4686,1,0
+Sweden,Goteborg and Bohus_Vastra Gotaland,58.5103,11.5103,1,0
+Sweden,Goteborg Landvetter_Vastra Gotaland,57.677,12.277,1,0
+Sweden,Goteborg Save_Vastra Gotaland,57.777,11.877,1,0
+Sweden,Goteborg-Tingstad_Vastra Gotaland,57.7436,12.0103,1,0
+Sweden,Goteborg-Torslanda_Vastra Gotaland,57.7186,11.7961,1,0
+Sweden,Goteborgs Hamn_Vastra Gotaland,57.7103,11.9603,1,0
+Sweden,Goteborgs Kommun_Vastra Gotaland,57.7103,11.927,1,0
+Sweden,Gotene_Vastra Gotaland,58.5436,13.4936,1,0
+Sweden,Gothenburg_Vastra Gotaland,57.727,11.977,1,0
+Sweden,Gotland_Gotlands Lan,57.5103,18.5603,1,0
+Sweden,Gotlands Kommun_Gotlands Lan,57.5103,18.5103,1,0
+Sweden,Granvalla_Norrbottens Lan,65.2603,19.4603,1,0
+Sweden,Grums_Varmlands Lan,59.327,13.1103,1,0
+Sweden,Grums Kommun_Varmlands Lan,59.4603,13.0936,1,0
+Sweden,Gunnarn_Vasterbottens Lan,64.9603,17.7103,1,0
+Sweden,Gusum_Ostergotlands Lan,58.277,16.4936,1,0
+Sweden,Hagfors_Varmlands Lan,60.0437,13.6604,1,0
+Sweden,Hallefors Kommun_Orebro Lan,59.8437,14.5771,1,0
+Sweden,Hallsberg_Orebro Lan,59.0771,15.1271,1,0
+Sweden,Hallstahammar_Vastmanlands Lan,59.6271,16.2271,1,0
+Sweden,Hallstavik_Stockholms Lan,60.0604,18.6104,1,0
+Sweden,Hallunda_Stockholms Lan,59.2604,17.8271,1,0
+Sweden,Halmstad_Skane Lan,55.9604,13.0437,1,0
+Sweden,Halmstad_Hallands Lan,56.6937,12.8437,1,0
+Sweden,Halmstads Kommun_Hallands Lan,56.7104,12.8771,1,0
+Sweden,Hanaskog_Skane Lan,56.1604,14.1271,1,0
+Sweden,Handen_Stockholms Lan,59.1771,18.1435,1,0
+Sweden,Haninge_Ostergotlands Lan,58.3937,15.6604,1,0
+Sweden,Haninge Kommun_Stockholms Lan,59.0601,18.2771,1,0
+Sweden,Harads_Norrbottens Lan,66.0771,20.9937,1,0
+Sweden,Hardas_Norrbottens Lan,66.1104,22.2604,1,0
+Sweden,Harnosand_Vasternorrlands Lan,62.6465,17.9515,1,0
+Sweden,Hassleholm_Skane Lan,56.1604,13.7771,1,0
+Sweden,Hassleholms Kommun_Skane Lan,56.2271,13.7437,1,0
+Sweden,Hedemora Kommun_Dalarnas Lan,60.2937,15.9937,1,0
+Sweden,Helsingberg_Dalarnas Lan,60.6104,15.6937,1,0
+Sweden,Helsingborg_Skane Lan,56.0604,12.7104,1,0
+Sweden,Helsingborgs Kommun_Skane Lan,56.0937,12.7604,1,0
+Sweden,Hisingen_Vastra Gotaland,57.7771,11.8937,1,0
+Sweden,Hjallbo_Vastra Gotaland,57.7771,12.0271,1,0
+Sweden,Hofors_Gavleborgs Lan,60.5604,16.2937,1,0
+Sweden,Hofors Kommun_Gavleborgs Lan,60.5104,16.3437,1,0
+Sweden,Hoganas_Skane Lan,56.1771,12.5937,1,0
+Sweden,Hogdalen_Stockholms Lan,59.2771,18.0437,1,0
+Sweden,Holsbybrunn_Jonkopings Lan,57.4437,15.2104,1,0
+Sweden,Horby Kommun_Skane Lan,55.8604,13.6604,1,0
+Sweden,Horndal_Dalarnas Lan,60.3104,16.4271,1,0
+Sweden,Hova_Vastra Gotaland,58.8771,14.1937,1,0
+Sweden,Huddinge_Stockholms Lan,59.2437,17.9937,1,0
+Sweden,Huddinge Kommun_Stockholms Lan,59.2271,18.0104,1,0
+Sweden,Hudiksvall_Gavleborgs Lan,61.7771,17.0937,1,0
+Sweden,Hudiksvalls Kommun_Gavleborgs Lan,61.6771,17.1771,1,0
+Sweden,Hultsfred_Kalmar Lan,57.5271,15.8437,1,0
+Sweden,Hultsfreds Kommun_Kalmar Lan,57.4104,15.8104,1,0
+Sweden,Husby_Stockholms Lan,59.6104,18.0604,1,0
+Sweden,Husum_Vasternorrlands Lan,63.3437,19.1771,1,0
+Sweden,Jakobsberg_Stockholms Lan,59.4273,17.8439,1,0
+Sweden,Jonkoping_Jonkopings Lan,57.7606,14.0773,1,0
+Sweden,Jonkopings Kommun_Jonkopings Lan,57.7939,14.1439,1,0
+Sweden,Jordbro_Stockholms Lan,59.1603,18.1273,1,0
+Sweden,Kallinge_Blekinge Lan,56.244,15.294,1,0
+Sweden,Kalmar_Uppsala Lan,59.544,17.5274,1,0
+Sweden,Kalmar_Kalmar Lan,56.694,16.294,1,0
+Sweden,Kalmar Kommun_Kalmar Lan,56.6774,16.3438,1,0
+Sweden,Kalmar Norra Tredingsgrund_Kalmar Lan,56.6774,16.4107,1,0
+Sweden,Kalmar Slott_Kalmar Lan,56.6604,16.3607,1,0
+Sweden,Kalvholmen_Stockholms Lan,59.4563,18.964,1,0
+Sweden,Karlshamn_Ostergotlands Lan,58.4107,16.6774,1,0
+Sweden,Karlshamn_Blekinge Lan,56.1774,14.8607,1,0
+Sweden,Karlshamns Kommun_Blekinge Lan,56.2607,14.8774,1,0
+Sweden,Karlshamnsfjarden_Blekinge Lan,56.1607,14.8774,1,0
+Sweden,Karlskoga_Orebro Lan,59.344,14.5274,1,0
+Sweden,Karlskoga Kommun_Orebro Lan,59.344,14.5607,1,0
+Sweden,Karlskrona_Blekinge Lan,56.1774,15.594,1,0
+Sweden,Karlstad_Varmlands Lan,59.3607,13.4774,1,0
+Sweden,Karlstads Kommun_Varmlands Lan,59.5274,13.8107,1,0
+Sweden,Karlstads Pramkanal_Varmlands Lan,59.3774,13.5274,1,0
+Sweden,Katrineholm_Sodermanlands Lan,59.0274,16.2274,1,0
+Sweden,Katrineholms Kommun_Sodermanlands Lan,59.0107,16.2107,1,0
+Sweden,Kierona_Norrbottens Lan,68.2607,18.6774,1,0
+Sweden,Kiirunavarra_Norrbottens Lan,67.844,20.2107,1,0
+Sweden,Kil_Varmlands Lan,59.5274,13.3274,1,0
+Sweden,Kiruna_Norrbottens Lan,67.8274,20.344,1,0
+Sweden,Kiruna Kommun_Norrbottens Lan,68.1774,19.5107,1,0
+Sweden,Kisa_Ostergotlands Lan,57.994,15.6274,1,0
+Sweden,Kista_Stockholms Lan,59.9774,18.8607,1,0
+Sweden,Kistan_Vastra Gotaland,58.719,11.1524,1,0
+Sweden,Kistan_Vasterbottens Lan,64.1607,21.144,1,0
+Sweden,Kistan_Sodermanlands Lan,58.6774,17.594,1,0
+Sweden,Kistasen_Vastra Gotaland,58.544,14.3607,1,0
+Sweden,Klippan_Skane Lan,56.144,13.144,1,0
+Sweden,Klippans Kommun_Skane Lan,56.1607,13.1774,1,0
+Sweden,Knivsta Kommun_Uppsala Lan,59.5274,17.2607,1,0
+Sweden,Konga_Kronobergs Lan,56.5107,15.1274,1,0
+Sweden,Konga_Skane Lan,55.994,13.2107,1,0
+Sweden,Koping_Vastmanlands Lan,59.544,15.9774,1,0
+Sweden,Kramfors_Vasternorrlands Lan,63.0607,17.7774,1,0
+Sweden,Kramfors Kommun_Vasternorrlands Lan,62.9274,17.6774,1,0
+Sweden,Kristianstad_Skane Lan,56.044,14.144,1,0
+Sweden,Kristianstad Everod_Skane Lan,55.9107,14.094,1,0
+Sweden,Kristinehamn_Varmlands Lan,59.344,14.1274,1,0
+Sweden,Kristinehamns Kommun_Varmlands Lan,59.3107,14.144,1,0
+Sweden,Kumla Kommun_Orebro Lan,59.144,15.144,1,0
+Sweden,Kungalv_Vastra Gotaland,57.8774,11.9774,1,0
+Sweden,Kungalvs Kommun_Vastra Gotaland,57.9107,11.9274,1,0
+Sweden,Kungsor_Vastmanlands Lan,59.4274,16.094,1,0
+Sweden,Laholm_Hallands Lan,56.5275,13.0441,1,0
+Sweden,Landskrona_Skane Lan,55.8941,12.8275,1,0
+Sweden,Langshyttan_Dalarnas Lan,60.4608,16.0275,1,0
+Sweden,Ledet_Vastra Gotaland,57.9608,12.4108,1,0
+Sweden,Lessebo_Kronobergs Lan,56.7608,15.2775,1,0
+Sweden,Lessebo Kommun_Kronobergs Lan,56.7775,15.2775,1,0
+Sweden,Lidingo Kommun_Stockholms Lan,59.3775,18.1941,1,0
+Sweden,Lidkoping_Vastra Gotaland,58.4608,13.1775,1,0
+Sweden,Lidkopings Kommun_Vastra Gotaland,58.5108,13.0108,1,0
+Sweden,Lindesberg_Sodermanlands Lan,59.0941,17.1941,1,0
+Sweden,Lindesberg_Orebro Lan,59.5941,15.2608,1,0
+Sweden,Lindesbergs Kommun_Orebro Lan,59.6775,15.2608,1,0
+Sweden,Linkoping_Ostergotlands Lan,58.4275,15.6275,1,0
+Sweden,Linkoping Malmen_Ostergotlands Lan,58.3941,15.5275,1,0
+Sweden,Linkoping Saab_Ostergotlands Lan,58.4275,15.6775,1,0
+Sweden,Linkopings Kommun_Ostergotlands Lan,58.4108,15.6108,1,0
+Sweden,Ljungby_Vastra Gotaland,58.7108,11.3941,1,0
+Sweden,Ljungby_Ostergotlands Lan,58.2608,15.0275,1,0
+Sweden,Ljungby_Vasternorrlands Lan,63.7941,16.0275,1,0
+Sweden,Ljungby_Kronobergs Lan,56.8441,13.9441,1,0
+Sweden,Ljungby_Skane Lan,56.0608,13.2108,1,0
+Sweden,Ljungby_Kalmar Lan,56.6439,16.1775,1,0
+Sweden,Ljungby_Hallands Lan,56.9941,12.5941,1,0
+Sweden,Ljungby Kommun_Kronobergs Lan,56.8608,13.9441,1,0
+Sweden,Ljusdal_Gavleborgs Lan,61.8275,16.0108,1,0
+Sweden,Ljusdals Kommun_Gavleborgs Lan,61.8775,15.7108,1,0
+Sweden,Lovanger_Vasterbottens Lan,64.3775,21.3108,1,0
+Sweden,Ludvika_Dalarnas Lan,60.2108,14.8441,1,0
+Sweden,Ludviki_Dalarnas Lan,60.1608,15.1941,1,0
+Sweden,Lule_Norrbottens Lan,65.5941,22.0608,1,0
+Sweden,Lulea_Norrbottens Lan,65.5941,22.1608,1,0
+Sweden,Lulea Kallax_Norrbottens Lan,65.5441,22.1275,1,0
+Sweden,Lulea Kommun_Norrbottens Lan,65.6941,22.1775,1,0
+Sweden,Lund_Vastra Gotaland,58.0775,12.8108,1,0
+Sweden,Lund_Gavleborgs Lan,60.6775,17.0108,1,0
+Sweden,Lund_Vastmanlands Lan,60.0608,16.7775,1,0
+Sweden,Lund_Varmlands Lan,59.4108,13.8441,1,0
+Sweden,Lund_Orebro Lan,59.1775,15.0275,1,0
+Sweden,Lund_Stockholms Lan,59.9108,18.5108,1,0
+Sweden,Lund_Hallands Lan,57.4775,12.0275,1,0
+Sweden,Lund_Skane Lan,55.6775,13.2275,1,0
+Sweden,Lund_Sodermanlands Lan,59.2275,16.5441,1,0
+Sweden,Lund_Vasterbottens Lan,64.7608,20.8775,1,0
+Sweden,Lund_Ostergotlands Lan,58.4775,16.2775,1,0
+Sweden,Lund_Dalarnas Lan,60.1608,16.3108,1,0
+Sweden,Lund_Uppsala Lan,60.3108,18.1275,1,0
+Sweden,Lund_Jamtlands Lan,63.1108,14.7941,1,0
+Sweden,Lund_Kalmar Lan,57.7275,16.4441,1,0
+Sweden,Lyckeby_Blekinge Lan,56.2108,15.6608,1,0
+Sweden,Lycksele_Vasterbottens Lan,64.5608,18.6608,1,0
+Sweden,Lysekils Kommun_Vastra Gotaland,58.4108,11.4441,1,0
+Sweden,Mala_Skane Lan,56.2442,13.7109,1,0
+Sweden,Malma_Ostergotlands Lan,58.3609,16.7442,1,0
+Sweden,Malma_Uppsala Lan,59.8276,17.6442,1,0
+Sweden,Malmberget_Dalarnas Lan,61.1609,15.5776,1,0
+Sweden,Malmberget_Norrbottens Lan,67.1776,20.6776,1,0
+Sweden,Malmberget_Vastmanlands Lan,60.0776,16.7609,1,0
+Sweden,Malmo_Ostergotlands Lan,58.6609,16.2609,1,0
+Sweden,Malmo_Vastra Gotaland,58.3609,11.3442,1,0
+Sweden,Malmo_Stockholms Lan,59.2942,18.6442,1,0
+Sweden,Malmo_Skane Lan,55.6109,13.0109,1,0
+Sweden,Malmo_Kalmar Lan,57.8276,16.7109,1,0
+Sweden,Malmo Central_Skane Lan,55.5942,13.0109,1,0
+Sweden,Malmo Fjord_Vastra Gotaland,58.3109,11.3109,1,0
+Sweden,Malmo Sturup_Skane Lan,55.5276,13.3776,1,0
+Sweden,Malmobrotten_Vastra Gotaland,58.3276,11.3109,1,0
+Sweden,Malmogrund_Stockholms Lan,59.247,18.6387,1,0
+Sweden,Malmohus Lan_Skane Lan,55.7609,13.5109,1,0
+Sweden,Malmoklubben_Vasternorrlands Lan,63.2109,18.9276,1,0
+Sweden,Malmon_Varmlands Lan,59.8442,14.2776,1,0
+Sweden,Malmon_Vasternorrlands Lan,63.2276,18.9276,1,0
+Sweden,Malmon_Gavleborgs Lan,60.5942,16.7776,1,0
+Sweden,Malmon_Jamtlands Lan,63.7276,16.0276,1,0
+Sweden,Malmon_Vastmanlands Lan,59.4776,16.0609,1,0
+Sweden,Malmosund_Kalmar Lan,57.8217,16.6987,1,0
+Sweden,Malung_Dalarnas Lan,60.6776,13.7109,1,0
+Sweden,Mariannelund_Jonkopings Lan,57.6276,15.5776,1,0
+Sweden,Mariefred_Sodermanlands Lan,59.2776,17.2276,1,0
+Sweden,Mariestad_Vastra Gotaland,58.7109,13.8276,1,0
+Sweden,Mariestads Kommun_Vastra Gotaland,58.7109,13.8442,1,0
+Sweden,Markaryds Kommun_Kronobergs Lan,56.5609,13.6109,1,0
+Sweden,Marsater_Orebro Lan,58.8109,15.0442,1,0
+Sweden,Marsta_Stockholms Lan,59.6276,17.8609,1,0
+Sweden,Marsta_Orebro Lan,59.0942,15.0276,1,0
+Sweden,Marsta_Uppsala Lan,59.9442,17.5942,1,0
+Sweden,Mellerud_Varmlands Lan,59.4442,13.3109,1,0
+Sweden,Mjolby_Ostergotlands Lan,58.3276,15.1442,1,0
+Sweden,Molndals Kommun_Vastra Gotaland,57.6276,12.0942,1,0
+Sweden,Monsteras_Kalmar Lan,57.0442,16.4442,1,0
+Sweden,Monsteras Kommun_Kalmar Lan,57.0776,16.4276,1,0
+Sweden,Mora_Dalarnas Lan,61.0109,14.5609,1,0
+Sweden,Morrum_Blekinge Lan,56.1942,14.7609,1,0
+Sweden,Motala_Ostergotlands Lan,58.5609,15.0609,1,0
+Sweden,Motala Kommun_Ostergotlands Lan,58.5609,15.1776,1,0
+Sweden,Motala Strom_Ostergotlands Lan,58.5606,15.944,1,0
+Sweden,Motalaverkstad_Ostergotlands Lan,58.5609,15.0776,1,0
+Sweden,Nacka_Stockholms Lan,59.311,18.1943,1,0
+Sweden,Nacka_Vasternorrlands Lan,62.4849,17.4271,1,0
+Sweden,Nacka Kommun_Stockholms Lan,59.2943,17.261,1,0
+Sweden,Nassja_Jonkopings Lan,57.361,14.061,1,0
+Sweden,Nassjo_Jonkopings Lan,57.661,14.6943,1,0
+Sweden,Navekvarn_Sodermanlands Lan,58.6441,16.811,1,0
+Sweden,Nora_Orebro Lan,59.5277,15.0443,1,0
+Sweden,Norberg_Vastmanlands Lan,60.0777,15.9443,1,0
+Sweden,Norrkoping_Ostergotlands Lan,58.611,16.1943,1,0
+Sweden,Norrkopings Kommun_Ostergotlands Lan,58.5943,16.3443,1,0
+Sweden,Norrtalje_Stockholms Lan,59.761,18.6943,1,0
+Sweden,Norsborg_Stockholms Lan,59.261,17.7943,1,0
+Sweden,Norslund_Dalarnas Lan,60.611,15.661,1,0
+Sweden,Nybro_Kalmar Lan,56.761,15.911,1,0
+Sweden,Nybro Kommun_Kalmar Lan,56.7277,15.9443,1,0
+Sweden,Nykoping_Sodermanlands Lan,58.7943,16.911,1,0
+Sweden,Nykopings Kommun_Sodermanlands Lan,58.9277,17.1777,1,0
+Sweden,Nynashamn_Stockholms Lan,58.9154,17.9574,1,0
+Sweden,Olofstrom_Blekinge Lan,56.2778,14.5111,1,0
+Sweden,Orebro_Orebro Lan,59.2611,15.2278,1,0
+Sweden,Orebro Kommun_Orebro Lan,59.2778,15.4278,1,0
+Sweden,Orkelljunga Kommun_Skane Lan,56.2944,13.2944,1,0
+Sweden,Ornskoldsvik_Vasternorrlands Lan,63.4111,19.0111,1,0
+Sweden,Ornskoldsviks Central_Vasternorrlands Lan,63.2944,18.7111,1,0
+Sweden,Ornskoldsviks Kommun_Vasternorrlands Lan,63.2944,18.7278,1,0
+Sweden,Orsa_Dalarnas Lan,61.1944,14.7278,1,0
+Sweden,Orsa Kommun_Dalarnas Lan,61.3111,14.7611,1,0
+Sweden,Osby Kommun_Skane Lan,56.4278,14.0944,1,0
+Sweden,Oskarshamn_Stockholms Lan,59.4042,18.6361,1,0
+Sweden,Oskarshamn_Kalmar Lan,57.3611,16.5111,1,0
+Sweden,Oskarshamns Kommun_Kalmar Lan,57.3778,16.3444,1,0
+Sweden,Ostersund_Jamtlands Lan,63.1944,14.6611,1,0
+Sweden,Ostersund Froson_Jamtlands Lan,63.1944,14.5111,1,0
+Sweden,Osthammar_Uppsala Lan,60.0444,17.3778,1,0
+Sweden,Overkalix_Norrbottens Lan,66.3278,22.8444,1,0
+Sweden,Overtornea Kommun_Norrbottens Lan,66.6778,23.5111,1,0
+Sweden,Oxelosunds Kommun_Sodermanlands Lan,58.6778,17.0942,1,0
+Sweden,Partille_Vastra Gotaland,57.7445,12.1279,1,0
+Sweden,Pitea_Norrbottens Lan,65.4112,21.2612,1,0
+Sweden,Puketorp_Vastra Gotaland,57.7279,12.0945,1,0
+Sweden,Quarken,60.2613,19.0946,1,0
+Sweden,Qvaldersrud_Varmlands Lan,59.0946,13.178,1,0
+Sweden,Qvantenburg_Vastra Gotaland,58.6113,12.5446,1,0
+Sweden,Qvarna_Norrbottens Lan,66.078,20.6946,1,0
+Sweden,Qvarna_Gotlands Lan,56.9946,18.2113,1,0
+Sweden,Qvarnagarden_Vastra Gotaland,57.3613,13.128,1,0
+Sweden,Qvarnan_Norrbottens Lan,66.078,20.8946,1,0
+Sweden,Qvarnbacken_Jamtlands Lan,64.7446,15.1946,1,0
+Sweden,Qvarnberg_Dalarnas Lan,60.678,15.328,1,0
+Sweden,Qvarnbergsvattnet_Jamtlands Lan,64.6113,13.8946,1,0
+Sweden,Qvarnfors_Vasterbottens Lan,65.028,20.578,1,0
+Sweden,Qvarnhojden_Varmlands Lan,59.9613,13.9946,1,0
+Sweden,Qvarnsjon_Vastra Gotaland,57.4613,13.2113,1,0
+Sweden,Qvarntjarn_Orebro Lan,59.9446,14.628,1,0
+Sweden,Qvarntorp_Varmlands Lan,59.7613,13.3113,1,0
+Sweden,Qvarntrask_Norrbottens Lan,65.928,21.928,1,0
+Sweden,Qvie_Gotlands Lan,57.528,18.3613,1,0
+Sweden,Qvigarde_Vastra Gotaland,57.6446,13.1613,1,0
+Sweden,Qville back_Vastra Gotaland,57.7294,11.9588,1,0
+Sweden,Qvistbacken_Vasterbottens Lan,65.7946,15.6113,1,0
+Sweden,Ranea_Norrbottens Lan,65.7781,21.7614,1,0
+Sweden,Rinkeby_Sodermanlands Lan,58.7614,16.7114,1,0
+Sweden,Ronneby_Blekinge Lan,56.2781,15.2781,1,0
+Sweden,Ronneby Kommun_Blekinge Lan,56.3114,15.2947,1,0
+Sweden,Ronnebybrunn_Blekinge Lan,56.2114,15.3031,1,0
+Sweden,Rotebro_Stockholms Lan,59.4781,17.9281,1,0
+Sweden,Ryd_Kronobergs Lan,56.4781,14.6947,1,0
+Sweden,Saffle_Varmlands Lan,59.0946,12.9446,1,0
+Sweden,Saffle Kommun_Varmlands Lan,59.1282,12.8615,1,0
+Sweden,Sala_Vastmanlands Lan,59.8948,16.6448,1,0
+Sweden,Sala Kommun_Vastmanlands Lan,59.9782,16.6115,1,0
+Sweden,Sandvik_Gavleborgs Lan,61.9782,16.0448,1,0
+Sweden,Sandviken_Gavleborgs Lan,61.6948,17.3782,1,0
+Sweden,Sandvikens Kommun_Gavleborgs Lan,60.6282,16.6782,1,0
+Sweden,Satar_Dalarnas Lan,60.3615,15.7615,1,0
+Sweden,Savsjo_Jonkopings Lan,57.4115,14.6782,1,0
+Sweden,Simrishamn_Skane Lan,55.5615,14.3448,1,0
+Sweden,Skaboholmen_Vastra Gotaland,58.0448,11.5115,1,0
+Sweden,Skaggetorp_Ostergotlands Lan,58.4448,15.5782,1,0
+Sweden,Skara_Vastra Gotaland,57.9171,11.7948,1,0
+Sweden,Skara Kommun_Vastra Gotaland,58.3782,13.4448,1,0
+Sweden,Skarholmen_Stockholms Lan,59.2948,17.8948,1,0
+Sweden,Skelleftea_Vasterbottens Lan,64.6448,21.0782,1,0
+Sweden,Skelleftea Kommun_Vasterbottens Lan,64.7615,21.1448,1,0
+Sweden,Skelleftehamn_Vasterbottens Lan,64.6948,21.2448,1,0
+Sweden,Skillingaryd_Jonkopings Lan,57.4448,14.0948,1,0
+Sweden,Skinnskatteberg_Vastmanlands Lan,59.8448,15.6948,1,0
+Sweden,Skovde_Vastra Gotaland,58.3946,13.8946,1,0
+Sweden,Skultuna_Vastmanlands Lan,59.7282,16.4282,1,0
+Sweden,Skurup_Skane Lan,55.4782,13.5115,1,0
+Sweden,Skutskar_Uppsala Lan,60.6448,17.4282,1,0
+Sweden,Smedby_Kalmar Lan,56.6948,16.2615,1,0
+Sweden,Smedjebacken_Dalarnas Lan,60.1615,15.4282,1,0
+Sweden,Soderhamn_Stockholms Lan,59.459,18.5879,1,0
+Sweden,Soderhamn_Gavleborgs Lan,61.2615,17.1115,1,0
+Sweden,Soderhamns Kommun_Gavleborgs Lan,61.2948,16.9782,1,0
+Sweden,Soderkoping_Ostergotlands Lan,58.4948,16.3115,1,0
+Sweden,Soderkopings Kommun_Ostergotlands Lan,58.4615,16.3448,1,0
+Sweden,Sodertalje_Stockholms Lan,59.2115,17.6282,1,0
+Sweden,Sodertalje Kommun_Stockholms Lan,59.2115,17.5115,1,0
+Sweden,Solleftea_Vasternorrlands Lan,63.1782,16.9948,1,0
+Sweden,Solleftea Kommun_Vasternorrlands Lan,63.3948,16.9282,1,0
+Sweden,Solna_Kalmar Lan,57.914,16.4298,1,0
+Sweden,Solna Kommun_Stockholms Lan,59.3782,18.0282,1,0
+Sweden,Solvesborgs Kommun_Blekinge Lan,56.1115,14.6282,1,0
+Sweden,Sosdala_Skane Lan,56.0448,13.6782,1,0
+Sweden,Spanga_Orebro Lan,59.2448,14.9782,1,0
+Sweden,Spanga_Stockholms Lan,59.3948,17.9282,1,0
+Sweden,Spanga_Sodermanlands Lan,58.9948,16.4948,1,0
+Sweden,Spanga_Uppsala Lan,60.0448,18.0448,1,0
+Sweden,Stackholmen_Kalmar Lan,56.8282,16.4282,1,0
+Sweden,Stadsholmen_Stockholms Lan,59.3448,18.0782,1,0
+Sweden,Stakholmen_Gavleborgs Lan,62.1615,16.6115,1,0
+Sweden,Staksholmen_Stockholms Lan,59.3657,18.6059,1,0
+Sweden,Stensele_Vasterbottens Lan,65.0615,17.2615,1,0
+Sweden,Stenungsunds Kommun_Vastra Gotaland,58.0948,11.9282,1,0
+Sweden,Stocka_Gavleborgs Lan,61.9051,17.3482,1,0
+Sweden,Stockholm_Skane Lan,56.1448,13.4282,1,0
+Sweden,Stockholm_Stockholms Lan,59.3448,18.0615,1,0
+Sweden,Stockholm_Jamtlands Lan,61.8946,13.7615,1,0
+Sweden,Stockholm Archipelago_Stockholms Lan,59.3448,18.6782,1,0
+Sweden,Stockholm Gamla_Stockholms Lan,59.3282,18.0948,1,0
+Sweden,Stockholm North_Stockholms Lan,59.3615,18.0448,1,0
+Sweden,Stockholmarna_Vastra Gotaland,57.8115,11.8115,1,0
+Sweden,Stockholme_Dalarnas Lan,61.2115,15.5615,1,0
+Sweden,Stockholmen_Stockholms Lan,59.7782,19.2115,1,0
+Sweden,Stockholms Ostra_Stockholms Lan,59.3615,18.0782,1,0
+Sweden,Stockholms Sodra_Stockholms Lan,59.3282,18.0615,1,0
+Sweden,Stockholms-Nas_Uppsala Lan,59.4948,17.7615,1,0
+Sweden,Stockholmsbraten_Vastra Gotaland,58.5615,13.6615,1,0
+Sweden,Stockholmsskar_Vastra Gotaland,57.6871,11.8398,1,0
+Sweden,Stockholmsskaret_Vastra Gotaland,57.8032,11.8115,1,0
+Sweden,Storfors_Varmlands Lan,59.5448,14.2782,1,0
+Sweden,Storfors_Norrbottens Lan,65.3115,21.4282,1,0
+Sweden,Storuman_Vasterbottens Lan,65.2448,16.9115,1,0
+Sweden,Storumans Kommun_Vasterbottens Lan,65.4115,16.4282,1,0
+Sweden,Strangnas Kommun_Sodermanlands Lan,59.3615,17.0448,1,0
+Sweden,Stromsund_Jamtlands Lan,63.8615,15.5948,1,0
+Sweden,Sundbyberg_Stockholms Lan,59.3782,17.9782,1,0
+Sweden,Sundsbruk_Vasternorrlands Lan,62.4696,17.3604,1,0
+Sweden,Sundsvall_Vasternorrlands Lan,62.3948,17.3115,1,0
+Sweden,Sundsvall Harnosand_Vasternorrlands Lan,62.5357,17.4526,1,0
+Sweden,Surahammar_Vastmanlands Lan,59.7282,16.2282,1,0
+Sweden,Surahammars Kommun_Vastmanlands Lan,59.7615,16.1615,1,0
+Sweden,Svalov_Skane Lan,55.9282,13.1115,1,0
+Sweden,Svalovs Kommun_Skane Lan,55.9782,13.1615,1,0
+Sweden,Svangsta_Blekinge Lan,56.2782,14.7782,1,0
+Sweden,Sved_Vastra Gotaland,58.0282,14.1282,1,0
+Sweden,Svenljunga Kommun_Vastra Gotaland,57.4948,13.1115,1,0
+Sweden,Sweden,62.0115,15.0115,1,0
+Sweden,Tanums Kommun_Vastra Gotaland,58.7616,11.4283,1,0
+Sweden,Tanumshede_Vastra Gotaland,58.7449,11.3283,1,0
+Sweden,Teckomatorp_Skane Lan,55.8783,13.0949,1,0
+Sweden,Tensta_Uppsala Lan,60.0447,17.6783,1,0
+Sweden,Tibro_Vastra Gotaland,58.4283,14.1783,1,0
+Sweden,Tibro Kommun_Vastra Gotaland,58.4283,14.2116,1,0
+Sweden,Timra Kommun_Vasternorrlands Lan,62.4894,17.3185,1,0
+Sweden,Toreboda_Vastra Gotaland,58.7283,14.1449,1,0
+Sweden,Torsby Fryklanda_Varmlands Lan,60.1616,13.0116,1,0
+Sweden,Torsby Kommun_Varmlands Lan,60.5116,13.0949,1,0
+Sweden,Tranas_Jonkopings Lan,58.0616,14.8449,1,0
+Sweden,Tranemo_Vastra Gotaland,57.4949,13.3616,1,0
+Sweden,Trekanten_Kalmar Lan,56.7116,16.1283,1,0
+Sweden,Trelleborg_Skane Lan,55.3949,13.1616,1,0
+Sweden,Trollhattan_Stockholms Lan,59.0949,18.6616,1,0
+Sweden,Trollhattan_Vastra Gotaland,58.3283,12.3616,1,0
+Sweden,Trollhattans Kommun_Vastra Gotaland,58.2449,12.4283,1,0
+Sweden,Tumba_Stockholms Lan,59.2116,17.8283,1,0
+Sweden,Uddevalla_Vastra Gotaland,58.3784,11.945,1,0
+Sweden,Uddevalla Kommun_Vastra Gotaland,58.3617,12.0117,1,0
+Sweden,Uddevalla Rorkarr_Vastra Gotaland,58.3784,11.7617,1,0
+Sweden,Ulricehamn_Vastra Gotaland,57.795,13.4284,1,0
+Sweden,Uman_Vasternorrlands Lan,63.6617,16.995,1,0
+Sweden,Ume_Vasterbottens Lan,63.795,20.2784,1,0
+Sweden,Umea_Vasterbottens Lan,63.795,20.295,1,0
+Sweden,Umea_Vasternorrlands Lan,63.845,20.1784,1,0
+Sweden,Umea Hamn_Vasterbottens Lan,63.7284,20.3784,1,0
+Sweden,Umea Kommun_Vasterbottens Lan,63.845,20.295,1,0
+Sweden,Uplands Vasby_Stockholms Lan,59.5284,17.9117,1,0
+Sweden,Uppsala_Stockholms Lan,59.8784,17.645,1,0
+Sweden,Uppsala_Kalmar Lan,57.445,15.8617,1,0
+Sweden,Uppsala_Kronobergs Lan,56.5617,13.495,1,0
+Sweden,Uppsala_Orebro Lan,58.8284,15.045,1,0
+Sweden,Uppsala_Uppsala Lan,59.9117,17.595,1,0
+Sweden,Uppsala Kommun_Uppsala Lan,59.8784,17.6117,1,0
+Sweden,Uppsala Lan,60.0117,17.7617,1,0
+Sweden,Uppsala-Nas_Uppsala Lan,59.795,17.595,1,0
+Sweden,Uppsalaasen_Vastmanlands Lan,59.6284,16.095,1,0
+Sweden,Uppsalatorp_Ostergotlands Lan,58.095,15.2784,1,0
+Sweden,Vaggeryd_Jonkopings Lan,57.5618,14.0951,1,0
+Sweden,Vagtrask_Vasterbottens Lan,65.3285,18.9285,1,0
+Sweden,Valdemarsviks Kommun_Ostergotlands Lan,58.2118,16.6118,1,0
+Sweden,Vallby_Vastmanlands Lan,59.5118,15.9451,1,0
+Sweden,Vallingby_Stockholms Lan,59.3785,17.8785,1,0
+Sweden,Vanersborg_Vastra Gotaland,58.3785,12.3285,1,0
+Sweden,Vanersborgs Kommun_Vastra Gotaland,58.4285,12.2451,1,0
+Sweden,Vansberg_Vastra Gotaland,58.9785,12.6785,1,0
+Sweden,Varbergs Kommun_Hallands Lan,57.1618,12.2618,1,0
+Sweden,Vargarda Kommun_Vastra Gotaland,57.9785,12.7618,1,0
+Sweden,Varnamo_Jonkopings Lan,57.1951,14.0451,1,0
+Sweden,Varnamo Kommun_Jonkopings Lan,57.2118,14.0951,1,0
+Sweden,Vasteras_Vasterbottens Lan,64.0285,19.0951,1,0
+Sweden,Vasteras_Varmlands Lan,59.7285,12.2785,1,0
+Sweden,Vasteras_Vasternorrlands Lan,63.3118,18.6785,1,0
+Sweden,Vasteras_Vastmanlands Lan,59.6285,16.5618,1,0
+Sweden,Vasteras_Orebro Lan,59.8118,14.5118,1,0
+Sweden,Vasteras Kommun_Vastmanlands Lan,59.6285,16.5951,1,0
+Sweden,Vasteras-Barkaro_Vastmanlands Lan,59.5618,16.5118,1,0
+Sweden,Vastervik_Kalmar Lan,57.7951,16.5285,1,0
+Sweden,Vaxjo_Kronobergs Lan,56.8951,14.8285,1,0
+Sweden,Vaxjo Kommun_Kronobergs Lan,56.8785,14.8285,1,0
+Sweden,Vaxjo Kronoberg_Kronobergs Lan,56.9451,14.7451,1,0
+Sweden,Vetlanda_Jonkopings Lan,57.4451,15.0785,1,0
+Sweden,Vetlanda Kommun_Jonkopings Lan,57.4451,15.0951,1,0
+Sweden,Vidsel_Norrbottens Lan,65.8951,20.1618,1,0
+Sweden,Vimmerby_Kalmar Lan,57.6785,15.8618,1,0
+Sweden,Vimmerby Kommun_Kalmar Lan,57.6951,15.8451,1,0
+Sweden,Vingaker_Sodermanlands Lan,59.0785,15.8951,1,0
+Sweden,Visby_Gotlands Lan,57.6451,18.3118,1,0
+Sweden,Vittsjo_Skane Lan,56.3451,13.6785,1,0
+Sweden,Wallen_Vastra Gotaland,57.4119,13.0786,1,0
+Sweden,Ystad_Skane Lan,55.4288,13.8288,1,0
+Sweden,Ystads Kommun_Skane Lan,55.4454,13.8621,1,0
+Sweden,Zacheus_Vasterbottens Lan,64.3705,21.4955,1,0
+Sweden,Zakrisberg_Dalarnas Lan,60.5122,15.1122,1,0
+Sweden,Zakrisberg_Vastmanlands Lan,59.4122,15.8955,1,0
+Sweden,Zakrisdal_Varmlands Lan,59.3789,13.4455,1,0
+Sweden,Zinkgruvan_Orebro Lan,58.8289,15.0955,1,0
+Sweden,Zion_Gotlands Lan,57.5789,18.2789,1,0

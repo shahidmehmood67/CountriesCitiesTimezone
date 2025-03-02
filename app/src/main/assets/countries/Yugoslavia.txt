@@ -1,0 +1,39 @@
+Yugoslavia,Bar_Crna Gora Montenegro,42.1029,19.1101,1,0
+Yugoslavia,Barice_Crna Gora Montenegro,42.762,18.9776,1,0
+Yugoslavia,Belgrade_Srbija Serbia,44.8284,20.4779,1,0
+Yugoslavia,Cajetina_Srbija Serbia,43.7599,19.7266,1,0
+Yugoslavia,Gjilan_Srbija Serbia,42.4539,21.4867,1,0
+Yugoslavia,Gusinje_Crna Gora Montenegro,42.5722,19.8442,1,0
+Yugoslavia,Kosovo_Srbija Serbia,42.594,21.0107,1,0
+Yugoslavia,Kosovo Polje_Crna Gora Montenegro,43.1185,19.6254,1,0
+Yugoslavia,Mitrovica_Srbija Serbia,42.9115,20.8912,1,0
+Yugoslavia,Mitrovica Kosovska_Srbija Serbia,42.8942,20.8776,1,0
+Yugoslavia,Nis_Srbija Serbia,43.5599,19.796,1,0
+Yugoslavia,Novi Pazar_Srbija Serbia,43.1477,20.5232,1,0
+Yugoslavia,Novi Sad_Srbija Serbia,45.2627,19.8479,1,0
+Yugoslavia,Opoje_Srbija Serbia,42.125,20.7025,1,0
+Yugoslavia,Pec_Srbija Serbia,43.5909,19.5326,1,0
+Yugoslavia,Plav_Crna Gora Montenegro,42.6081,19.9568,1,0
+Yugoslavia,Plevlja_Crna Gora Montenegro,43.3631,19.364,1,0
+Yugoslavia,Podgorica_Srbija Serbia,43.7865,19.694,1,0
+Yugoslavia,Podgorica_Crna Gora Montenegro,42.4523,19.2748,1,0
+Yugoslavia,Presheve_Srbija Serbia,42.3204,21.6604,1,0
+Yugoslavia,Pristina_Srbija Serbia,42.6779,21.1779,1,0
+Yugoslavia,Prizren_Srbija Serbia,42.2251,20.7509,1,0
+Yugoslavia,Sjenica_Srbija Serbia,43.2846,20.0109,1,0
+Yugoslavia,Sojeve_Srbija Serbia,42.3851,21.2373,1,0
+Yugoslavia,Ulcinj_Crna Gora Montenegro,41.94,19.2181,1,0
+Yugoslavia,Vladimir_Crna Gora Montenegro,42.0185,19.3246,1,0
+Yugoslavia,Wachenheim_Srbija Serbia,45.9519,19.1772,1,0
+Yugoslavia,Waldau an der Donau_Srbija Serbia,45.6066,19.11,1,0
+Yugoslavia,Weisskirchen_Srbija Serbia,44.9094,21.4291,1,0
+Yugoslavia,Wekerle_Srbija Serbia,45.3419,19.4483,1,0
+Yugoslavia,Werschitz_Srbija Serbia,45.1286,21.3155,1,0
+Yugoslavia,Wojwodina_Srbija Serbia,45.5119,20.0119,1,0
+Yugoslavia,Wolfingen_Srbija Serbia,45.5069,19.2,1,0
+Yugoslavia,Wolfsburg_Srbija Serbia,45.6208,19.5383,1,0
+Yugoslavia,Xerxa_Srbija Serbia,42.0909,20.6973,1,0
+Yugoslavia,Xerxe_Srbija Serbia,42.3617,20.5826,1,0
+Yugoslavia,Yaqova_Srbija Serbia,42.3924,20.4429,1,0
+Yugoslavia,Yastrebac_Srbija Serbia,42.9288,22.1954,1,0
+Yugoslavia,Yugoslavia,43.7621,20.7621,1,0

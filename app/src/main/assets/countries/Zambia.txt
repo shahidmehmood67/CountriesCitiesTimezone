@@ -1,0 +1,21 @@
+Zambia,Chipata District_Eastern,-13.4901,32.1766,2,0
+Zambia,Hombwe_North-Western,-12.2063,27.3271,2,0
+Zambia,Kitwe_Copperbelt,-12.806,28.2607,2,0
+Zambia,Lusaka_Central,-14.2892,29.1275,2,0
+Zambia,Lusaka,-15.4059,28.2941,2,0
+Zambia,Lusaka East Forest Reserve_Central,-15.4225,28.4108,2,0
+Zambia,Lusaka North Forest Reserve,-15.3559,28.2775,2,0
+Zambia,Lusaka South Forest Reserve,-15.4892,28.3775,2,0
+Zambia,Lusaka Urban,-15.4059,29.0108,2,0
+Zambia,Mongu_Western,-15.2391,23.1442,2,0
+Zambia,Mongu_Eastern,-12.0558,33.0442,2,0
+Zambia,Mongu District_Western,-15.1558,23.5109,2,0
+Zambia,Monguma_North-Western,-11.7224,25.4442,2,0
+Zambia,Ndola_Copperbelt,-12.9557,28.6443,2,0
+Zambia,Ndola Central_Copperbelt,-12.9557,28.661,2,0
+Zambia,Ndola District_Copperbelt,-12.8223,28.5943,2,0
+Zambia,Ndola Location_Copperbelt,-12.9723,28.6443,2,0
+Zambia,Old Mambwe_Northern,-9.0556,32.0278,2,0
+Zambia,Queen Elizabeth Island_Southern,-17.8887,25.828,2,0
+Zambia,Upper Machili_Western,-16.7383,25.0117,2,0
+Zambia,Xmas Gift_Central,-15.538,27.9787,2,0

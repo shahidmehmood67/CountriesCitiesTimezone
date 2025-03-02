@@ -1,0 +1,166 @@
+Ukraine,Alupka_Krym Avtonomna Respublika,44.4264,34.0597,2,0
+Ukraine,Cherkassy_Cherkas ka Oblast,49.4432,32.0766,2,0
+Ukraine,Chernihiv,51.5099,31.3099,2,0
+Ukraine,Crimea,45.0099,34.0099,2,0
+Ukraine,Dnepropetrovsk_Dnipropetrovs ka Oblast,48.46,34.9933,2,0
+Ukraine,Donets k_Donets ka Oblast,48.01,37.81,2,0
+Ukraine,Donetskaya Oblast_Donets ka Oblast,48.01,37.51,2,0
+Ukraine,Donetskiy,47.4267,37.96,2,0
+Ukraine,Donetskiy_Donets ka Oblast,47.7256,38.4189,2,0
+Ukraine,Efendi-Koy,45.0268,34.4934,2,0
+Ukraine,Egresh,48.1768,22.9768,2,0
+Ukraine,Ekaterinople_Cherkas ka Oblast,48.9484,30.9898,2,0
+Ukraine,Ekibash,45.2268,33.9934,2,0
+Ukraine,Ekonomiya Shul tsa,45.9434,30.1268,2,0
+Ukraine,Ekonomiya Yeremeyeva,45.9934,30.2268,2,0
+Ukraine,Ekonomiya Zabotkinoy,45.9768,30.1601,2,0
+Ukraine,El buzly,44.9768,34.9934,2,0
+Ukraine,El gery-Karachkora,45.6268,34.0434,2,0
+Ukraine,El gery-Kaspir,45.6268,33.2434,2,0
+Ukraine,El tigen_Krym Avtonomna Respublika,45.2323,36.4143,2,0
+Ukraine,El tok,45.4934,33.4601,2,0
+Ukraine,El zas,46.7101,30.1934,2,0
+Ukraine,El zhbitovka,48.5101,28.3934,2,0
+Ukraine,Eliseyevka_Kharkivs ka Oblast,49.9259,37.5309,2,0
+Ukraine,Elizarow,50.4934,24.9101,2,0
+Ukraine,Elyzavetivka_Odes ka Oblast,47.3234,29.7893,2,0
+Ukraine,Emanuilovka_Odes ka Oblast,47.1601,29.8434,2,0
+Ukraine,Emil chino_Zhytomyrs ka Oblast,50.8768,27.8101,2,0
+Ukraine,Emil chinskiy Rayon,50.9268,27.8434,2,0
+Ukraine,Emir-Orlyuk,45.7101,33.4101,2,0
+Ukraine,Emmes,47.8768,33.6934,2,0
+Ukraine,Energodar,47.5101,34.4768,2,0
+Ukraine,Engel sovo_Luhans ka Oblast,48.3048,39.6323,2,0
+Ukraine,Enichioi,45.6934,29.2768,2,0
+Ukraine,Erastovka_Dnipropetrovs ka Oblast,48.447,33.9282,2,0
+Ukraine,Erazimivka,49.5434,28.7268,2,0
+Ukraine,Erdek Burno,45.5101,28.9768,2,0
+Ukraine,Eriklik,44.4768,34.1434,2,0
+Ukraine,Eristovka,47.4268,35.4268,2,0
+Ukraine,Esek-Eki,45.2101,34.9934,2,0
+Ukraine,Eshkene,45.3268,34.6768,2,0
+Ukraine,Eskhar_Kharkivs ka Oblast,49.8082,36.5984,2,0
+Ukraine,Eskhiopolos,45.7434,29.6268,2,0
+Ukraine,Eski Krym_Krym Avtonomna Respublika,45.0434,35.1101,2,0
+Ukraine,Eski Yurt,44.9601,34.9101,2,0
+Ukraine,Eski-Ali-Kech,45.5934,33.6434,2,0
+Ukraine,Eski-Eli,44.7434,33.6101,2,0
+Ukraine,Eski-Orda,44.9268,34.1768,2,0
+Ukraine,Eski-Saray,44.8934,34.2268,2,0
+Ukraine,Esman_Sums ka Oblast,51.7915,34.0829,2,0
+Ukraine,Esman,51.4601,33.8434,2,0
+Ukraine,Essen-Eli,45.1101,35.1434,2,0
+Ukraine,Estuary of the Dnieper,46.5934,31.9268,2,0
+Ukraine,Eupatoria_Krym Avtonomna Respublika,45.2073,33.3659,2,0
+Ukraine,Eupatoria Point_Krym Avtonomna Respublika,45.1601,33.2768,2,0
+Ukraine,Evghenita_Odes ka Oblast,46.3904,29.2159,2,0
+Ukraine,Eygenfel d,46.7601,35.0934,2,0
+Ukraine,Eygengut,46.9768,31.3434,2,0
+Ukraine,Eyngeym,46.3101,30.0101,2,0
+Ukraine,Ezyurko,51.6434,25.0434,2,0
+Ukraine,Ivano-Frankovsk_Ivano-Frankivs ka Oblast,48.9277,24.7177,2,0
+Ukraine,Ivano-Frankovskiy Rayon,48.9105,24.8605,2,0
+Ukraine,Jablonica Pass,48.3106,24.4606,2,0
+Ukraine,Jablonitza_Ivano-Frankivs ka Oblast,48.3264,24.495,2,0
+Ukraine,Jablonow,49.1606,25.8773,2,0
+Ukraine,Jablonow_Ivano-Frankivs ka Oblast,48.4139,24.9598,2,0
+Ukraine,Jablonowka,50.0273,24.6106,2,0
+Ukraine,Jablunovo,48.3939,22.8773,2,0
+Ukraine,Jadova,48.2106,25.5273,2,0
+Ukraine,Jadwinowka,50.5606,24.9273,2,0
+Ukraine,Jagielnica_Ternopil s ka Oblast,48.9534,25.7498,2,0
+Ukraine,Jagodin,51.2106,23.9106,2,0
+Ukraine,Jaila Geberge,44.5439,34.1273,2,0
+Ukraine,Jakowicze,50.7939,24.5773,2,0
+Ukraine,Jalta_Krym Avtonomna Respublika,44.5106,34.1773,2,0
+Ukraine,Jamna,48.4439,24.5773,2,0
+Ukraine,Jamne,50.0606,24.4439,2,0
+Ukraine,Janiewicze,50.7106,24.4106,2,0
+Ukraine,Janisal,47.8439,36.8439,2,0
+Ukraine,Jankowce,49.8106,26.1439,2,0
+Ukraine,Janow,49.9273,23.7439,2,0
+Ukraine,Janowka,51.0939,25.2773,2,0
+Ukraine,Januszpul_Zhytomyrs ka Oblast,49.8606,28.2273,2,0
+Ukraine,Japoloc,50.9939,26.2773,2,0
+Ukraine,Jaremcze_Ivano-Frankivs ka Oblast,48.4689,24.5625,2,0
+Ukraine,Jaryczow Nowy,49.9273,24.3106,2,0
+Ukraine,Jasien_Ivano-Frankivs ka Oblast,48.7425,24.1595,2,0
+Ukraine,Jasienica,50.1273,24.4273,2,0
+Ukraine,Jasienow,48.1773,24.9606,2,0
+Ukraine,Jasina_Zakarpats ka Oblast,48.2767,24.3662,2,0
+Ukraine,Jasinowka,50.9939,24.9606,2,0
+Ukraine,Jasionka Masiowa,49.2106,23.1773,2,0
+Ukraine,Jasionow,49.9773,25.0606,2,0
+Ukraine,Jastrzebica,50.3273,24.3606,2,0
+Ukraine,Jawora,49.2106,23.0606,2,0
+Ukraine,Jaworow,49.9439,23.3939,2,0
+Ukraine,Jazlowiec,48.9773,25.4439,2,0
+Ukraine,Jazow Stary,49.9939,23.4439,2,0
+Ukraine,Jegorlyk Gulf,46.4106,31.8439,2,0
+Ukraine,Jelenowka,47.8439,37.6773,2,0
+Ukraine,Jenowschtsch,51.2606,30.4106,2,0
+Ukraine,Jesupol,49.0439,24.7939,2,0
+Ukraine,Jezierce,51.5439,25.6606,2,0
+Ukraine,Jezierna,49.6439,25.3439,2,0
+Ukraine,Jezierzany_Ternopil s ka Oblast,48.8889,25.9589,2,0
+Ukraine,Jezierzany,48.8106,25.1106,2,0
+Ukraine,Jeziorany,50.4606,26.0439,2,0
+Ukraine,Jeziorce,50.5773,24.8106,2,0
+Ukraine,Jeziorki,50.4106,24.9773,2,0
+Ukraine,Jezioro,51.5106,26.2273,2,0
+Ukraine,Jezioro Switaz,51.5106,23.8439,2,0
+Ukraine,Jeziory,51.5773,26.9273,2,0
+Ukraine,Jibrieni,45.5273,29.6106,2,0
+Ukraine,Jitomir,50.2606,28.6773,2,0
+Ukraine,Josephberg,49.4273,23.7939,2,0
+Ukraine,Jozefow,50.3106,24.6106,2,0
+Ukraine,Juski,50.0939,23.6606,2,0
+Ukraine,Kefe_Krym Avtonomna Respublika,45.044,35.394,2,0
+Ukraine,Kharkiv,49.994,36.2274,2,0
+Ukraine,Kharkov_Kharkivs ka Oblast,49.9368,36.2996,2,0
+Ukraine,Kharkov Northwest_Kharkivs ka Oblast,50.0665,36.2157,2,0
+Ukraine,Kharkov Southeast_Kharkivs ka Oblast,49.8935,36.394,2,0
+Ukraine,Khaschuv,49.2774,22.794,2,0
+Ukraine,Khocheva,51.044,30.094,2,0
+Ukraine,Kiev,50.444,30.5274,2,0
+Ukraine,Kiev Oblast_Kyyivs ka Oblast,50.2607,30.5107,2,0
+Ukraine,Kiev-Petrovsky Port,50.4774,30.5274,2,0
+Ukraine,Kikova,50.4774,27.7274,2,0
+Ukraine,Kirovograd_Kirovohrads ka Oblast,48.5149,32.2738,2,0
+Ukraine,Kirovograd Oblast_Kirovohrads ka Oblast,48.5107,32.0107,2,0
+Ukraine,Korosten,50.9774,28.644,2,0
+Ukraine,Korosten_Zhytomyrs ka Oblast,50.9607,28.6607,2,0
+Ukraine,Koshovoy,47.5774,33.444,2,0
+Ukraine,Kremenchug,49.0774,33.4274,2,0
+Ukraine,Kubey_Odes ka Oblast,45.8026,28.7504,2,0
+Ukraine,Kukizov,49.944,24.2774,2,0
+Ukraine,Lokhvitsa_Poltavs ka Oblast,50.3775,33.2775,2,0
+Ukraine,Lugansk_Luhans ka Oblast,48.5775,39.3441,2,0
+Ukraine,Lugansk,47.3775,37.1108,2,0
+Ukraine,Luganskaya_Luhans ka Oblast,48.6619,39.4969,2,0
+Ukraine,Luganskaya Oblast_Luhans ka Oblast,49.0108,39.0108,2,0
+Ukraine,Luganskoje_Donets ka Oblast,48.4391,38.2783,2,0
+Ukraine,Luganskoye,47.8941,37.6941,2,0
+Ukraine,Lvyv_L vivs ka Oblast,49.8441,24.0108,2,0
+Ukraine,Mariupol_Donets ka Oblast,47.1109,37.5609,2,0
+Ukraine,Melitopol_Zaporiz ka Oblast,46.8531,35.384,2,0
+Ukraine,Odessa_Odes ka Oblast,46.4778,30.7444,2,0
+Ukraine,Odessa,46.4778,30.7611,2,0
+Ukraine,Oktyabr skoye_Krym Avtonomna Respublika,45.3733,36.3703,2,0
+Ukraine,Poltava_Poltavs ka Oblast,49.5945,34.5779,2,0
+Ukraine,Poltava_Kharkivs ka Oblast,50.0031,37.5365,2,0
+Ukraine,Poltava Oblast_Poltavs ka Oblast,49.5112,34.0112,2,0
+Ukraine,Quarantine Bay,44.628,33.5113,2,0
+Ukraine,Sevastopol_Sevastopol Misto,44.6115,33.5448,2,0
+Ukraine,Simferopol_Krym Avtonomna Respublika,44.9615,34.1115,2,0
+Ukraine,Simferopol ski Rayon,45.0115,34.0948,2,0
+Ukraine,Sumy_Sums ka Oblast,50.8679,34.774,2,0
+Ukraine,Sumy Northwest_Sums ka Oblast,50.9801,34.7032,2,0
+Ukraine,Sumy Oblast_Sums ka Oblast,51.0115,34.0115,2,0
+Ukraine,Ternopil_Ternopil s ka Oblast,49.5616,25.5949,2,0
+Ukraine,Ternopil s ka Oblast,49.5116,25.5116,2,0
+Ukraine,Vinnitsa_Vinnyts ka Oblast,49.2451,28.4951,2,0
+Ukraine,Vinnitsa_Kharkivs ka Oblast,49.8582,37.7304,2,0
+Ukraine,Vinnitsa Oblast_Vinnyts ka Oblast,49.0118,29.0118,2,0
+Ukraine,Zaporizhzhya,48.1122,36.9955,2,0
+Ukraine,Zaporozh e_Zaporiz ka Oblast,47.8289,35.1955,2,0

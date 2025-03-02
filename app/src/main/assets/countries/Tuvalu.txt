@@ -1,0 +1,50 @@
+Tuvalu,Amatuku,-8.4236,179.193,12,0
+Tuvalu,Asau,-7.4903,178.6764,12,0
+Tuvalu,Avalau,-8.6403,179.093,12,0
+Tuvalu,Brewis Rock,-8.5735,179.1265,12,0
+Tuvalu,Coal Island,-7.9734,178.3599,12,0
+Tuvalu,Dawson Patches,-8.54,179.1267,12,0
+Tuvalu,Deafatule Islands,-7.9567,178.36,12,0
+Tuvalu,Eeg Island,-7.2566,177.1768,12,0
+Tuvalu,Ellice Group,-7.9899,178.0101,12,0
+Tuvalu,Entrance Island,-7.9732,178.3434,12,0
+Tuvalu,Fatato,-8.5398,179.1935,12,0
+Tuvalu,Fualopa,-8.4731,179.0769,12,0
+Tuvalu,Funafara Island,-8.6065,179.1269,12,0
+Tuvalu,Funafuti,-8.5065,179.2269,12,0
+Tuvalu,Funafuti Atoll,-8.5065,179.1435,12,0
+Tuvalu,Funangongo,-8.5398,179.1602,12,0
+Tuvalu,Funaota,-7.9231,178.3935,12,0
+Tuvalu,Hounson Rock,-8.5563,179.1437,12,0
+Tuvalu,Hudson Island,-6.2896,176.3437,12,0
+Tuvalu,Lafaga,-7.9559,178.4441,12,0
+Tuvalu,Lafongoki,-5.6559,176.1275,12,0
+Tuvalu,Lakina,-5.6392,176.1108,12,0
+Tuvalu,Lolua,-5.6559,176.1441,12,0
+Tuvalu,Lynx,-6.1059,177.3108,12,0
+Tuvalu,Matala,-9.3391,179.8442,12,0
+Tuvalu,Mateika,-8.5891,179.1276,12,0
+Tuvalu,Mitchell Island,-9.3724,179.8776,12,0
+Tuvalu,Moriapepe,-5.6391,176.1442,12,0
+Tuvalu,Motolalo,-8.0558,178.3776,12,0
+Tuvalu,Mototupo,-9.3224,179.8609,12,0
+Tuvalu,Motuforiki,-9.3724,179.8942,12,0
+Tuvalu,Motuloa,-9.3391,179.8776,12,0
+Tuvalu,Motuloa Niuelosolo,-8.0058,178.4109,12,0
+Tuvalu,Motumua,-8.0224,178.3276,12,0
+Tuvalu,Motungie,-8.6391,179.1109,12,0
+Tuvalu,Mutulotu,-9.4058,179.8776,12,0
+Tuvalu,Nares Patch,-8.4557,179.161,12,0
+Tuvalu,Nuwak,-9.389,179.8943,12,0
+Tuvalu,Oaitupu,-7.4556,178.6944,12,0
+Tuvalu,Peyster s Group,-7.9888,178.3779,12,0
+Tuvalu,Rocky Island,-10.7386,179.5114,12,0
+Tuvalu,Saint Agustine Island,-5.6718,176.1615,12,0
+Tuvalu,Te Akau Taula Buga,-8.4384,179.1949,12,0
+Tuvalu,Te Ava Kumkum,-8.4717,179.0949,12,0
+Tuvalu,Ulu Bunga,-8.505,179.2117,12,0
+Tuvalu,Unemai,-7.2716,177.1784,12,0
+Tuvalu,Vaitupu,-7.4715,178.6951,12,0
+Tuvalu,Vasafua,-8.5549,179.0785,12,0
+Tuvalu,Vasamotu,-8.0215,178.3951,12,0
+Tuvalu,Vasamotu Lafaga,-7.9882,178.4285,12,0

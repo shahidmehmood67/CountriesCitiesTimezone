@@ -1,0 +1,164 @@
+Iran,Abadan_Khuzestan,30.3622,48.3055,3.5,0
+Iran,Abadan_Esfahan,33.7944,54.6558,3.5,0
+Iran,Abadan,30.1764,48.843,3.5,0
+Iran,Abadan Tappeh_IR17,37.4289,55.2636,3.5,0
+Iran,Abadani_Hormozgan,27.2286,55.815,3.5,0
+Iran,Abyek_IR27,36.055,50.533,3.5,0
+Iran,Ahwaz_Khuzestan,31.343,48.8097,3.5,0
+Iran,Ahwaz Railroad Station_Khuzestan,31.3194,48.6466,3.5,0
+Iran,Amol_IR17,36.4805,52.373,3.5,0
+Iran,Arak,34.4264,49.593,3.5,0
+Iran,Arak_IR24,34.0953,49.6936,3.5,0
+Iran,Ardabil_Ardebil,38.2591,48.3111,3.5,0
+Iran,Ardebil,39.0097,48.0097,3.5,0
+Iran,Asalem_Gilan,37.7136,48.9505,3.5,0
+Iran,Asaluyeh_Bushehr,27.5091,52.6316,3.5,0
+Iran,Babol,36.5098,52.5931,3.5,0
+Iran,Babol_IR17,36.554,52.6887,3.5,0
+Iran,Bakhtaran_Kermanshah,34.324,47.0748,3.5,0
+Iran,Bandar `Abbas_Hormozgan,27.1962,56.287,3.5,0
+Iran,Bandar `Abbas,28.0098,56.0098,3.5,0
+Iran,Bandar-e Kong_Hormozgan,26.6023,54.9476,3.5,0
+Iran,Bastak_Mazandaran,35.9765,51.7931,3.5,0
+Iran,Bastak_Hormozgan,27.2079,54.3784,3.5,0
+Iran,Birjand_Khorasan,32.8837,59.2242,3.5,0
+Iran,Bojnurd,37.5098,57.0098,3.5,0
+Iran,Bojnurd_Khorasan,37.4873,57.3342,3.5,0
+Iran,Buchir_Hormozgan,27.0751,53.6251,3.5,0
+Iran,Bushehr,28.9848,50.8479,3.5,0
+Iran,Chabahar_Sistan va Baluchestan,25.3055,60.6438,3.5,0
+Iran,Chalus_IR17,36.6766,51.4266,3.5,0
+Iran,Diwan Darreh_Kordestan,35.9194,47.0439,3.5,0
+Iran,Gavbandi_Hormozgan,27.2181,53.0422,3.5,0
+Iran,Hamedan_Hamadan,34.8065,48.5262,3.5,0
+Iran,Iranshahr_Sistan va Baluchestan,27.2144,60.7024,3.5,0
+Iran,Iranshahr_Kerman,28.9627,58.8944,3.5,0
+Iran,Isfahan,32.0105,57.5105,3.5,0
+Iran,Isfahan_Esfahan,32.6702,51.6819,3.5,0
+Iran,Isfahanak_IR19,35.2605,50.2272,3.5,0
+Iran,Jask_Hormozgan,25.6528,57.7828,3.5,0
+Iran,Karaj_Ardebil,37.4115,48.2707,3.5,0
+Iran,Karaj_Tehran,35.8396,51.0165,3.5,0
+Iran,Karaj_Kerman,27.7899,57.9507,3.5,0
+Iran,Karaj Reservoir_Tehran,35.9801,51.1113,3.5,0
+Iran,Karaj-e `Olya_Kermanshah,34.6107,47.5274,3.5,0
+Iran,Karaja_Kerman,38.244,46.7774,3.5,0
+Iran,Karaja Dam_Tehran,35.9676,51.1013,3.5,0
+Iran,Karajamulik_Kerman,38.6107,46.644,3.5,0
+Iran,Kerman_IR17,35.9896,53.1038,3.5,0
+Iran,Kerman,29.0107,59.0107,3.5,0
+Iran,Kermanshah_Kohgiluyeh va Buyer Ahmad,31.0443,50.2143,3.5,0
+Iran,Kermanshah_Yazd,31.3232,54.8779,3.5,0
+Iran,Kermanshah,34.3276,47.0757,3.5,0
+Iran,Khaf_Khorasan,34.6579,60.0582,3.5,0
+Iran,Khamir_Hormozgan,26.9551,55.5951,3.5,0
+Iran,Khamiri_Hormozgan,26.9629,56.209,3.5,0
+Iran,Khamirun_Esfahan,32.7932,51.0329,3.5,0
+Iran,Khoor_Fars,27.6565,54.3546,3.5,0
+Iran,Khur_Esfahan,33.7924,55.1149,3.5,0
+Iran,Kish Island_Hormozgan,26.5549,53.9868,3.5,0
+Iran,Konarak_Sistan va Baluchestan,25.3663,60.4104,3.5,0
+Iran,Koshkonar_Hormozgan,27.2599,52.8746,3.5,0
+Iran,Kukherd_Hormozgan,27.096,54.5071,3.5,0
+Iran,Mahabad_Azarbayjan-e Gharbi,36.7756,45.7326,3.5,0
+Iran,Maku_Azarbayjan-e Gharbi,39.2976,44.5695,3.5,0
+Iran,Marivan_Kordestan,35.5326,46.1856,3.5,0
+Iran,Mashad_IR19,34.0442,51.0276,3.5,0
+Iran,Mashad_Ilam,33.0442,46.8609,3.5,0
+Iran,Mashad,26.8276,62.5942,3.5,0
+Iran,Mashad_IR24,34.8015,49.9565,3.5,0
+Iran,Mashad-i-Riza_Khorasan,34.8031,60.5159,3.5,0
+Iran,Mashadi_Khuzestan,31.7878,49.0081,3.5,0
+Iran,Mashhad_Khorasan,36.3067,59.6228,3.5,0
+Iran,Mashhad_IR27,35.8109,48.9442,3.5,0
+Iran,Mashhad_Fars,30.3303,52.2134,3.5,0
+Iran,Mashhad_Khuzestan,30.8442,50.2109,3.5,0
+Iran,Mashhad_Tehran,35.614,52.4856,3.5,0
+Iran,Mashhad_Esfahan,32.7353,50.5315,3.5,0
+Iran,Moghuyeh_Hormozgan,26.6137,54.5215,3.5,0
+Iran,Narmak,29.7277,58.0443,3.5,0
+Iran,Pip_Sistan va Baluchestan,26.6415,60.1309,3.5,0
+Iran,Qazvin_IR27,36.2735,50.0282,3.5,0
+Iran,Qazvin,35.5113,50.5113,3.5,0
+Iran,Qeshm_Hormozgan,26.9757,56.2849,3.5,0
+Iran,Qom_IR24,34.7046,50.8399,3.5,0
+Iran,Qom,34.5113,50.5113,3.5,0
+Iran,Qom_Khorasan,36.7116,59.0938,3.5,0
+Iran,Qom Qal`eh_IR02,36.8882,45.7894,3.5,0
+Iran,Qom Qeshlaq_Azarbayjan-e Gharbi,39.578,44.7446,3.5,0
+Iran,Qom Shaneh_Hamadan,35.178,49.2946,3.5,0
+Iran,Qomam_Kermanshah,34.928,47.578,3.5,0
+Iran,Qomash_Khorasan,33.2788,59.9416,3.5,0
+Iran,Qomash_Lorestan,34.0355,47.8135,3.5,0
+Iran,Qomeshli_IR19,34.4113,49.3113,3.5,0
+Iran,Qomeyjeh_Khuzestan,31.533,48.0388,3.5,0
+Iran,Qomi_Azarbayjan-e Gharbi,36.9613,45.9113,3.5,0
+Iran,Qomi Kala_IR17,36.4602,52.6196,3.5,0
+Iran,Qomik_IR27,36.128,49.9613,3.5,0
+Iran,Qominjan_Khorasan,33.5655,58.8813,3.5,0
+Iran,Qomisheh_Esfahan,32.0224,51.871,3.5,0
+Iran,Qomishlu_Esfahan,32.8332,51.218,3.5,0
+Iran,Qomlu_IR02,37.0113,46.9446,3.5,0
+Iran,Qomm Torqeh_Kordestan,36.2946,47.828,3.5,0
+Iran,Qomqan_IR02,37.478,47.478,3.5,0
+Iran,Qomrud_IR24,34.7363,51.0832,3.5,0
+Iran,Qomshahabad_IR19,36.078,49.3446,3.5,0
+Iran,Qomsheh-ye Seyyed Qasem_Kermanshah,34.278,46.9113,3.5,0
+Iran,Rasht_Gilan,37.2908,49.5972,3.5,0
+Iran,Rasht,37.0114,49.5114,3.5,0
+Iran,Ravansar_Kermanshah,34.7614,46.6947,3.5,0
+Iran,Saghez_Kordestan,36.2568,46.2868,3.5,0
+Iran,Sanandaj,32.4282,47.0115,3.5,0
+Iran,Sanandaj_Kordestan,35.3287,47.0104,3.5,0
+Iran,Saravan,27.2615,62.1782,3.5,0
+Iran,Saravan_Gilan,37.0526,49.649,3.5,0
+Iran,Saravan_Bushehr,29.0815,51.4526,3.5,0
+Iran,Saravan_Sistan va Baluchestan,27.3779,62.3509,3.5,0
+Iran,Sari_Khorasan,33.864,58.7465,3.5,0
+Iran,Sari_IR17,36.5793,53.0701,3.5,0
+Iran,Sari_IR02,39.4782,47.4782,3.5,0
+Iran,Sari_Ardebil,38.7832,47.6829,3.5,0
+Iran,Sari_IR27,37.0115,48.4948,3.5,0
+Iran,Saveh_IR24,35.0209,50.3848,3.5,0
+Iran,Shahr-e Kord_Chahar Mahall va Bakhtiari,32.3371,50.8759,3.5,0
+Iran,Shiraz,29.7615,53.0115,3.5,0
+Iran,Shiraz_Esfahan,32.5618,53.0051,3.5,0
+Iran,Shiraz_Fars,29.6265,52.5498,3.5,0
+Iran,Shiraz_Azarbayjan-e Gharbi,37.4418,45.9368,3.5,0
+Iran,Shirazabad_Khorasan,34.2698,58.5204,3.5,0
+Iran,Shirazak_IR19,36.2615,49.6948,3.5,0
+Iran,Shirazan_Esfahan,33.3115,52.2615,3.5,0
+Iran,Shirazi_Kermanshah,34.1201,47.4301,3.5,0
+Iran,Shirazi_Esfahan,33.2984,51.2537,3.5,0
+Iran,Shirazi_Kohgiluyeh va Buyer Ahmad,30.7423,50.7407,3.5,0
+Iran,Shirazi-ye Kordi_Kerman,27.7993,57.4187,3.5,0
+Iran,Shirazi-ye Sofla_Kermanshah,34.1565,47.4037,3.5,0
+Iran,Shirazi-ye Vosta_Kermanshah,34.124,47.4351,3.5,0
+Iran,Shirazil_Hamadan,34.7332,48.2379,3.5,0
+Iran,Tabriz_Azarbayjan-e Gharbi,38.0916,46.3035,3.5,0
+Iran,Tabriz,38.0116,46.2616,3.5,0
+Iran,Tabriz_IR02,38.1435,46.2519,3.5,0
+Iran,Tabriz Jani_Azarbayjan-e Gharbi,38.1449,46.2449,3.5,0
+Iran,Tabriz Kuchak_Kordestan,35.8616,47.3116,3.5,0
+Iran,Tabrizak_IR27,36.4616,47.8949,3.5,0
+Iran,Tabrizaq_Ardebil,37.7294,48.1655,3.5,0
+Iran,Teheran_Tehran,36.0116,51.5116,3.5,0
+Iran,Tehran_Esfahan,32.7152,51.1635,3.5,0
+Iran,Tehran,35.0116,52.0116,3.5,0
+Iran,Tehran_Hormozgan,27.4702,55.4872,3.5,0
+Iran,Tehran Dasht_Tehran,35.9219,50.7819,3.5,0
+Iran,Tehran Mehrabad International Airfield_Tehran,35.7008,51.3249,3.5,0
+Iran,Tehran Pars_Tehran,35.7558,51.5455,3.5,0
+Iran,Tehran Sar_Tehran,35.7116,51.2688,3.5,0
+Iran,Torbat-e Jam_Khorasan,35.2524,60.6335,3.5,0
+Iran,Xalij-e Fars_Bushehr,29.012,51.5953,3.5,0
+Iran,Xarman_Khuzestan,30.462,48.1287,3.5,0
+Iran,Xorangan_Fars,28.8084,53.8242,3.5,0
+Iran,Xuzestan_Khuzestan,31.012,49.012,3.5,0
+Iran,Yazd,31.8682,54.3504,3.5,0
+Iran,Zahedan,29.5122,60.2622,3.5,0
+Iran,Zahedan_Fars,28.76,53.8136,3.5,0
+Iran,Zahedan_Kerman,28.9139,57.89,3.5,0
+Iran,Zahedan_Sistan va Baluchestan,29.51,60.885,3.5,0
+Iran,Zahedan International Airport_Sistan va Baluchestan,29.4911,60.9161,3.5,0
+Iran,Zanjan_IR27,36.6766,48.4978,3.5,0

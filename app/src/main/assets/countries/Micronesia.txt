@@ -1,0 +1,85 @@
+Micronesia,4 P.M. Island_Chuuk,7.3519,151.9927,11,0
+Micronesia,6 AM Island_Chuuk,7.6026,151.9465,11,0
+Micronesia,Aelangakiit_Yap,6.6986,143.0622,11,0
+Micronesia,Aga Island_Chuuk,7.493,151.7389,11,0
+Micronesia,Alokap_Pohnpei,6.9258,158.298,11,0
+Micronesia,Aoura_Pohnpei,6.6653,159.7847,11,0
+Micronesia,Apaitota_Chuuk,7.3219,152.0264,11,0
+Micronesia,Awatek_Pohnpei,6.9425,158.328,11,0
+Micronesia,Awoch_Yap,9.5683,138.1233,11,0
+Micronesia,Haisisi_Pohnpei,3.8604,155.0104,11,0
+Micronesia,Hakusha-shima_Chuuk,7.4293,151.7426,11,0
+Micronesia,Haleba_Pohnpei,1.0671,154.8121,11,0
+Micronesia,Higashi-Suido_Yap,8.3112,137.5068,11,0
+Micronesia,Hog Island_Chuuk,7.3262,152.0221,11,0
+Micronesia,Hogolu Islands_Chuuk,7.4271,151.7937,11,0
+Micronesia,Hukuniu_Pohnpei,1.0937,154.8104,11,0
+Micronesia,Hukuto_Chuuk,7.5146,151.9729,11,0
+Micronesia,Huraarappu To_Yap,8.6104,144.5604,11,0
+Micronesia,Jalangaschel_Yap,8.3875,137.4612,11,0
+Micronesia,Jalangigereil_Yap,7.3728,143.8848,11,0
+Micronesia,Janiak_Pohnpei,6.7939,158.1606,11,0
+Micronesia,Januet_Chuuk,7.5509,151.8189,11,0
+Micronesia,Jap-Insel_Yap,9.5439,138.1439,11,0
+Micronesia,Japan Fayu_Chuuk,8.5848,151.3728,11,0
+Micronesia,Japutik Island_Pohnpei,7.0134,158.2325,11,0
+Micronesia,Jekeits_Pohnpei,6.98,158.1981,11,0
+Micronesia,Jelatak_Pohnpei,6.9623,158.1628,11,0
+Micronesia,Jin_Yap,9.5912,138.1339,11,0
+Micronesia,Jirup_Pohnpei,5.8567,157.3545,11,0
+Micronesia,Jokaj Passage_Pohnpei,7.0081,158.1864,11,0
+Micronesia,Jola_Kosrae,5.34,162.955,11,0
+Micronesia,Jola-Hafen_Kosrae,5.3375,162.9512,11,0
+Micronesia,Jot_Chuuk,7.3953,151.747,11,0
+Micronesia,Jountin_Pohnpei,6.9812,158.2298,11,0
+Micronesia,Juripik_Yap,6.7023,143.0523,11,0
+Micronesia,Jurukku-To_Yap,7.2689,144.4439,11,0
+Micronesia,Palikir_Pohnpei,6.9279,158.1612,11,0
+Micronesia,Palikir-Hafen_Pohnpei,7.002,158.1404,11,0
+Micronesia,Qabaay_Yap,9.556,138.1835,11,0
+Micronesia,Qabluul_Yap,9.5613,138.1574,11,0
+Micronesia,Qaliiyir_Yap,9.5482,138.1255,11,0
+Micronesia,Qamin_Yap,9.6116,138.1766,11,0
+Micronesia,Qanbalaach_Yap,9.5991,138.171,11,0
+Micronesia,Qanif_Yap,9.5819,138.1974,11,0
+Micronesia,Qanooth_Yap,9.4544,138.0788,11,0
+Micronesia,Qarngach_Yap,9.576,138.1294,11,0
+Micronesia,Qatliw_Yap,9.5616,138.1208,11,0
+Micronesia,Qayaan_Yap,9.5113,138.1446,11,0
+Micronesia,Quirosa_Pohnpei,6.9182,158.2438,11,0
+Micronesia,Qumeal_Yap,9.5938,138.1424,11,0
+Micronesia,Quoi_Chuuk,7.5394,151.9816,11,0
+Micronesia,Uijas_Chuuk,7.1745,151.9475,11,0
+Micronesia,Uyap_Yap,9.5284,138.1117,11,0
+Micronesia,Uyetik_Pohnpei,1.0936,154.8114,11,0
+Micronesia,Uyetik Island_Pohnpei,7.0784,157.845,11,0
+Micronesia,Valientes Islands_Pohnpei,5.8618,157.2785,11,0
+Micronesia,Veiman_Chuuk,8.564,151.6949,11,0
+Micronesia,Velabat_Yap,9.5149,138.1401,11,0
+Micronesia,Vidiboen_Chuuk,7.4524,151.8779,11,0
+Micronesia,Vilibi_Chuuk,7.3715,151.8599,11,0
+Micronesia,Vilisi_Chuuk,7.3451,151.6118,11,0
+Micronesia,Vinau_Yap,9.5515,138.1982,11,0
+Micronesia,Vindon_Chuuk,7.3035,151.8871,11,0
+Micronesia,Vinepis_Chuuk,7.4618,151.8951,11,0
+Micronesia,Vinibau_Chuuk,7.4193,151.6732,11,0
+Micronesia,Vinien_Chuuk,7.3696,151.8637,11,0
+Micronesia,Vinifaula_Chuuk,7.3299,151.8546,11,0
+Micronesia,Vinikero Pass_Chuuk,7.1899,151.9693,11,0
+Micronesia,Vinimas Berg_Chuuk,7.3493,151.6007,11,0
+Micronesia,Vinimorr Krater_Chuuk,7.3804,151.6363,11,0
+Micronesia,Vinion Durchfahrt_Chuuk,7.2485,152.019,11,0
+Micronesia,Volip_Chuuk,7.3885,151.7432,11,0
+Micronesia,Vunigeigei_Chuuk,7.3268,151.8812,11,0
+Micronesia,Weno_Chuuk,7.4577,151.8619,11,0
+Micronesia,Xavier High School_Chuuk,7.457,151.8959,11,0
+Micronesia,Zabez_Yap,9.4655,138.0775,11,0
+Micronesia,Zaraol_Yap,8.1455,140.3955,11,0
+Micronesia,Zau Channel_Yap,9.9508,139.6933,11,0
+Micronesia,Zohhoiiyoru_Yap,9.883,139.9697,11,0
+Micronesia,Zol_Yap,9.5455,138.1847,11,0
+Micronesia,Zoniparegoku-Suido_Yap,8.4122,137.3889,11,0
+Micronesia,Zoroppu Passage_Yap,8.3797,137.478,11,0
+Micronesia,Zowabatu-suido_Yap,9.8611,139.7189,11,0
+Micronesia,Zowariyau-Suido_Yap,9.885,139.6211,11,0
+Micronesia,Zowariyoru-Suido_Yap,9.8691,139.6478,11,0

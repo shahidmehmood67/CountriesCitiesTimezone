@@ -1,0 +1,54 @@
+Croatia,Acas,45.4794,18.8831,1GMT,138
+Croatia,Acquette,45.0053,14.3969,1GMT,130
+Croatia,Aerodrom Osijek,45.4617,18.8133,1GMT,137
+Croatia,Agbabe,44.8922,15.3944,1GMT,131
+Croatia,Andrijas,43.2067,17.1528,1GMT,132
+Croatia,Atak,45.1467,18.8839,1GMT,137
+Croatia,Bogovolja,45.0772,15.7303,1GMT,132
+Croatia,Dubrovnik,42.6506,18.0914,1GMT,133
+Croatia,Dubrovnik II,42.6597,18.0894,1GMT,133
+Croatia,Egeljac,44.3361,15.6506,1GMT,131
+Croatia,Eljenak,44.2800,16.1581,1GMT,132
+Croatia,Ercegovci,43.5964,16.6372,1GMT,132
+Croatia,Erdefilj,45.2292,17.8217,1GMT,136
+Croatia,Erderoga Kosa,44.9175,15.2942,1GMT,131
+Croatia,Erdod,45.5050,19.0639,1GMT,138
+Croatia,Erdovec,46.0325,16.4797,1GMT,134
+Croatia,Ervenik Gornji,44.1167,15.9500,1GMT,131
+Croatia,Gunja,45.4167,18.7781,1GMT,137
+Croatia,Gunjace,43.5717,16.8522,1GMT,132
+Croatia,Gunjavci,45.2756,17.4664,1GMT,135
+Croatia,Osijek,45.5511,18.6939,1GMT,137
+Croatia,Osijek Donji Grad,45.5522,18.7206,1GMT,137
+Croatia,Osijek-Donji Grad,45.5575,18.7347,1GMT,137
+Croatia,Pula,44.8683,13.8481,1GMT,129
+Croatia,Quarnaro,44.8039,14.1406,1GMT,129
+Croatia,Quarnerolo,44.6947,14.6011,1GMT,130
+Croatia,Quieto,45.3178,13.6000,1GMT,129
+Croatia,Rijeka_Primorsko-Goranska,45.3431,14.4092,1GMT,131
+Croatia,Rijeka_Koprivnicko-Krizevacka,46.1303,16.7669,1GMT,135
+Croatia,Rijeka Jadro,43.5333,16.4833,1GMT,131
+Croatia,Rijeka Krka,43.7219,15.8531,1GMT,131
+Croatia,Rijeka-Dol,45.4531,17.9697,1GMT,136
+Croatia,Slavonski Brod,45.1603,18.0156,1GMT,136
+Croatia,Split,43.5139,16.4558,1GMT,131
+Croatia,Splitska,43.3753,16.6072,1GMT,131
+Croatia,Splitska Luka,43.4833,16.4333,1GMT,131
+Croatia,Splitska Passage,43.3264,16.4003,1GMT,131
+Croatia,Splitski Kanal,43.4500,16.3667,1GMT,131
+Croatia,Umag,45.4314,13.5239,1GMT,129
+Croatia,Walpowo,45.6608,18.4186,1GMT,137
+Croatia,Warasdin,46.3044,16.3378,1GMT,135
+Croatia,Warasdin-Toplitz,46.2092,16.4192,1GMT,135
+Croatia,Wellington,43.0667,16.2167,1GMT,130
+Croatia,Weretz,45.8319,17.3839,1GMT,136
+Croatia,Winkowitz,45.2883,18.8047,1GMT,137
+Croatia,Wukowar,45.3433,18.9997,1GMT,138
+Croatia,Yakobovci,45.1908,18.6658,1GMT,137
+Croatia,Zagreb,45.8000,16.0000,1GMT,133
+Croatia,Zagreb Borongai,45.8167,16.0333,1GMT,134
+Croatia,Zagreb Glavni Kolodvor,45.8000,15.9833,1GMT,133
+Croatia,Zagreb Zapadni Kolodvor,45.8167,15.9667,1GMT,133
+Croatia,Zagrebacka Dubrava,45.8336,16.0636,1GMT,134
+Croatia,Zagrebacka Gora,45.9167,15.9667,1GMT,134
+Croatia,Zagrebacka Zupanija,45.7500,16.0833,1GMT,134

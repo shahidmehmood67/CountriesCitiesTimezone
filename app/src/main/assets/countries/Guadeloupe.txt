@@ -1,0 +1,175 @@
+Guadeloupe,Abymes,16.2764,-61.4903,-4,66
+Guadeloupe,Baie-Mahault,16.2765,-61.5735,-4,66
+Guadeloupe,Basse-Terre,16.0098,-61.7069,-4,66
+Guadeloupe,D Equainville,16.26,-61.3733,-4,66
+Guadeloupe,De Berard,16.26,-61.34,-4,66
+Guadeloupe,De Bouillante Faux Peak,16.1267,-61.7233,-4,66
+Guadeloupe,De Poyen,16.1933,-61.6067,-4,66
+Guadeloupe,Decostier,16.2933,-61.64,-4,66
+Guadeloupe,Degrat,16.26,-61.1733,-4,66
+Guadeloupe,Desbonnes,16.4933,-61.4233,-4,66
+Guadeloupe,Deshayes,16.31,-61.7733,-4,66
+Guadeloupe,Desmarais,16.1433,-61.7567,-4,66
+Guadeloupe,Desplan,16.2267,-61.7567,-4,66
+Guadeloupe,Desrotours Canal,16.36,-61.4733,-4,66
+Guadeloupe,Destrelan,16.26,-61.5567,-4,66
+Guadeloupe,Deuxieme Branch River,16.26,-61.6567,-4,66
+Guadeloupe,Deuxieme Chute du Carbet,16.0433,-61.6233,-4,66
+Guadeloupe,Devilet,16.0267,-61.6733,-4,66
+Guadeloupe,Diavet,16.3267,-61.69,-4,66
+Guadeloupe,Dole,15.9933,-61.6567,-4,66
+Guadeloupe,Dorilas,16.0933,-61.7567,-4,66
+Guadeloupe,Dorot,15.96,-61.24,-4,66
+Guadeloupe,Dos d Ane,16.3267,-61.74,-4,66
+Guadeloupe,Dos de Cheval,16.01,-61.6233,-4,66
+Guadeloupe,Douville,16.26,-61.3567,-4,66
+Guadeloupe,Du Plessis River,16.0433,-61.7233,-4,66
+Guadeloupe,Dubois,15.9267,-61.2067,-4,66
+Guadeloupe,Ducos,15.8933,-61.2733,-4,66
+Guadeloupe,Dupre,16.2267,-61.3733,-4,66
+Guadeloupe,Dupuy,16.26,-61.59,-4,66
+Guadeloupe,Duzer,16.3433,-61.7233,-4,66
+Guadeloupe,Echelle,16.0434,-61.6399,-4,66
+Guadeloupe,Emilien,16.3268,-61.4232,-4,66
+Guadeloupe,Etang As de Pique,16.0268,-61.6232,-4,66
+Guadeloupe,Etang aux Poissons,18.0768,-63.0066,-4,66
+Guadeloupe,Etang Cocoyer,16.3101,-61.3566,-4,66
+Guadeloupe,Etang de Simpson,18.0601,-63.0899,-4,66
+Guadeloupe,Etang du Vieux Fort,16.3601,-61.7399,-4,66
+Guadeloupe,Etang Fortin,16.0101,-61.6399,-4,66
+Guadeloupe,Etang Guichard,18.1032,-63.0566,-4,66
+Guadeloupe,Etang Zombi,16.0434,-61.6066,-4,66
+Guadeloupe,Falle Bay Point,15.9435,-61.3065,-4,66
+Guadeloupe,Faup,15.9269,-61.2898,-4,66
+Guadeloupe,Fauyais,16.4102,-61.5065,-4,66
+Guadeloupe,Favreau,16.2602,-61.2898,-4,66
+Guadeloupe,Ferry Point,16.2769,-61.7898,-4,66
+Guadeloupe,Fextand,16.3602,-61.4565,-4,66
+Guadeloupe,Flagstaff,18.0602,-63.0398,-4,66
+Guadeloupe,Flandre Bank,16.4102,-60.8898,-4,66
+Guadeloupe,Folle Anse,15.9602,-61.3231,-4,66
+Guadeloupe,Fond-Caraibe,16.2602,-61.2231,-4,66
+Guadeloupe,Fonds Cacao,16.0435,-61.5731,-4,66
+Guadeloupe,Foret de Fefe,16.0769,-61.6231,-4,66
+Guadeloupe,Fort de Marigot,18.0769,-63.0898,-4,66
+Guadeloupe,Fort Karl,17.8935,-62.8398,-4,66
+Guadeloupe,Fort Napoleon,15.8769,-61.5565,-4,66
+Guadeloupe,Fort Oscar,17.9102,-62.8398,-4,66
+Guadeloupe,Fort Richepanse,15.9935,-61.7231,-4,66
+Guadeloupe,Fouche,16.2435,-61.3898,-4,66
+Guadeloupe,Fourche,17.9769,-62.8898,-4,66
+Guadeloupe,Fourmis,17.8769,-62.7898,-4,66
+Guadeloupe,Francoeur Bay,16.2769,-61.8065,-4,66
+Guadeloupe,Francois Point,16.4435,-61.3731,-4,66
+Guadeloupe,Fregate,16.1935,-61.5398,-4,66
+Guadeloupe,Frigate Islet,15.9769,-61.2231,-4,66
+Guadeloupe,Fromager,16.3269,-61.0565,-4,66
+Guadeloupe,Gozier,16.2103,-61.473,-4,66
+Guadeloupe,Guadeloupe,16.2603,-61.573,-4,66
+Guadeloupe,Guadeloupe Channel,15.7603,-61.4897,-4,66
+Guadeloupe,Haut de la Montagne,16.4437,-61.4563,-4,66
+Guadeloupe,Houelmont,15.9937,-61.6896,-4,66
+Guadeloupe,Jabrun,16.2439,-61.5894,-4,66
+Guadeloupe,Jabrun-du-Sud,16.3106,-61.4394,-4,66
+Guadeloupe,Jacquelot,15.9439,-61.1894,-4,66
+Guadeloupe,Jarry,16.2439,-61.5394,-4,66
+Guadeloupe,Joubert,15.8939,-61.2561,-4,66
+Guadeloupe,Kahouanne,16.2607,-61.1893,-4,66
+Guadeloupe,Kanaal van Sint Barth s,18.0107,-62.9893,-4,66
+Guadeloupe,Kleine Antillen,15.0107,-60.9893,-4,67
+Guadeloupe,Neau,16.211,-61.6057,-4,66
+Guadeloupe,Neree,16.2777,-61.4723,-4,66
+Guadeloupe,Nez Casse,16.061,-61.6557,-4,66
+Guadeloupe,Nogent,16.361,-61.7057,-4,66
+Guadeloupe,Noire River,16.0443,-61.689,-4,66
+Guadeloupe,Nord-Ouest Bay,16.3443,-61.339,-4,66
+Guadeloupe,Old Fort Point,16.3778,-61.7556,-4,66
+Guadeloupe,Orleans,18.0778,-63.0222,-4,66
+Guadeloupe,Oyster Pond,18.0611,-63.0056,-4,66
+Guadeloupe,Pointe-a-Pitre,16.2445,-61.5055,-4,66
+Guadeloupe,Quartier des Flamands,17.928,-62.8387,-4,66
+Guadeloupe,Quartier du Colombier,18.0946,-63.0554,-4,66
+Guadeloupe,Quartier du Gouverneur,17.878,-62.822,-4,66
+Guadeloupe,Quartier du Grand Fond,17.8946,-62.7887,-4,66
+Guadeloupe,Quartier Lorient,17.9113,-62.8054,-4,66
+Guadeloupe,Quatre Chemins,16.2946,-61.472,-4,66
+Guadeloupe,Quatrieme Bras,16.2446,-61.6887,-4,66
+Guadeloupe,Sable Branch,16.2448,-61.6552,-4,66
+Guadeloupe,Saiette,16.3282,-61.4385,-4,66
+Guadeloupe,Saint Barts,17.9115,-62.8218,-4,66
+Guadeloupe,Saint-Felix,16.2115,-61.4385,-4,66
+Guadeloupe,Saint-Francois,16.2615,-61.2552,-4,66
+Guadeloupe,Saint-Germain,15.9782,-61.2385,-4,66
+Guadeloupe,Saint-Gilles,15.9948,-61.6218,-4,66
+Guadeloupe,Saint-Jacques,16.4948,-61.4385,-4,66
+Guadeloupe,Saint-Marc,15.9115,-61.2552,-4,66
+Guadeloupe,Saint-Prix,16.4282,-61.4218,-4,66
+Guadeloupe,Saint-Sauveur Bay,16.0115,-61.5718,-4,66
+Guadeloupe,Saint-Val-Labique,16.0115,-61.7385,-4,66
+Guadeloupe,Sainte-Anne,16.2448,-61.3552,-4,66
+Guadeloupe,Sainte-Claire,16.1282,-61.5552,-4,66
+Guadeloupe,Sainte-Croix,15.9448,-61.2218,-4,66
+Guadeloupe,Sainte-Madeleine,16.2948,-61.2885,-4,66
+Guadeloupe,Sainte-Marguerite,16.3948,-61.3885,-4,66
+Guadeloupe,Sainte-Marie,16.1115,-61.5385,-4,66
+Guadeloupe,Sainte-Marie des Bois,16.0782,-61.5718,-4,66
+Guadeloupe,Sainte-Marthe,16.2615,-61.2385,-4,66
+Guadeloupe,Sainte-Rose,16.3448,-61.6718,-4,66
+Guadeloupe,Saline Chevrise,18.1115,-63.0385,-4,66
+Guadeloupe,Saline Fisch,18.0948,-63.0052,-4,66
+Guadeloupe,Satge,16.0282,-61.6052,-4,66
+Guadeloupe,Savane,15.9948,-61.6052,-4,66
+Guadeloupe,Sec Pripri,16.3615,-61.6385,-4,66
+Guadeloupe,Secs a Chevaux,16.3448,-61.5385,-4,66
+Guadeloupe,Seforge,16.2782,-61.3552,-4,66
+Guadeloupe,Seze Favreux,16.2615,-61.2718,-4,66
+Guadeloupe,Siblet,15.9448,-61.2885,-4,66
+Guadeloupe,Sint Maarten,18.0782,-63.0552,-4,66
+Guadeloupe,Sofaia,16.2948,-61.7052,-4,66
+Guadeloupe,Sommet a la Touffe,16.1948,-61.7385,-4,66
+Guadeloupe,Sommets de Bouillante,16.1448,-61.7052,-4,66
+Guadeloupe,Souffleur,16.3282,-61.0218,-4,66
+Guadeloupe,Spaniard Rock,18.1448,-63.0052,-4,66
+Guadeloupe,Subercazeau,16.3115,-61.6552,-4,66
+Guadeloupe,Sucrerie Blanchet,16.3282,-61.3885,-4,66
+Guadeloupe,Sucrerie Bonne-Mere,16.2782,-61.6552,-4,66
+Guadeloupe,Sugarloaf,15.8782,-61.5718,-4,66
+Guadeloupe,Surgy,16.2782,-61.3052,-4,66
+Guadeloupe,Terre de Bas,16.1783,-61.1051,-4,66
+Guadeloupe,Terre du Bas,15.8616,-61.6051,-4,66
+Guadeloupe,Tete a Boeuf,16.4783,-61.4051,-4,66
+Guadeloupe,Tete a l Anglais,16.3783,-61.7384,-4,66
+Guadeloupe,Tete Allegre,16.2783,-61.7217,-4,66
+Guadeloupe,Tete Rouge,15.8783,-61.5884,-4,66
+Guadeloupe,Toc Verte,17.9616,-62.8051,-4,66
+Guadeloupe,Toigny,17.9116,-62.7884,-4,66
+Guadeloupe,Trois-Ilets,15.9449,-61.3217,-4,66
+Guadeloupe,Trois-Rivieres,15.9783,-61.6217,-4,66
+Guadeloupe,Troisieme Bras,16.2616,-61.6717,-4,66
+Guadeloupe,Trou a Coa,16.2449,-61.3384,-4,66
+Guadeloupe,Trou Canard,16.1783,-61.1217,-4,66
+Guadeloupe,Trou Caraibe,16.3616,-61.5051,-4,66
+Guadeloupe,Trou du Souffleur,16.4949,-61.4051,-4,66
+Guadeloupe,Vaisseaux Bank,16.1451,-61.2715,-4,66
+Guadeloupe,Valeau,16.0285,-61.6882,-4,66
+Guadeloupe,Vallee d Or,16.2785,-61.2382,-4,66
+Guadeloupe,Vallon Vrimouth,15.9451,-61.2549,-4,66
+Guadeloupe,Vanniers,15.9285,-61.2549,-4,66
+Guadeloupe,Verdier,16.2118,-61.5882,-4,66
+Guadeloupe,Verge,15.9451,-61.2382,-4,66
+Guadeloupe,Vermont,16.4118,-61.4549,-4,66
+Guadeloupe,Vernou,16.1951,-61.6382,-4,66
+Guadeloupe,Versailles,16.2285,-61.5715,-4,66
+Guadeloupe,Vezou,16.3118,-61.2549,-4,66
+Guadeloupe,Vidon,15.9118,-61.2215,-4,66
+Guadeloupe,Vieux Bourg,16.3451,-61.4882,-4,66
+Guadeloupe,Vieux Fort Point,15.9618,-61.6882,-4,66
+Guadeloupe,Vieux-Fort Riviere,16.3618,-61.7215,-4,66
+Guadeloupe,Vieux-Habitants,16.0618,-61.7382,-4,66
+Guadeloupe,Violon,15.9618,-61.6715,-4,66
+Guadeloupe,Vipart,16.3451,-61.3882,-4,66
+Guadeloupe,West Channel,17.9119,-62.8548,-4,66
+Guadeloupe,Whale Rock,15.8952,-61.5714,-4,66
+Guadeloupe,Windward Bay,15.8952,-61.5881,-4,66
+Guadeloupe,Windward Islands,13.0119,-60.9881,-4,67
+Guadeloupe,Zevallos,16.3122,-61.2711,-4,66

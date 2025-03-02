@@ -1,0 +1,205 @@
+Bhutan,Alla,27.3500,89.9667,6,274
+Bhutan,Ama,27.3500,89.9000,6,274
+Bhutan,Atsho Chhubar_Paro,27.4833,89.4000,6,274
+Bhutan,Bali,27.2167,90.7167,6,275
+Bhutan,Benkar_Tashigang,27.3167,91.5667,6,275
+Bhutan,Bhangbarai,27.2667,90.3000,6,274
+Bhutan,Bhangtar_Samdrup,26.8167,91.7167,6,275
+Bhutan,Bhurgaon,26.9000,90.4333,6,275
+Bhutan,Bigar Chu,27.5500,91.1833,6,274
+Bhutan,Bioka,26.9000,90.9167,6,275
+Bhutan,Bod,28.0333,91.2167,6,274
+Bhutan,Borshang,27.7000,89.5500,6,274
+Bhutan,Bumtang_Bumthang,27.5500,90.7167,6,274
+Bhutan,Bumtang River,26.9333,90.8500,6,275
+Bhutan,Bumtang Tang,27.6000,90.8167,6,274
+Bhutan,Bumthang,27.7000,90.7833,6,274
+Bhutan,Buri Chu,27.0000,90.2167,6,275
+Bhutan,Chendebi,27.4500,90.3333,6,274
+Bhutan,Daga,27.0667,89.8833,6,274
+Bhutan,Daifam_Samdrup,26.9000,92.1000,6,275
+Bhutan,Daina River,26.6667,88.9000,6,274
+Bhutan,Dam,27.1167,89.7667,6,274
+Bhutan,Damotse_Mongar,27.3000,91.4500,6,275
+Bhutan,Damphu_Chirang,27.0167,90.1000,6,275
+Bhutan,Damthang_Ha,27.4167,89.3500,6,274
+Bhutan,Dangan La,27.1333,92.0333,6,275
+Bhutan,Daphu,26.9667,89.3833,6,274
+Bhutan,Dawakha_Punakha,27.6667,89.9167,6,274
+Bhutan,Denehukha,27.0167,89.2500,6,274
+Bhutan,Dewangiri_Samdrup,26.8667,91.4667,6,275
+Bhutan,Dhaje,26.9667,90.1167,6,275
+Bhutan,Dichenphuk Dzong,27.5500,89.6000,6,274
+Bhutan,Dogsar,27.9500,91.0333,6,274
+Bhutan,Domka,27.0667,91.0667,6,275
+Bhutan,Donga La,27.5500,91.2833,6,274
+Bhutan,Donkar,27.6000,91.1833,6,274
+Bhutan,Dooars,26.7500,89.7500,6,275
+Bhutan,Doring,27.2000,89.2000,6,274
+Bhutan,Dorkha_Samchi,27.0167,89.2167,6,274
+Bhutan,Doronagaon,26.8333,89.8167,6,275
+Bhutan,Dotanang,27.5833,89.6333,6,274
+Bhutan,Drugyel Dzong_Paro,27.5000,89.3333,6,274
+Bhutan,Druk-yul,27.5000,90.5000,6,274
+Bhutan,Dukye Dzong,27.5167,89.3167,6,274
+Bhutan,Duna Dzong_Chhukha,27.0333,89.4000,6,274
+Bhutan,Gag La,27.9833,91.2000,6,274
+Bhutan,Galechugaon,27.3500,91.5500,6,275
+Bhutan,Gangtey Gonpa_Wangdi Phodrang,27.5000,90.1667,6,274
+Bhutan,Gasa Dzong_Punakha,27.9167,89.6833,6,273
+Bhutan,Gasila,27.3333,89.8000,6,274
+Bhutan,Getta Dzong,27.2500,89.4000,6,274
+Bhutan,Geylegphug,26.9500,90.5000,6,275
+Bhutan,Ghunkarah,27.4000,91.5667,6,275
+Bhutan,Giala,27.3667,89.9667,6,274
+Bhutan,Gnimthenla,26.9000,89.8500,6,275
+Bhutan,Gong La,28.0000,91.1833,6,274
+Bhutan,Gong Ri,26.2167,90.6333,6,276
+Bhutan,Gongchuandgaon,27.0333,90.4333,6,275
+Bhutan,Gonphu,27.0833,90.7667,6,275
+Bhutan,Gye Che,27.6667,89.2167,6,274
+Bhutan,Gyepozhing_Mongar,27.1833,91.1667,6,275
+Bhutan,Ha Chhu,27.2333,89.5000,6,274
+Bhutan,Ha Dzong_Ha,27.3667,89.2833,6,274
+Bhutan,Ha Dzongkhag_Ha,27.3333,89.1833,6,274
+Bhutan,Haracha,27.1833,90.0333,6,274
+Bhutan,Hatisar_Geylegphug,26.8500,90.5000,6,275
+Bhutan,Hi Chu,27.2667,91.4500,6,275
+Bhutan,Hilari,27.4000,88.9833,6,274
+Bhutan,Himachal,30.0000,80.0000,6,266
+Bhutan,Jakar_Bumthang,27.5500,90.7333,6,274
+Bhutan,Jaldakha Chhu,26.2667,89.2667,6,275
+Bhutan,Jato La,27.5833,89.6667,6,274
+Bhutan,Jelep La Pass,27.3667,88.8500,6,274
+Bhutan,Jomolhari_Paro,27.8333,89.2667,6,273
+Bhutan,Jumsa_Samchi,27.1000,88.8833,6,274
+Bhutan,Kagha,27.5333,90.4667,6,274
+Bhutan,Kalikhola_Geylegphug,26.7167,90.8500,6,275
+Bhutan,Kangpar,27.1667,91.7333,6,275
+Bhutan,Kapi Dzong,27.6500,89.8000,6,274
+Bhutan,Kar Chung La,28.0667,90.6333,6,274
+Bhutan,Kechangka,27.4167,89.2500,6,274
+Bhutan,Kencho,27.7500,89.7167,6,274
+Bhutan,Kenga,27.1000,91.2500,6,275
+Bhutan,Kengkhar La,27.1167,91.2333,6,275
+Bhutan,Khar,27.0000,91.3500,6,275
+Bhutan,Khenpa Dzong_Lhuntshi,27.8167,91.0833,6,274
+Bhutan,Kulong Chhu,27.4500,91.6000,6,275
+Bhutan,Kungtar,27.5333,91.0500,6,274
+Bhutan,Kur,27.0333,91.0667,6,275
+Bhutan,Kura,28.2333,90.6000,6,274
+Bhutan,Kurjey_Bumthang,27.6167,90.7000,6,274
+Bhutan,Kyapcha Dzong_Chhukha,27.2000,89.5500,6,274
+Bhutan,Kyikyi La,27.5000,90.7167,6,274
+Bhutan,Kyu La,27.4333,89.1000,6,274
+Bhutan,Lalai_Geylegphug,26.7833,90.5167,6,275
+Bhutan,Lamedada,26.9500,90.1333,6,275
+Bhutan,Lamidangra_Chirang,26.9667,90.1000,6,275
+Bhutan,Lao,27.8167,91.5000,6,274
+Bhutan,Laya_Punakha,28.0667,89.6833,6,273
+Bhutan,Lhedang_Bumthang,27.9167,90.7500,6,274
+Bhutan,Lhobrak River,27.5000,91.1000,6,274
+Bhutan,Lhuntshi Dzongkhag_Lhuntshi,27.7500,91.1833,6,274
+Bhutan,Lhuntsi Dzong_Lhuntshi,27.6500,91.1500,6,274
+Bhutan,Lingshi_Thimphu,27.9167,89.4333,6,273
+Bhutan,Louri,27.1000,91.9333,6,275
+Bhutan,Lunana_Punakha,28.0500,90.1667,6,274
+Bhutan,Lung Chen,27.6333,90.1833,6,274
+Bhutan,Mangde Chhu,26.8667,90.9500,6,275
+Bhutan,Mill La,27.1833,90.8667,6,275
+Bhutan,Momai Thang,26.9167,89.8500,6,275
+Bhutan,Mongar,27.2500,91.2000,6,275
+Bhutan,Monka,27.3833,91.1667,6,275
+Bhutan,Mount Gipmochi,27.2667,88.9500,6,274
+Bhutan,Nab Chote,27.5833,90.4333,6,274
+Bhutan,Ngalangkang,27.4500,91.5833,6,275
+Bhutan,Nganglam_Samdrup,26.7833,91.2500,6,275
+Bhutan,Nyuksang La,27.4500,91.9000,6,275
+Bhutan,Ohemaito,27.5000,90.2833,6,274
+Bhutan,Orka,27.4167,92.0167,6,275
+Bhutan,Pachu,26.9000,89.3500,6,274
+Bhutan,Pagladiya Nad,26.6000,91.5000,6,275
+Bhutan,Pajo,27.5333,89.8833,6,274
+Bhutan,Pang La,27.7500,91.2000,6,274
+Bhutan,Pangolakha,27.2000,88.7833,6,274
+Bhutan,Panka_Shemgang,26.9500,90.8167,6,275
+Bhutan,Pantang River,26.8667,92.7167,6,276
+Bhutan,Paro,27.4333,89.4167,6,274
+Bhutan,Pho Chhu,27.6833,89.8833,6,274
+Bhutan,Phyen La,27.9500,89.4333,6,273
+Bhutan,Pumo La,27.4500,89.5667,6,274
+Bhutan,Punakha,27.6167,89.8667,6,274
+Bhutan,Radi_Tashigang,27.3667,91.6833,6,275
+Bhutan,Rading,26.9667,91.4667,6,275
+Bhutan,Raga,27.3000,89.5333,6,274
+Bhutan,Ragna Khola,26.8833,90.0167,6,275
+Bhutan,Rapley,27.1000,89.2833,6,274
+Bhutan,Rife,27.8833,90.5167,6,274
+Bhutan,Ritang,27.5500,90.1667,6,274
+Bhutan,Rudong La,27.5833,90.9000,6,274
+Bhutan,Rungzyung,27.3500,91.6667,6,275
+Bhutan,Sage La,27.4667,89.2833,6,274
+Bhutan,Saidu,27.8333,90.9333,6,274
+Bhutan,Sakdon_Tashigang,27.3833,91.8667,6,275
+Bhutan,Sama River,26.8000,89.9833,6,275
+Bhutan,Samchi,26.8667,89.1000,6,274
+Bhutan,Samchi Dzongkhag_Samchi,27.0333,89.0833,6,274
+Bhutan,Samdrup_Tongsa,27.4000,90.5000,6,274
+Bhutan,Samdrup Jongkhar_Samdrup,26.8167,91.5667,6,275
+Bhutan,Samdrup Jongkhar Dzongkhag_Samdrup,26.9167,91.6167,6,275
+Bhutan,Samtengang,27.5333,90.0000,6,274
+Bhutan,Sanchi,27.3000,90.6167,6,274
+Bhutan,Sangkari,27.3000,89.3167,6,274
+Bhutan,Sarbhang_Geylegphug,26.8667,90.2667,6,275
+Bhutan,Sasoka,27.7500,90.8667,6,274
+Bhutan,Sassi,27.1333,91.4333,6,275
+Bhutan,Sawaphu,27.3667,90.2000,6,274
+Bhutan,Sela La_Ha,27.2333,89.2667,6,274
+Bhutan,Shabling,27.7333,91.1167,6,274
+Bhutan,Shali,27.4833,91.5667,6,275
+Bhutan,Shangong Dzong_Shemgang,27.2333,90.6500,6,275
+Bhutan,Shapang,27.6500,91.4667,6,274
+Bhutan,Sharitang,27.4167,89.0167,6,274
+Bhutan,Shegaria,27.6667,90.0000,6,274
+Bhutan,Shemgang Dzongkhag_Shemgang,27.0833,90.8500,6,275
+Bhutan,Shingkarap,27.6167,89.2667,6,274
+Bhutan,Shiuji,27.1667,89.0167,6,274
+Bhutan,Shodug,27.7667,89.4500,6,274
+Bhutan,Shongar Dzong_Mongar,27.2500,91.0833,6,275
+Bhutan,Shuri,27.5000,90.7500,6,274
+Bhutan,Sibsu_Daga,26.9972,88.9000,6,274
+Bhutan,Simu Dzong,27.3833,89.6000,6,274
+Bhutan,Sinchu La,26.7833,89.5833,6,275
+Bhutan,Singur,27.3667,91.0167,6,275
+Bhutan,Singye Dzong_Lhuntshi,27.9167,91.3500,6,274
+Bhutan,Sintoka Dzong,27.4333,89.6667,6,274
+Bhutan,Sirkim La,27.3000,91.8167,6,275
+Bhutan,Sombe Dzong_Ha,27.1667,89.0833,6,274
+Bhutan,Suchha,27.2333,89.4500,6,274
+Bhutan,Sufali,26.8667,90.9833,6,275
+Bhutan,Taga La,27.2000,89.7333,6,274
+Bhutan,Tala,26.8667,89.5667,6,274
+Bhutan,Tamjee,27.6667,89.9000,6,274
+Bhutan,Tamji,27.8000,89.6333,6,274
+Bhutan,Tashigang Dzongkhag_Tashigang,27.3333,91.7333,6,275
+Bhutan,Tawang Chu,27.5000,91.7000,6,275
+Bhutan,Tendu,27.1333,88.8833,6,274
+Bhutan,Thebong,27.2667,91.2667,6,275
+Bhutan,Thimphu,27.4833,89.6000,6,274
+Bhutan,Tima,27.1667,89.0333,6,274
+Bhutan,Tongsa Dzong_Tongsa,27.3500,90.5333,6,274
+Bhutan,Torsa Chhu,26.8667,89.3667,6,274
+Bhutan,Tosumani,27.8667,91.2333,6,274
+Bhutan,Trashi Chhodzong,27.4833,89.6167,6,274
+Bhutan,Ura_Bumthang,27.4167,90.9167,6,274
+Bhutan,Ura Dzong,27.4333,90.8833,6,274
+Bhutan,Ura La,27.4500,90.8500,6,274
+Bhutan,Usak,27.2500,89.7667,6,274
+Bhutan,Wagya La,28.2833,89.8833,6,273
+Bhutan,Wamrong_Tashigang,27.0667,91.5667,6,275
+Bhutan,Wangdi Phodrang,27.5000,90.1333,6,274
+Bhutan,Wangdiphodrang_Wangdi Phodrang,27.4833,89.9000,6,274
+Bhutan,Yalang,27.4333,91.6333,6,275
+Bhutan,Yeb La,27.7333,91.2000,6,274
+Bhutan,Yuwak,27.5167,89.8667,6,274
+Bhutan,Zarafi,27.1500,90.6833,6,275

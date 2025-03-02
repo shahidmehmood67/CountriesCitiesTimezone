@@ -1,0 +1,93 @@
+Macedonia,Bitola,41.0409,21.3501,1,0
+Macedonia,Edinakovo,41.2715,21.257,1,0
+Macedonia,Erekovci,41.2229,21.4932,1,0
+Macedonia,Eren,41.6857,22.0723,1,0
+Macedonia,Fakirovo Brdo,41.2435,22.5935,1,0
+Macedonia,Falise,41.9902,21.0152,1,0
+Macedonia,Faris,41.4633,21.8113,1,0
+Macedonia,Fera Mala,42.1574,21.3496,1,0
+Macedonia,Ferdinanka,41.2049,22.6985,1,0
+Macedonia,Fisnik,41.961,20.868,1,0
+Macedonia,Fisozica,41.6435,20.8269,1,0
+Macedonia,Flora,41.2394,22.2935,1,0
+Macedonia,Forino,41.8344,20.9727,1,0
+Macedonia,Frlogoec,41.5633,20.8666,1,0
+Macedonia,Ftosina,41.7263,20.8852,1,0
+Macedonia,Furka,41.2508,22.6235,1,0
+Macedonia,Fus Reka,41.9913,21.3194,1,0
+Macedonia,Gostivar,41.8075,20.9186,1,0
+Macedonia,Gostivarski Vinogradi,41.8192,20.9075,1,0
+Macedonia,Hadzi Hamzali,41.6932,22.0465,1,0
+Macedonia,Hadziahmetovo,41.8112,21.9515,1,0
+Macedonia,Hamzali,41.5001,22.7535,1,0
+Macedonia,Hamzovec,41.414,22.014,1,0
+Macedonia,Han Mavrovo_Mavrovi Anovi,41.711,20.766,1,0
+Macedonia,Hardzas,42.1601,21.5221,1,0
+Macedonia,Hasanli,41.2604,22.7104,1,0
+Macedonia,Hasanova Cesma,41.5079,21.3165,1,0
+Macedonia,Hasin Bej Most,41.206,21.7248,1,0
+Macedonia,Hidrocentral Matke,41.9676,21.309,1,0
+Macedonia,Hidrocentrala Dosnica,41.3804,22.2323,1,0
+Macedonia,Hidrocentrala Globocica,41.4054,20.5965,1,0
+Macedonia,Hidrocentrala Kalimanci,41.9826,22.5971,1,0
+Macedonia,Hidrocentrala Sapundzica,41.041,21.2829,1,0
+Macedonia,Hidrocentrala Spilje,41.5023,20.5162,1,0
+Macedonia,Hidroelektrana Pena,42.0318,20.9601,1,0
+Macedonia,Hovska Reka,41.4796,22.0387,1,0
+Macedonia,Hrani_Resen,40.9498,21.119,1,0
+Macedonia,Hristifor,40.9937,21.3604,1,0
+Macedonia,Hudaverlija,41.6668,22.5679,1,0
+Macedonia,Huma,41.1621,22.3379,1,0
+Macedonia,Ilino,41.1605,20.9694,1,0
+Macedonia,Ilino Brdo,41.7272,21.1105,1,0
+Macedonia,Ilinska,41.3113,20.9794,1,0
+Macedonia,Ilovica,41.4811,22.8091,1,0
+Macedonia,Ivancista,41.4724,20.8022,1,0
+Macedonia,Ivankovci,41.8594,21.8308,1,0
+Macedonia,Kicevo,41.5251,20.974,1,0
+Macedonia,Kicevo Belica,41.4138,20.9599,1,0
+Macedonia,Kumanove_Kumanovo,42.1429,21.7251,1,0
+Macedonia,Labunista,41.2794,20.6069,1,0
+Macedonia,Ohrid,41.1283,20.813,1,0
+Macedonia,Prilep,41.3576,21.5656,1,0
+Macedonia,Prilepac,41.3068,21.5968,1,0
+Macedonia,Prilepska Reka,41.2962,21.4093,1,0
+Macedonia,Prilepsko Ezero,41.3979,21.6106,1,0
+Macedonia,Prilepsko Pole,41.3445,21.4279,1,0
+Macedonia,Qafa e Rosnikut,41.8263,20.5788,1,0
+Macedonia,Qara Dagh,42.2527,21.5063,1,0
+Macedonia,Qara Su,41.5666,21.991,1,0
+Macedonia,Qayali,41.3446,22.6446,1,0
+Macedonia,Qostrum,41.3685,22.6207,1,0
+Macedonia,Skopje,42.0115,21.4448,1,0
+Macedonia,Skopje Sever,42.0387,21.4509,1,0
+Macedonia,Slupcane,42.1848,21.6393,1,0
+Macedonia,Struga,41.1896,20.6876,1,0
+Macedonia,Teovo,41.5908,21.5835,1,0
+Macedonia,Tetovo,42.0222,20.983,1,0
+Macedonia,Tetovo Kale,42.0313,20.9719,1,0
+Macedonia,Ubava,41.7784,21.3784,1,0
+Macedonia,Ubava Glava,41.1911,21.7109,1,0
+Macedonia,Ubovo,41.652,21.9592,1,0
+Macedonia,Udha Male,41.2959,20.6623,1,0
+Macedonia,Uica,41.9864,20.9156,1,0
+Macedonia,Ukusa,41.3786,21.8836,1,0
+Macedonia,Ulanci,41.5998,21.9545,1,0
+Macedonia,Ularci,41.8706,22.2759,1,0
+Macedonia,Ulerovo,41.2003,21.2336,1,0
+Macedonia,Uliverica,42.0042,20.8806,1,0
+Macedonia,Ulivericka Reka,41.9875,20.9214,1,0
+Macedonia,Umida,41.2784,22.3784,1,0
+Macedonia,Umin Dol,42.0984,21.637,1,0
+Macedonia,Umovo,41.8798,21.4403,1,0
+Macedonia,Urupska Reka,41.0817,21.8436,1,0
+Macedonia,Urvic,41.9628,20.9061,1,0
+Macedonia,Urvicki Potok,42.1486,21.4264,1,0
+Macedonia,Usje,41.9678,21.4681,1,0
+Macedonia,Utoec,41.1895,21.1345,1,0
+Macedonia,Utovo,41.1942,21.2056,1,0
+Macedonia,Uzunica,41.9714,20.9531,1,0
+Macedonia,Xhepishta,41.4548,20.5448,1,0
+Macedonia,Yablanitsa,41.2621,20.5121,1,0
+Macedonia,Yelaska Potamos,40.9621,21.5454,1,0
+Macedonia,Yezero Okhridsko,41.0121,20.7621,1,0

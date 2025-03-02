@@ -1,0 +1,73 @@
+Czech Republic,Benesov,49.7833,14.6833,1GMT,136
+Czech Republic,Brno,49.2000,16.6333,1GMT,138
+Czech Republic,Brno Region,49.1667,16.5833,1GMT,138
+Czech Republic,Brno-Kral'ovo,49.2167,16.5667,1GMT,138
+Czech Republic,Brno-Venkov,49.1667,16.5000,1GMT,138
+Czech Republic,Brnov,49.4333,17.9833,1GMT,140
+Czech Republic,Ceske Budejovice,48.9833,14.4667,1GMT,135
+Czech Republic,Chotebor,49.7167,15.6667,1GMT,137
+Czech Republic,Havirov,49.8000,18.4000,1GMT,141
+Czech Republic,Hradec Kralove,50.2117,15.8442,1GMT,138
+Czech Republic,Iglau,49.4000,15.5833,1GMT,137
+Czech Republic,Iglawa,48.9167,16.6000,1GMT,138
+Czech Republic,Ignaz,49.8333,18.2333,1GMT,141
+Czech Republic,Illeschowitz,49.9000,18.1333,1GMT,141
+Czech Republic,Imlikau,50.2500,12.7833,1GMT,134
+Czech Republic,Ingrowitz,49.6333,16.2167,1GMT,138
+Czech Republic,Innerbohm,49.7167,13.9167,1GMT,135
+Czech Republic,Innergefild,49.0667,13.5833,1GMT,134
+Czech Republic,Innichen,49.7167,12.7167,1GMT,133
+Czech Republic,Innozenzidorf,50.8667,14.5833,1GMT,137
+Czech Republic,Inselthal,49.7500,12.4667,1GMT,133
+Czech Republic,Irmsdorf,49.9333,17.3333,1GMT,140
+Czech Republic,Irresdorf,48.7833,14.1500,1GMT,134
+Czech Republic,Irrgang,50.4000,12.8167,1GMT,134
+Czech Republic,Irritz,48.9167,16.4000,1GMT,138
+Czech Republic,Irschings,49.4333,15.4667,1GMT,137
+Czech Republic,Isabelino Udoli,49.7500,12.9500,1GMT,133
+Czech Republic,Isergebirge,50.8428,15.2103,1GMT,138
+Czech Republic,Istas,50.5667,16.2167,1GMT,139
+Czech Republic,Ivan,49.4167,17.2500,1GMT,139
+Czech Republic,Ivancice,49.1000,16.3833,1GMT,138
+Czech Republic,Ivanovice,49.2667,16.5667,1GMT,138
+Czech Republic,Ivanovice na Hane,49.3167,17.1000,1GMT,139
+Czech Republic,Izera,50.1833,14.7167,1GMT,136
+Czech Republic,Jachymov,50.7167,14.7167,1GMT,137
+Czech Republic,Karlovy Vary,50.2167,12.9000,1GMT,134
+Czech Republic,Karvina,49.8667,18.5500,1GMT,142
+Czech Republic,Karvina 4,49.8333,18.5667,1GMT,142
+Czech Republic,Kladno,50.1500,14.1000,1GMT,135
+Czech Republic,Lednice,48.8000,16.8000,1GMT,138
+Czech Republic,Liberec,50.8333,15.0833,1GMT,137
+Czech Republic,Louny,50.3500,13.8000,1GMT,135
+Czech Republic,Marianske Lazne,49.9725,12.7044,1GMT,133
+Czech Republic,Olomouc,49.5833,17.2500,1GMT,139
+Czech Republic,Ostrava,49.8333,18.2833,1GMT,141
+Czech Republic,Ostrava Basin,49.8333,18.5000,1GMT,142
+Czech Republic,Ostrava Region,49.8333,18.0000,1GMT,141
+Czech Republic,Ostrava-Zabreh,49.8000,18.2167,1GMT,141
+Czech Republic,Pardubice,50.0278,15.7758,1GMT,138
+Czech Republic,Pelhrimov,49.4167,15.1667,1GMT,136
+Czech Republic,Plzen,49.7500,13.3667,1GMT,134
+Czech Republic,Plzen-Jih,49.5833,13.5000,1GMT,134
+Czech Republic,Plzen-Sever,49.9167,13.2500,1GMT,134
+Czech Republic,Plzensky Kraj,49.5000,13.1667,1GMT,133
+Czech Republic,Podebrady,50.1472,15.1158,1GMT,137
+Czech Republic,Prace,48.8833,16.2000,1GMT,137
+Czech Republic,Prague,50.0833,14.4667,1GMT,136
+Czech Republic,Prague-Vinohrady,50.0667,14.4667,1GMT,136
+Czech Republic,Praha,49.6667,13.8167,1GMT,135
+Czech Republic,Praha-Vychod,50.0833,14.7500,1GMT,136
+Czech Republic,Praha-Zapad,49.8333,14.3333,1GMT,135
+Czech Republic,Prosicka,49.8167,15.7000,1GMT,137
+Czech Republic,Qualisch,50.5833,16.0333,1GMT,139
+Czech Republic,Qualitzen,48.9833,15.4000,1GMT,136
+Czech Republic,Quintenthal,50.6667,15.8833,1GMT,138
+Czech Republic,Snezne,50.3333,16.2833,1GMT,139
+Czech Republic,Sokolov,50.1833,12.6333,1GMT,133
+Czech Republic,Tachov_Plzensky Kraj,49.7967,12.6328,1GMT,133
+Czech Republic,Tachov,50.5167,15.2167,1GMT,137
+Czech Republic,Teplice,50.6333,13.8333,1GMT,136
+Czech Republic,Uherske Hradiste,49.0667,17.4500,1GMT,139
+Czech Republic,Xaverov,49.8500,14.8833,1GMT,136
+Czech Republic,Zabreh,49.8833,16.8667,1GMT,139

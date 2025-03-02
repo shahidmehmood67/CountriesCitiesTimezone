@@ -1,0 +1,88 @@
+Seychelles,Adelaide Bank,-6.5736,56.8097,4,0
+Seychelles,Albatross Rocks,-4.2903,55.8764,4,0
+Seychelles,Alphonse Island,-6.9903,52.743,4,0
+Seychelles,Baie Chevalier,-4.2735,55.6931,4,0
+Seychelles,Baie Curieuse,-4.2735,55.7431,4,0
+Seychelles,Baie Lazare,-4.7402,55.4931,4,0
+Seychelles,Baie Sainte Anne,-4.3069,55.7431,4,0
+Seychelles,Baie Ternay,-4.6235,55.3765,4,0
+Seychelles,Baillon River,-4.6902,55.4931,4,0
+Seychelles,Bar Silhouette,-3.8235,55.2265,4,0
+Seychelles,Barbarons,-4.6735,55.4598,4,0
+Seychelles,Beau Vallon,-4.6069,55.4431,4,0
+Seychelles,Bel Air,-4.6235,55.4598,4,0
+Seychelles,Bel Ombre,-4.6069,55.4265,4,0
+Seychelles,Benjamen islet,-5.4402,53.3598,4,0
+Seychelles,Blanchisseuse Rocks,-4.3902,55.5765,4,0
+Seychelles,Booby islet,-4.2402,55.6765,4,0
+Seychelles,Boudeuse Cay,-6.0735,52.8598,4,0
+Seychelles,Brisans Rocks,-4.5235,55.4931,4,0
+Seychelles,Brule Island,-4.6569,55.5431,4,0
+Seychelles,Caiman Rocks,-4.3734,55.7766,4,0
+Seychelles,Caimant Point,-4.2568,55.7266,4,0
+Seychelles,Cap Macons,-4.7568,55.5266,4,0
+Seychelles,Capucin Rock,-4.8068,55.5266,4,0
+Seychelles,Cascade,-4.6568,55.4932,4,0
+Seychelles,Cascade Estate,-4.6734,55.5099,4,0
+Seychelles,Cerf Islands,-9.5234,50.9932,4,0
+Seychelles,Chauve Souris,-4.7234,55.4766,4,0
+Seychelles,Chauve Souris islet,-4.2901,55.7599,4,0
+Seychelles,Chien islet,-5.4234,53.3432,4,0
+Seychelles,Coconut Islet,-9.3901,46.4599,4,0
+Seychelles,Coetivy,-7.1234,56.2766,4,0
+Seychelles,Conquest Shoal,-4.3734,54.2766,4,0
+Seychelles,Cosmoledo,-9.7068,47.5932,4,0
+Seychelles,Cousine,-4.3401,55.6432,4,0
+Seychelles,Dennis Island,-3.79,55.6767,4,0
+Seychelles,Eagle islet,-5.1066,53.3268,4,0
+Seychelles,Gilberte,-5.123,55.6603,4,0
+Seychelles,Glacis,-4.573,55.4436,4,0
+Seychelles,Goelette Island,-10.2064,51.1436,4,0
+Seychelles,Grand Anse,-4.673,55.4436,4,0
+Seychelles,Grande Barbe,-4.4897,55.227,4,0
+Seychelles,Grande Passe,-9.3564,46.2603,4,0
+Seychelles,Haddon Point,-4.4729,55.2771,4,0
+Seychelles,Hangard,-4.5896,55.4771,4,0
+Seychelles,Harrison Rocks,-4.6063,55.5271,4,0
+Seychelles,Hermes,-5.0396,55.0437,4,0
+Seychelles,Houdoul Rock,-4.5729,55.4771,4,0
+Seychelles,Joao de Nova,-10.1561,51.1773,4,0
+Seychelles,Junon Bank,-5.2061,57.0939,4,0
+Seychelles,L Enponcement,-4.7392,55.5275,4,0
+Seychelles,L Ilot,-4.5892,55.9108,4,0
+Seychelles,La Blague Bay,-4.3059,55.7941,4,0
+Seychelles,La Digue,-4.3392,55.8441,4,0
+Seychelles,La Plaine Estate,-4.6392,55.4108,4,0
+Seychelles,Le Rocher,-4.6392,55.4775,4,0
+Seychelles,Les Parisiennes,-4.2892,55.6941,4,0
+Seychelles,Les Roches Canales,-4.3225,55.8108,4,0
+Seychelles,Les Soeurs,-4.2725,55.8775,4,0
+Seychelles,Les Trois Freres,-4.6225,55.4441,4,0
+Seychelles,Mahe,-4.6558,55.4776,4,0
+Seychelles,Noody Rock,-4.5557,55.9443,4,0
+Seychelles,North Cousin Islet,-4.3057,55.661,4,0
+Seychelles,Quatres Bornes,-4.772,55.528,4,0
+Seychelles,Recif islet,-4.5719,55.7614,4,0
+Seychelles,Remire Reef,-5.0719,53.3781,4,0
+Seychelles,Renommee Rock,-4.4553,55.8614,4,0
+Seychelles,Ressource Island,-5.3886,53.3447,4,0
+Seychelles,Rouge Point,-4.2553,55.7614,4,0
+Seychelles,Saint Anns Bay,-4.3218,55.7782,4,0
+Seychelles,Sea Cow island,-3.7052,55.2115,4,0
+Seychelles,Seychelles,-4.5718,55.6782,4,0
+Seychelles,Shark Rock,-4.3885,55.7782,4,0
+Seychelles,Shark Rocks,-5.5552,53.6782,4,0
+Seychelles,Sherard Osborn Patch,-4.7718,54.5115,4,0
+Seychelles,Stork Patch,-4.7052,55.4115,4,0
+Seychelles,Takamaka,-4.7551,55.5116,4,0
+Seychelles,Ternay Pass,-4.6384,55.3783,4,0
+Seychelles,the Amirante archipelago,-5.9884,53.1783,4,0
+Seychelles,The Cousins,-4.3217,55.6783,4,0
+Seychelles,Therese Island,-4.6551,55.4116,4,0
+Seychelles,Tortue Rock,-4.6551,55.5616,4,0
+Seychelles,Trois Dames,-4.6717,55.4283,4,0
+Seychelles,Trompeuse Rocks,-4.3717,55.6283,4,0
+Seychelles,Umzinto Bank,-9.6216,51.3117,4,0
+Seychelles,Victoria,-4.6049,55.4618,4,0
+Seychelles,Victoria Harbour,-4.6049,55.4951,4,0
+Seychelles,Whale Rocks,-4.2714,55.6619,4,0

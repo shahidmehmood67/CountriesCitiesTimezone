@@ -1,0 +1,56 @@
+Taiwan,Bien Dong,15.0098,115.0098,8,0
+Taiwan,Bonfire Island_T ai-wan,22.6765,121.4931,8,0
+Taiwan,Bush Islet_T ai-wan,25.1765,121.7598,8,0
+Taiwan,Ch -cha_T ai-wan,22.9932,120.4599,8,0
+Taiwan,Chung-li_T ai-wan,24.1166,120.4682,8,0
+Taiwan,Daibyo Island_T ai-wan,23.3267,119.3267,8,0
+Taiwan,Daisho Island_T ai-wan,23.2203,119.4314,8,0
+Taiwan,Daiso Bay_T ai-wan,23.6433,119.5767,8,0
+Taiwan,Daiso Island_T ai-wan,23.6267,119.5767,8,0
+Taiwan,Daiton Mountain_T ai-wan,25.1878,121.5272,8,0
+Taiwan,Dakusui River_T ai-wan,24.06,120.41,8,0
+Taiwan,Dome Island_T ai-wan,23.5433,119.5433,8,0
+Taiwan,Dragon Lake_T ai-wan,23.8703,120.9325,8,0
+Taiwan,Godd Rock_T ai-wan,21.7436,121.627,8,0
+Taiwan,Gokwan Mountain_T ai-wan,24.1603,121.277,8,0
+Taiwan,Gordon Island_Fu-chien,26.2817,119.995,8,0
+Taiwan,Guran River_T ai-wan,24.727,121.827,8,0
+Taiwan,Gyoo Island_T ai-wan,23.6139,119.5142,8,0
+Taiwan,Gyucho-kei_T ai-wan,23.477,120.2436,8,0
+Taiwan,Hsin-chu_T ai-wan,24.8151,120.9818,8,0
+Taiwan,Kao-hsiung_T ai-wan,24.4274,120.9107,8,0
+Taiwan,Kao-hsiung,22.6285,120.3121,8,0
+Taiwan,Kao-hsiung Shih_Kao-hsiung,22.6774,120.294,8,0
+Taiwan,Kao-sung_T ai-wan,22.5774,120.3774,8,0
+Taiwan,Keelung_T ai-wan,25.1421,121.7482,8,0
+Taiwan,O-kuan_T ai-wan,22.8111,120.3944,8,0
+Taiwan,O-kung-chi_T ai-wan,24.6278,121.0611,8,0
+Taiwan,Oko Rock_T ai-wan,23.7944,119.5444,8,0
+Taiwan,Pin Tung Hsien_T ai-wan,22.5112,120.6779,8,0
+Taiwan,Quemoy_Fu-chien,24.4571,118.3874,8,0
+Taiwan,Quemoy Channel_Fu-chien,24.4538,118.2885,8,0
+Taiwan,Quemoy Chiang_Fu-chien,24.4021,118.2546,8,0
+Taiwan,Quemoyhsien_Fu-chien,24.448,118.3296,8,0
+Taiwan,Ragged islet_T ai-wan,23.6281,119.6947,8,0
+Taiwan,Rantai Mountain_T ai-wan,23.7447,120.9947,8,0
+Taiwan,Reef Islands_T ai-wan,23.2781,119.5114,8,0
+Taiwan,Rinto Rock_T ai-wan,23.5447,119.6614,8,0
+Taiwan,Risei Point_T ai-wan,23.5614,119.6947,8,0
+Taiwan,River Aloe_T ai-wan,22.2947,120.8947,8,0
+Taiwan,River Hsia Tam Sui_T ai-wan,22.4781,120.4281,8,0
+Taiwan,River Nanao_T ai-wan,24.4614,121.8114,8,0
+Taiwan,Rocky Shokoto Island_T ai-wan,21.9614,121.6114,8,0
+Taiwan,Rokan Road_T ai-wan,24.0947,120.3447,8,0
+Taiwan,Rokushaku Reef_T ai-wan,23.4947,119.7614,8,0
+Taiwan,Rokuzyotai Mountain_T ai-wan,24.5114,121.0781,8,0
+Taiwan,Rover Channel_T ai-wan,23.4447,119.5281,8,0
+Taiwan,Rover Group_T ai-wan,23.3947,119.5114,8,0
+Taiwan,Rover Knob_T ai-wan,23.3781,119.5447,8,0
+Taiwan,Ryukyusyo Island_T ai-wan,22.3497,120.3814,8,0
+Taiwan,Taichung,24.0116,120.6782,8,0
+Taiwan,Tainan Canal_T ai-wan,23.0116,120.1949,8,0
+Taiwan,Taipeh_T ai-pei,25.0508,121.5366,8,0
+Taiwan,Taiwan,23.5116,121.0116,8,0
+Taiwan,Vele Rete Rocks_T ai-wan,21.7785,120.8285,8,0
+Taiwan,Veterans Hospital_T ai-wan,22.6951,120.5951,8,0
+Taiwan,Wan-chia_T ai-wan,25.2286,121.6452,8,0

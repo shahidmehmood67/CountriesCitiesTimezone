@@ -1,0 +1,5 @@
+Glorioso Islands,Glorieuse,-11.5397,47.3103,3,348
+Glorioso Islands,Glorieuses Islands,-11.4897,47.3436,3,348
+Glorioso Islands,Le Lys,-11.4892,47.3775,3,348
+Glorioso Islands,Rocher Sud,-11.5553,47.3114,3,348
+Glorioso Islands,Verte Rocks,-11.5382,47.3451,3,348

@@ -1,0 +1,74 @@
+Hungary,Apostag Vasutallomas_Bacs-Kiskun,46.893,18.993,1,0
+Hungary,Baja_Bacs-Kiskun,46.1931,18.9765,1,0
+Hungary,Bekescsaba,46.6931,21.0765,1,0
+Hungary,Bonyhad_Tolna,46.3098,18.5431,1,0
+Hungary,Buda_Vas,47.2431,17.0431,1,0
+Hungary,Buda_Budapest,47.5098,19.0431,1,0
+Hungary,Budapest,47.5098,19.0931,1,0
+Hungary,Budapest-Angyalfold Vasutallomas_Budapest,47.5598,19.1098,1,0
+Hungary,Budapest-Deli Palyaudvar_Budapest,47.5098,19.0265,1,0
+Hungary,Budapest-Jozsefvaros Vasutallomas_Budapest,47.4931,19.1098,1,0
+Hungary,Budapest-Kelenfold Palyaudvar_Budapest,47.4765,19.0431,1,0
+Hungary,Budapest-Keleti Palyaudvar_Budapest,47.5098,19.1098,1,0
+Hungary,Budapest-Nyugati Palyaudvar_Budapest,47.5265,19.0765,1,0
+Hungary,Budapest-Urom Vasutallomas_Budapest,47.5931,19.0098,1,0
+Hungary,Budapest-Zuglo Vasuti Megallohely_Budapest,47.5265,19.1265,1,0
+Hungary,Csanytelek_Csongrad,46.6099,20.1266,1,0
+Hungary,Debrecen,47.5433,21.6433,1,0
+Hungary,Dombovar_Tolna,46.3933,18.1267,1,0
+Hungary,Esztergom_Komarom-Esztergom,47.8101,18.7601,1,0
+Hungary,Godollo_Pest,47.6103,19.377,1,0
+Hungary,Gyor,47.6936,17.6436,1,0
+Hungary,Hodmezovasarhely Vasutallomas_Csongrad,46.4271,20.3604,1,0
+Hungary,Kecskemet,46.9274,19.7274,1,0
+Hungary,Kecskemet_Gyor-Moson-Sopron,47.694,17.794,1,0
+Hungary,Kecskemet_Bacs-Kiskun,46.9107,19.794,1,0
+Hungary,Kecskemet Also Palyaudvar_Bacs-Kiskun,46.9107,19.7107,1,0
+Hungary,Kecskemet Vasutallomas_Bacs-Kiskun,46.9274,19.7107,1,0
+Hungary,Kecskemethytanya_Pest,47.2774,19.344,1,0
+Hungary,Kecskemetitanya_Borsod-Abauj-Zemplen,48.2274,20.8107,1,0
+Hungary,Kisvarda_Szabolcs-Szatmar-Bereg,48.2274,22.094,1,0
+Hungary,Lebeny_Gyor-Moson-Sopron,47.7441,17.3941,1,0
+Hungary,Mezobereny_Bekes,46.8276,21.0442,1,0
+Hungary,Mezokeresztes-Mezonyarad Vasutallomas_Borsod-Abauj-Zemplen,47.8609,20.6942,1,0
+Hungary,Mezonyarad_Borsod-Abauj-Zemplen,47.8776,20.6942,1,0
+Hungary,Miskolc,48.1109,20.7942,1,0
+Hungary,Miskolc-Tiszai Palyaudvar_Borsod-Abauj-Zemplen,48.1109,20.8276,1,0
+Hungary,Nagykanizsa_Zala,46.5252,16.9827,1,0
+Hungary,Nagykanizsa,46.4777,17.011,1,0
+Hungary,Paks_Tolna,46.6445,18.8779,1,0
+Hungary,Pece_Bekes,46.7445,21.0279,1,0
+Hungary,Pecs,46.0945,18.2445,1,0
+Hungary,Salgotarjan_Nograd,48.1282,19.8282,1,0
+Hungary,Siklos_Baranya,45.8668,18.3101,1,0
+Hungary,Siklosbodony_Baranya,45.9218,18.1318,1,0
+Hungary,Siklosi-hegyek_Baranya,45.8948,18.3448,1,0
+Hungary,Siklosnagyfalu_Baranya,45.8312,18.3729,1,0
+Hungary,Szeged,46.2615,20.1782,1,0
+Hungary,Szeged Vasutallomas_Csongrad,46.2448,20.1615,1,0
+Hungary,Szekesfehervar_Fejer,47.2115,18.4282,1,0
+Hungary,Szentendre_Pest,47.6782,19.0948,1,0
+Hungary,Szentes_Csongrad,46.6615,20.2782,1,0
+Hungary,Szentes_Borsod-Abauj-Zemplen,48.2282,21.1782,1,0
+Hungary,Szigetbecse_Pest,47.1448,18.9615,1,0
+Hungary,Szigetszentmiklos_Pest,47.3615,19.0615,1,0
+Hungary,Szigetvar_Baranya,46.0615,17.8115,1,0
+Hungary,Szolnok_Jasz-Nagykun-Szolnok,47.1948,20.2115,1,0
+Hungary,Tata Vasutallomas_Komarom-Esztergom,47.6783,18.3449,1,0
+Hungary,Tatabanya,47.5783,18.4449,1,0
+Hungary,Tatabanya_Komarom-Esztergom,47.5783,18.4283,1,0
+Hungary,Ujfeherto_Szabolcs-Szatmar-Bereg,47.8117,21.695,1,0
+Hungary,Wagner-resz_Bacs-Kiskun,46.7119,19.0452,1,0
+Hungary,Wagnermalom_Baranya,46.1119,18.4952,1,0
+Hungary,Wagnertanya_Veszprem,46.9952,17.7119,1,0
+Hungary,Webertanya_Pest,47.3952,19.2452,1,0
+Hungary,Weifse Koros,46.9452,20.9786,1,0
+Hungary,Weisztanya_Pest,47.6286,19.6119,1,0
+Hungary,Wekerle Sandor-major_Pest,47.2452,19.5286,1,0
+Hungary,Wekerlekismajor_Pest,47.2286,19.5619,1,0
+Hungary,Wernermajor_Baranya,46.6786,20.6119,1,0
+Hungary,Winklertanya_Jasz-Nagykun-Szolnok,47.5619,19.6952,1,0
+Hungary,Winterpuszta_Bekes,46.4452,21.0619,1,0
+Hungary,Wittmanntag_Gyor-Moson-Sopron,47.7119,17.7452,1,0
+Hungary,Wolfmajor_Csongrad,46.3786,19.8119,1,0
+Hungary,Wurthmajor_Pest,47.3452,18.9619,1,0

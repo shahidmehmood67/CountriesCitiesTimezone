@@ -1,0 +1,122 @@
+Dominican Republic,Acosta,19.2167,-69.3167,-4GMT,63
+Dominican Republic,Bani,18.2667,-70.3333,-4GMT,63
+Dominican Republic,Bavaro,18.7167,-68.4500,-4GMT,64
+Dominican Republic,Boca Chica,18.4500,-69.6000,-4GMT,63
+Dominican Republic,Esperanza,19.6333,-71.0500,-4GMT,62
+Dominican Republic,Fabian,18.2167,-71.2000,-4GMT,63
+Dominican Republic,Florida,18.4000,-71.6833,-4GMT,62
+Dominican Republic,Fransua Congo,17.9650,-71.6264,-4GMT,62
+Dominican Republic,Geronimo Lopez,18.4167,-70.1833,-4GMT,63
+Dominican Republic,Gran Diablo,19.8000,-71.1167,-4GMT,62
+Dominican Republic,Inaje,19.4333,-71.4500,-4GMT,62
+Dominican Republic,Isla Cabras,19.8667,-70.7833,-4GMT,62
+Dominican Republic,Jeremies,19.2167,-70.4833,-4GMT,63
+Dominican Republic,Jobo Corcobado,19.7000,-71.4667,-4GMT,62
+Dominican Republic,Jobo de Agua,19.2833,-69.2833,-4GMT,63
+Dominican Republic,Jose E. Bisono,19.5667,-70.8667,-4GMT,62
+Dominican Republic,Jose Joaquin,18.1333,-71.2000,-4GMT,63
+Dominican Republic,Kell,18.4500,-69.1167,-4GMT,63
+Dominican Republic,Kilometro 11,18.4833,-69.9833,-4GMT,63
+Dominican Republic,Kilometro 56,18.7167,-70.2333,-4GMT,63
+Dominican Republic,Kilometro Ocho,18.8167,-69.3000,-4GMT,63
+Dominican Republic,Kilometro Seis,19.2833,-71.7000,-4GMT,62
+Dominican Republic,La Romana,18.4000,-68.9333,-4GMT,63
+Dominican Republic,La Romana_Sanchez Ramirez,19.0667,-70.3500,-4GMT,63
+Dominican Republic,La Vega,19.2000,-70.5000,-4GMT,63
+Dominican Republic,Mao,19.5833,-71.0833,-4GMT,62
+Dominican Republic,Mao Adentro,19.5333,-71.0833,-4GMT,62
+Dominican Republic,Mellizo,18.5833,-70.4167,-4GMT,63
+Dominican Republic,Mende,18.4833,-70.4833,-4GMT,63
+Dominican Republic,Miguel,18.4667,-70.1500,-4GMT,63
+Dominican Republic,Miguelito,18.4667,-71.8333,-4GMT,62
+Dominican Republic,Mirapato,18.5167,-68.8500,-4GMT,63
+Dominican Republic,Ochoa_Maria Trinidad Sanchez,19.5000,-69.9167,-4GMT,63
+Dominican Republic,Ochoa_San Cristobal,18.5500,-70.1333,-4GMT,63
+Dominican Republic,Ocoa,18.7167,-70.9333,-4GMT,63
+Dominican Republic,Ocoa Bay,18.3667,-70.6500,-4GMT,63
+Dominican Republic,Ocoa Hill,18.2667,-70.5667,-4GMT,63
+Dominican Republic,Ojo de Agua_Espaillat,19.6000,-70.4167,-4GMT,63
+Dominican Republic,Ojo de Agua_Peravia,18.5500,-70.4833,-4GMT,63
+Dominican Republic,Ojo de Agua_La Altagracia,18.5833,-68.5833,-4GMT,64
+Dominican Republic,Ojo de Agua_Salcedo,19.3667,-70.4000,-4GMT,63
+Dominican Republic,Ojos de Agua_Valverde,19.6500,-70.9833,-4GMT,62
+Dominican Republic,Ojos de Agua_Monte Plata,18.8667,-69.7167,-4GMT,63
+Dominican Republic,Olguin,19.7333,-70.5667,-4GMT,63
+Dominican Republic,Olivaris,18.5000,-69.2167,-4GMT,63
+Dominican Republic,Olivero,18.9000,-71.6167,-4GMT,62
+Dominican Republic,Oregano,18.4333,-71.1167,-4GMT,63
+Dominican Republic,Oregano Grande,18.6000,-71.0167,-4GMT,63
+Dominican Republic,Ortega,19.3833,-70.6000,-4GMT,63
+Dominican Republic,Ortiz,18.4833,-69.3000,-4GMT,63
+Dominican Republic,Oscar Duna,18.5667,-69.2333,-4GMT,63
+Dominican Republic,Otana,18.8167,-69.8000,-4GMT,63
+Dominican Republic,Otra Banda_Santiago,19.4500,-70.7167,-4GMT,63
+Dominican Republic,Otra Banda_La Altagracia,18.6500,-68.6667,-4GMT,64
+Dominican Republic,Otra Banda_Samana,19.2833,-69.4333,-4GMT,63
+Dominican Republic,Oveja,18.7333,-69.3833,-4GMT,63
+Dominican Republic,Oviedo,17.7833,-71.3667,-4GMT,63
+Dominican Republic,Ozama Arriba,18.8167,-70.2167,-4GMT,63
+Dominican Republic,Puerto Plata,19.7833,-70.6667,-4GMT,63
+Dominican Republic,Punta Bavaro,18.6667,-68.4000,-4GMT,64
+Dominican Republic,Punta Cana_La Romana,18.1167,-68.5667,-4GMT,64
+Dominican Republic,Punta Cana_La Altagracia,18.5333,-68.3667,-4GMT,64
+Dominican Republic,Punta Cana_San Juan,18.8833,-71.3500,-4GMT,62
+Dominican Republic,Quebrada Honda,19.6000,-70.1667,-4GMT,63
+Dominican Republic,Quebrada Llana,19.3000,-71.0000,-4GMT,62
+Dominican Republic,Quebrada Mala,19.0833,-70.6833,-4GMT,63
+Dominican Republic,Quebradita,18.8833,-70.2167,-4GMT,63
+Dominican Republic,Quezada,19.5500,-70.2667,-4GMT,63
+Dominican Republic,Quiabon,18.4000,-68.8833,-4GMT,63
+Dominican Republic,Quiebra Hacha,18.2167,-71.1833,-4GMT,63
+Dominican Republic,Quimbamba,18.8000,-70.3833,-4GMT,63
+Dominican Republic,Quina Sueno,19.0500,-70.1833,-4GMT,63
+Dominican Republic,Quinigua,19.5833,-70.7167,-4GMT,63
+Dominican Republic,Quintana,19.2667,-69.1833,-4GMT,63
+Dominican Republic,Quiro,19.1833,-70.3667,-4GMT,63
+Dominican Republic,Quisquella,18.4333,-71.2333,-4GMT,63
+Dominican Republic,Quisqueya,18.5500,-69.4000,-4GMT,63
+Dominican Republic,Quita Coraza,18.4667,-71.0500,-4GMT,63
+Dominican Republic,Quita Pena,18.7667,-70.5167,-4GMT,63
+Dominican Republic,Quita Sueno_Peravia,18.7167,-70.5000,-4GMT,63
+Dominican Republic,Quita Sueno_Monte Plata,18.7000,-70.0167,-4GMT,63
+Dominican Republic,Santiago_Santiago,19.4167,-70.7000,-4GMT,63
+Dominican Republic,Santiago de La Cruz,19.4833,-71.6333,-4GMT,62
+Dominican Republic,Santiago Rodriguez,19.3833,-71.3500,-4GMT,62
+Dominican Republic,Santo Domingo_Distrito Nacional,18.5833,-69.8333,-4GMT,63
+Dominican Republic,Santo Domingo,19.0000,-70.6667,-4GMT,63
+Dominican Republic,Santo Domingo City,18.4667,-69.9000,-4GMT,63
+Dominican Republic,Santo Domingo/De Las Americas,18.4167,-69.6667,-4GMT,63
+Dominican Republic,Sudadero,18.8000,-69.3833,-4GMT,63
+Dominican Republic,Sumbi,18.7667,-70.3000,-4GMT,63
+Dominican Republic,Tubagua,19.6667,-70.6167,-4GMT,63
+Dominican Republic,Tumbacoco,18.8531,-71.5236,-4GMT,62
+Dominican Republic,Ubilla,18.3667,-71.2167,-4GMT,63
+Dominican Republic,Ulloa,18.6000,-69.4000,-4GMT,63
+Dominican Republic,Un Didero,19.4667,-70.9000,-4GMT,62
+Dominican Republic,Unijica,19.7833,-71.0333,-4GMT,62
+Dominican Republic,Uveral,19.4167,-70.6167,-4GMT,63
+Dominican Republic,Uvero Alto,18.8167,-68.5833,-4GMT,64
+Dominican Republic,Vuelta Grande_Barahona,18.5167,-71.0167,-4GMT,63
+Dominican Republic,Vuelta Grande_Distrito Nacional,18.5833,-69.7500,-4GMT,63
+Dominican Republic,Vuelta Larga,19.5833,-70.8333,-4GMT,63
+Dominican Republic,Walterio,19.7500,-71.6167,-4GMT,62
+Dominican Republic,Zafarralla,19.3667,-70.4833,-4GMT,63
+Dominican Republic,Zalamanca,18.6000,-70.0500,-4GMT,63
+Dominican Republic,Zalaya,19.3833,-70.7833,-4GMT,63
+Dominican Republic,Zamba,19.5333,-71.3333,-4GMT,62
+Dominican Republic,Zamba Arriba,19.5167,-71.3167,-4GMT,62
+Dominican Republic,Zambrana Abajo,18.9667,-70.1333,-4GMT,63
+Dominican Republic,Zanja Siete,19.7333,-71.6167,-4GMT,62
+Dominican Republic,Zanjon_Santiago,19.2833,-70.7333,-4GMT,63
+Dominican Republic,Zanjon_Hato Mayor,18.9833,-69.3500,-4GMT,63
+Dominican Republic,Zapote,19.0167,-69.8667,-4GMT,63
+Dominican Republic,Zapotillo,17.9667,-71.3333,-4GMT,63
+Dominican Republic,Zarzal,18.8833,-70.4167,-4GMT,63
+Dominican Republic,Zayas,18.7833,-70.1500,-4GMT,63
+Dominican Republic,Zolaya,19.3667,-70.7667,-4GMT,63
+Dominican Republic,Zorro Muerto,17.9500,-71.2833,-4GMT,63
+Dominican Republic,Zumba,19.2000,-69.8833,-4GMT,63
+Dominican Republic,Zumbador_La Vega,19.0833,-70.7333,-4GMT,63
+Dominican Republic,Zumbador_Monsenor Nouel,18.7500,-70.3333,-4GMT,63
+Dominican Republic,Zumbi,18.5000,-70.2833,-4GMT,63
+Dominican Republic,Zumbon,18.5000,-70.2667,-4GMT,63

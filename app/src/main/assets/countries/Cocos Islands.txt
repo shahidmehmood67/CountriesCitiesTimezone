@@ -1,0 +1,32 @@
+Cocos Islands,Alor Batu Kapala,-12.1167,96.8167,6.5GMT,301
+Cocos Islands,Alor Pinyu,-12.1625,96.8208,6.5GMT,301
+Cocos Islands,Bechat Besar,-12.1500,96.8256,6.5GMT,301
+Cocos Islands,Burial Island,-12.2000,96.8667,6.5GMT,301
+Cocos Islands,Cocos Islands,-12.0000,96.8333,6.5GMT,301
+Cocos Islands,East Cay,-12.1833,96.8667,6.5GMT,301
+Cocos Islands,Home Island,-12.1167,96.8833,6.5GMT,301
+Cocos Islands,Horsburgh Island,-12.0667,96.8333,6.5GMT,301
+Cocos Islands,Keche Pecha,-12.2000,96.8333,6.5GMT,301
+Cocos Islands,Klapa Tuju,-12.2083,96.8458,6.5GMT,301
+Cocos Islands,North Keeling,-11.8333,96.8167,6.5GMT,301
+Cocos Islands,North Lagoon,-12.1733,96.8250,6.5GMT,301
+Cocos Islands,Port Refuge,-12.0833,96.8667,6.5GMT,301
+Cocos Islands,Possession Point,-12.0833,96.8500,6.5GMT,301
+Cocos Islands,Pulo Ampang Kechil,-12.1250,96.9028,6.5GMT,301
+Cocos Islands,Pulo Atas,-12.2000,96.9167,6.5GMT,301
+Cocos Islands,Pulo Jambatan,-12.1500,96.9167,6.5GMT,301
+Cocos Islands,Pulo Labu,-12.1583,96.9181,6.5GMT,301
+Cocos Islands,Pulo Pandang,-12.1333,96.9167,6.5GMT,301
+Cocos Islands,Pulo Panjang,-12.1667,96.8333,6.5GMT,301
+Cocos Islands,Pulo Wa-idas,-12.1292,96.9069,6.5GMT,301
+Cocos Islands,Pulu Ampang,-12.1278,96.9042,6.5GMT,301
+Cocos Islands,Pulu Blekok,-12.1306,96.9069,6.5GMT,301
+Cocos Islands,Pulu Kembang,-12.1333,96.9069,6.5GMT,301
+Cocos Islands,South Keeling Island,-12.1500,96.8667,6.5GMT,301
+Cocos Islands,South Lagoon,-12.2000,96.8500,6.5GMT,301
+Cocos Islands,Ujong Pulo Jau,-12.1958,96.8875,6.5GMT,301
+Cocos Islands,Ujong Tanjong,-12.1333,96.8167,6.5GMT,301
+Cocos Islands,West Cay,-12.1833,96.8500,6.5GMT,301
+Cocos Islands,West Island,-12.1450,96.8217,6.5GMT,0
+Cocos Islands,Workhouse Island,-12.1000,96.8833,6.5GMT,301
+Cocos Islands,Wreck Point,-11.8167,96.8167,6.5GMT,301

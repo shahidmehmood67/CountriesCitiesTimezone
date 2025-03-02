@@ -1,0 +1,111 @@
+Mozambique,25 de Junho A_Maputo,-25.8953,32.5606,2,0
+Mozambique,25 de Junho B_Maputo,-25.8961,32.5825,2,0
+Mozambique,3 de Feveiro_Nampula,-15.0252,37.5587,2,0
+Mozambique,3 de Fevereiro_Maputo,-25.8846,32.6273,2,0
+Mozambique,7 de Abril_Nampula,-15.1384,39.7108,2,0
+Mozambique,A. Titoche_Gaza,-24.4347,33.13,2,0
+Mozambique,Afonso_Zambezia,-16.4925,38.9555,2,0
+Mozambique,Afonso_Nampula,-16.4797,39.1558,2,0
+Mozambique,Afreda_Zambezia,-16.6561,37.1189,2,0
+Mozambique,Andrea_Gaza,-23.8556,33.0069,2,0
+Mozambique,Apiadeuca_Manica,-19.2517,33.435,2,0
+Mozambique,Atecume_Nampula,-16.4784,39.075,2,0
+Mozambique,Atoto_Cabo Delgado,-12.8747,39.8775,2,0
+Mozambique,Atua_Zambezia,-16.0353,37.5516,2,0
+Mozambique,Augusto_Sofala,-21.1459,34.42,2,0
+Mozambique,Beira,-18.0569,33.2265,2,0
+Mozambique,Beira_Sofala,-19.8316,34.8334,2,0
+Mozambique,Beira Old_Sofala,-19.8255,34.8709,2,0
+Mozambique,Beira-Rio_Niassa,-14.7746,36.7126,2,0
+Mozambique,Chibuto_Manica,-20.8443,32.6377,2,0
+Mozambique,Chibuto_Gaza,-24.4318,33.5291,2,0
+Mozambique,Chibuto,-19.4901,33.9099,2,0
+Mozambique,Chimoio_Nampula,-15.8643,39.2313,2,0
+Mozambique,Chimoio_Sofala,-18.1265,34.5091,2,0
+Mozambique,Chimoio_Manica,-18.9818,33.4302,2,0
+Mozambique,Chimoio Upland,-18.9901,33.5099,2,0
+Mozambique,Iangua_Cabo Delgado,-11.7253,40.1866,2,0
+Mozambique,Iena_Cabo Delgado,-13.8764,38.5886,2,0
+Mozambique,Iene_Nampula,-16.2737,39.6838,2,0
+Mozambique,Iero_Zambezia,-17.0809,36.9222,2,0
+Mozambique,Ietemane_Inhambane,-21.9076,34.6413,2,0
+Mozambique,Iremba_Nampula,-14.992,40.6624,2,0
+Mozambique,Kabvulamtenga Hill,-16.9821,35.074,2,0
+Mozambique,Kadzi,-15.9893,31.094,2,0
+Mozambique,Kagana,-15.356,34.5274,2,0
+Mozambique,Kalawiri Hill,-14.206,33.3607,2,0
+Mozambique,Kaliquoqua,-25.706,31.9774,2,0
+Mozambique,Kaliwata,-14.3329,35.9504,2,0
+Mozambique,Kaphiridzaje_Tete,-15.7904,34.2543,2,0
+Mozambique,Kapiribveu Hill,-14.006,33.194,2,0
+Mozambique,Kero Nyuni,-11.6226,40.5774,2,0
+Mozambique,Kifinga Point_Nampula,-14.8676,40.8268,2,0
+Mozambique,Kirk Point,-18.9226,35.894,2,0
+Mozambique,Kiss_Maputo,-25.3226,32.044,2,0
+Mozambique,Kobinja,-25.8226,31.944,2,0
+Mozambique,Komati_Maputo,-25.8474,32.7407,2,0
+Mozambique,Kombola_Tete,-15.0046,30.2871,2,0
+Mozambique,Kope,-16.6726,32.7107,2,0
+Mozambique,Koromo,-15.9893,30.444,2,0
+Mozambique,Kuzilonde,-26.856,32.8774,2,0
+Mozambique,Kwamba_Niassa,-14.7924,36.5479,2,0
+Mozambique,Lago Maducudele_Inhambane,-22.6278,33.6083,2,0
+Mozambique,Leal e Imaos_Maputo,-26.0145,32.1691,2,0
+Mozambique,Mabuto_Manica,-20.0249,33.0137,2,0
+Mozambique,Mandie_Manica,-16.4388,33.5359,2,0
+Mozambique,Maputo,-25.9544,32.6001,2,0
+Mozambique,Maputo_Nampula,-14.8366,40.7312,2,0
+Mozambique,Maputo Province_Maputo,-25.4891,32.3442,2,0
+Mozambique,Monte Maduni,-16.5224,36.8276,2,0
+Mozambique,Mwere,-14.3391,32.3442,2,0
+Mozambique,Nacala_Zambezia,-15.6871,38.2946,2,0
+Mozambique,Nacala,-14.0887,40.3846,2,0
+Mozambique,Nacala_Cabo Delgado,-13.2782,39.8666,2,0
+Mozambique,Nacala_Nampula,-14.4712,40.7199,2,0
+Mozambique,Nacala Port_Nampula,-14.5282,40.6818,2,0
+Mozambique,Nacala-a-Velha_Nampula,-14.4901,40.5841,2,0
+Mozambique,Nacala-Velha_Nampula,-14.5426,40.636,2,0
+Mozambique,Nacalala_Manica,-18.3798,33.3757,2,0
+Mozambique,Nacalamo_Cabo Delgado,-11.7837,39.4318,2,0
+Mozambique,Nacalase_Niassa,-12.4957,35.8068,2,0
+Mozambique,Nacalaua_Zambezia,-16.1882,37.7896,2,0
+Mozambique,Nacalaua,-16.739,39.261,2,0
+Mozambique,Nacalava_Nampula,-13.7026,40.2821,2,0
+Mozambique,Nampula,-14.9279,39.1502,2,0
+Mozambique,Olembe_Inhambane,-24.5728,35.0625,2,0
+Mozambique,Q. Tandavato_Inhambane,-23.4395,35.3252,2,0
+Mozambique,Quelimane_Zambezia,-18.1137,36.8196,2,0
+Mozambique,Quelimane_Nampula,-15.8323,39.621,2,0
+Mozambique,Quelimane_Cabo Delgado,-11.1518,40.3155,2,0
+Mozambique,Quelimane do Sal,-17.9887,36.9113,2,0
+Mozambique,Quelimane River_Zambezia,-18.0218,36.9877,2,0
+Mozambique,Scheraiber_Cabo Delgado,-13.0963,39.6048,2,0
+Mozambique,Ucha,-14.905,30.595,2,0
+Mozambique,Ucunha,-16.9716,37.745,2,0
+Mozambique,Uliane_Niassa,-11.583,35.1709,2,0
+Mozambique,Vila de Manjacaze_Gaza,-24.6999,33.8946,2,0
+Mozambique,W. Lambo_Inhambane,-23.9809,35.0841,2,0
+Mozambique,Wabaudla_Gaza,-23.7589,33.3977,2,0
+Mozambique,Waite_Inhambane,-22.9306,34.303,2,0
+Mozambique,Watch_Inhambane,-22.7945,34.01,2,0
+Mozambique,Wawi_Cabo Delgado,-11.7531,39.7061,2,0
+Mozambique,Whuambu,-18.7214,32.9619,2,0
+Mozambique,Wigam_Manica,-18.9128,33.5613,2,0
+Mozambique,Wikson,-14.5048,34.4619,2,0
+Mozambique,Wiliam_Gaza,-24.6075,33.2725,2,0
+Mozambique,Wiliam_Manica,-18.9759,33.3708,2,0
+Mozambique,Wiliams_Gaza,-23.7895,32.2697,2,0
+Mozambique,Wilson_Inhambane,-21.1831,34.7569,2,0
+Mozambique,Wilson_Tete,-14.6037,34.3575,2,0
+Mozambique,Wina_Cabo Delgado,-10.9459,39.8366,2,0
+Mozambique,Wing Koon_Inhambane,-21.6645,35.2822,2,0
+Mozambique,Witwatersrand Labor Association_Gaza,-24.9303,33.4722,2,0
+Mozambique,Witwatersrand Native Labor Association_Inhambane,-24.7562,34.3169,2,0
+Mozambique,Witwatersrand Native Labor Association_Maputo,-24.4628,32.0663,2,0
+Mozambique,Wolf_Nampula,-14.8403,40.3458,2,0
+Mozambique,Wong_Inhambane,-22.9134,35.5641,2,0
+Mozambique,Wuane_Inhambane,-23.0192,34.575,2,0
+Mozambique,Y Chee Fori_Inhambane,-21.2515,35.1249,2,0
+Mozambique,Ze Matito_Nampula,-16.452,39.2372,2,0
+Mozambique,Zefania_Gaza,-24.7197,33.9858,2,0
+Mozambique,Zoare_Nampula,-15.9209,39.3839,2,0

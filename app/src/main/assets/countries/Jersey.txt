@@ -1,0 +1,182 @@
+Jersey,Aiguillon,49.1764,-2.207,0,0
+Jersey,Albert Pier,49.1886,-2.1034,0,0
+Jersey,Anne Port,49.2097,-2.007,0,0
+Jersey,Bailhache,49.1667,-2.0896,0,0
+Jersey,Baleine,49.1845,-2.1252,0,0
+Jersey,Banc de Saint Brelade,49.1767,-2.1974,0,0
+Jersey,Banc De Violet,49.1598,-2.0235,0,0
+Jersey,Banc Desormes,49.3223,-2.2652,0,0
+Jersey,Banc du Chateau,49.2015,-1.9735,0,0
+Jersey,Banc Le Fret,49.1748,-2.1788,0,0
+Jersey,Beau Port,49.1892,-2.1963,0,0
+Jersey,Beaumont,49.2098,-2.1569,0,0
+Jersey,Bel Royal,49.2098,-2.1402,0,0
+Jersey,Belcroute Bay,49.1931,-2.1569,0,0
+Jersey,Belle Hougue Point,49.2598,-2.0902,0,0
+Jersey,Belle Vue,49.2098,-2.1735,0,0
+Jersey,Belval Cove,49.2315,-2.0133,0,0
+Jersey,Bouley Bay,49.2598,-2.0569,0,0
+Jersey,Brayes Rocks,49.2442,-2.0105,0,0
+Jersey,Chevel Rock,49.2641,-2.104,0,0
+Jersey,Clump Rock,49.3224,-2.0176,0,0
+Jersey,Corbiere Point,49.1932,-2.2401,0,0
+Jersey,Cormorant Rock,49.2663,-2.1193,0,0
+Jersey,Cotil Point,49.2643,-2.1232,0,0
+Jersey,Coupe Rock,49.2424,-2.0037,0,0
+Jersey,Crabbe,49.2591,-2.1723,0,0
+Jersey,Crabiere Rock,49.1827,-2.0962,0,0
+Jersey,Crapaud of the Castle,49.1841,-2.1098,0,0
+Jersey,Crapaud of the Mangeuse,49.1818,-2.1065,0,0
+Jersey,Crow Rock,49.183,-2.1148,0,0
+Jersey,Danger Rock,49.1594,-2.1364,0,0
+Jersey,Demie de la Tour,49.2556,-2.0397,0,0
+Jersey,Demie de Pas,49.1614,-2.0908,0,0
+Jersey,Demie Rock,49.2689,-2.1114,0,0
+Jersey,Diamond Rock,49.18,-2.1336,0,0
+Jersey,Dirouilles,49.31,-2.0233,0,0
+Jersey,Dog s Nest Rock,49.1778,-2.1039,0,0
+Jersey,Douet de la Mer,49.2433,-2.0233,0,0
+Jersey,East La Cloche,49.1754,-2.1107,0,0
+Jersey,East Pier,49.189,-2.1049,0,0
+Jersey,Ecreviere Bank,49.2851,-1.8891,0,0
+Jersey,Eureka,49.232,-1.993,0,0
+Jersey,Fairway Rock,49.1641,-2.1198,0,0
+Jersey,Fiquet Bay,49.1874,-2.2026,0,0
+Jersey,Fliquet Bay,49.2435,-2.0065,0,0
+Jersey,Fort Elizabeth,49.1871,-2.1151,0,0
+Jersey,Fort Henry,49.1974,-2.0229,0,0
+Jersey,Fort Regent,49.1921,-2.0937,0,0
+Jersey,Fourche,49.1849,-2.1865,0,0
+Jersey,Fournier du Havre,49.1894,-2.1887,0,0
+Jersey,Fournier Rock,49.1852,-2.1962,0,0
+Jersey,Fremont Point,49.2602,-2.1065,0,0
+Jersey,Frouquie,49.3071,-2.0292,0,0
+Jersey,Frouquie des Vracheres,49.1541,-2.1862,0,0
+Jersey,Grand Becquet,49.2653,-2.2,0,0
+Jersey,Havre de Fontaines,49.1771,-2.054,0,0
+Jersey,Havre des Pas,49.1871,-2.0921,0,0
+Jersey,Hermitage,49.1771,-2.1063,0,0
+Jersey,Hermitage Breakwater,49.1832,-2.1124,0,0
+Jersey,Hiaux,49.2515,-2.0304,0,0
+Jersey,Hinguette,49.1654,-2.1146,0,0
+Jersey,Hougue Bie,49.2104,-2.0563,0,0
+Jersey,Hubaut,49.1629,-2.1827,0,0
+Jersey,Icho Bank,49.1249,-2.0612,0,0
+Jersey,Isle Agois,49.2605,-2.1701,0,0
+Jersey,Jersey,49.2273,-2.1061,0,0
+Jersey,Jinquet Rock,49.1559,-2.0497,0,0
+Jersey,Joli,49.3025,-2.0366,0,0
+Jersey,Jument,49.1889,-2.2291,0,0
+Jersey,L Etac,49.2441,-2.2225,0,0
+Jersey,L teton,49.173,-2.0273,0,0
+Jersey,La Boue,49.1944,-2.2467,0,0
+Jersey,La Coniere,49.1691,-2.02,0,0
+Jersey,La Cotte Point,49.1941,-2.1725,0,0
+Jersey,La Grune,49.2547,-2.0686,0,0
+Jersey,La Joie,49.3216,-2.0217,0,0
+Jersey,La Plaine,49.27,-2.1531,0,0
+Jersey,La Platte,49.3064,-2.0042,0,0
+Jersey,La Rousse,49.1619,-2.0364,0,0
+Jersey,La Sambue,49.1664,-2.0689,0,0
+Jersey,La Villaise,49.253,-2.2239,0,0
+Jersey,La Vrachere,49.1933,-2.1136,0,0
+Jersey,Le Col de la Rocque,49.2622,-2.1675,0,0
+Jersey,Le Giffard,49.1864,-1.9711,0,0
+Jersey,Le Graveur,49.233,-2.0073,0,0
+Jersey,Le Ruquet,49.3175,-1.9628,0,0
+Jersey,Les Boiteaux,49.1902,-2.2492,0,0
+Jersey,Les Burons,49.31,-2.0231,0,0
+Jersey,Les Creux,49.1927,-2.1934,0,0
+Jersey,Les Ecrehou,49.3108,-1.9059,0,0
+Jersey,Les Grunes,49.3227,-2.0292,0,0
+Jersey,Les Troupeurs,49.258,-2.0531,0,0
+Jersey,Maitre Ile,49.2942,-1.9169,0,0
+Jersey,Margaret Rock,49.1584,-2.0641,0,0
+Jersey,Marmotier,49.3026,-1.9169,0,0
+Jersey,Millbrook,49.2109,-2.1224,0,0
+Jersey,Mont Fiquet,49.1915,-2.2019,0,0
+Jersey,Mouilliere Rock,49.2553,-2.2541,0,0
+Jersey,Moulet Rock,49.179,-2.1063,0,0
+Jersey,Mount Bingham,49.1884,-2.0966,0,0
+Jersey,Mount Mado,49.2587,-2.1116,0,0
+Jersey,Mourier Bay,49.2692,-2.1319,0,0
+Jersey,Nez du Guet,49.2518,-2.0315,0,0
+Jersey,Nipple Rock,49.1752,-2.0987,0,0
+Jersey,Noire Roque,49.3152,-2.0209,0,0
+Jersey,Noirmont Point,49.1777,-2.1557,0,0
+Jersey,Noirmontaise Reef,49.1904,-2.244,0,0
+Jersey,Noirs Hommes,49.1704,-2.1451,0,0
+Jersey,North Quay,49.1913,-2.0993,0,0
+Jersey,Old Harbour,49.1917,-2.0981,0,0
+Jersey,Ouaisne Bay,49.1911,-2.175,0,0
+Jersey,Oyster Rocks,49.253,-2.0517,0,0
+Jersey,Passage Rock,49.1704,-2.1899,0,0
+Jersey,Passe de l Etoc,49.3112,-1.9888,0,0
+Jersey,Perruque,49.2631,-2.1294,0,0
+Jersey,Petite Etaquerel,49.2518,-2.2371,0,0
+Jersey,Petite Grune,49.1704,-2.1785,0,0
+Jersey,Petite Mangeuse,49.1834,-2.1016,0,0
+Jersey,Petite Rousse,49.3029,-1.9555,0,0
+Jersey,Pierre de Lecq,49.2945,-2.2055,0,0
+Jersey,Pignonet,49.1768,-2.1482,0,0
+Jersey,Pillon Rock,49.2348,-1.9935,0,0
+Jersey,Plat Rocque Point,49.1779,-2.0221,0,0
+Jersey,Plateau de la Frouquie,49.1112,-1.9555,0,0
+Jersey,Platte Rock,49.1945,-2.1452,0,0
+Jersey,Pleinmont Point,49.2779,-2.2221,0,0
+Jersey,Plemont Deep,49.2779,-2.1888,0,0
+Jersey,Point La Moye,49.1945,-2.2055,0,0
+Jersey,Point Le Croc,49.1779,-2.0721,0,0
+Jersey,Point Le Fret,49.1779,-2.1721,0,0
+Jersey,Point le Grouin,49.194,-2.1771,0,0
+Jersey,Portelet Ledge,49.1784,-2.1663,0,0
+Jersey,Portinfer,49.2631,-2.2124,0,0
+Jersey,Quereme Rock,49.181,-2.1029,0,0
+Jersey,Rigdon Bank,49.2508,-2.2767,0,0
+Jersey,Rocque Herbeuse,49.1758,-2.0483,0,0
+Jersey,Rocque Larron,49.172,-2.0525,0,0
+Jersey,Rocquemin,49.1897,-2.1197,0,0
+Jersey,Ronez Point,49.2781,-2.1386,0,0
+Jersey,Rouge Nez,49.2614,-2.1886,0,0
+Jersey,Round Rouget,49.1667,-2.0769,0,0
+Jersey,Rousse,49.1781,-2.1886,0,0
+Jersey,Royal Bay of Grouville,49.1947,-2.0053,0,0
+Jersey,Rozel,49.2447,-2.0386,0,0
+Jersey,Ruaudiere Rock,49.1745,-2.1303,0,0
+Jersey,Saint Aubins Bay,49.1948,-2.1218,0,0
+Jersey,Saint Aubins Fort,49.1968,-2.1482,0,0
+Jersey,Saint Brelade,49.1948,-2.1885,0,0
+Jersey,Saint Catherines Bay,49.2282,-2.0052,0,0
+Jersey,Saint Clement,49.1865,-2.0441,0,0
+Jersey,Saint Clements Bay,49.1782,-2.0552,0,0
+Jersey,Saint Helier,49.1948,-2.0885,0,0
+Jersey,Saint Helier Harbour,49.1893,-2.1002,0,0
+Jersey,Saint Helier Marina,49.1937,-2.0985,0,0
+Jersey,Saint Johns Bay,49.2615,-2.1218,0,0
+Jersey,Saint Ouen,49.2382,-2.1941,0,0
+Jersey,Saint Ouens Bay,49.2282,-2.2385,0,0
+Jersey,Saint Ouens Pond,49.2282,-2.2052,0,0
+Jersey,Saint Peters Church,49.2282,-2.1718,0,0
+Jersey,Saint Saviour,49.2096,-2.0807,0,0
+Jersey,Shamrock Bank,49.274,-2.1157,0,0
+Jersey,Sillette,49.1651,-2.1491,0,0
+Jersey,Six Rues,49.2448,-2.1385,0,0
+Jersey,Sorel Point,49.2782,-2.1552,0,0
+Jersey,South West Grune,49.2965,-2.1929,0,0
+Jersey,Southeast Rock,49.1859,-2.1099,0,0
+Jersey,Southwest Rock,49.1562,-2.1582,0,0
+Jersey,Swashway Channel,49.2448,-2.2718,0,0
+Jersey,Tas de Pois,49.1694,-2.0923,0,0
+Jersey,The Demies,49.2644,-2.1865,0,0
+Jersey,The Quennevais,49.2116,-2.1884,0,0
+Jersey,Tour de Rozel,49.2616,-2.0384,0,0
+Jersey,Trinity,49.2463,-2.0784,0,0
+Jersey,Trois Grunes,49.171,-2.0967,0,0
+Jersey,Valley des Vaux,49.2118,-2.0882,0,0
+Jersey,Vicard Harbour,49.261,-2.0738,0,0
+Jersey,Vicard Point,49.2618,-2.0715,0,0
+Jersey,Victoria Pier,49.1885,-2.0999,0,0
+Jersey,Ville Bagot,49.2565,-2.1935,0,0
+Jersey,Ville es Nouaux,49.2074,-2.1149,0,0
+Jersey,Vinchelez de Haut,49.2618,-2.2049,0,0
+Jersey,West La Cloche,49.1772,-2.112,0,0

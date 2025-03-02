@@ -1,0 +1,30 @@
+Papua New Guinea,Akib_Manus,-1.507,145.0264,10,0
+Papua New Guinea,Akun Creek_Sandaun,-3.207,142.493,10,0
+Papua New Guinea,Dme_Western,-9.0233,143.0767,10,0
+Papua New Guinea,Dzange_Eastern Highlands,-6.8733,145.71,10,0
+Papua New Guinea,H walia_Chimbu,-6.7063,145.1104,10,0
+Papua New Guinea,Lae_Morobe,-6.7225,147.0108,10,0
+Papua New Guinea,Madang,-5.2058,145.8109,10,0
+Papua New Guinea,Moro_Southern Highlands,-6.3058,144.1776,10,0
+Papua New Guinea,Mwalukwasia Bay_Milne Bay,-9.9724,151.3109,10,0
+Papua New Guinea,Port Moresby_National Capital,-9.4535,147.2037,10,0
+Papua New Guinea,Qaga_Morobe,-6.522,147.6613,10,0
+Papua New Guinea,Quesal_Milne Bay,-10.7387,151.778,10,0
+Papua New Guinea,Quessant Island_Milne Bay,-11.1387,151.2613,10,0
+Papua New Guinea,Quilty Patch_Milne Bay,-10.7054,150.5446,10,0
+Papua New Guinea,Quina Creek_Madang,-5.172,145.4446,10,0
+Papua New Guinea,Quonona Creek_Madang,-5.1554,145.4946,10,0
+Papua New Guinea,Quoy_East New Britain,-5.572,151.828,10,0
+Papua New Guinea,Qwembung_Morobe,-6.5387,147.7946,10,0
+Papua New Guinea,Tmingondok_Western,-5.9884,141.4783,10,0
+Papua New Guinea,Vokakana Creek_Central,-9.0215,146.7285,10,0
+Papua New Guinea,Volodom_Western,-6.3049,142.4785,10,0
+Papua New Guinea,Vovosi_West New Britain,-5.4215,150.4451,10,0
+Papua New Guinea,Wye Point_Northern,-8.6214,148.3619,10,0
+Papua New Guinea,Zagaheme_Morobe,-6.3211,147.6622,10,0
+Papua New Guinea,Zakubep_Morobe,-6.2045,147.5955,10,0
+Papua New Guinea,Zama_Western,-7.2211,141.7955,10,0
+Papua New Guinea,Zanggung_Morobe,-6.3878,147.3122,10,0
+Papua New Guinea,Zedzed Creek,-5.9545,146.6789,10,0
+Papua New Guinea,Zenac_Morobe,-6.9378,146.5955,10,0
+Papua New Guinea,Zengaren_Morobe,-6.5211,147.4455,10,0

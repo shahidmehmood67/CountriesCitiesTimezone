@@ -1,0 +1,129 @@
+Chile,Arica_Tarapaca,-18.4833,-70.3333,-4GMT,74
+Chile,Arica_Libertador General Bernardo O Higgins,-34.6167,-71.1167,-4GMT,83
+Chile,Chillan_Bio-Bio,-36.6000,-72.1167,-4GMT,84
+Chile,Chillan_Magallanes y Antartica Chilena,-52.8833,-69.3000,-4GMT,91
+Chile,Chillan Viejo_Bio-Bio,-36.6167,-72.1333,-4GMT,84
+Chile,Chillan Viejo_Atacama,-28.6000,-70.7833,-4GMT,79
+Chile,Chillancito,-36.7833,-72.4333,-4GMT,85
+Chile,Chillaneja,-52.8667,-69.3167,-4GMT,91
+Chile,Concepcion,-36.8333,-73.0500,-4GMT,85
+Chile,Concepcion Bay,-36.7000,-73.0333,-4GMT,85
+Chile,Iquique,-20.2167,-70.1667,-4GMT,75
+Chile,Irruputuncu,-19.8833,-68.5833,-4GMT,75
+Chile,Irupata,-19.5167,-68.5000,-4GMT,74
+Chile,J. Coloma,-47.3000,-72.0833,-4GMT,91
+Chile,Jecquier,-23.4833,-70.2667,-4GMT,77
+Chile,Jeronimo Canal,-53.3833,-72.4833,-4GMT,94
+Chile,Kamire Aike,-52.4167,-69.7500,-4GMT,92
+Chile,Keith,-19.3667,-69.8833,-4GMT,75
+Chile,Keryma,-20.1667,-69.8167,-4GMT,75
+Chile,Kilometro 9,-25.5500,-70.4500,-4GMT,78
+Chile,King Scott,-55.1000,-68.1500,-4GMT,92
+Chile,Kolovrat,-45.9000,-71.8500,-4GMT,90
+Chile,Kovacic,-53.4333,-70.0667,-4GMT,92
+Chile,Melipilla,-33.7000,-71.2167,-4GMT,82
+Chile,P. Olivero,-47.1333,-72.5333,-4GMT,91
+Chile,Puerto Montt,-41.4717,-72.9369,-4GMT,88
+Chile,Qquecalane,-17.8994,-69.6047,-4GMT,74
+Chile,Santiago,-33.4500,-70.6667,-4GMT,82
+Chile,Talca_Atacama,-30.0000,-71.0167,-4GMT,80
+Chile,Talca_Maule,-35.4333,-71.6667,-4GMT,83
+Chile,Talca_Coquimbo,-30.9000,-71.6333,-4GMT,81
+Chile,Talcahuano_Bio-Bio,-36.7167,-73.1167,-4GMT,85
+Chile,Talcalonco_Maule,-36.0833,-72.0833,-4GMT,84
+Chile,Talcamavida,-36.0833,-72.7500,-4GMT,84
+Chile,Talcamo,-36.8833,-72.5667,-4GMT,85
+Chile,Talcan,-42.7261,-72.9992,-4GMT,88
+Chile,Talcarehue,-34.6333,-70.9167,-4GMT,83
+Chile,Temuco_Los Lagos,-39.5167,-72.4333,-4GMT,86
+Chile,Temuco_Bio-Bio,-37.6667,-73.3833,-4GMT,86
+Chile,Ucun,-34.7500,-72.0333,-4GMT,83
+Chile,Ucuquer,-34.0333,-71.6333,-4GMT,83
+Chile,Ujina,-20.9833,-68.6000,-4GMT,75
+Chile,Ullumalla,-19.5000,-69.0333,-4GMT,75
+Chile,Ulubaya,-18.4000,-70.1667,-4GMT,74
+Chile,Umagata,-18.5667,-69.7833,-4GMT,74
+Chile,Umaquilca,-17.7333,-69.3833,-4GMT,74
+Chile,Umina,-19.4833,-68.7167,-4GMT,74
+Chile,Umirpa,-18.7833,-69.3333,-4GMT,74
+Chile,Unicaven,-36.0833,-72.0167,-4GMT,84
+Chile,Unihue,-37.1167,-72.9167,-4GMT,85
+Chile,Upeo,-35.1333,-71.0333,-4GMT,83
+Chile,Urbina,-27.8500,-70.4167,-4GMT,79
+Chile,Uribe,-23.5500,-70.2833,-4GMT,77
+Chile,Uscana,-19.2833,-68.9500,-4GMT,74
+Chile,Usiga,-19.3833,-68.6333,-4GMT,74
+Chile,Utalacata,-18.5667,-69.1333,-4GMT,74
+Chile,Uva Blanca,-34.3833,-71.0333,-4GMT,83
+Chile,Valdivia_Valparaiso,-32.1833,-70.9333,-4GMT,81
+Chile,Valdivia_Los Lagos,-39.8000,-73.2333,-4GMT,87
+Chile,Valdivia_Coquimbo,-30.6333,-70.5833,-4GMT,80
+Chile,Valdivia_Maule,-35.2000,-72.2667,-4GMT,84
+Chile,Valdivia_Region Metropolitana,-33.9500,-71.6000,-4GMT,83
+Chile,Valparaiso,-33.0478,-71.6011,-4GMT,82
+Chile,Vina del Mar,-33.0081,-71.5197,-4GMT,82
+Chile,X Region,-41.7500,-73.0000,-4GMT,88
+Chile,XI Region,-46.5000,-73.5000,-4GMT,91
+Chile,XII Region,-69.0000,-70.0000,-4GMT,101
+Chile,Yacal,-35.2000,-71.1167,-4GMT,83
+Chile,Yal,-42.6667,-73.7167,-4GMT,89
+Chile,Yalamanta,-19.3833,-69.5833,-4GMT,75
+Chile,Yalanusco,-19.3667,-69.5500,-4GMT,75
+Chile,Yaldad,-43.1003,-73.6831,-4GMT,89
+Chile,Yali,-33.8333,-71.6167,-4GMT,73
+Chile,Yanca,-30.3500,-71.2667,-4GMT,80
+Chile,Yanculef,-39.5000,-72.0667,-4GMT,86
+Chile,Yane,-37.3833,-73.6333,-4GMT,86
+Chile,Yaquil,-34.5833,-71.4500,-4GMT,83
+Chile,Yaretal Carcanal,-22.5833,-68.1667,-4GMT,76
+Chile,Yarvicoya,-20.1167,-69.0500,-4GMT,75
+Chile,Yeco,-33.3167,-71.6333,-4GMT,82
+Chile,Yerba Buena_Atacama,-28.0433,-70.2464,-4GMT,79
+Chile,Yerba Buena_Region Metropolitana,-34.0333,-71.0167,-4GMT,82
+Chile,Yerbas Buenas_Coquimbo,-29.5667,-71.3000,-4GMT,80
+Chile,Yerbas Buenas_Atacama,-28.1333,-70.8333,-4GMT,79
+Chile,Yerbas Buenas_Libertador General Bernardo O Higgins,-34.4167,-71.6667,-4GMT,83
+Chile,Yerbas Buenas_Maule,-35.7500,-71.5833,-4GMT,84
+Chile,Yeseras,-33.8500,-70.0167,-4GMT,82
+Chile,Yeseras Loco Feliz,-20.4333,-70.0833,-4GMT,75
+Chile,Yeso,-27.7167,-70.2000,-4GMT,79
+Chile,Yolanda,-24.9667,-70.0833,-4GMT,77
+Chile,Yolanda Norte,-24.9167,-70.1167,-4GMT,77
+Chile,Yongmeu,-39.3333,-71.7833,-4GMT,86
+Chile,Yuma_ Antofagasta,-21.0333,-68.5000,-4GMT,75
+Chile,Yuma_Tarapaca,-21.0167,-68.5000,-4GMT,75
+Chile,Yumbe,-30.0833,-70.6167,-4GMT,80
+Chile,Yumbel,-37.0833,-72.5667,-4GMT,85
+Chile,Yumbes,-24.8333,-70.4333,-4GMT,77
+Chile,Yungay_Libertador General Bernardo O Higgins,-34.2000,-70.7667,-4GMT,82
+Chile,Yungay_Bio-Bio,-37.1167,-72.0167,-4GMT,85
+Chile,Yungay_Atacama,-28.6667,-70.8000,-4GMT,79
+Chile,Yupehue,-38.5667,-73.4667,-4GMT,86
+Chile,Yuruguaico,-21.0500,-68.7833,-4GMT,75
+Chile,Yusinta,-21.2167,-68.8167,-4GMT,75
+Chile,Yutreco,-40.5333,-73.0333,-4GMT,87
+Chile,Yutuy,-42.5094,-73.7333,-4GMT,89
+Chile,Yuya,-19.8500,-69.2333,-4GMT,75
+Chile,Zama,-33.9833,-71.4000,-4GMT,82
+Chile,Zamarca,-26.8333,-69.9833,-4GMT,78
+Chile,Zambrano,-33.8667,-71.1500,-4GMT,82
+Chile,Zamorano,-27.5333,-70.8167,-4GMT,79
+Chile,Zanelli,-23.5500,-69.5667,-4GMT,76
+Chile,Zanja,-32.2833,-71.2167,-4GMT,81
+Chile,Zanjon de Guirivilo,-34.5667,-71.4333,-4GMT,84
+Chile,Zanjon de La Quebrada,-34.6333,-71.7833,-4GMT,83
+Chile,Zanjon El Membrillo,-34.6667,-71.7833,-4GMT,83
+Chile,Zanjon Grande,-41.7167,-71.9667,-4GMT,87
+Chile,Zapahuira,-18.2667,-69.5833,-4GMT,74
+Chile,Zapahuire,-18.3667,-69.4500,-4GMT,74
+Chile,Zapallar,-31.7006,-70.7586,-4GMT,81
+Chile,Zapar,-23.1167,-68.0167,-4GMT,76
+Chile,Zarate,-33.5333,-71.5500,-4GMT,82
+Chile,Zarzal,-36.8833,-71.9667,-4GMT,84
+Chile,Zona Patagonica,-48.0000,-74.0000,-4GMT,92
+Chile,Zorilla,-30.8333,-71.4833,-4GMT,81
+Chile,Zorras,-24.4833,-68.7000,-4GMT,77
+Chile,Zorrilla,-30.8333,-71.5167,-4GMT,81
+Chile,Zorzal Blanco,-36.2333,-72.5500,-4GMT,84
+Chile,Zulema,-27.3500,-69.8833,-4GMT,78
+Chile,Zuniga,-34.3667,-71.1000,-4GMT,83

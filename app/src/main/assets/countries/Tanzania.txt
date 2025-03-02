@@ -1,0 +1,59 @@
+Tanzania,Arusha,-3.357,36.693,3,0
+Tanzania,Arusha District,-3.3236,36.7597,3,0
+Tanzania,Arusha Region_Arusha,-2.9903,36.0097,3,0
+Tanzania,Bukoba_Ziwa Magharibi,-1.3219,31.822,3,0
+Tanzania,Dar es Salaam,-6.79,39.2933,3,0
+Tanzania,Dar es Salaam Bay,-6.7733,39.31,3,0
+Tanzania,Dar es Salaam Harbour,-6.8233,39.2933,3,0
+Tanzania,Dar es Salaam Region_Dar es Salaam,-6.74,39.26,3,0
+Tanzania,Dodoma,-4.0567,35.2433,3,0
+Tanzania,Dodoma District,-6.24,35.76,3,0
+Tanzania,Dodoma Region_Dodoma,-5.99,36.01,3,0
+Tanzania,Iringa,-7.7562,35.7105,3,0
+Tanzania,Iringa District,-7.5728,35.5105,3,0
+Tanzania,Iringa Region_Iringa,-8.9895,35.0105,3,0
+Tanzania,Iringa-Mvumi,-6.4728,35.9438,3,0
+Tanzania,Lindi,-9.9892,39.7275,3,0
+Tanzania,Mbeya,-8.8891,33.4609,3,0
+Tanzania,Moshi,-3.3391,37.3442,3,0
+Tanzania,Mtera,-7.0891,35.9776,3,0
+Tanzania,Mwanza,-2.5058,32.9109,3,0
+Tanzania,Njombe,-6.9223,35.111,3,0
+Tanzania,Njombe District,-9.239,35.011,3,0
+Tanzania,Pemba North Region_Pemba North,-5.0721,39.8112,3,0
+Tanzania,Pwani Region_Dar es Salaam,-6.9888,39.0112,3,0
+Tanzania,Sumbawanga,-7.9552,31.6282,3,0
+Tanzania,Sumbawanga District,-8.4052,31.8448,3,0
+Tanzania,Tabora,-8.7051,32.6449,3,0
+Tanzania,Tanga,-10.5551,35.6949,3,0
+Tanzania,Tanga Bay,-5.0384,39.1116,3,0
+Tanzania,Tanga District,-5.0717,39.0949,3,0
+Tanzania,Tanga Inner Harbour,-5.0551,39.1283,3,0
+Tanzania,Tanga Region_Tanga,-4.9884,38.2616,3,0
+Tanzania,Tangani,-5.3051,39.7616,3,0
+Tanzania,Tanganyika,-5.9884,35.0116,3,0
+Tanzania,Tangata,-5.1717,39.0783,3,0
+Tanzania,Tangazo,-10.4384,40.3616,3,0
+Tanzania,Usagara,-5.0716,39.1284,3,0
+Tanzania,Xipingue,-11.5713,35.412,3,0
+Tanzania,Yagaba,-2.8546,30.4788,3,0
+Tanzania,Yakaoga,-1.8712,33.4454,3,0
+Tanzania,Yambala,-4.7712,34.2954,3,0
+Tanzania,Yanganya,-1.3379,33.8121,3,0
+Tanzania,Yarahini,-4.9379,38.9288,3,0
+Tanzania,Yarutare Bay,-1.7212,33.5954,3,0
+Tanzania,Yeye River,-7.6046,32.0454,3,0
+Tanzania,Yibandeni,-5.2212,38.7788,3,0
+Tanzania,Ylunde,-5.0712,30.5788,3,0
+Tanzania,Yodzu_Ziwa Magharibi,-2.5546,31.7288,3,0
+Tanzania,Yogelo,-4.1546,33.4788,3,0
+Tanzania,Yola,-10.8879,34.6621,3,0
+Tanzania,Yombi Island,-5.4546,39.6788,3,0
+Tanzania,Yombo,-6.5546,38.8621,3,0
+Tanzania,Yowela,-8.7379,33.8788,3,0
+Tanzania,Yula,-9.0379,33.1288,3,0
+Tanzania,Zanzibar,-6.1545,39.3455,3,0
+Tanzania,Zanzibar Channel,-5.9878,39.0122,3,0
+Tanzania,Zanzibar City,-6.1545,39.1955,3,0
+Tanzania,Zanzibar North Region_Zanzibar North,-5.9045,39.3455,3,0
+Tanzania,Zanzibar Urban West Region_Zanzibar Urban West,-6.1545,39.2622,3,0

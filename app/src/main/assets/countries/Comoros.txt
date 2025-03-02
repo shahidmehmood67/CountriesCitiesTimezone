@@ -1,0 +1,171 @@
+Comoros,Abakambouni,-12.3578,44.5006,3GMT,352
+Comoros,Acoua,-12.7333,45.0500,3GMT,352
+Comoros,Adda-Doueni,-12.2925,44.4972,3GMT,352
+Comoros,Agnachindra,-12.3672,44.4983,3GMT,352
+Comoros,Agniamuada,-12.3167,43.8500,3GMT,354
+Comoros,Agnochi,-12.3400,44.4817,3GMT,352
+Comoros,Agogo,-12.2317,44.3658,3GMT,353
+Comoros,Ahibambo,-11.8858,43.4533,3GMT,354
+Comoros,Ajangua,-12.8667,45.2167,3GMT,351
+Comoros,Amadzi,-12.2967,43.6347,3GMT,354
+Comoros,Amaha Point,-12.7667,45.2500,3GMT,351
+Comoros,Amohoa,-12.3203,44.4753,3GMT,352
+Comoros,Amoro,-12.8833,45.2333,3GMT,351
+Comoros,Angaro,-12.7500,45.2333,3GMT,351
+Comoros,Angaziga,-11.5861,43.3331,3GMT,354
+Comoros,Anihani,-11.4108,43.2953,3GMT,354
+Comoros,Ankibani,-12.1933,44.3617,3GMT,353
+Comoros,Anse Bambo,-12.9333,45.1833,3GMT,351
+Comoros,Anse Bandeli,-12.9000,45.2167,3GMT,351
+Comoros,Anse Choa,-12.7833,45.2500,3GMT,351
+Comoros,Anse des Cocotiers,-12.8500,45.1000,3GMT,352
+Comoros,Anse Doueny,-12.2667,43.7500,3GMT,354
+Comoros,Anse Ironi,-12.8333,45.2167,3GMT,351
+Comoros,Anse Miambani,-12.9500,45.1833,3GMT,351
+Comoros,Anse Nord Bambo,-12.9167,45.1833,3GMT,351
+Comoros,Antsahe,-12.3564,44.5225,3GMT,352
+Comoros,Aombe,-12.7500,45.2833,3GMT,351
+Comoros,Assimpao,-12.2331,44.3197,3GMT,353
+Comoros,Assomai,-12.3203,44.4647,3GMT,352
+Comoros,Etat Comorien,-12.1667,44.2500,3GMT,353
+Comoros,Famare,-11.8586,43.4233,3GMT,354
+Comoros,Fomboni_Grande Comore,-11.8617,43.4842,3GMT,354
+Comoros,Fomboni_Moheli,-12.2800,43.7425,3GMT,354
+Comoros,Fomboni Road,-12.2667,43.7667,3GMT,354
+Comoros,Foreni,-12.1161,44.4808,3GMT,352
+Comoros,Foret de Moya,-12.2828,44.4606,3GMT,352
+Comoros,Foret du Kartala,-11.8192,43.3842,3GMT,354
+Comoros,Foro Islet,-12.3731,43.7614,3GMT,354
+Comoros,Foumboudzivouni,-11.7058,43.4242,3GMT,354
+Comoros,Foundroni,-12.1817,44.2428,3GMT,353
+Comoros,Founga,-11.4719,43.2950,3GMT,354
+Comoros,Foungue,-12.3414,43.6836,3GMT,354
+Comoros,Gadjou-Lamdjahala,-11.5686,43.3264,3GMT,354
+Comoros,Gaouani,-12.3375,43.7453,3GMT,354
+Comoros,Gnambo Yamaore,-12.2508,43.6692,3GMT,354
+Comoros,Gnantranga,-12.1356,44.4389,3GMT,353
+Comoros,Gnavivi,-12.2828,44.4153,3GMT,353
+Comoros,Gnignijo,-12.3725,44.5217,3GMT,352
+Comoros,Gnouma,-12.2997,44.5089,3GMT,352
+Comoros,Gomajou,-12.3436,44.5367,3GMT,352
+Comoros,Goudjoudai,-12.3456,43.7622,3GMT,354
+Comoros,Goudjoulachamle,-11.4444,43.2644,3GMT,354
+Comoros,Gouhantsahe,-12.3619,44.5244,3GMT,352
+Comoros,Goulagnoundi,-12.3342,43.8053,3GMT,354
+Comoros,Goulaivouani,-11.3878,43.3917,3GMT,354
+Comoros,Goungouamoue,-12.1597,44.4025,3GMT,353
+Comoros,Gouni,-11.6536,43.2567,3GMT,354
+Comoros,Gounzini,-11.8550,43.3958,3GMT,354
+Comoros,Gozibi,-11.5572,43.3372,3GMT,354
+Comoros,Grand Recif du Nord-Est,-12.7000,45.2333,3GMT,351
+Comoros,Grande Passe de l Ouest,-12.8000,45.0000,3GMT,352
+Comoros,Grande Terre,-12.8333,45.1667,3GMT,351
+Comoros,Guamarumbo,-12.2500,43.6833,3GMT,354
+Comoros,Itsikoudi,-11.5836,43.3758,3GMT,354
+Comoros,Jamaue,-12.1936,44.3100,3GMT,353
+Comoros,Jandza,-12.2992,44.4972,3GMT,352
+Comoros,Jeje,-12.2233,44.5225,3GMT,352
+Comoros,Jiandro,-12.3167,43.7833,3GMT,354
+Comoros,Jimilime,-12.0936,44.4636,3GMT,352
+Comoros,Johanna,-12.2500,44.4167,3GMT,353
+Comoros,Jomani,-11.4303,43.2594,3GMT,354
+Comoros,Jongoni,-12.2014,44.3667,3GMT,353
+Comoros,Joumbi,-12.0797,44.4550,3GMT,352
+Comoros,Juaezi,-11.8447,43.3158,3GMT,354
+Comoros,Jumajini Island,-12.3833,43.7167,3GMT,354
+Comoros,Jumeaux Shoals,-12.6500,45.1500,3GMT,351
+Comoros,Jungoni Bay,-12.8500,45.1333,3GMT,352
+Comoros,Kavele,-12.1678,44.5025,3GMT,352
+Comoros,Kombajou,-12.3114,44.4503,3GMT,353
+Comoros,Kotchi,-12.2853,44.4264,3GMT,353
+Comoros,Kounoudjou,-11.8081,43.2728,3GMT,354
+Comoros,La Convalescence,-11.7550,43.3197,3GMT,354
+Comoros,Labanda,-12.3167,43.8167,3GMT,354
+Comoros,Lake Dziani,-12.7667,45.3000,3GMT,351
+Comoros,Longoni,-12.7500,45.1833,3GMT,351
+Comoros,Mbeni,-11.5014,43.3775,3GMT,354
+Comoros,Mnoungou,-11.5178,43.3739,3GMT,354
+Comoros,Moroni,-11.7042,43.2403,3GMT,354
+Comoros,Mutsamudu,-12.1628,44.3964,3GMT,353
+Comoros,Nioumadzaha,-11.7906,43.2664,3GMT,354
+Comoros,Nioumadzaha Voumbari,-11.8394,43.4547,3GMT,354
+Comoros,Oichilidjou,-11.6017,43.3336,3GMT,354
+Comoros,Ongoujou_Anjouan,-12.3100,44.5139,3GMT,352
+Comoros,Ongoujou,-12.8500,45.1667,3GMT,351
+Comoros,Oreilles de Chat,-12.2231,44.4269,3GMT,353
+Comoros,Orestes Rock,-12.7833,45.2667,3GMT,351
+Comoros,Oua Madji,-12.3164,43.8025,3GMT,354
+Comoros,Ouagombe,-11.4297,43.2814,3GMT,354
+Comoros,Ouallah,-12.3256,43.6633,3GMT,354
+Comoros,Ouamlamaele,-11.5931,43.3514,3GMT,354
+Comoros,Ouangani,-11.3819,43.3594,3GMT,354
+Comoros,Ouangoni,-12.3169,44.5244,3GMT,352
+Comoros,Ouela,-11.3903,43.3319,3GMT,354
+Comoros,Ouhoni,-12.3228,43.7850,3GMT,354
+Comoros,Ouhozi,-11.4050,43.2822,3GMT,354
+Comoros,Ouimbi,-12.2317,44.3156,3GMT,353
+Comoros,Oungoni,-11.7531,43.4439,3GMT,354
+Comoros,Ounzouni,-12.3250,44.5150,3GMT,352
+Comoros,Ouongobabounou,-12.2889,43.6758,3GMT,354
+Comoros,Ouroveni,-11.9097,43.4886,3GMT,354
+Comoros,Ousini,-12.2672,44.4797,3GMT,352
+Comoros,Ousivo,-11.5850,43.2672,3GMT,354
+Comoros,Outsa,-12.2786,44.4978,3GMT,352
+Comoros,Outsa Daoueni,-12.2653,44.5050,3GMT,352
+Comoros,Rade de Papany,-12.2667,44.5500,3GMT,352
+Comoros,Ras Habou,-11.3500,43.4000,3GMT,354
+Comoros,Rassi Douamougno,-12.6667,45.1333,3GMT,351
+Comoros,Rassi Gouja,-12.9500,45.1000,3GMT,352
+Comoros,Rassijou,-12.1897,44.3119,3GMT,353
+Comoros,Recif Ajangua,-12.8833,45.2833,3GMT,351
+Comoros,Recif Bambo,-12.9500,45.2333,3GMT,351
+Comoros,Recif Bandele,-12.9000,45.2667,3GMT,351
+Comoros,Recif du Sud,-13.0000,45.0833,3GMT,352
+Comoros,Recif Nord,-12.6000,45.1000,3GMT,352
+Comoros,Recif Pamandzi,-12.8667,45.3000,3GMT,351
+Comoros,Recif Point,-12.9167,45.1000,3GMT,352
+Comoros,Recifs du Laminoir,-12.9000,45.2333,3GMT,351
+Comoros,Reef Islet,-12.8167,45.3000,3GMT,351
+Comoros,Riviere Damu,-12.3142,43.6478,3GMT,354
+Comoros,Riviere Debeney,-12.8333,45.2000,3GMT,351
+Comoros,Roche Moya,-12.2897,44.4275,3GMT,353
+Comoros,Roche Percee,-12.4167,43.7333,3GMT,354
+Comoros,Rocher Blanc,-12.3500,43.9333,3GMT,353
+Comoros,Rocher Conique,-12.2333,44.5333,3GMT,352
+Comoros,Rocher Noir,-12.3833,43.7000,3GMT,354
+Comoros,Rochers Bateaux,-12.3833,43.6500,3GMT,354
+Comoros,Roches Chiconi,-12.2667,43.6167,3GMT,354
+Comoros,Roches Plates,-12.3833,43.6833,3GMT,354
+Comoros,Sadani,-11.6247,43.3614,3GMT,354
+Comoros,Sangani,-11.5214,43.3269,3GMT,354
+Comoros,Shendini,-11.9208,43.4811,3GMT,354
+Comoros,Sima Ambouani,-11.9156,43.4617,3GMT,354
+Comoros,Simouni,-11.8994,43.4961,3GMT,354
+Comoros,Singani,-11.8456,43.3092,3GMT,354
+Comoros,Sombe,-12.1922,44.3206,3GMT,353
+Comoros,Sulu Bay,-12.7833,45.1167,3GMT,352
+Comoros,Uchongui Peak,-12.9500,45.1500,3GMT,352
+Comoros,Vailheu Shoal,-11.8000,43.0667,3GMT,355
+Comoros,Vanadjou,-11.6075,43.2761,3GMT,354
+Comoros,Vanambouani,-11.6114,43.2531,3GMT,354
+Comoros,Vassy,-12.2319,44.3425,3GMT,353
+Comoros,Vatou,-12.7667,45.2667,3GMT,351
+Comoros,Vaucluse,-12.6500,45.1333,3GMT,351
+Comoros,Verte Islet,-12.7167,45.1500,3GMT,351
+Comoros,Veza,-11.4497,43.3697,3GMT,354
+Comoros,Vindjajou,-12.2072,44.3097,3GMT,353
+Comoros,Voani,-12.2442,44.3744,3GMT,353
+Comoros,Vouazissia,-11.8681,43.4889,3GMT,354
+Comoros,Vounambadani,-11.6108,43.2622,3GMT,354
+Comoros,Voundrouvou,-12.2869,43.6603,3GMT,354
+Comoros,Vouvouni,-11.7500,43.2433,3GMT,354
+Comoros,Wanani,-12.3375,43.7975,3GMT,354
+Comoros,Wenefu,-12.3981,43.7061,3GMT,354
+Comoros,Wilson,-12.1556,44.4372,3GMT,353
+Comoros,Zamburu Island,-12.6500,45.0333,3GMT,352
+Comoros,Zaudzi Island,-12.7833,45.2833,3GMT,351
+Comoros,Zembadjou,-11.4842,43.3347,3GMT,354
+Comoros,Zikaledjou,-11.8022,43.2692,3GMT,354
+Comoros,Zironi,-11.5844,43.3811,3GMT,354
+Comoros,Zivandani,-11.6458,43.2658,3GMT,354
+Comoros,Zoumougine,-12.7333,45.1333,3GMT,351

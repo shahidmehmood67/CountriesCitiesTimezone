@@ -1,0 +1,21 @@
+Macau,Baia de Choc-Van_Ilhas,22.1209,113.5681,8,0
+Macau,Baia de Hac Sa_Ilhas,22.1348,113.5848,8,0
+Macau,Barra Point_Macau,22.1931,113.5404,8,0
+Macau,Hac-Tsa_Ilhas,22.1326,113.5743,8,0
+Macau,Ilha Kai Kiong,22.1605,113.5938,8,0
+Macau,Koho Point_Ilhas,22.144,113.594,8,0
+Macau,Koho Tao_Ilhas,22.1274,113.5774,8,0
+Macau,Laut Tjina,15.0108,115.0108,8,0
+Macau,Lui-Tchi-Van_Ilhas,22.1358,113.5608,8,0
+Macau,Macau,22.2109,113.5609,8,0
+Macau,Macau Island,22.3942,113.4276,8,0
+Macau,Macau-Taipa Bridge_Ilhas,22.1942,113.5609,8,0
+Macau,Mountian da Barra_Macau,22.1942,113.5387,8,0
+Macau,Pedra d Areca_Macau,22.1862,113.5445,8,0
+Macau,Penha Hill,22.1945,113.5445,8,0
+Macau,Ponta Cabrita_Ilhas,22.1737,113.5862,8,0
+Macau,Ponta Maria,22.1779,113.5445,8,0
+Macau,Shih-Pai Wan,22.1448,113.5782,8,0
+Macau,Tai Van_Ilhas,22.1449,113.5616,8,0
+Macau,Taipa_Ilhas,22.1616,113.5616,8,0
+Macau,Verde,22.2285,113.5451,8,0

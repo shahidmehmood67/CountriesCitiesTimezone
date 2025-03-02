@@ -1,0 +1,2 @@
+Norfolk Island,Kingston,-29.0393,167.9607,11.5,0
+Norfolk Island,Norfolk Island,-29.0223,167.961,11.5,0

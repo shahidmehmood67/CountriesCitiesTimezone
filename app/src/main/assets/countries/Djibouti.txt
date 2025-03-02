@@ -1,0 +1,121 @@
+Djibouti,Callida,12.7181,43.1569,3GMT,341
+Djibouti,Camp Boulaos,11.5833,43.1500,3GMT,343
+Djibouti,Cap Obock,11.9600,43.2883,3GMT,341
+Djibouti,Cape Korati,11.5833,42.8000,3GMT,345
+Djibouti,Cercle D' Ali-Sabieh,11.2500,43.0000,3GMT,344
+Djibouti,Cercle de Dikhil,11.5000,42.2500,3GMT,347
+Djibouti,Chabellei,11.4892,43.0775,3GMT,343
+Djibouti,Chabellei Yar,11.4569,43.0778,3GMT,343
+Djibouti,Charbiyo,11.3831,42.7881,3GMT,345
+Djibouti,Chaykh Gabod,11.5767,43.1597,3GMT,343
+Djibouti,Cheik Sabir,11.2517,42.2303,3GMT,348
+Djibouti,Cheikh Bourad,11.0525,42.8992,3GMT,345
+Djibouti,Chekheyti,11.0833,42.2833,3GMT,348
+Djibouti,Chil `Igal,11.5439,43.0453,3GMT,343
+Djibouti,Chinle,11.1833,42.7333,3GMT,345
+Djibouti,Chinnile,11.4281,42.9650,3GMT,344
+Djibouti,Chire,11.5344,42.7783,3GMT,345
+Djibouti,Cor di Ras Ali,11.7744,42.9369,3GMT,344
+Djibouti,Couboulto,11.6981,42.6486,3GMT,345
+Djibouti,Curieuse Bank,11.6500,43.1833,3GMT,343
+Djibouti,Djibouti,11.5950,43.1481,3GMT,343
+Djibouti,Jallelo,10.9833,42.9833,3GMT,345
+Djibouti,Jezirat Seba,12.4606,43.4242,3GMT,340
+Djibouti,Nabad,11.0000,42.1000,3GMT,349
+Djibouti,Nafour,12.5694,43.0872,3GMT,341
+Djibouti,Nagad,11.0692,42.3533,3GMT,347
+Djibouti,Nagag,11.8667,42.1000,3GMT,348
+Djibouti,Nagourale,12.3333,43.1500,3GMT,342
+Djibouti,Nakila,12.5411,42.8422,3GMT,343
+Djibouti,Nakilti Gona,11.5667,41.9500,3GMT,349
+Djibouti,Nakir,12.2500,42.3333,3GMT,346
+Djibouti,Namma Afdera,12.3333,42.6500,3GMT,344
+Djibouti,Namma Haki,11.7853,42.2297,3GMT,347
+Djibouti,Namma-Hilou,11.8850,42.1542,3GMT,347
+Djibouti,Nararte,11.7589,42.6483,3GMT,345
+Djibouti,Narig Dabba,11.6819,42.0386,3GMT,348
+Djibouti,Narige Douloul,12.6356,43.1150,3GMT,341
+Djibouti,Narigueita,12.1000,42.9000,3GMT,343
+Djibouti,Na`asle,11.1583,42.9067,3GMT,345
+Djibouti,Na`aslei,11.5022,42.8564,3GMT,344
+Djibouti,Na`asou,12.6186,42.8906,3GMT,342
+Djibouti,Na`sibada,12.3783,43.2897,3GMT,341
+Djibouti,Ne'nele,11.3653,42.2886,3GMT,347
+Djibouti,Nidiq,11.3944,43.0478,3GMT,344
+Djibouti,Ni`ille,11.8053,42.9911,3GMT,343
+Djibouti,Ni`in Bouha,11.7500,42.0833,3GMT,348
+Djibouti,Ni`in Bouyyi,11.6739,42.4631,3GMT,346
+Djibouti,Nohta,12.6108,42.9081,3GMT,342
+Djibouti,Nouho Dabba,12.4578,42.4608,3GMT,345
+Djibouti,Noumhelo,12.2706,42.2817,3GMT,346
+Djibouti,Nounkak`ide Bolo,12.1831,43.0464,3GMT,342
+Djibouti,Nuri Bouyyi,11.3167,42.3333,3GMT,347
+Djibouti,Pain de Sucre,12.2981,43.1842,3GMT,341
+Djibouti,Petit Bara,11.3606,42.6931,3GMT,345
+Djibouti,Petite Passe,11.5500,42.6833,3GMT,345
+Djibouti,Phare d Ambouli,11.5614,43.1236,3GMT,343
+Djibouti,Phare de Hayyabley,11.5533,43.1225,3GMT,343
+Djibouti,Pianura di Gouroumo,11.3333,43.0000,3GMT,344
+Djibouti,Pic Delonche,11.7589,42.6861,3GMT,345
+Djibouti,Pic du Hussard,12.0414,43.0833,3GMT,342
+Djibouti,Pic Lagarde,11.7500,42.6667,3GMT,345
+Djibouti,Plaine de Daala,12.5117,43.0936,3GMT,341
+Djibouti,Plaine de Gaggade,11.4892,42.2808,3GMT,347
+Djibouti,Plaine du Gobaad,11.0367,42.1514,3GMT,348
+Djibouti,Plateau de Ghen,12.3333,43.2500,3GMT,341
+Djibouti,Plateau de Gueguegindo,11.3783,42.8656,3GMT,345
+Djibouti,Plateau du Heron,11.6203,43.1511,3GMT,343
+Djibouti,Plateau of Danakil,13.0000,41.0000,3GMT,353
+Djibouti,Plateaux de Ghelao,12.2422,43.1822,3GMT,342
+Djibouti,Plateaux de Goeuh,12.2356,43.2444,3GMT,341
+Djibouti,Pointe d Oroboru,11.9000,43.1333,3GMT,342
+Djibouti,Pointe de Mido,11.8500,43.1000,3GMT,343
+Djibouti,Pointe des Palmiers,11.6833,42.7500,3GMT,345
+Djibouti,Pointe du Serpent,11.6025,43.1581,3GMT,343
+Djibouti,Pointe Noire,11.5950,43.0675,3GMT,343
+Djibouti,Port du Nord-Est,11.9833,43.3167,3GMT,341
+Djibouti,Port Heron,11.6167,43.1500,3GMT,343
+Djibouti,Port Obock,11.9667,43.3000,3GMT,341
+Djibouti,Poste d Anghor,12.3867,43.3347,3GMT,340
+Djibouti,Poste de Moulhoule,12.5667,43.2167,3GMT,341
+Djibouti,Punta Oursin,11.9500,43.2333,3GMT,342
+Djibouti,Qayrre Goube,11.5594,42.9447,3GMT,344
+Djibouti,Qormaad,11.3511,43.1725,3GMT,343
+Djibouti,Tadjourah,12.0000,42.5000,3GMT,345
+Djibouti,Uardelissan,11.6467,42.5919,3GMT,346
+Djibouti,Ulel,12.3192,42.9564,3GMT,343
+Djibouti,Vallee de Lutela,11.9667,43.2333,3GMT,342
+Djibouti,Vallee de Taguarre,11.9536,43.2006,3GMT,342
+Djibouti,Vallee des Jardins,11.9833,43.2833,3GMT,341
+Djibouti,Visage de Minerve,12.0167,43.1167,3GMT,342
+Djibouti,Yaali,12.1167,42.9000,3GMT,343
+Djibouti,Yabdi,11.9289,42.9536,3GMT,343
+Djibouti,Yabe,11.2714,42.7225,3GMT,345
+Djibouti,Yabillou,12.3239,42.6761,3GMT,344
+Djibouti,Yagali,12.2833,42.8667,3GMT,343
+Djibouti,Yager,11.6731,42.0864,3GMT,348
+Djibouti,Yalahtou,12.0408,42.2072,3GMT,347
+Djibouti,Yamarougle,12.5244,42.9956,3GMT,342
+Djibouti,Yangoula Dalou`,11.6125,42.6817,3GMT,345
+Djibouti,Yangoula Koma,11.1625,42.1914,3GMT,348
+Djibouti,Yangoula `Ale,11.6167,41.9167,3GMT,349
+Djibouti,Yangoulabbahi,12.3833,42.8833,3GMT,343
+Djibouti,Yangoulakkomah Bahari,11.1808,42.1883,3GMT,348
+Djibouti,Yangoulli,12.2500,42.9667,3GMT,343
+Djibouti,Yangoura Ma`our,12.1775,42.4306,3GMT,346
+Djibouti,Yaouli`i,12.0692,42.1147,3GMT,347
+Djibouti,Yarde Madag,12.2103,43.1650,3GMT,342
+Djibouti,Yardi,12.4000,42.9000,3GMT,343
+Djibouti,Yardigoble,11.0881,42.9767,3GMT,344
+Djibouti,Yaw`en Telentou,12.3567,43.3547,3GMT,340
+Djibouti,Yaya,11.8294,43.0681,3GMT,343
+Djibouti,Yaygori,12.2219,42.7233,3GMT,344
+Djibouti,Ya`koubta,12.4606,43.3122,3GMT,340
+Djibouti,Yew`e Douloul,12.5661,43.1758,3GMT,341
+Djibouti,Yey,11.5494,42.9000,3GMT,344
+Djibouti,Yiddigille Afah,12.3744,42.4106,3GMT,345
+Djibouti,Yi`a,11.9319,42.1017,3GMT,348
+Djibouti,Yi`alou,12.4583,42.4294,3GMT,345
+Djibouti,Yoboki,11.5114,42.1064,3GMT,348
+Djibouti,Yoorein,11.9353,42.8481,3GMT,344
+Djibouti,Yoouren,11.1497,42.1461,3GMT,348

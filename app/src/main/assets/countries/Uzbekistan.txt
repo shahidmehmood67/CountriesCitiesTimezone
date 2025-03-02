@@ -1,0 +1,115 @@
+Uzbekistan,Andijan_Andijon,40.7928,72.3536,5,0
+Uzbekistan,Bukhara_Buxoro,39.7845,64.4384,5,0
+Uzbekistan,Edzhan,40.1768,65.5768,5,0
+Uzbekistan,El tamgaly,40.8434,68.9434,5,0
+Uzbekistan,El tay_Navoiy,41.2165,66.1048,5,0
+Uzbekistan,Ellikkala,41.8768,61.1434,5,0
+Uzbekistan,Ellikkalinskiy Rayon_Qoraqalpog iston,42.1768,61.6768,5,0
+Uzbekistan,Erjar_Jizzax,40.672,68.1823,5,0
+Uzbekistan,Erlga_Toshkent,41.4268,69.7601,5,0
+Uzbekistan,Esat_Qashqadaryo,38.9582,66.594,5,0
+Uzbekistan,Eshonguzar_Toshkent,41.2645,69.1645,5,0
+Uzbekistan,Eshquduq Quduk_Navoiy,41.5357,66.1251,5,0
+Uzbekistan,Eski,40.8768,72.1101,5,0
+Uzbekistan,Eski Ghazalkent_Toshkent,41.5795,69.7943,5,0
+Uzbekistan,Eski-Alimkent_Toshkent,40.9587,69.1568,5,0
+Uzbekistan,Eski-Tashkent_Toshkent,41.0295,68.9509,5,0
+Uzbekistan,Eskiabad,40.9101,71.1601,5,0
+Uzbekistan,Eskiarab_Farg ona,40.3798,71.4287,5,0
+Uzbekistan,Farghona_Farg ona,40.4035,71.7896,5,0
+Uzbekistan,Farghona Oblasti_Farg ona,40.5102,71.2602,5,0
+Uzbekistan,Farghona Rayon_Farg ona,40.2602,71.7602,5,0
+Uzbekistan,Farg`ona Shahri_Farg ona,40.3944,71.7991,5,0
+Uzbekistan,Farish,40.5935,66.8769,5,0
+Uzbekistan,Farkhad_Sirdaryo,40.261,68.911,5,0
+Uzbekistan,Fayzabad_Andijon,40.6991,72.2877,5,0
+Uzbekistan,Fayziabad_Farg ona,40.418,71.6177,5,0
+Uzbekistan,Fayzova_Surxondaryo,38.2013,67.9752,5,0
+Uzbekistan,Fayzyabad_Qashqadaryo,38.7883,65.7524,5,0
+Uzbekistan,Fazyl -Kushty_Surxondaryo,38.4935,67.9646,5,0
+Uzbekistan,Fedchenko_Farg ona,40.5705,72.0821,5,0
+Uzbekistan,Feok-Tau,42.0269,60.4769,5,0
+Uzbekistan,Fergana,40.5769,68.3769,5,0
+Uzbekistan,Forish Rayoni_Jizzax,40.6769,67.2602,5,0
+Uzbekistan,Frunze Rayoni,41.3435,69.3102,5,0
+Uzbekistan,Hamza_Farg ona,40.4368,71.506,5,0
+Uzbekistan,Hamza Tumani_Toshkent Shahri,41.306,69.3568,5,0
+Uzbekistan,Haqqulobod_Namangan,40.9271,72.1271,5,0
+Uzbekistan,Hazorasp_Xorazm,41.3298,61.0846,5,0
+Uzbekistan,Hazorasp Tumani_Xorazm,41.2604,61.1771,5,0
+Uzbekistan,Hishrov_Samarqand,39.6618,66.9035,5,0
+Uzbekistan,Jagsak-Kum Sandwuste,39.5439,64.2606,5,0
+Uzbekistan,Jaihun_Qoraqalpog iston,43.6773,59.0273,5,0
+Uzbekistan,Jan-Cheka,38.3606,68.0773,5,0
+Uzbekistan,Janschabad,39.7273,64.1773,5,0
+Uzbekistan,Janub Wokzali_Toshkent Shahri,41.2764,69.2662,5,0
+Uzbekistan,Janubiy Surxon Suv Ombori_Surxondaryo,37.8664,67.6678,5,0
+Uzbekistan,Jarqo rg on_Surxondaryo,37.5195,67.4339,5,0
+Uzbekistan,Jau,40.5939,71.1273,5,0
+Uzbekistan,Jizzakh Shahri_Jizzax,40.1264,67.8528,5,0
+Uzbekistan,Jizzakh Wiloyati_Jizzax,40.3439,67.6773,5,0
+Uzbekistan,Jizzax Tumani_Jizzax,40.0939,67.8439,5,0
+Uzbekistan,Jo ynoy_Qashqadaryo,38.9417,65.2781,5,0
+Uzbekistan,Jomashuy_Namangan,40.8764,71.4731,5,0
+Uzbekistan,Jomboy Shahri_Samarqand,39.7095,67.1039,5,0
+Uzbekistan,Jomboy Tumani_Samarqand,39.7606,67.1773,5,0
+Uzbekistan,Joncheka,38.3606,68.0939,5,0
+Uzbekistan,Jondor_Buxoro,39.7506,64.19,5,0
+Uzbekistan,Juma Shahri_Samarqand,39.7228,66.6803,5,0
+Uzbekistan,Juma-Bazar_Samarqand,39.5209,67.2098,5,0
+Uzbekistan,Jumabozor_Toshkent,41.2445,69.5181,5,0
+Uzbekistan,Karshi_Qashqadaryo,38.874,65.8085,5,0
+Uzbekistan,Karshinskaya Step,39.1774,65.6774,5,0
+Uzbekistan,Karshinskiy Rayon_Qashqadaryo,38.844,65.7607,5,0
+Uzbekistan,Langar_Farg ona,40.5347,71.6608,5,0
+Uzbekistan,Laylik,37.7275,66.9608,5,0
+Uzbekistan,Lenin Yuly,41.2275,71.4941,5,0
+Uzbekistan,Leskhoz,41.8941,61.0941,5,0
+Uzbekistan,Lok-Kazak,38.8108,66.2775,5,0
+Uzbekistan,Loyish_Samarqand,39.8947,66.7589,5,0
+Uzbekistan,Luchak_Surxondaryo,38.3894,67.4358,5,0
+Uzbekistan,Lugumbek_Andijon,40.9802,72.2258,5,0
+Uzbekistan,Lukman,39.8108,64.1775,5,0
+Uzbekistan,Lunacharskiy_Toshkent Shahri,41.3477,69.3325,5,0
+Uzbekistan,Lyagin,40.1608,68.8941,5,0
+Uzbekistan,Lyangar,39.3608,66.6775,5,0
+Uzbekistan,Namangan Shahri_Namangan,41.011,71.6777,5,0
+Uzbekistan,Navoiy Shahri_Navoiy,40.0954,65.3902,5,0
+Uzbekistan,Samarkand,40.4448,67.9782,5,0
+Uzbekistan,Samarkand_Samarqand,39.6657,66.9712,5,0
+Uzbekistan,Samarkand Oblast_Samarqand,39.5948,66.5948,5,0
+Uzbekistan,Tashbulak_Qashqadaryo,38.9777,67.1508,5,0
+Uzbekistan,Tashbulak_Namangan,40.9316,71.5916,5,0
+Uzbekistan,Tashbulak,40.2949,65.9283,5,0
+Uzbekistan,Tashkent,40.1449,68.3783,5,0
+Uzbekistan,Tashkent_Toshkent Shahri,41.3283,69.2616,5,0
+Uzbekistan,Tashkent Oblast_Toshkent,41.0116,69.6783,5,0
+Uzbekistan,Tashkent Passazhirskiy_Toshkent Shahri,41.3027,69.2994,5,0
+Uzbekistan,Tashkentskiy Kanal_Toshkent,40.8283,69.3894,5,0
+Uzbekistan,Tashkentskiy Rayon_Toshkent,41.4116,69.2116,5,0
+Uzbekistan,Tashkentskoye More_Toshkent,40.9797,69.3294,5,0
+Uzbekistan,Termez_Surxondaryo,37.2358,67.2899,5,0
+Uzbekistan,Urganch Shahri_Xorazm,41.5617,60.645,5,0
+Uzbekistan,Vakhshivar_Surxondaryo,38.3401,67.6396,5,0
+Uzbekistan,Vandob_Surxondaryo,37.7118,66.6285,5,0
+Uzbekistan,Vardanzi,40.1618,64.4451,5,0
+Uzbekistan,Varganzi,39.2451,67.0285,5,0
+Uzbekistan,Varsin,39.6451,67.0618,5,0
+Uzbekistan,Varzak,40.5451,71.7451,5,0
+Uzbekistan,Wobkent_Buxoro,40.0422,64.5269,5,0
+Uzbekistan,Wobkent Tumani_Buxoro,40.0119,64.5119,5,0
+Uzbekistan,Wodil_Farg ona,40.1858,71.7394,5,0
+Uzbekistan,Wozrojdeniye Orol,45.0619,59.2119,5,0
+Uzbekistan,Xalqobod_Surxondaryo,37.4731,66.9339,5,0
+Uzbekistan,Xatirchi Tumani_Navoiy,40.1787,66.012,5,0
+Uzbekistan,Xisorak_Surxondaryo,38.5787,67.812,5,0
+Uzbekistan,Xo jakulusun_Surxondaryo,38.2412,68.3534,5,0
+Uzbekistan,Xonjizza_Surxondaryo,38.6003,67.5856,5,0
+Uzbekistan,Xorazm Viloyati_Xorazm,41.512,60.512,5,0
+Uzbekistan,Xovat_Surxondaryo,38.7678,67.8189,5,0
+Uzbekistan,Xo`japiryox Tog`_Surxondaryo,38.7717,67.5973,5,0
+Uzbekistan,Xufar_Surxondaryo,38.5539,67.7742,5,0
+Uzbekistan,Zarafshan,39.5455,63.7622,5,0
+Uzbekistan,Zarafshan_Navoiy,41.5914,64.2197,5,0
+Uzbekistan,Zarafshanskiy Oazis,40.1789,65.3455,5,0
+Uzbekistan,Zyadin,40.0455,65.6789,5,0

@@ -1,0 +1,137 @@
+Martinique,Daubert,14.6767,-60.9733,-4,0
+Martinique,Delivry,14.4933,-60.9067,-4,0
+Martinique,Demare,14.8267,-61.1067,-4,0
+Martinique,Derriere Morne,14.76,-60.9733,-4,0
+Martinique,Derriere-Bois,14.66,-60.99,-4,0
+Martinique,Desforts,14.7267,-60.9567,-4,0
+Martinique,Desroses,14.6267,-60.9233,-4,0
+Martinique,Deux Choux,14.7433,-61.09,-4,0
+Martinique,Diamant,14.4767,-61.0233,-4,0
+Martinique,Diamond Bank,14.4433,-61.0233,-4,0
+Martinique,Diamond Rock,14.46,-61.0233,-4,0
+Martinique,Dominante,14.7933,-61.0233,-4,0
+Martinique,Dominica Channel,15.1767,-61.24,-4,0
+Martinique,Douane Bank,14.4767,-60.8733,-4,0
+Martinique,Duchesne,14.6433,-60.94,-4,0
+Martinique,Duhaumont,14.8267,-61.0233,-4,0
+Martinique,Dumaine,14.5933,-60.89,-4,0
+Martinique,Duquesne,14.5933,-60.9233,-4,0
+Martinique,Durocher,14.66,-60.9733,-4,0
+Martinique,Duvallon,14.6767,-61.1567,-4,0
+Martinique,Edouard,14.7268,-61.1566,-4,0
+Martinique,Embarcadere Lareinty,14.5934,-61.0066,-4,0
+Martinique,Esperance,14.6268,-60.8899,-4,0
+Martinique,Eudorcait,14.7601,-61.0066,-4,0
+Martinique,Eyma,14.8768,-61.1066,-4,0
+Martinique,Fort-de-France,14.6102,-61.0731,-4,0
+Martinique,Gaalon,14.6603,-60.873,-4,0
+Martinique,Gallochat,14.527,-61.0564,-4,0
+Martinique,Gerbault,14.6103,-61.0397,-4,0
+Martinique,Glotin,14.6936,-60.9897,-4,0
+Martinique,Gondeau,14.627,-61.023,-4,0
+Martinique,Gondeau-Saint-Joseph,14.6436,-61.023,-4,0
+Martinique,Grand Fond,14.727,-60.9397,-4,0
+Martinique,Grande Anse,14.7103,-61.173,-4,0
+Martinique,Grande Anse des Salines,14.4103,-60.873,-4,0
+Martinique,Grande Riviere,14.877,-61.173,-4,0
+Martinique,Grande-Seche,14.5936,-61.0564,-4,0
+Martinique,Gros Roche,14.6603,-60.8897,-4,0
+Martinique,Gros-Morne,14.7103,-60.9897,-4,0
+Martinique,Guenot,14.4936,-60.8897,-4,0
+Martinique,Guinee-Fleury,14.527,-60.923,-4,0
+Martinique,Haut Perinelle,14.7937,-61.1563,-4,0
+Martinique,Hauteur de Terreville,14.6437,-61.0896,-4,0
+Martinique,Hauteurs Bourdon,14.8604,-61.1229,-4,0
+Martinique,Havre de la Trinite,14.7437,-60.9396,-4,0
+Martinique,Havre du Robert,14.6771,-60.9063,-4,0
+Martinique,Hospital Cay,14.7604,-61.1729,-4,0
+Martinique,Ile Chancel,14.6938,-60.8728,-4,0
+Martinique,Ile Pointe Grenade,14.5772,-60.8228,-4,0
+Martinique,Ilet Aubin,14.6272,-60.8562,-4,0
+Martinique,Ilet aux Rats,14.6938,-60.8895,-4,0
+Martinique,Ilet Bouchard,14.6438,-60.8562,-4,0
+Martinique,Ilet Cabrit,14.3938,-60.8562,-4,0
+Martinique,Ilet Fregate,14.6105,-60.8562,-4,0
+Martinique,Ilet la Perle,14.8438,-61.2062,-4,0
+Martinique,Ilet Larose,14.6772,-60.8728,-4,0
+Martinique,Ilet Lezards,14.4272,-60.8228,-4,0
+Martinique,Ilet Pele,14.6105,-60.8395,-4,0
+Martinique,Ilet Petit Vincent,14.6938,-60.9062,-4,0
+Martinique,Ilet Saint-Aubin,14.7772,-60.9562,-4,0
+Martinique,Ilet Thiery,14.6272,-60.8395,-4,0
+Martinique,Ilet Tois Roux,14.4105,-60.8228,-4,0
+Martinique,Ilets aux Chiens,14.4438,-60.8062,-4,0
+Martinique,Jacob Hill,14.7773,-61.0727,-4,0
+Martinique,Jean-Baptiste,14.4606,-60.8894,-4,0
+Martinique,Jeanne d Arc,14.6439,-61.0061,-4,0
+Martinique,Jonction,14.6773,-61.0061,-4,0
+Martinique,Josseaud,14.5273,-60.8727,-4,0
+Martinique,Negro Point,14.5943,-61.0723,-4,0
+Martinique,Nord Plage,14.8777,-61.139,-4,0
+Martinique,Nouvelle Cite,14.7777,-61.0057,-4,0
+Martinique,Olbian Reef,14.4778,-61.0056,-4,0
+Martinique,Sagesse,14.5115,-60.9718,-4,0
+Martinique,Saingaule,14.5115,-60.9052,-4,0
+Martinique,Saint Esprit,14.5615,-60.9218,-4,0
+Martinique,Saint Pierre Roadstead,14.7448,-61.1718,-4,0
+Martinique,Saint-Laurent,14.5948,-60.9052,-4,0
+Martinique,Saint-Roch,14.6115,-60.9385,-4,0
+Martinique,Sainte Catherine,14.6282,-61.0885,-4,0
+Martinique,Sainte-Luce,14.4782,-60.9052,-4,0
+Martinique,Saline Lake,14.4115,-60.8552,-4,0
+Martinique,Sans Pareil,14.5115,-60.9552,-4,0
+Martinique,Sans-Souci Cays,14.5948,-60.8052,-4,0
+Martinique,Sarraut,14.6448,-60.9552,-4,0
+Martinique,Saut Manoel,14.7782,-61.1385,-4,0
+Martinique,Savane Petit,14.7782,-61.1052,-4,0
+Martinique,Schoelcher,14.6115,-61.0885,-4,0
+Martinique,Seche San Justan,14.5782,-61.0218,-4,0
+Martinique,Seguineau,14.8448,-61.0218,-4,0
+Martinique,Serail,14.6948,-61.0218,-4,0
+Martinique,Simson,14.6948,-61.1385,-4,0
+Martinique,Sinai,14.7282,-61.0218,-4,0
+Martinique,Soudon-Kerfily,14.6448,-60.9718,-4,0
+Martinique,Source Agathe,14.6782,-61.0718,-4,0
+Martinique,Sugar Loaf Peak,14.8448,-61.1718,-4,0
+Martinique,Sugarloaf Rock,14.8115,-60.9885,-4,0
+Martinique,Table du Diable,14.7783,-60.8551,-4,0
+Martinique,Tafard Bay,14.4783,-61.0384,-4,0
+Martinique,Tartane,14.7616,-60.9051,-4,0
+Martinique,Taupiniere,14.4783,-60.9717,-4,0
+Martinique,Terres d Absalon,14.6949,-61.0884,-4,0
+Martinique,Terres Sainville,14.6116,-61.0551,-4,0
+Martinique,Terreville,14.6616,-61.0884,-4,0
+Martinique,Toraille,14.5283,-60.9551,-4,0
+Martinique,Tourtet,14.6449,-61.0551,-4,0
+Martinique,Touza,14.6449,-61.0717,-4,0
+Martinique,Trianon,14.6283,-60.9051,-4,0
+Martinique,Trinite,14.7449,-60.9551,-4,0
+Martinique,Trois Rivieres,14.4783,-60.9551,-4,0
+Martinique,Trois-Ilets,14.5449,-61.0217,-4,0
+Martinique,Trou Chien,14.8449,-61.0551,-4,0
+Martinique,Trou Domingue,14.7949,-60.9717,-4,0
+Martinique,Trou Grec,14.8116,-61.0217,-4,0
+Martinique,Trou Jacqueline,14.4783,-61.0717,-4,0
+Martinique,Trou Madame,14.5449,-61.0717,-4,0
+Martinique,Trou Maringouins,14.6116,-60.9884,-4,0
+Martinique,Trou Monnerot,14.6283,-60.8717,-4,0
+Martinique,Trou Terre,14.6949,-60.9217,-4,0
+Martinique,Union en Bas,14.795,-61.005,-4,0
+Martinique,Union en Haut,14.8117,-61.005,-4,0
+Martinique,Union-Dostaly,14.6117,-60.8716,-4,0
+Martinique,Urion,14.7117,-61.1216,-4,0
+Martinique,Val d Or,14.4451,-60.8549,-4,0
+Martinique,Vauclin,14.5451,-60.8215,-4,0
+Martinique,Vauclin Cays,14.5785,-60.8049,-4,0
+Martinique,Vauclin Channel,14.5451,-60.8049,-4,0
+Martinique,Verrier,14.6951,-61.1215,-4,0
+Martinique,Viala,14.8285,-61.2049,-4,0
+Martinique,Victoire,14.6118,-60.9215,-4,0
+Martinique,Vieille Terre,14.5451,-60.8882,-4,0
+Martinique,Vive,14.8451,-61.0715,-4,0
+Martinique,Vivies,14.8451,-61.1049,-4,0
+Martinique,Voltaire,14.6951,-60.9382,-4,0
+Martinique,Watel,14.7286,-60.9714,-4,0
+Martinique,Zabeth,14.6955,-60.9545,-4,0
+Martinique,Zobeide,14.7622,-61.1211,-4,0
+Martinique,Zombis Rock,14.4955,-60.8711,-4,0

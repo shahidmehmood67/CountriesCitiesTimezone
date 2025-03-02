@@ -1,0 +1,3 @@
+Falkland Islands Malvinas,Abra Crooked,-51.5403,-60.2736,-4,84
+Falkland Islands Malvinas,George Island,-52.3064,-59.7397,-4,84
+Falkland Islands Malvinas,Port Stanley,-51.6888,-57.8388,-4,82

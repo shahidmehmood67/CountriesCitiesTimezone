@@ -1,0 +1,15 @@
+Monaco,Anse de la Grue,43.7403,7.4314,1,0
+Monaco,Anse du Portier,43.7514,7.4419,1,0
+Monaco,Jardin Exotique,43.7273,7.4106,1,0
+Monaco,Monaco-Ville,43.7442,7.4276,1,0
+Monaco,Moneghetti,43.7484,7.4262,1,0
+Monaco,Monte Carlo,43.7401,7.4266,1,0
+Monaco,Pointe de la Poudriere,43.7431,7.439,1,0
+Monaco,Pointe Saint-Antoine,43.7445,7.439,1,0
+Monaco,Pointe Saint-Martin,43.7418,7.4362,1,0
+Monaco,Port de Fontvieille,43.7418,7.432,1,0
+Monaco,Port de La Condamine,43.7473,7.4362,1,0
+Monaco,Principality of Monaco,43.7445,7.4112,1,0
+Monaco,Reserve Sous-marine de Monaco,43.7572,7.4508,1,0
+Monaco,Rocher de Monaco,43.7447,7.4447,1,0
+Monaco,Stade Louis Deux,43.7282,7.4282,1,0

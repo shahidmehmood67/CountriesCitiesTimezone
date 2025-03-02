@@ -1,0 +1,994 @@
+Spain,Ablitas_Navarra,41.9764,-1.6236,1,0
+Spain,Abrera_Cataluna,41.5264,1.9097,1,0
+Spain,Acebo_Extremadura,40.2097,-6.707,1,0
+Spain,Adeje_Canarias,28.1264,-16.707,0,0
+Spain,Adios_Navarra,42.693,-1.7236,1,0
+Spain,Adra_Andalucia,36.743,-3.007,1,0
+Spain,Adrada de Haza_Castilla y Leon,41.6097,-3.807,1,0
+Spain,Adrada de Piron_Castilla y Leon,41.0597,-4.0403,1,0
+Spain,Adrall_Cataluna,42.3264,1.4097,1,0
+Spain,Ael_Castilla y Leon,42.893,-3.357,1,0
+Spain,Aeropuerto de Torrejon_Madrid,40.493,-3.457,1,0
+Spain,Aes_Cantabria,43.293,-3.9403,1,0
+Spain,Aeta_Pais Vasco,43.0764,-2.2903,1,0
+Spain,Afur_Canarias,28.5597,-16.2403,0,0
+Spain,Aguiar_Galicia,43.093,-7.5236,1,0
+Spain,Aguilar de la Frontera_Andalucia,37.5264,-4.6403,1,0
+Spain,Aguilas_Murcia,37.4097,-1.5736,1,0
+Spain,Ahedo_Cantabria,43.343,-3.3736,1,0
+Spain,Ahedo_Pais Vasco,43.243,-3.3403,1,0
+Spain,Ahedo_Castilla y Leon,42.0097,-3.3403,1,0
+Spain,Ahigal_Extremadura,40.193,-6.1736,1,0
+Spain,Ahigal de los Aceiteros_Castilla y Leon,40.8764,-6.7236,1,0
+Spain,Ahigal de Villarino_Castilla y Leon,41.1597,-6.357,1,0
+Spain,Ahillas_Valenciana,39.8264,-0.957,1,0
+Spain,Ahillones_Extremadura,38.2764,-5.8403,1,0
+Spain,Ahin_Valenciana,39.9097,-0.3236,1,0
+Spain,Aibar_Navarra,42.6097,-1.3403,1,0
+Spain,Aiguavella_Cataluna,42.443,1.0097,1,0
+Spain,Ailanes_Castilla y Leon,42.8764,-3.7236,1,0
+Spain,Aincialde de Arizcun_Navarra,43.1764,-1.4736,1,0
+Spain,Aineto_Aragon,42.393,-0.1736,1,0
+Spain,Ainielle_Aragon,42.593,-0.2236,1,0
+Spain,Ainzon_Aragon,41.8264,-1.507,1,0
+Spain,Airoa_Galicia,42.8097,-6.9736,1,0
+Spain,Aisa_Aragon,42.693,-0.607,1,0
+Spain,Aitzgorri_Pais Vasco,42.9597,-2.3236,1,0
+Spain,Aizarnazabal_Pais Vasco,43.2764,-2.2236,1,0
+Spain,Aizoain_Navarra,42.8597,-1.6236,1,0
+Spain,Aja_Cataluna,42.4264,1.9597,1,0
+Spain,Aja_Cantabria,43.2097,-3.507,1,0
+Spain,Ajalvir_Madrid,40.543,-3.4736,1,0
+Spain,Ajamil_La Rioja,42.1764,-2.4736,1,0
+Spain,Ajanedo_Cantabria,43.2764,-3.6903,1,0
+Spain,Ajarte_Castilla y Leon,42.7597,-2.6236,1,0
+Spain,Ajo_Cantabria,43.493,-3.607,1,0
+Spain,Ajofrin_Castilla-La Manacha,39.7597,-3.9736,1,0
+Spain,Ajurias_Pais Vasco,43.2597,-2.6403,1,0
+Spain,Alava_Pais Vasco,42.843,-2.7403,1,0
+Spain,Albacete_Castilla-La Manacha,38.993,-1.8403,1,0
+Spain,Albatera_Valenciana,38.193,-0.857,1,0
+Spain,Albir_Valenciana,38.593,-0.057,1,0
+Spain,Albox_Andalucia,37.393,-2.1236,1,0
+Spain,Alcacer_Valenciana,39.3764,-0.4236,1,0
+Spain,Alcala de Henares_Madrid,40.493,-3.357,1,0
+Spain,Alcazar de San Juan_Castilla-La Manacha,39.4097,-3.1903,1,0
+Spain,Alcira_Valenciana,39.1597,-0.4236,1,0
+Spain,Alcorcon_Madrid,40.3597,-3.8236,1,0
+Spain,Alcoy_Valenciana,38.7097,-0.457,1,0
+Spain,Alcudia_Islas Baleares,39.8764,3.1264,1,0
+Spain,Alfaro_La Rioja,42.193,-1.7403,1,0
+Spain,Algar_Murcia,37.6597,-0.857,1,0
+Spain,Algeciras_Andalucia,36.1372,-5.4442,1,0
+Spain,Alhama de Murcia_Murcia,37.8597,-1.407,1,0
+Spain,Alicante_Valenciana,38.3597,-0.4736,1,0
+Spain,Aljorra_Murcia,37.7097,-1.0736,1,0
+Spain,Allo_Navarra,42.5764,-2.007,1,0
+Spain,Almansa_Castilla-La Manacha,38.8764,-1.0736,1,0
+Spain,Almazan_Castilla y Leon,41.493,-2.5236,1,0
+Spain,Almendralejo_Extremadura,38.693,-6.3903,1,0
+Spain,Almeria_Andalucia,36.843,-2.4403,1,0
+Spain,Almeria roadstead_Andalucia,36.8264,-2.457,1,0
+Spain,Almonte_Andalucia,37.2744,-6.5067,1,0
+Spain,Almoradi_Valenciana,38.1264,-0.757,1,0
+Spain,Almunecar_Andalucia,36.7264,-3.6736,1,0
+Spain,Almunia de Dona Godina_Aragon,41.493,-1.357,1,0
+Spain,Alsasua_Navarra,42.8764,-2.157,1,0
+Spain,Altea_Valenciana,38.6097,-0.0403,1,0
+Spain,Altura_Valenciana,39.8597,-0.507,1,0
+Spain,Ambas Aguas_La Rioja,42.1264,-2.157,1,0
+Spain,Ametlla de Mar_Cataluna,40.9097,0.8097,1,0
+Spain,Amposta_Cataluna,40.7264,0.593,1,0
+Spain,Amurrio_Pais Vasco,43.0597,-2.9903,1,0
+Spain,Andosilla_Navarra,42.393,-1.657,1,0
+Spain,Andraitx_Islas Baleares,39.593,2.4264,1,0
+Spain,Andujar_Andalucia,38.0597,-4.057,1,0
+Spain,Angles_Cataluna,41.9597,2.6597,1,0
+Spain,Antigua_Canarias,28.4264,-14.007,0,0
+Spain,Aoiz_Navarra,42.793,-1.357,1,0
+Spain,Aorlos_Madrid,41.0597,-3.5736,1,0
+Spain,Aorroyomolinos_Madrid,40.2764,-3.8903,1,0
+Spain,Aos_Navarra,42.7597,-1.3736,1,0
+Spain,Aozaraza_Pais Vasco,43.043,-2.4736,1,0
+Spain,Aozo_Pais Vasco,43.1097,-2.0736,1,0
+Spain,Apies_Aragon,42.2264,-0.3903,1,0
+Spain,Aplacadoiro_Galicia,43.1764,-8.9903,1,0
+Spain,Apregacion_Galicia,42.9764,-7.7903,1,0
+Spain,Aquilue_Aragon,42.393,-0.4736,1,0
+Spain,Aquitanicus Sinus,44.0097,-3.9903,0,0
+Spain,Aranda de Duero_Castilla y Leon,41.693,-3.6736,1,0
+Spain,Aranjuez_Madrid,40.043,-3.5903,1,0
+Spain,Arbos_Cataluna,41.2764,1.6097,1,0
+Spain,Arenys de Mar_Cataluna,41.593,2.5597,1,0
+Spain,Arnedo_La Rioja,42.2264,-2.0903,1,0
+Spain,Arrecife_Canarias,28.9597,-13.5236,0,0
+Spain,Arrecife_Andalucia,37.7097,-4.8903,1,0
+Spain,Arroyo de la Miel_Andalucia,36.6097,-4.5236,1,0
+Spain,Arteijo_Galicia,43.3097,-8.4903,1,0
+Spain,Ascarza_Pais Vasco,42.843,-2.607,1,0
+Spain,Asiego_Asturias,43.343,-4.8403,1,0
+Spain,Asma_Galicia,42.6264,-7.7736,1,0
+Spain,Ason_Cantabria,43.243,-3.5903,1,0
+Spain,Aspay_Galicia,43.093,-7.657,1,0
+Spain,Asque_Aragon,42.1764,0.0597,1,0
+Spain,Astigarreta_Pais Vasco,43.093,-2.2236,1,0
+Spain,Astoviza_Pais Vasco,43.043,-2.907,1,0
+Spain,Astrabudua_Pais Vasco,43.3264,-2.9736,1,0
+Spain,Astulez_Pais Vasco,42.893,-3.0736,1,0
+Spain,Asua_Pais Vasco,43.3097,-2.9236,1,0
+Spain,Atalayon_Murcia,37.543,-1.1236,1,0
+Spain,Atallo_Navarra,43.0597,-1.9736,1,0
+Spain,Atamaria_Murcia,37.6097,-0.7903,1,0
+Spain,Atares_Aragon,42.543,-0.607,1,0
+Spain,Atarfe_Andalucia,37.2264,-3.6736,1,0
+Spain,Atea_Aragon,41.1764,-1.5403,1,0
+Spain,Ausejo_La Rioja,42.3597,-2.157,1,0
+Spain,Autol_La Rioja,42.2264,-1.9903,1,0
+Spain,Aveinte_Castilla y Leon,40.793,-4.8236,1,0
+Spain,Avellaneda_La Rioja,42.1764,-2.407,1,0
+Spain,Avellaneda_Castilla y Leon,40.393,-5.3736,1,0
+Spain,Avellanedo_Cantabria,43.0764,-4.507,1,0
+Spain,Avila_Castilla y Leon,40.593,-4.9903,1,0
+Spain,Aviles_Asturias,43.5666,-5.915,1,0
+Spain,Avin_Asturias,43.343,-4.9403,1,0
+Spain,Axpe_Pais Vasco,43.1264,-2.5903,1,0
+Spain,Axpe de Busturia_Pais Vasco,43.393,-2.6903,1,0
+Spain,Aya_Pais Vasco,43.243,-2.1403,1,0
+Spain,Ayamonte_Andalucia,37.2264,-7.3903,1,0
+Spain,Ayarza_Pais Vasco,43.193,-2.5903,1,0
+Spain,Ayazaza_Pais Vasco,43.143,-2.9236,1,0
+Spain,Ayera_Aragon,42.1764,-0.2903,1,0
+Spain,Ayerbe_Aragon,42.293,-0.6736,1,0
+Spain,Ayerbe de Broto_Aragon,42.5597,-0.1236,1,0
+Spain,Ayuela_Castilla y Leon,42.643,-4.6403,1,0
+Spain,Azaceta_Pais Vasco,42.793,-2.4903,1,0
+Spain,Azadon_Castilla y Leon,42.643,-5.7903,1,0
+Spain,Azagra_Navarra,42.3097,-1.8903,1,0
+Spain,Azaila_Aragon,41.293,-0.4736,1,0
+Spain,Azanon_Castilla-La Manacha,40.693,-2.5236,1,0
+Spain,Azcamellas_Castilla y Leon,41.143,-2.407,1,0
+Spain,Azcoaga_Pais Vasco,43.043,-2.5403,1,0
+Spain,Azcoitia_Pais Vasco,43.193,-2.2903,1,0
+Spain,Aznalcazar_Andalucia,37.3158,-6.2384,1,0
+Spain,Azpeitia_Pais Vasco,43.193,-2.257,1,0
+Spain,Azuaga_Extremadura,38.2764,-5.6736,1,0
+Spain,Azuqueca de Henares_Castilla-La Manacha,40.5764,-3.257,1,0
+Spain,Badajoz_Extremadura,38.8931,-6.9569,1,0
+Spain,Badalona_Cataluna,41.4598,2.2598,1,0
+Spain,Baeza_Andalucia,37.9931,-3.4569,1,0
+Spain,Balaguer_Cataluna,41.7931,0.8265,1,0
+Spain,Barbastro_Aragon,42.0431,0.1431,1,0
+Spain,Barcelona_Cataluna,41.3931,2.1931,1,0
+Spain,Barcelones_Cataluna,41.4265,2.1598,1,0
+Spain,Bargas_Castilla-La Manacha,39.9431,-4.0402,1,0
+Spain,Baza_Andalucia,37.4931,-2.7569,1,0
+Spain,Beasain_Pais Vasco,43.0598,-2.1735,1,0
+Spain,Bejar_Castilla y Leon,40.3931,-5.7569,1,0
+Spain,Benalmadena_Andalucia,36.6098,-4.5569,1,0
+Spain,Benavente_Castilla y Leon,42.0098,-5.6735,1,0
+Spain,Benicarlo_Valenciana,40.4265,0.4431,1,0
+Spain,Benidorm_Valenciana,38.5431,-0.1235,1,0
+Spain,Beniel_Murcia,38.0598,-0.9902,1,0
+Spain,Benitachell_Valenciana,38.7431,0.1598,1,0
+Spain,Berga_Cataluna,42.1098,1.8598,1,0
+Spain,Bibiles_Aragon,42.4431,0.6765,1,0
+Spain,Biduedo_Galicia,42.9765,-7.1735,1,0
+Spain,Biert_Cataluna,42.0931,2.7265,1,0
+Spain,Bilbao_Pais Vasco,43.2598,-2.9569,1,0
+Spain,Bilbao Bay_Pais Vasco,43.3598,-3.0402,1,0
+Spain,Binefar_Aragon,41.8598,0.3098,1,0
+Spain,Biniali_Islas Baleares,39.6431,2.8598,1,0
+Spain,Bizkaia_Pais Vasco,43.2598,-2.9069,1,0
+Spain,Blanca_Murcia,38.1931,-1.3569,1,0
+Spain,Blanes_Cataluna,41.6931,2.8098,1,0
+Spain,Bollullos par del Condado_Andalucia,37.3431,-6.5235,1,0
+Spain,Bribiesca_Castilla y Leon,42.5598,-3.3069,1,0
+Spain,Burela_Galicia,43.6598,-7.3902,1,0
+Spain,Burgos_Castilla y Leon,42.3598,-3.6902,1,0
+Spain,Burriana_Valenciana,39.9098,-0.0569,1,0
+Spain,Cabezo de Torres_Murcia,38.0432,-1.1068,1,0
+Spain,Caceres_Extremadura,39.4932,-6.3568,1,0
+Spain,Cadaques_Cataluna,42.2932,3.2932,1,0
+Spain,Cadiz_Andalucia,36.5435,-6.2895,1,0
+Spain,Cadreita_Navarra,42.2266,-1.6734,1,0
+Spain,Cala de Tamariu_Cataluna,41.9266,3.2266,1,0
+Spain,Calaf_Cataluna,41.7432,1.5266,1,0
+Spain,Calafell_Cataluna,41.1932,1.5766,1,0
+Spain,Calahonda_Andalucia,36.7099,-3.4068,1,0
+Spain,Calahorra_Castilla y Leon,42.5766,-4.3734,1,0
+Spain,Calahorra_La Rioja,42.3099,-1.9568,1,0
+Spain,Calasparra_Murcia,38.2432,-1.6901,1,0
+Spain,Calatayud_Aragon,41.3599,-1.6234,1,0
+Spain,Calella_Asturias,43.5599,-6.5568,1,0
+Spain,Calella_Cataluna,41.6266,2.6766,1,0
+Spain,Caleta de Fustes_Canarias,28.3932,-13.8401,0,0
+Spain,Callosa de Segura_Valenciana,38.1432,-0.8568,1,0
+Spain,Calonge_Cataluna,41.8766,3.0932,1,0
+Spain,Calpe_Valenciana,38.6599,0.0599,1,0
+Spain,Cambrils_Cataluna,41.0766,1.0599,1,0
+Spain,Canarias,28.0099,-15.4901,0,0
+Spain,Cangas de Narcea_Asturias,43.1932,-6.5401,1,0
+Spain,Cantabrian Mountains,43.0099,-4.9901,1,0
+Spain,Carboneras_Andalucia,36.9932,-1.8901,1,0
+Spain,Cartagena_Murcia,37.6099,-0.9734,1,0
+Spain,Cartaya_Andalucia,37.2932,-7.1401,1,0
+Spain,Casinos_Valenciana,39.7099,-0.6901,1,0
+Spain,Caspe_Aragon,41.2432,-0.0234,1,0
+Spain,Castejon_Navarra,42.1766,-1.6901,1,0
+Spain,Castelldefels_Cataluna,41.2932,1.9766,1,0
+Spain,Castellon_Valenciana,40.1766,-0.1568,1,0
+Spain,Castellon de Ampurias_Cataluna,42.2599,3.0932,1,0
+Spain,Castellon de la Plana_Valenciana,39.9932,-0.0234,1,0
+Spain,Catalonia,42.0099,2.0099,1,0
+Spain,Catarroja_Valenciana,39.4099,-0.3901,1,0
+Spain,Catral_Valenciana,38.1599,-0.8234,1,0
+Spain,Caudete_Castilla-La Manacha,38.7099,-0.9734,1,0
+Spain,Cehegin_Murcia,38.1099,-1.7901,1,0
+Spain,Cenia_Cataluna,40.6432,0.2932,1,0
+Spain,Cerdanola_Cataluna,41.4932,2.1432,1,0
+Spain,Cervera_Cataluna,41.6766,1.2932,1,0
+Spain,Ceuta,35.9002,-5.2976,1,0
+Spain,Chiclana de la Frontera_Andalucia,36.4266,-6.1234,1,0
+Spain,Cieza_Murcia,38.2432,-1.4068,1,0
+Spain,Ciral_Valenciana,40.0599,-0.4401,1,0
+Spain,Ciruena_La Rioja,42.4266,-2.8901,1,0
+Spain,Ciudad Real_Castilla-La Manacha,38.9932,-3.9234,1,0
+Spain,Clacalou_Cataluna,42.2266,2.4932,1,0
+Spain,Cladells_Cataluna,41.8599,2.5766,1,0
+Spain,Clamosa_Aragon,42.2766,0.2432,1,0
+Spain,Clara_Cataluna,41.1599,1.4266,1,0
+Spain,Claramunt_Cataluna,41.5599,1.6932,1,0
+Spain,Claravalls_Cataluna,41.7099,1.1432,1,0
+Spain,Clares_Castilla-La Manacha,41.0432,-2.1234,1,0
+Spain,Clariana_Cataluna,41.9432,1.6432,1,0
+Spain,Clat de Arago_Cataluna,42.7266,0.9432,1,0
+Spain,Clavijo_La Rioja,42.3599,-2.4068,1,0
+Spain,Clavillas_Asturias,43.1766,-6.2401,1,0
+Spain,Clot_Cataluna,41.4266,2.1932,1,0
+Spain,Clot de Adalt,42.4432,1.7432,1,0
+Spain,Clot de Forn_Cataluna,42.2932,1.9099,1,0
+Spain,Clot del Moro_Cataluna,42.2766,1.9932,1,0
+Spain,Clunia_Castilla y Leon,41.7766,-3.3734,1,0
+Spain,Coin_Andalucia,36.6766,-4.7401,1,0
+Spain,Colmenar Viejo_Madrid,40.6766,-3.7568,1,0
+Spain,Cordoba_Andalucia,37.8932,-4.7568,1,0
+Spain,Corella_Navarra,42.1266,-1.7734,1,0
+Spain,Cornella de Llobregat_Cataluna,41.3599,2.0932,1,0
+Spain,Corralejo_Castilla-La Manacha,41.0932,-3.3568,1,0
+Spain,Corralejo_Canarias,28.7432,-13.8568,0,0
+Spain,Corralejo_Castilla y Leon,42.7099,-4.0401,1,0
+Spain,Coruno_Asturias,43.4432,-5.8234,1,0
+Spain,Crevillente_Valenciana,38.2599,-0.7901,1,0
+Spain,Crispijana_Pais Vasco,42.8599,-2.7234,1,0
+Spain,Cristobal_Castilla y Leon,40.4766,-5.8734,1,0
+Spain,Cruces_Galicia,42.7599,-7.1568,1,0
+Spain,Cruz_Galicia,43.3432,-7.2568,1,0
+Spain,Cruz Santa_Canarias,28.3766,-16.5234,0,0
+Spain,Cuart de Poblet_Valenciana,39.4932,-0.4234,1,0
+Spain,Cuenca_Castilla-La Manacha,40.0766,-2.1234,1,0
+Spain,Cunit_Cataluna,41.2099,1.6432,1,0
+Spain,Darbo_Galicia,42.2767,-8.79,1,0
+Spain,Darsena Comercial_Andalucia,36.5433,-6.2733,1,0
+Spain,Denia_Valenciana,38.86,0.1267,1,0
+Spain,Dicastillo_Navarra,42.61,-2.0067,1,0
+Spain,Dices_Galicia,42.7767,-8.69,1,0
+Spain,Diego Alvaro_Castilla y Leon,40.6767,-5.3067,1,0
+Spain,Diezma_Andalucia,37.3267,-3.3233,1,0
+Spain,Dilar_Andalucia,37.0767,-3.59,1,0
+Spain,Dimo_Galicia,42.6767,-8.6733,1,0
+Spain,Diomondi_Galicia,42.61,-7.69,1,0
+Spain,Dique de la Osa_Asturias,43.565,-5.6769,1,0
+Spain,Dique de Navidad_Murcia,37.5933,-0.9733,1,0
+Spain,Distriz_Galicia,42.51,-7.54,1,0
+Spain,Diustes_Castilla y Leon,42.11,-2.4067,1,0
+Spain,Divino Salvador_Galicia,43.0767,-8.79,1,0
+Spain,Don Benito_Castilla-La Manacha,39.71,-2.2733,1,0
+Spain,Don Benito_Extremadura,38.96,-5.8567,1,0
+Spain,Dornelas_Galicia,42.76,-8.3233,1,0
+Spain,Dradelo_Galicia,42.11,-7.04,1,0
+Spain,Drados_Galicia,42.3267,-7.4067,1,0
+Spain,Dragonal_Canarias,28.0933,-15.4567,0,0
+Spain,Dragonte_Castilla y Leon,42.61,-6.84,1,0
+Spain,Driebes_Castilla-La Manacha,40.26,-3.0233,1,0
+Spain,Dualez_Cantabria,43.3767,-4.0567,1,0
+Spain,Duancos_Galicia,43.11,-7.44,1,0
+Spain,Duanez_Castilla y Leon,41.7433,-2.3233,1,0
+Spain,Duarria_Galicia,43.1433,-7.4733,1,0
+Spain,Dudagoitia_Pais Vasco,43.2267,-2.69,1,0
+Spain,Dudar_Andalucia,37.1933,-3.4733,1,0
+Spain,Duenas_Castilla y Leon,41.8933,-4.54,1,0
+Spain,Dueso_Cantabria,43.4675,-3.4464,1,0
+Spain,Dumbria_Galicia,43.01,-9.1067,1,0
+Spain,Dumpin_Galicia,43.1267,-7.4733,1,0
+Spain,Duna_Cantabria,43.3433,-4.2067,1,0
+Spain,Durango_Pais Vasco,43.1767,-2.6067,1,0
+Spain,Duraton_Castilla y Leon,41.2933,-3.6733,1,0
+Spain,Durcal_Andalucia,36.9933,-3.5567,1,0
+Spain,Duron_Castilla-La Manacha,40.6433,-2.7067,1,0
+Spain,Duruelo_Castilla y Leon,40.66,-4.79,1,0
+Spain,Duruquiz_Pais Vasco,43.3933,-2.6233,1,0
+Spain,Duyo_Galicia,42.9433,-9.2567,1,0
+Spain,Duyos_Asturias,43.46,-5.19,1,0
+Spain,East Rock_Canarias,29.2768,-13.3232,0,0
+Spain,Ecay_Navarra,42.9101,-1.8566,1,0
+Spain,Echavacoiz_Navarra,42.8101,-1.6566,1,0
+Spain,Ecija_Andalucia,37.5434,-5.0732,1,0
+Spain,Edrada_Galicia,42.1601,-7.2232,1,0
+Spain,Edreira_Galicia,42.2768,-6.9066,1,0
+Spain,Egana_Castilla y Leon,43.0934,-3.1899,1,0
+Spain,Eguaras_Navarra,42.9268,-1.6732,1,0
+Spain,Eguia_Pais Vasco,43.3268,-1.9566,1,0
+Spain,Eguiarreta_Navarra,42.9434,-1.8399,1,0
+Spain,Eguileor_Pais Vasco,42.8268,-2.3732,1,0
+Spain,Eguillor_Navarra,42.8601,-1.7899,1,0
+Spain,Eguino_Pais Vasco,42.8768,-2.2399,1,0
+Spain,Eibar_Pais Vasco,43.1934,-2.4566,1,0
+Spain,Ejeme_Castilla y Leon,40.7768,-5.5232,1,0
+Spain,El Ejido_Andalucia,36.7934,-2.8066,1,0
+Spain,El Fargue_Andalucia,37.2101,-3.5399,1,0
+Spain,El Palmar_Canarias,28.8434,-17.9066,0,0
+Spain,El Palmar_Valenciana,39.3101,-0.3066,1,0
+Spain,El Palmar_Murcia,37.9434,-1.1399,1,0
+Spain,El Prat de Llobregat_Cataluna,41.3434,2.1101,1,0
+Spain,El Vendrell_Cataluna,41.2268,1.5434,1,0
+Spain,Elche_Valenciana,38.2601,-0.6899,1,0
+Spain,Embalse del Esla_Castilla y Leon,41.6768,-5.8399,1,0
+Spain,Empalme_Galicia,42.4268,-7.8566,1,0
+Spain,Eparoz_Navarra,42.7768,-1.2399,1,0
+Spain,Epila_Aragon,41.6101,-1.2732,1,0
+Spain,Ermua_Pais Vasco,43.1934,-2.4899,1,0
+Spain,Esparraguera_Cataluna,41.5434,1.8768,1,0
+Spain,Espluga de Francoli_Cataluna,41.3934,1.1101,1,0
+Spain,Esplugas de Llobregat_Cataluna,41.3768,2.0934,1,0
+Spain,Estella_Navarra,42.6768,-2.0232,1,0
+Spain,Estepona_Andalucia,36.4434,-5.1232,1,0
+Spain,Etayo_Navarra,42.6268,-2.1399,1,0
+Spain,Eterna_Castilla y Leon,42.3601,-3.1066,1,0
+Spain,Etreros_Castilla y Leon,40.9601,-4.4232,1,0
+Spain,Etulain_Navarra,42.9601,-1.5899,1,0
+Spain,Etura_Pais Vasco,42.9101,-2.4732,1,0
+Spain,Eugui_Navarra,42.9934,-1.4899,1,0
+Spain,Eulace_Navarra,42.7768,-2.1899,1,0
+Spain,Eulz_Navarra,42.7101,-2.0566,1,0
+Spain,Eume_Galicia,43.4101,-7.9899,1,0
+Spain,Euskadi_Pais Vasco,43.0101,-2.7399,1,0
+Spain,Eustaquios_Castilla-La Manacha,40.4601,-1.9399,1,0
+Spain,Extramiana_Castilla y Leon,42.8601,-3.2899,1,0
+Spain,Extremadura,39.0101,-5.9899,1,0
+Spain,Extremera_Cantabria,43.3268,-3.7066,1,0
+Spain,Ezaro_Galicia,42.9268,-9.1232,1,0
+Spain,Ezcaray_La Rioja,42.3268,-3.0066,1,0
+Spain,Ezcaroz_Navarra,42.8934,-1.0899,1,0
+Spain,Ezcurra_Navarra,43.0934,-1.8066,1,0
+Spain,Ezprogui_Navarra,42.5934,-1.4066,1,0
+Spain,Ezquerecocha_Pais Vasco,42.8601,-2.4399,1,0
+Spain,Ezquerra_Castilla y Leon,42.3768,-3.2066,1,0
+Spain,Ezquioga_Pais Vasco,43.0934,-2.2566,1,0
+Spain,Falcones_Valenciana,38.3935,-0.8731,1,0
+Spain,Falset_Cataluna,41.1435,0.8269,1,0
+Spain,Favert_Cataluna,42.3769,2.4269,1,0
+Spain,Fazouro_Galicia,43.6102,-7.2565,1,0
+Spain,Felechas_Castilla y Leon,42.8602,-5.2231,1,0
+Spain,Ferrol_Galicia,43.4935,-8.2231,1,0
+Spain,Figueras_Cataluna,42.2769,2.9769,1,0
+Spain,Flassa_Cataluna,42.0769,2.9769,1,0
+Spain,Flecha y Rivas_Castilla y Leon,40.9935,-5.5565,1,0
+Spain,Flechas_Castilla y Leon,41.9102,-6.4231,1,0
+Spain,Fleix_Valenciana,38.7935,-0.0898,1,0
+Spain,Flor de Acebos_Asturias,43.0435,-5.7731,1,0
+Spain,Flores_Castilla y Leon,41.7602,-6.1731,1,0
+Spain,Flores de Avila_Castilla y Leon,40.9435,-5.0731,1,0
+Spain,Folgueiras_Galicia,42.7935,-7.1731,1,0
+Spain,Fondarella_Cataluna,41.6435,0.8935,1,0
+Spain,Forcados_Galicia,42.6935,-7.6065,1,0
+Spain,Fortuna_Murcia,38.1935,-1.1065,1,0
+Spain,Foz_Galicia,43.5769,-7.2398,1,0
+Spain,Fuengirola_Andalucia,36.5435,-4.6065,1,0
+Spain,Fuente-Alamo de Murcia_Murcia,37.7102,-1.0898,1,0
+Spain,Galapagar_Madrid,40.5936,-3.9897,1,0
+Spain,Galicia,43.0103,-7.9897,1,0
+Spain,Gandia_Valenciana,38.977,-0.173,1,0
+Spain,Garrucha_Andalucia,37.1936,-1.8064,1,0
+Spain,Gata de Gorgos_Valenciana,38.777,0.0936,1,0
+Spain,Gava_Cataluna,41.3103,2.027,1,0
+Spain,Gelida_Cataluna,41.4436,1.877,1,0
+Spain,Gelo_Andalucia,37.3197,-6.1861,1,0
+Spain,Genave_Andalucia,38.4436,-2.723,1,0
+Spain,Genestaza_Asturias,43.227,-6.3397,1,0
+Spain,Genestoso_Asturias,43.077,-6.373,1,0
+Spain,Gerdiz_Galicia,43.5603,-7.6064,1,0
+Spain,Gerona_Cataluna,41.9936,2.827,1,0
+Spain,Getafe_Madrid,40.3103,-3.7064,1,0
+Spain,Gijano_Castilla y Leon,43.177,-3.2397,1,0
+Spain,Gijon_Asturias,43.5514,-5.6541,1,0
+Spain,Gil Alonso_Andalucia,37.8103,-3.9897,1,0
+Spain,Gil Marquez_Andalucia,37.8603,-6.8397,1,0
+Spain,Gilgarcia_Castilla y Leon,40.3103,-5.5897,1,0
+Spain,Gilma_Andalucia,37.1936,-2.673,1,0
+Spain,Gimenado_Murcia,37.777,-1.023,1,0
+Spain,Ginestar_Cataluna,42.027,2.727,1,0
+Spain,Ginestarre_Cataluna,42.6103,1.277,1,0
+Spain,Giniginamar_Canarias,28.2103,-14.0564,0,0
+Spain,Gipuzkoa_Pais Vasco,43.177,-2.1564,1,0
+Spain,Giranes_Asturias,43.427,-5.3564,1,0
+Spain,Girona_Cataluna,42.177,2.677,1,0
+Spain,Gironda_Galicia,41.9103,-7.623,1,0
+Spain,Gironella_Cataluna,42.0436,1.8936,1,0
+Spain,Glorieta de Montesclado_Cataluna,42.5103,1.277,1,0
+Spain,Gran Tarajal_Canarias,28.2103,-14.0064,0,0
+Spain,Granada_Andalucia,37.1936,-3.5897,1,0
+Spain,Granda_Asturias,43.4603,-5.9064,1,0
+Spain,Granollers_Cataluna,41.627,2.3103,1,0
+Spain,Guadalajara_Castilla-La Manacha,40.6436,-3.1564,1,0
+Spain,Guadalix de la Sierra_Madrid,40.7936,-3.673,1,0
+Spain,Guarroman_Andalucia,38.1936,-3.673,1,0
+Spain,Hacienda del Pino_Murcia,37.6771,-0.8396,1,0
+Spain,Haedillo_Castilla y Leon,42.3604,-3.3063,1,0
+Spain,Hambre Viva_Murcia,37.9604,-0.9729,1,0
+Spain,Haro_La Rioja,42.5937,-2.8396,1,0
+Spain,Haza_Castilla y Leon,41.6271,-3.8063,1,0
+Spain,Haza del Trigo_Andalucia,36.7604,-3.3063,1,0
+Spain,Haza Mora_Andalucia,37.6271,-3.8896,1,0
+Spain,Hellin_Castilla-La Manacha,38.4604,-1.7396,1,0
+Spain,Hermida_Galicia,42.4937,-7.2396,1,0
+Spain,Hidalgo_Andalucia,36.7437,-6.3896,1,0
+Spain,Hierro_Canarias,27.7604,-17.9896,0,0
+Spain,Higares_Castilla-La Manacha,39.9271,-3.9063,1,0
+Spain,Higuera la Real_Extremadura,38.1437,-6.6729,1,0
+Spain,Higueras_Valenciana,39.9937,-0.4896,1,0
+Spain,Higueruelas_Valenciana,39.7937,-0.8396,1,0
+Spain,Hijes_Castilla-La Manacha,41.2604,-2.9896,1,0
+Spain,Hijosa,42.5104,-4.3063,1,0
+Spain,Hiniestra_Castilla y Leon,42.4104,-3.4229,1,0
+Spain,Hinojal_Extremadura,39.7104,-6.3396,1,0
+Spain,Hinojedo_Cantabria,43.4104,-4.0563,1,0
+Spain,Hinojos_Andalucia,37.3048,-6.366,1,0
+Spain,Hinojosa_Castilla-La Manacha,41.0437,-1.9063,1,0
+Spain,Hinojosas_Castilla-La Manacha,38.6271,-4.1229,1,0
+Spain,Hio_Galicia,42.2771,-8.8229,1,0
+Spain,Hirmes_Andalucia,36.9104,-2.9896,1,0
+Spain,Hivedo_Galicia,42.4104,-7.2063,1,0
+Spain,Hornos_Andalucia,38.2271,-2.7063,1,0
+Spain,Hospitalet de Llobregat_Cataluna,41.3771,2.1437,1,0
+Spain,Hoyos_Extremadura,40.1771,-6.7063,1,0
+Spain,Huelva_Andalucia,37.2687,-6.9404,1,0
+Spain,Huesca_Aragon,42.1437,-0.4063,1,0
+Spain,Huesca del Comun_Aragon,41.0271,-0.9063,1,0
+Spain,Huescal-Overa_Andalucia,37.3937,-1.9396,1,0
+Spain,Huescar_Andalucia,37.8271,-2.5229,1,0
+Spain,Ibi_Valenciana,38.6438,-0.5562,1,0
+Spain,Ibilcieta_Navarra,42.8438,-1.0895,1,0
+Spain,Ibiza_Islas Baleares,38.9105,1.4438,1,0
+Spain,Idusquimendi,43.2772,-1.3895,1,0
+Spain,Ifonche_Canarias,28.1438,-16.6728,0,0
+Spain,Igualada_Cataluna,41.5938,1.6438,1,0
+Spain,Ilarduya_Pais Vasco,42.8772,-2.2728,1,0
+Spain,Ilarregui_Navarra,43.0105,-1.7228,1,0
+Spain,Ilcedo_Asturias,43.3772,-4.9062,1,0
+Spain,Ile Sainte Catherine,35.9105,-5.2728,1,0
+Spain,Illa de Buda_Cataluna,40.7105,0.8772,1,0
+Spain,Illan_Galicia,43.1772,-7.6562,1,0
+Spain,Illescas_Castilla-La Manacha,40.1272,-3.8228,1,0
+Spain,Illora_Andalucia,37.2938,-3.8728,1,0
+Spain,Illueca_Aragon,41.5438,-1.6062,1,0
+Spain,Imana_Castilla y Leon,42.8105,-3.2895,1,0
+Spain,Imarcoain_Navarra,42.7438,-1.6062,1,0
+Spain,Imiruri_Castilla y Leon,42.7605,-2.6562,1,0
+Spain,Imon_Castilla-La Manacha,41.1772,-2.7228,1,0
+Spain,Inca_Islas Baleares,39.7272,2.9105,1,0
+Spain,Inclan_Asturias,43.4938,-6.1562,1,0
+Spain,Infiesto_Asturias,43.3605,-5.3562,1,0
+Spain,Instincion_Andalucia,36.9938,-2.6395,1,0
+Spain,Inurrieta_Pais Vasco,42.9772,-2.5562,1,0
+Spain,Iracheta_Navarra,42.6438,-1.5228,1,0
+Spain,Irun_Pais Vasco,43.3605,-1.7728,1,0
+Spain,Irurzun_Navarra,42.9272,-1.8228,1,0
+Spain,Irus_Castilla y Leon,43.1105,-3.3728,1,0
+Spain,Isla de Lanzarote_Canarias,29.0105,-13.6562,0,0
+Spain,Isla de Menorca_Islas Baleares,40.0105,4.0105,1,0
+Spain,Isla de Tenerife_Canarias,28.3272,-16.5562,0,0
+Spain,Isla-Cristina_Andalucia,37.2105,-7.3062,1,0
+Spain,Ituero_Castilla-La Manacha,38.7605,-2.2895,1,0
+Spain,Iturmendi_Navarra,42.8938,-2.1062,1,0
+Spain,Iturreta_Pais Vasco,43.2438,-2.4895,1,0
+Spain,Iturriotz_Pais Vasco,43.2938,-1.8728,1,0
+Spain,Ivars de Noguera_Cataluna,41.8605,0.6105,1,0
+Spain,Iznar_Andalucia,37.2605,-4.2895,1,0
+Spain,Iznate_Andalucia,36.7938,-4.1728,1,0
+Spain,Jaca_Aragon,42.5773,-0.5394,1,0
+Spain,Jadu,35.8987,-5.3155,1,0
+Spain,Jaen_Andalucia,37.7773,-3.7727,1,0
+Spain,Jaraba_Aragon,41.1939,-1.8727,1,0
+Spain,Jarque de la Val_Aragon,40.7106,-0.7894,1,0
+Spain,Jativa_Valenciana,38.9939,-0.5061,1,0
+Spain,Javea_Castilla-La Manacha,38.7939,0.1773,1,0
+Spain,Jerdune_Canarias,28.0939,-17.1727,0,0
+Spain,Jeresa_Valenciana,39.0273,-0.2061,1,0
+Spain,Jerez de la Frontera_Andalucia,36.6939,-6.1227,1,0
+Spain,Jerte_Extremadura,40.2273,-5.7394,1,0
+Spain,Jimena_Andalucia,36.4439,-5.4394,1,0
+Spain,Jinamar_Canarias,28.0439,-15.4061,0,0
+Spain,Jodra del Pinar_Castilla-La Manacha,41.0606,-2.5394,1,0
+Spain,Jove_Galicia,43.6939,-7.5061,1,0
+Spain,Juan de Ambojo_Cantabria,43.5273,-3.9561,1,0
+Spain,Jubera_La Rioja,42.3106,-2.4561,1,0
+Spain,Jumilla_Murcia,38.4939,-1.2727,1,0
+Spain,Juncedo-Campo_Asturias,43.5273,-5.9061,1,0
+Spain,Juno_Galicia,42.6439,-9.0227,1,0
+Spain,Junquera_Galicia,42.3606,-7.2727,1,0
+Spain,Jures_Galicia,42.9273,-9.1394,1,0
+Spain,Justel_Castilla y Leon,42.1606,-6.2894,1,0
+Spain,Kingdom of Spain,40.0107,-3.9893,1,0
+Spain,L Albufera_Valenciana,39.3441,-0.3559,1,0
+Spain,L Alcora_Valenciana,40.0775,-0.1892,1,0
+Spain,L Ametlla de Merola_Cataluna,41.8441,1.8941,1,0
+Spain,L Amunt_Cataluna,41.4108,1.9275,1,0
+Spain,L Eliana_Valenciana,39.5441,-0.5059,1,0
+Spain,La Carlota_Andalucia,37.6775,-4.9225,1,0
+Spain,La Coruna_Galicia,43.3775,-8.3725,1,0
+Spain,La Coruna_Canarias,28.0441,-15.6559,0,0
+Spain,La Herradura_Andalucia,36.7441,-3.7225,1,0
+Spain,La Junquera_Cataluna,42.4275,2.8941,1,0
+Spain,La Linea de la Concepcion_Andalucia,36.1789,-5.3409,1,0
+Spain,La Mojonera_Andalucia,37.3108,-2.4225,1,0
+Spain,La Rioja,42.3441,-2.4892,1,0
+Spain,La Union_Murcia,37.6275,-0.8559,1,0
+Spain,Lajita_Canarias,28.1775,-14.1392,0,0
+Spain,Laredo_Cantabria,43.4202,-3.4136,1,0
+Spain,Las Palmas_Canarias,28.3441,-16.8225,0,0
+Spain,Las Palmas de Gran Canaria_Canarias,28.1108,-15.4059,0,0
+Spain,Leganes_Madrid,40.3275,-3.7392,1,0
+Spain,Leon_Castilla y Leon,42.6108,-5.5559,1,0
+Spain,Leon,42.0108,-5.9892,1,0
+Spain,Lepe_Andalucia,37.2608,-7.1892,1,0
+Spain,Lerida_Cataluna,41.6275,0.6275,1,0
+Spain,Lijarzaga_Pais Vasco,43.2441,-3.0725,1,0
+Spain,Linares_Andalucia,38.0941,-3.6225,1,0
+Spain,Linares_Galicia,42.7108,-7.0559,1,0
+Spain,Linares_Cantabria,43.2608,-4.5725,1,0
+Spain,Linares_Castilla y Leon,40.5941,-5.9059,1,0
+Spain,Linares_Asturias,43.4608,-6.2059,1,0
+Spain,Linares_Aragon,40.3275,-0.5559,1,0
+Spain,Llodio_Pais Vasco,43.1608,-2.9559,1,0
+Spain,Lloret de Mar_Cataluna,41.7108,2.8608,1,0
+Spain,Lobosillo_Murcia,37.7441,-1.0725,1,0
+Spain,Lodosa_Navarra,42.4275,-2.0725,1,0
+Spain,Logrono_La Rioja,42.4775,-2.4392,1,0
+Spain,Lomo Corto_Canarias,28.7941,-17.7892,0,0
+Spain,Lorca_Navarra,42.6775,-1.9225,1,0
+Spain,Lorca_Murcia,37.6775,-1.6892,1,0
+Spain,Los Alcazares_Murcia,37.7608,-0.8392,1,0
+Spain,Los Cristianos_Canarias,28.0608,-16.7059,0,0
+Spain,Losar de la Vera_Extremadura,40.1275,-5.5892,1,0
+Spain,Lucena_Andalucia,37.4108,-4.4725,1,0
+Spain,Luceni_Aragon,41.8441,-1.2225,1,0
+Spain,Lugo_Galicia,43.0108,-7.5559,1,0
+Spain,Macotera_Castilla y Leon,40.8442,-5.2724,1,0
+Spain,Madrid,40.4109,-3.6724,1,0
+Spain,Madrid de las Caderechas_Castilla y Leon,42.7776,-3.5224,1,0
+Spain,Madridanos_Castilla y Leon,41.4942,-5.5891,1,0
+Spain,Madridejos_Castilla-La Manacha,39.4776,-3.5224,1,0
+Spain,Mahon_Islas Baleares,39.8942,4.2609,1,0
+Spain,Maiorca_Islas Baleares,39.5109,3.0109,1,0
+Spain,Majadahonda_Madrid,40.4776,-3.8558,1,0
+Spain,Malaga_Andalucia,36.7276,-4.4058,1,0
+Spain,Malaga del Fresno_Castilla-La Manacha,40.7942,-3.2391,1,0
+Spain,Malgrat de Mar_Cataluna,41.6609,2.7609,1,0
+Spain,Manacor_Islas Baleares,39.5776,3.2109,1,0
+Spain,Manlleu_Cataluna,42.0109,2.2942,1,0
+Spain,Manresa_Cataluna,41.4609,2.2776,1,0
+Spain,Marbella_Andalucia,36.5276,-4.8724,1,0
+Spain,Marchena_Andalucia,37.3442,-5.3891,1,0
+Spain,Martorell_Cataluna,41.4776,1.9442,1,0
+Spain,Martos_Andalucia,37.7276,-3.9558,1,0
+Spain,Maspalomas_Canarias,27.7609,-15.5558,0,0
+Spain,Mataro_Cataluna,41.5442,2.4609,1,0
+Spain,Mazarron_Murcia,37.6109,-1.3058,1,0
+Spain,Medina de Pomar_Castilla y Leon,42.9442,-3.4724,1,0
+Spain,Mediona_Cataluna,41.4942,1.6276,1,0
+Spain,Melilla,35.3276,-2.9391,1,0
+Spain,Menasalbas_Castilla-La Manacha,39.6442,-4.2724,1,0
+Spain,Merida_Extremadura,38.9276,-6.3224,1,0
+Spain,Miajadas_Extremadura,39.1609,-5.8891,1,0
+Spain,Mijas_Andalucia,36.6109,-4.6224,1,0
+Spain,Milagro_Navarra,42.2609,-1.7558,1,0
+Spain,Miranda de Ebro_Castilla y Leon,42.6942,-2.9391,1,0
+Spain,Moguer_Andalucia,37.2867,-6.8247,1,0
+Spain,Mojonera_Andalucia,36.7609,-2.6724,1,0
+Spain,Molina de Segura_Murcia,38.0609,-1.1891,1,0
+Spain,Mollerusa_Cataluna,41.6442,0.9109,1,0
+Spain,Mollet del Valles_Cataluna,41.5609,2.2276,1,0
+Spain,Monda_Andalucia,36.6442,-4.8224,1,0
+Spain,Montblanch_Cataluna,41.3776,1.1776,1,0
+Spain,Monzon_Aragon,41.9276,0.2109,1,0
+Spain,Morro de Jable_Canarias,28.0609,-14.3224,0,0
+Spain,Morro Jabali_Canarias,29.1276,-13.4391,0,0
+Spain,Mostoles_Madrid,40.3276,-3.8391,1,0
+Spain,Motril_Andalucia,36.7609,-3.5058,1,0
+Spain,Mula_Murcia,38.0609,-1.4891,1,0
+Spain,Murcia,38.5109,-1.7391,1,0
+Spain,Najera_La Rioja,42.4277,-2.7223,1,0
+Spain,Navalcarnero_Madrid,40.311,-3.989,1,0
+Spain,Navalmoral de la Mata_Extremadura,39.911,-5.5223,1,0
+Spain,Navarra,43.011,-1.489,1,0
+Spain,Nebra_Galicia,42.7443,-8.9557,1,0
+Spain,Nechite_Andalucia,37.011,-3.0557,1,0
+Spain,Neira_Galicia,42.8777,-7.489,1,0
+Spain,Nemeno_Galicia,38.2943,-8.8723,1,0
+Spain,Nemina_Galicia,43.0277,-9.2557,1,0
+Spain,Nerja_Andalucia,36.7443,-3.8557,1,0
+Spain,Nespereira_Galicia,42.8443,-7.7057,1,0
+Spain,Nestares_Cantabria,43.011,-4.139,1,0
+Spain,Nevares_Asturias,43.3943,-5.2057,1,0
+Spain,New Castile,40.011,-3.739,1,0
+Spain,Niebla_Andalucia,37.3777,-6.6723,1,0
+Spain,Nieves_Galicia,43.5943,-7.8223,1,0
+Spain,Nijar_Andalucia,36.9777,-2.189,1,0
+Spain,Ninodaguia_Galicia,41.961,-7.6557,1,0
+Spain,Nueva_Asturias,43.4443,-4.9223,1,0
+Spain,Nuevalos_Aragon,41.2277,-1.7723,1,0
+Spain,Nuin_Navarra,42.9277,-1.7057,1,0
+Spain,Nunez_Asturias,43.5277,-5.8723,1,0
+Spain,Ocana_Castilla-La Manacha,39.9444,-3.5056,1,0
+Spain,Ochichar_Andalucia,37.0611,-3.8556,1,0
+Spain,Oderiz_Navarra,42.9611,-1.8556,1,0
+Spain,Oencia_Castilla y Leon,42.5611,-6.9556,1,0
+Spain,Oeste_Galicia,42.6944,-8.6889,1,0
+Spain,Olesa de Montserrat_Cataluna,41.5611,1.9111,1,0
+Spain,Oliva_Valenciana,38.9278,-0.1056,1,0
+Spain,Olot_Cataluna,42.1944,2.4944,1,0
+Spain,Olula del Rio_Andalucia,37.3611,-2.2889,1,0
+Spain,Oma_Pais Vasco,43.3444,-2.6056,1,0
+Spain,Omanon_Castilla y Leon,42.8111,-6.0889,1,0
+Spain,Omedas_Asturias,43.5111,-6.1722,1,0
+Spain,Omedo_Asturias,43.3611,-5.4722,1,0
+Spain,Omellons_Cataluna,41.5111,0.9778,1,0
+Spain,Omells de Nagaya_Cataluna,41.5111,1.0944,1,0
+Spain,Omenaca_Castilla y Leon,41.7778,-2.2222,1,0
+Spain,Omente_Asturias,42.9778,-6.7389,1,0
+Spain,Omono_Cantabria,43.4444,-3.6556,1,0
+Spain,Onao_Asturias,43.3778,-5.0722,1,0
+Spain,Onda_Valenciana,39.9778,-0.2389,1,0
+Spain,Ondara_Valenciana,38.8444,0.0278,1,0
+Spain,Ondarra_Pais Vasco,42.9944,-2.2722,1,0
+Spain,Ondarroa_Pais Vasco,43.3278,-2.4056,1,0
+Spain,Ondategui_Pais Vasco,42.9611,-2.7222,1,0
+Spain,Onteniente_Valenciana,38.8278,-0.6056,1,0
+Spain,Orense_Galicia,42.3444,-7.8389,1,0
+Spain,Orgiva_Andalucia,36.9111,-3.4056,1,0
+Spain,Orihuela_Valenciana,38.0944,-0.9389,1,0
+Spain,Os de Ballaguer_Cataluna,41.8778,0.7278,1,0
+Spain,Oselle_Galicia,42.8778,-7.1389,1,0
+Spain,Ouces_Galicia,43.3444,-8.2222,1,0
+Spain,Ourense_Galicia,42.1778,-7.4889,1,0
+Spain,Outariz_Galicia,43.1611,-7.1722,1,0
+Spain,Outes_Galicia,42.8611,-8.8889,1,0
+Spain,Outon_Galicia,42.8444,-8.9389,1,0
+Spain,Ouviano_Galicia,43.1111,-6.9056,1,0
+Spain,Oviedo_Asturias,43.3778,-5.8222,1,0
+Spain,Ovies_Asturias,43.6278,-5.8389,1,0
+Spain,Oza Bella_Galicia,43.2611,-8.6722,1,0
+Spain,Pajara_Canarias,28.3612,-14.0888,0,0
+Spain,Palafrugell_Cataluna,41.9279,3.1779,1,0
+Spain,Palamos_Cataluna,41.8612,3.1445,1,0
+Spain,Palencia_Castilla y Leon,42.0279,-4.5221,1,0
+Spain,Palma_Canarias,28.6779,-17.8555,0,0
+Spain,Palma_Murcia,37.6945,-0.9388,1,0
+Spain,Palma de Gandia_Valenciana,38.9445,-0.2055,1,0
+Spain,Palma de Mallorca_Islas Baleares,39.5779,2.6612,1,0
+Spain,Palma del Rio_Andalucia,37.7112,-5.2721,1,0
+Spain,Palmaces de Jadraque_Castilla-La Manacha,41.0612,-2.8888,1,0
+Spain,Palmar de Troya_Andalucia,37.074,-5.7932,1,0
+Spain,Pamplona_Navarra,42.8279,-1.6221,1,0
+Spain,Parla_Madrid,40.2445,-3.7555,1,0
+Spain,Pedreguer_Valenciana,38.8112,0.0612,1,0
+Spain,Peniscola_Valenciana,40.3612,0.4279,1,0
+Spain,Peralta_Navarra,42.3445,-1.7888,1,0
+Spain,Piera_Cataluna,41.5112,1.7612,1,0
+Spain,Pineda_Cataluna,41.6279,2.7112,1,0
+Spain,Pinto_Madrid,40.2445,-3.6721,1,0
+Spain,Plasencia_Extremadura,40.0445,-6.0721,1,0
+Spain,Playa Blanca_Canarias,28.8779,-13.8221,0,0
+Spain,Playa de Aro_Cataluna,41.8279,3.0779,1,0
+Spain,Ponferrada_Castilla y Leon,42.5612,-6.5721,1,0
+Spain,Pontevedra_Galicia,42.4445,-8.6221,1,0
+Spain,Ponts_Cataluna,41.9279,1.2112,1,0
+Spain,Portillo de Toledo_Castilla-La Manacha,40.0779,-4.2221,1,0
+Spain,Pradejon_La Rioja,42.3445,-2.0555,1,0
+Spain,Priego de Cordoba_Andalucia,37.4445,-4.1721,1,0
+Spain,Puebla de Don Fadrique_Andalucia,37.9779,-2.4221,1,0
+Spain,Puerto Cabras_Canarias,28.5112,-13.8555,0,0
+Spain,Puerto de la Cruz_Canarias,28.4112,-16.5388,0,0
+Spain,Puerto de Mazarron_Murcia,37.5779,-1.2388,1,0
+Spain,Puerto de Sagunto_Valenciana,39.6612,-0.2055,1,0
+Spain,Puerto del Rosario_Canarias,28.4945,-13.8388,0,0
+Spain,Puerto Real_Andalucia,36.5445,-6.1721,1,0
+Spain,Puertollano_Castilla-La Manacha,38.6945,-4.1055,1,0
+Spain,Puigcerda_Cataluna,42.4445,1.9445,1,0
+Spain,Pyramide de Serre,42.8279,0.8945,1,0
+Spain,Pyrenees,42.6779,1.0112,1,0
+Spain,Quintanar de la Orden_Castilla-La Manacha,39.578,-3.0387,1,0
+Spain,Quintanar del Rey_Castilla-La Manacha,39.3446,-1.922,1,0
+Spain,Rafol de Salem_Valenciana,38.8781,-0.3886,1,0
+Spain,Reus_Cataluna,41.1614,1.1281,1,0
+Spain,Rhune,43.3114,-1.6219,1,0
+Spain,Ribadeo_Galicia,43.5447,-7.0219,1,0
+Spain,Rincon de Soto_La Rioja,42.2447,-1.8219,1,0
+Spain,Ripoll_Cataluna,42.2114,2.2114,1,0
+Spain,Ripollet_Cataluna,41.5114,2.1781,1,0
+Spain,Roldan_Murcia,37.8114,-0.9886,1,0
+Spain,Ronda_Andalucia,36.7447,-5.1553,1,0
+Spain,Roquetas de Mar_Andalucia,36.7781,-2.5886,1,0
+Spain,Rosas_Cataluna,42.2781,3.1947,1,0
+Spain,Rota_Andalucia,36.6281,-6.3386,1,0
+Spain,Rubi_Cataluna,41.4947,2.0447,1,0
+Spain,S Arroco_Islas Baleares,39.5782,2.3948,1,0
+Spain,Sabadell_Cataluna,41.5615,2.1115,1,0
+Spain,Sabadella_Galicia,42.3782,-7.8052,1,0
+Spain,Sabinanigo_Aragon,42.5282,-0.3552,1,0
+Spain,Sagunto_Valenciana,39.6948,-0.2552,1,0
+Spain,Salamanca_Castilla y Leon,40.9782,-5.6385,1,0
+Spain,Sallent_Cataluna,42.1948,1.2448,1,0
+Spain,Salou_Cataluna,41.0782,1.1448,1,0
+Spain,Salt_Cataluna,41.9948,2.7948,1,0
+Spain,San Adrian_Navarra,42.3448,-1.9218,1,0
+Spain,San Adrian_Galicia,42.9782,-9.2052,1,0
+Spain,San Adrian_Cataluna,41.4448,2.2448,1,0
+Spain,San Carlos de la Rapita_Cataluna,40.6282,0.6115,1,0
+Spain,San Clemente_Castilla-La Manacha,39.4115,-2.4218,1,0
+Spain,San Fernando_Andalucia,36.4782,-6.1885,1,0
+Spain,San Javier_Murcia,37.8115,-0.8385,1,0
+Spain,San Lorenzo de El Escorial_Madrid,40.5948,-4.1385,1,0
+Spain,San Martin de Valdeiglesias_Madrid,40.3615,-4.3885,1,0
+Spain,San Miguel_Canarias,28.0948,-16.6052,0,0
+Spain,San Pedro Alcantara_Andalucia,36.4948,-4.9718,1,0
+Spain,San Pedro del Pinatar_Murcia,37.8448,-0.7718,1,0
+Spain,San Roque_Andalucia,36.2209,-5.3738,1,0
+Spain,San Sebastian_Cantabria,43.2115,-4.4052,1,0
+Spain,San Sebastian_Galicia,43.5448,-7.3885,1,0
+Spain,San Sebastian_Pais Vasco,43.3282,-1.9718,1,0
+Spain,San Sebastian_Canarias,28.1115,-17.0885,0,0
+Spain,San Sebastian_Asturias,43.5782,-5.8885,1,0
+Spain,San Sebastian de los Reyes_Madrid,40.5615,-3.6218,1,0
+Spain,Sanlucar de Barrameda_Andalucia,36.7948,-6.3385,1,0
+Spain,Sant Sadurni d Anoia_Cataluna,41.4282,1.7948,1,0
+Spain,Santa Coloma de Gramanet_Cataluna,41.4615,2.2282,1,0
+Spain,Santa Coloma de Queralt_Cataluna,41.5448,1.3948,1,0
+Spain,Santa Cruz de Tenerife_Canarias,28.4615,-16.2218,0,0
+Spain,Santa Eulalia del Rio_Islas Baleares,38.9948,1.5282,1,0
+Spain,Santa Perpetua de Moguda_Cataluna,41.5448,2.1948,1,0
+Spain,Santa Pola_Valenciana,38.1948,-0.5385,1,0
+Spain,Santander_Cantabria,43.4762,-3.7929,1,0
+Spain,Santiago de Compostela_Galicia,42.8948,-8.5385,1,0
+Spain,Santomera_Murcia,38.0782,-1.0385,1,0
+Spain,Satue_Aragon,42.5448,-0.3052,1,0
+Spain,Segovia_Castilla y Leon,40.9615,-4.1052,1,0
+Spain,Segovia_Galicia,42.9948,-7.4218,1,0
+Spain,Selviella_Asturias,43.3282,-6.2052,1,0
+Spain,Sevilla_Andalucia,37.3887,-5.9754,1,0
+Spain,Sevilla La Nueva_Madrid,40.3615,-4.0052,1,0
+Spain,Sevillano_Extremadura,39.0948,-5.3718,1,0
+Spain,Seville_Andalucia,37.5115,-5.4885,1,0
+Spain,Sevilleja de la Jara_Castilla-La Manacha,39.5782,-4.9385,1,0
+Spain,Soller_Islas Baleares,39.7782,2.7115,1,0
+Spain,Sonseca_Castilla-La Manacha,39.7115,-3.9385,1,0
+Spain,Soria_Castilla y Leon,41.7782,-2.4552,1,0
+Spain,Soria_Canarias,27.9115,-15.6218,0,0
+Spain,Sotogrande_Galicia,42.1615,-7.1718,1,0
+Spain,Spanish Meseta,41.0115,-3.9885,1,0
+Spain,Sphinx Head_Canarias,28.1782,-15.3885,0,0
+Spain,Suances_Cantabria,43.4393,-4.0307,1,0
+Spain,Suarbol_Castilla y Leon,42.8782,-6.8385,1,0
+Spain,Subirats_Cataluna,41.3948,1.8115,1,0
+Spain,Submeseta Inferior,39.5115,-2.9885,1,0
+Spain,Sueca_Valenciana,39.2115,-0.3052,1,0
+Spain,Sueiro_Galicia,43.2782,-8.3718,1,0
+Spain,Suertes_Castilla y Leon,42.8448,-6.7218,1,0
+Spain,Suevos_Galicia,43.3615,-8.4718,1,0
+Spain,Sufli_Andalucia,37.3448,-2.3718,1,0
+Spain,Sumio_Galicia,43.2115,-8.3718,1,0
+Spain,Sumoas_Galicia,43.7115,-7.4885,1,0
+Spain,Surp_Cataluna,42.4615,1.1448,1,0
+Spain,Surri_Cataluna,42.5782,1.2282,1,0
+Spain,Susa_Galicia,43.1615,-7.2718,1,0
+Spain,Susvilla_Cantabria,43.2782,-3.8385,1,0
+Spain,Suterrana_Cataluna,42.1615,0.9615,1,0
+Spain,Suzana_Castilla y Leon,42.7282,-2.9718,1,0
+Spain,Talavera de la Reina_Castilla-La Manacha,39.9616,-4.8217,1,0
+Spain,Talayuela_Extremadura,39.9949,-5.5884,1,0
+Spain,Taragona_Galicia,42.6783,-8.8384,1,0
+Spain,Tarragona_Cataluna,41.1283,1.2616,1,0
+Spain,Tarrasa_Cataluna,41.5783,2.0283,1,0
+Spain,Tarrega_Cataluna,41.6616,1.1616,1,0
+Spain,Tembleque_Castilla-La Manacha,39.7116,-3.4884,1,0
+Spain,Tenerife_Andalucia,37.2949,-1.7384,1,0
+Spain,Teruel_Aragon,40.3616,-1.0884,1,0
+Spain,Teulada_Valenciana,38.7449,0.1116,1,0
+Spain,Tharsis Minas_Andalucia,37.6116,-7.1051,1,0
+Spain,The Castiles,41.0116,-3.4884,1,0
+Spain,The Cumbres_Canarias,27.9783,-15.5717,0,0
+Spain,The Eastern Pyrenees,42.5116,2.2616,1,0
+Spain,Tias_Canarias,28.9616,-13.6384,0,0
+Spain,Tiebas_Navarra,42.7116,-1.6217,1,0
+Spain,Tierracha_Galicia,42.7949,-7.8717,1,0
+Spain,Tierz_Aragon,42.1449,-0.3384,1,0
+Spain,Tigalate_Canarias,28.5449,-17.7717,0,0
+Spain,Tijoco de Abajo_Canarias,28.1616,-16.7384,0,0
+Spain,Tijola_Andalucia,37.3616,-2.4217,1,0
+Spain,Timagan_Canarias,27.9783,-15.6384,0,0
+Spain,Tingas_Asturias,43.4116,-7.0551,1,0
+Spain,Toledo_Castilla-La Manacha,39.8783,-4.0051,1,0
+Spain,Tolosa_Pais Vasco,43.1449,-2.0551,1,0
+Spain,Tomelloso_Castilla-La Manacha,39.1783,-3.0051,1,0
+Spain,Torello_Cataluna,42.0616,2.2783,1,0
+Spain,Torre del Mar_Andalucia,36.7616,-4.0717,1,0
+Spain,Torre-Pacheco_Murcia,37.7449,-0.9384,1,0
+Spain,Torredembarra_Cataluna,41.1616,1.4116,1,0
+Spain,Torreforta_Cataluna,41.1449,-1.2551,1,0
+Spain,Torrelavega_Cantabria,43.3616,-4.0384,1,0
+Spain,Torremolinos_Andalucia,36.6283,-4.4884,1,0
+Spain,Torrente_Valenciana,39.4449,-0.4551,1,0
+Spain,Torrevieja_Valenciana,37.9949,-0.6717,1,0
+Spain,Torrijos_Castilla-La Manacha,39.9949,-4.2717,1,0
+Spain,Torroella de Montgri_Cataluna,42.0449,3.1449,1,0
+Spain,Tortosa_Cataluna,40.8116,0.5283,1,0
+Spain,Totana_Murcia,37.7783,-1.4884,1,0
+Spain,Tudela_Castilla y Leon,41.5949,-4.5717,1,0
+Spain,Tudela_Navarra,42.0949,-1.5884,1,0
+Spain,Tuilla_Asturias,43.3449,-5.6217,1,0
+Spain,Turza_La Rioja,42.3283,-2.9551,1,0
+Spain,Tuy_Galicia,42.0616,-8.6217,1,0
+Spain,Ubeda_Andalucia,38.0284,-3.355,1,0
+Spain,Udabe_Navarra,42.9784,-1.805,1,0
+Spain,Uga_Canarias,28.945,-13.7216,0,0
+Spain,Ulldecona_Cataluna,40.6117,0.4617,1,0
+Spain,Ullivarri-Arana_Pais Vasco,42.7784,-2.305,1,0
+Spain,Ulula de Castro_Andalucia,37.195,-2.455,1,0
+Spain,Umbria Baja_Valenciana,38.3617,-0.855,1,0
+Spain,Urdaniz_Navarra,42.9284,-1.505,1,0
+Spain,Urdues_Aragon,42.7284,-0.705,1,0
+Spain,Urturi_Pais Vasco,42.6617,-2.4883,1,0
+Spain,Utrera_Andalucia,37.1978,-5.775,1,0
+Spain,Uznayo_Cantabria,43.095,-4.3883,1,0
+Spain,Uzquiano_Castilla y Leon,42.745,-2.6716,1,0
+Spain,Uztarroz_Navarra,42.895,-0.905,1,0
+Spain,Uztegui_Navarra,43.0284,-1.9883,1,0
+Spain,Valencia_Valenciana,39.4785,-0.3549,1,0
+Spain,Valencia_Galicia,43.2118,-8.8049,1,0
+Spain,Valencia,39.5118,-0.6549,1,0
+Spain,Valencia de Alcantara_Extremadura,39.4285,-7.2215,1,0
+Spain,Valencia de Anco_Cataluna,42.6451,1.1285,1,0
+Spain,Valencia de Don Juan_Castilla y Leon,42.3118,-5.5049,1,0
+Spain,Valencia de la Encomienda_Castilla y Leon,41.1618,-5.7215,1,0
+Spain,Valencia de las Torres_Extremadura,38.4118,-5.9882,1,0
+Spain,Valencia del Mentoso_Extremadura,38.2785,-6.4549,1,0
+Spain,Valencia del Mombuey_Extremadura,38.2451,-7.1049,1,0
+Spain,Valencian Community_Valenciana,39.5118,-0.7382,1,0
+Spain,Valencina_Andalucia,37.4285,-6.0549,1,0
+Spain,Vall de Uxo_Valenciana,39.8285,-0.2215,1,0
+Spain,Valladolid_Castilla y Leon,41.6618,-4.7049,1,0
+Spain,Valls_Cataluna,41.2951,1.2618,1,0
+Spain,Velez-Malaga_Andalucia,36.7951,-4.0882,1,0
+Spain,Vera_Andalucia,37.2618,-1.8549,1,0
+Spain,Vic_Cataluna,41.9451,2.2618,1,0
+Spain,Viella_Cataluna,42.7118,0.8118,1,0
+Spain,Vigo_Galicia,43.2618,-8.2882,1,0
+Spain,Viladecans_Cataluna,41.3285,2.0118,1,0
+Spain,Vilafranca de Panades_Cataluna,41.3618,1.7118,1,0
+Spain,Vilanova del Cami_Cataluna,41.5785,1.6451,1,0
+Spain,Vilanova I La Geltru_Cataluna,41.2451,1.7451,1,0
+Spain,Vilaseca de Solcina_Cataluna,41.1285,1.1618,1,0
+Spain,Villa del Prado_Madrid,40.2785,-4.2882,1,0
+Spain,Villafortuny_Cataluna,41.0757,1.1035,1,0
+Spain,Villafranca_Navarra,42.2951,-1.7382,1,0
+Spain,Villajoyosa_Valenciana,38.5118,-0.2215,1,0
+Spain,Villanueva del Pardillo_Madrid,40.4951,-3.9549,1,0
+Spain,Villareal_Valenciana,39.9451,-0.0882,1,0
+Spain,Villarrobledo_Castilla-La Manacha,39.2785,-2.5882,1,0
+Spain,Vinaros_Valenciana,40.4785,0.5118,1,0
+Spain,Vinaroz_Valenciana,40.4785,0.4951,1,0
+Spain,Vitoria-Gasteiz_Pais Vasco,42.8618,-2.6549,1,0
+Spain,Viveiro_Galicia,42.1951,-7.9382,1,0
+Spain,Voces_Castilla y Leon,42.4618,-6.7049,1,0
+Spain,Volcan de Fasnia_Canarias,28.2785,-16.4882,0,0
+Spain,Volcan de Guimar_Canarias,28.3285,-16.3715,0,0
+Spain,Volcan de San Juan_Canarias,28.5951,-17.8049,0,0
+Spain,Volcan Martin_Canarias,28.5451,-17.8215,0,0
+Spain,Volcan Nuevo_Canarias,29.0618,-13.7382,0,0
+Spain,Volcan Tacande_Canarias,28.6618,-17.8715,0,0
+Spain,Vozmediano_Castilla y Leon,42.8951,-5.2215,1,0
+Spain,Voznuevo_Castilla y Leon,42.8785,-5.2715,1,0
+Spain,Vuelta del Toro_Canarias,28.4951,-17.8549,0,0
+Spain,Vueltas_Canarias,28.0951,-17.3049,0,0
+Spain,Vulpellach_Cataluna,41.9618,3.0618,1,0
+Spain,Vulveralla_Cataluna,42.1785,3.0451,1,0
+Spain,Wadi el Kebir,36.7952,-6.3548,1,0
+Spain,Wamba_Castilla y Leon,41.6786,-4.9048,1,0
+Spain,Xallas_Galicia,42.912,-9.1213,1,0
+Spain,Xano de Canero_Asturias,43.562,-6.438,1,0
+Spain,Xerallo_Cataluna,42.3787,0.8953,1,0
+Spain,Xerne_Galicia,43.1787,-8.9047,1,0
+Spain,Xert_Valenciana,40.5287,0.1787,1,0
+Spain,Yabar_Navarra,42.9288,-1.9046,1,0
+Spain,Yaben_Navarra,42.9954,-1.7879,1,0
+Spain,Yaiza_Canarias,28.9621,-13.7379,0,0
+Spain,Yaldepenas_Castilla-La Manacha,38.7788,-3.3712,1,0
+Spain,Yanci_Navarra,43.2288,-1.6879,1,0
+Spain,Yanguas_Castilla y Leon,42.1121,-2.3212,1,0
+Spain,Yanguas de Eresma_Castilla y Leon,41.0788,-4.2212,1,0
+Spain,Yaso_Aragon,42.2121,-0.1212,1,0
+Spain,Yator_Andalucia,36.9621,-3.1379,1,0
+Spain,Yatova_Valenciana,39.3954,-0.7879,1,0
+Spain,Ye_Canarias,29.1954,-13.4546,0,0
+Spain,Yeba_Aragon,42.5454,0.0288,1,0
+Spain,Yebenes_Castilla-La Manacha,39.5788,-3.8712,1,0
+Spain,Yebes_Castilla-La Manacha,40.5454,-3.0879,1,0
+Spain,Yebra_Castilla y Leon,42.4121,-6.6712,1,0
+Spain,Yebra_Castilla-La Manacha,40.3621,-2.9379,1,0
+Spain,Yebra de Basa_Aragon,42.4954,-0.2879,1,0
+Spain,Yechar_Murcia,38.0954,-1.4212,1,0
+Spain,Yecla_Murcia,38.6288,-1.1046,1,0
+Spain,Yecla_Castilla y Leon,40.9788,-6.4712,1,0
+Spain,Yecora_Pais Vasco,42.5788,-2.4546,1,0
+Spain,Yedra_Andalucia,38.0454,-3.4379,1,0
+Spain,Yegen_Andalucia,36.9954,-3.1212,1,0
+Spain,Yegua_Andalucia,37.5621,-2.2212,1,0
+Spain,Yela_Castilla-La Manacha,40.8288,-2.7712,1,0
+Spain,Yelamos de Abajo_Castilla-La Manacha,40.6454,-2.8379,1,0
+Spain,Yelamos de Arriba_Castilla-La Manacha,40.6454,-2.8212,1,0
+Spain,Yeles_Castilla-La Manacha,40.1288,-3.7879,1,0
+Spain,Yelo_Castilla y Leon,41.2288,-2.5046,1,0
+Spain,Yelz_Navarra,42.8121,-1.5046,1,0
+Spain,Yemeda_Castilla-La Manacha,39.7788,-1.7046,1,0
+Spain,Yepes_Castilla-La Manacha,39.9121,-3.6212,1,0
+Spain,Yequeda_Aragon,42.1954,-0.4212,1,0
+Spain,Yera_Cantabria,43.1454,-3.7546,1,0
+Spain,Yeres_Castilla y Leon,42.4454,-6.7546,1,0
+Spain,Yermo_Cantabria,43.3121,-4.0712,1,0
+Spain,Yermo_Galicia,43.6288,-7.8546,1,0
+Spain,Yernes_Asturias,43.2954,-6.0879,1,0
+Spain,Yervo_Asturias,43.3788,-6.5379,1,0
+Spain,Yesa_Valenciana,39.8954,-0.9379,1,0
+Spain,Yesa_Navarra,42.6288,-1.1879,1,0
+Spain,Yesero_Aragon,42.6288,-0.2379,1,0
+Spain,Yespola_Aragon,42.3788,-0.3212,1,0
+Spain,Yeste_Aragon,42.3954,-0.6712,1,0
+Spain,Yeste_Castilla-La Manacha,38.3788,-2.2879,1,0
+Spain,Yetas_Castilla-La Manacha,38.2454,-2.3046,1,0
+Spain,Yosa_Aragon,42.6121,-0.1546,1,0
+Spain,Yosa de Garcipollera_Aragon,42.6454,-0.4879,1,0
+Spain,Yosa de Sobremonte_Aragon,42.6288,-0.3379,1,0
+Spain,Ypas_Aragon,42.6121,-0.5046,1,0
+Spain,Ysin_Aragon,42.6121,-0.4046,1,0
+Spain,Yuba_Castilla y Leon,41.2288,-2.3879,1,0
+Spain,Yudego_Castilla y Leon,42.3788,-3.9879,1,0
+Spain,Yugo_Navarra,42.2121,-1.5712,1,0
+Spain,Yugueros_Castilla y Leon,42.8288,-5.1546,1,0
+Spain,Yuncler_Castilla-La Manacha,40.0621,-3.8879,1,0
+Spain,Yunclillas_Castilla-La Manacha,40.0288,-3.9712,1,0
+Spain,Yuncos_Castilla-La Manacha,40.0954,-3.8546,1,0
+Spain,Yunquera_Andalucia,36.7454,-4.9046,1,0
+Spain,Yunquera_Castilla-La Manacha,40.7621,-3.1546,1,0
+Spain,Yurre_Pais Vasco,43.0454,-2.2046,1,0
+Spain,Yurreta_Pais Vasco,43.1954,-2.6212,1,0
+Spain,Yuso_Cantabria,43.4121,-4.0712,1,0
+Spain,Zamora_Castilla y Leon,41.5122,-5.7378,1,0
+Spain,Zaragoza_Aragon,41.6455,-0.8711,1,0
+Spain,Zeluan_Asturias,43.6019,-5.9017,1,0
+Spain,Zeneta_Murcia,38.0289,-0.9711,1,0
+Spain,Zenzano_La Rioja,42.3289,-2.3545,1,0
+Spain,Ziduco_Navarra,42.3622,-1.6211,1,0
+Spain,Zobra_Galicia,42.5789,-8.1878,1,0
+Spain,Zolina_Navarra,42.7789,-1.5711,1,0
+Spain,Zolle_Galicia,42.8955,-7.6211,1,0
+Spain,Zollo_Pais Vasco,43.2122,-2.9211,1,0
+Spain,Zona Franca,41.3289,2.1455,1,0
+Spain,Zorelle_Galicia,42.3122,-7.6545,1,0
+Spain,Zorera_Asturias,43.4622,-6.6711,1,0
+Spain,Zorio_Castilla-La Manacha,38.7122,-2.3878,1,0
+Spain,Zorita_Valenciana,40.7455,-0.1545,1,0
+Spain,Zorrilla_Andalucia,36.8122,-4.1545,1,0
+Spain,Zos_Galicia,42.0455,-7.6378,1,0
+Spain,Zotes del Paramo_Castilla y Leon,42.2789,-5.7211,1,0
+Spain,Zucaina_Valenciana,40.1289,-0.4045,1,0
+Spain,Zumarraga_Pais Vasco,43.0955,-2.3045,1,0

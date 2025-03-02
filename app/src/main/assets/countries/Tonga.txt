@@ -1,0 +1,153 @@
+Tonga,Aa_Vava`u,-18.6903,-174.0403,13,0
+Tonga,Accou Jago_Vava`u,-19.007,-174.007,13,0
+Tonga,Ahanga Passage_Vava`u,-18.6736,-173.9736,13,0
+Tonga,Ahau_Tongatapu,-21.0903,-175.3403,13,0
+Tonga,Akkumanes Bank_Vava`u,-19.157,-174.0736,13,0
+Tonga,Alaki Fonua_Ha`apai,-19.7403,-174.307,13,0
+Tonga,Alakipeau Island_Tongatapu,-21.0736,-175.2403,13,0
+Tonga,Alibati Patch_Ha`apai,-19.7736,-174.3403,13,0
+Tonga,Alinonga_Vava`u,-18.6903,-174.0736,13,0
+Tonga,Annamooka_Ha`apai,-20.2403,-174.7903,13,0
+Tonga,Ano Ava_Ha`apai,-20.2403,-174.7736,13,0
+Tonga,Apifo`ou_Tongatapu,-21.1403,-175.1736,13,0
+Tonga,Ataa_Tongatapu,-21.0403,-174.9903,13,0
+Tonga,Augusta Rock_Tongatapu,-21.057,-175.1736,13,0
+Tonga,Ava Auhangamea_Ha`apai,-19.857,-174.407,13,0
+Tonga,Ava Fonuaunga_Vava`u,-18.7736,-173.9403,13,0
+Tonga,Ava Homaulu_Ha`apai,-19.7403,-174.5736,13,0
+Tonga,Ava Muikuku_Ha`apai,-19.757,-174.357,13,0
+Tonga,Ava Mutu_Ha`apai,-19.807,-174.357,13,0
+Tonga,Ava Pulepulekai_Vava`u,-18.6903,-174.107,13,0
+Tonga,Ava Tauoifi_Ha`apai,-19.7736,-174.7236,13,0
+Tonga,Baebae_Vava`u,-18.6569,-173.9735,13,0
+Tonga,Balfour Patch_Ha`apai,-19.6902,-174.5569,13,0
+Tonga,Bangai_Ha`apai,-19.7902,-174.3402,13,0
+Tonga,Bangaimotu_Tongatapu,-21.1069,-175.1569,13,0
+Tonga,Barrier Reef_Ha`apai,-20.0735,-174.4735,13,0
+Tonga,Bau_Vava`u,-18.7402,-174.0069,13,0
+Tonga,Bea_Tongatapu,-21.1735,-175.2235,13,0
+Tonga,Beabea Island_Ha`apai,-20.0402,-174.7069,13,0
+Tonga,Bethune Bank,-19.5735,-174.2402,13,0
+Tonga,Bicentenary Seamount,-19.3902,-175.4569,13,0
+Tonga,Bickerton Island_Vava`u,-18.7902,-174.6402,13,0
+Tonga,Big Lake_Vava`u,-15.5902,-175.6235,13,0
+Tonga,Bobua_Tongatapu,-21.1402,-175.1569,13,0
+Tonga,Boloa_Tongatapu,-21.0902,-175.2402,13,0
+Tonga,Boscawen Island_Vava`u,-15.8402,-173.7069,13,0
+Tonga,Bowers Rock_Ha`apai,-19.8402,-174.4735,13,0
+Tonga,Britten Reef_Ha`apai,-20.0069,-174.6069,13,0
+Tonga,Buhi_Ha`apai,-19.5902,-174.4569,13,0
+Tonga,Buke_Tongatapu,-21.1235,-175.2235,13,0
+Tonga,Bukefeo_Ha`apai,-19.7735,-174.3569,13,0
+Tonga,Bukutala_Ha`apai,-19.6735,-174.2735,13,0
+Tonga,Catto_Tongatapu,-21.4568,-174.9401,13,0
+Tonga,Crawshaw Shoals_Ha`apai,-19.7068,-174.3401,13,0
+Tonga,Culebras_Ha`apai,-20.3068,-175.4068,13,0
+Tonga,David Patch_Ha`apai,-19.79,-174.3567,13,0
+Tonga,Dido Shoal_Tongatapu,-20.9067,-174.99,13,0
+Tonga,Disney Reef,-19.2733,-174.09,13,0
+Tonga,Doyland Reef_Ha`apai,-20.04,-174.7567,13,0
+Tonga,Duff Reef_Tongatapu,-21.0567,-175.3733,13,0
+Tonga,Durham Shoal_Vava`u,-16.1067,-173.79,13,0
+Tonga,East Point_Tongatapu,-21.1399,-175.0232,13,0
+Tonga,Eastern Passage_Tongatapu,-21.1066,-175.0732,13,0
+Tonga,Eeulah_Tongatapu,-21.1899,-175.1566,13,0
+Tonga,Egeira Passage_Tongatapu,-21.0399,-175.2399,13,0
+Tonga,English Roads_Tongatapu,-21.3232,-174.9566,13,0
+Tonga,Eoa-tehi_Tongatapu,-21.1066,-174.9732,13,0
+Tonga,Eooa_Tongatapu,-21.3566,-174.9232,13,0
+Tonga,Esia_Vava`u,-15.5566,-175.6232,13,0
+Tonga,Esk Shoals_Ha`apai,-19.7232,-174.4232,13,0
+Tonga,Euaiki_Vava`u,-18.7566,-174.0066,13,0
+Tonga,Euakafa_Vava`u,-18.7566,-174.0232,13,0
+Tonga,Gardner s Island_Vava`u,-18.0064,-174.3064,13,0
+Tonga,Goede Hoop Eiland_Vava`u,-15.573,-175.623,13,0
+Tonga,Gora Kaprikorn,-18.573,-172.1897,13,0
+Tonga,Great Passage_Tongatapu,-21.023,-175.173,13,0
+Tonga,Juno Rock_Tongatapu,-21.0727,-175.1727,13,0
+Tonga,Kafoa_Vava`u,-18.6226,-173.9893,13,0
+Tonga,Kanokupolu_Tongatapu,-21.0726,-175.3226,13,0
+Tonga,Katafaga_Vava`u,-18.7226,-174.0393,13,0
+Tonga,Kito Island_Ha`apai,-19.9893,-174.7726,13,0
+Tonga,Koro Island_Ha`apai,-19.9393,-174.6893,13,0
+Tonga,Namukaiki_Ha`apai,-20.2723,-174.8057,13,0
+Tonga,Navutoka_Tongatapu,-21.1057,-175.089,13,0
+Tonga,Ngaakau_Vava`u,-18.6223,-174.0057,13,0
+Tonga,Niu Aunofo_Tongatapu,-21.0557,-175.3223,13,0
+Tonga,Nomuka Group_Ha`apai,-20.3223,-174.739,13,0
+Tonga,Nukuhi_Tongatapu,-21.1557,-175.189,13,0
+Tonga,Nukuleka_Tongatapu,-21.139,-175.1223,13,0
+Tonga,Nukunuku_Tongatapu,-21.1223,-175.289,13,0
+Tonga,O-ooa_Ha`apai,-20.0222,-174.6722,13,0
+Tonga,Ofu Island_Vava`u,-18.6889,-173.9556,13,0
+Tonga,Ohonua_Tongatapu,-21.3222,-174.9389,13,0
+Tonga,Okoa_Vava`u,-18.6389,-173.9389,13,0
+Tonga,Oneata Island_Tongatapu,-21.1222,-175.1389,13,0
+Tonga,Onevai Island_Tongatapu,-21.0722,-175.1056,13,0
+Tonga,Onevao_Tongatapu,-21.0722,-175.0889,13,0
+Tonga,Oto_Vava`u,-18.6889,-174.0556,13,0
+Tonga,Otu Tolu Group_Ha`apai,-20.3389,-174.5222,13,0
+Tonga,Ovaka Island_Vava`u,-18.7389,-174.0889,13,0
+Tonga,Ovalau_Vava`u,-18.7389,-174.0722,13,0
+Tonga,Pelorus Reef,-22.8221,-176.4555,13,0
+Tonga,Pengai Motu_Vava`u,-18.6555,-173.9888,13,0
+Tonga,Petani_Vava`u,-15.6221,-175.6055,13,0
+Tonga,Polynesia,-9.9888,-149.9888,13,0
+Tonga,Port Maurelle_Vava`u,-18.6888,-174.0221,13,0
+Tonga,Pudupudua Island_Ha`apai,-19.9055,-174.7555,13,0
+Tonga,Puleieia_Ha`apai,-19.5888,-174.4388,13,0
+Tonga,Pylstaert_Tongatapu,-22.3221,-176.1888,13,0
+Tonga,Queen Salote Wharf_Tongatapu,-21.122,-175.172,13,0
+Tonga,Richards Patches_Vava`u,-18.8553,-174.0886,13,0
+Tonga,Rochambeau Bank,-15.1386,-176.6886,13,0
+Tonga,Russell Reef_Ha`apai,-19.9719,-174.7553,13,0
+Tonga,Sapa`ata_Vava`u,-15.5552,-175.6052,13,0
+Tonga,Smith Shoals_Ha`apai,-19.7718,-174.4552,13,0
+Tonga,South Minerva Reef,-23.9052,-179.1052,13,0
+Tonga,South Pacific Ocean,-44.9885,-129.9885,13,0
+Tonga,Sumner Shoal_Tongatapu,-21.0385,-175.2218,13,0
+Tonga,Tabana_Vava`u,-18.7051,-173.9884,13,0
+Tonga,Taii_Tongatapu,-21.0051,-174.9884,13,0
+Tonga,Talau_Vava`u,-18.6384,-173.9884,13,0
+Tonga,Tangaseto_Vava`u,-18.7551,-174.1217,13,0
+Tonga,Tatefa_Ha`apai,-19.8717,-174.4051,13,0
+Tonga,Tauga_Vava`u,-18.7217,-174.0051,13,0
+Tonga,Taula Island_Vava`u,-18.8384,-174.0051,13,0
+Tonga,Tauta_Vava`u,-18.7217,-173.9884,13,0
+Tonga,Ta`anea_Vava`u,-18.5884,-173.9384,13,0
+Tonga,Teauba Island_Ha`apai,-19.9717,-174.7217,13,0
+Tonga,Teleki Tokelau,-23.6217,-178.9217,13,0
+Tonga,Telekitinga_Ha`apai,-20.3884,-174.5217,13,0
+Tonga,Terraced Tombs_Tongatapu,-21.1551,-175.1051,13,0
+Tonga,Te`ekiu_Tongatapu,-21.1217,-175.3051,13,0
+Tonga,The Burden of Maui_Tongatapu,-21.1217,-175.0384,13,0
+Tonga,The Narrows_Tongatapu,-21.1051,-175.1384,13,0
+Tonga,Thorn Rock_Ha`apai,-19.8551,-174.4884,13,0
+Tonga,Tofaga_Ha`apai,-19.9551,-174.4551,13,0
+Tonga,Tofua Trough,-19.4884,-174.7717,13,0
+Tonga,Toka Vevili_Ha`apai,-20.2884,-174.7884,13,0
+Tonga,Tokulu Island_Ha`apai,-20.0884,-174.7884,13,0
+Tonga,Tonga Ridge,-20.9884,-174.9884,13,0
+Tonga,Tongamama`o_Vava`u,-15.6051,-175.5884,13,0
+Tonga,Tongan Islands,-19.9884,-174.9884,13,0
+Tonga,Tongatapu,-21.1551,-175.1551,13,0
+Tonga,Tonumea Island_Ha`apai,-20.4551,-174.7551,13,0
+Tonga,Toofoa_Ha`apai,-19.7384,-175.0717,13,0
+Tonga,Trerise Patch_Ha`apai,-19.9884,-174.8051,13,0
+Tonga,Tufu_Tongatapu,-21.3551,-174.9551,13,0
+Tonga,Tungnoi_Ha`apai,-20.0051,-174.7551,13,0
+Tonga,Tupouniua_Vava`u,-18.5717,-173.9217,13,0
+Tonga,Tu`anuku_Vava`u,-18.6551,-174.0217,13,0
+Tonga,Tu`ungasika_Vava`u,-18.6384,-174.0551,13,0
+Tonga,Ualaga Lalo_Tongatapu,-21.0883,-175.1716,13,0
+Tonga,Ualanga Uta_Tongatapu,-21.105,-175.1883,13,0
+Tonga,Uanukuhihifu Island_Ha`apai,-19.955,-174.4883,13,0
+Tonga,Uia_Ha`apai,-19.8883,-174.405,13,0
+Tonga,Uonuku Hahake_Ha`apai,-19.955,-174.4716,13,0
+Tonga,Utui_Vava`u,-18.6216,-173.955,13,0
+Tonga,Utungake_Vava`u,-18.6716,-174.0216,13,0
+Tonga,Ward Rock_Ha`apai,-20.0714,-174.6881,13,0
+Tonga,Way-Inn Motel_Tongatapu,-21.1214,-175.1881,13,0
+Tonga,Western Ha`apal Group_Ha`apai,-19.9881,-174.7381,13,0
+Tonga,Wickham Reef_Ha`apai,-20.0714,-174.7381,13,0
+Tonga,Zhelob Tonga,-19.9878,-172.9878,13,0

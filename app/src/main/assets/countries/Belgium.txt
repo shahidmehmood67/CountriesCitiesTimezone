@@ -1,0 +1,306 @@
+Belgium,Aalst_Oost-Vlaanderen,50.9333,4.0333,1,123
+Belgium,Aalst_Limburg,50.7833,5.2000,1,124
+Belgium,Aalst_ or BE02,50.7667,4.8667,1,124
+Belgium,Aiseau_Hainaut,50.4167,4.5833,1,123
+Belgium,Amay_Liege,50.5500,5.3167,1,124
+Belgium,Ancien Fort Frederic_Antwerpen,51.3333,4.2833,1,124
+Belgium,Andenne_Namur,50.4833,5.1000,1,124
+Belgium,Anderlecht_ or BE02,50.8333,4.3000,1,123
+Belgium,Antwerpen,51.2167,4.4167,1,124
+Belgium,Arlon_Luxembourg,49.6833,5.8167,1,124
+Belgium,Ath_Hainaut,50.6333,3.7833,1,123
+Belgium,Athus_Luxembourg,49.5667,5.8333,1,124
+Belgium,Awan_Liege,50.4667,5.6500,1,125
+Belgium,Bastogne_Luxembourg,50.0000,5.7167,1,124
+Belgium,Berchem_Antwerpen,51.2000,4.4167,1,124
+Belgium,Beringen_Limburg,51.0500,5.2167,1,125
+Belgium,Beringen_ or BE02,50.7667,4.1333,1,123
+Belgium,Beringen Mijnen_Limburg,51.0833,5.2333,1,125
+Belgium,Beringenbeek_ or BE02,50.7667,4.1667,1,123
+Belgium,Bernissart_Hainaut,50.4667,3.6333,1,122
+Belgium,Bertrix_Luxembourg,49.8500,5.2500,1,124
+Belgium,Bilzen_Limburg,50.8667,5.5167,1,125
+Belgium,Blankenberge_West-Vlaanderen,51.3167,3.1167,1,123
+Belgium,Bocholt_Limburg,51.1667,5.5667,1,125
+Belgium,Bonheiden_Antwerpen,51.0333,4.5333,1,124
+Belgium,Boom_Antwerpen,51.0833,4.3500,1,124
+Belgium,Borgerhout_Antwerpen,51.2167,4.4333,1,124
+Belgium,Borlo_Limburg,50.7333,5.1667,1,124
+Belgium,Bornem_Antwerpen,51.1000,4.2333,1,124
+Belgium,Bouwel_Antwerpen,51.1667,4.7333,1,124
+Belgium,Bovigny_Luxembourg,50.2333,5.9167,1,125
+Belgium,Brabant Wallon,50.7500,4.5833,1,124
+Belgium,Braine-l Alleud_ or BE02,50.6833,4.3667,1,123
+Belgium,Braine-le-Comte_Hainaut,50.6000,4.1333,1,123
+Belgium,Brasel_Antwerpen,51.2333,5.0833,1,125
+Belgium,Brasschaat_Antwerpen,51.3000,4.4833,1,124
+Belgium,Bredene_West-Vlaanderen,51.2333,2.9667,1,122
+Belgium,Bredene-aan-Zee_West-Vlaanderen,51.2472,2.9500,1,122
+Belgium,Bree_Limburg,51.1333,5.5833,1,125
+Belgium,Brugge_ or BE02,50.7500,4.1000,1,123
+Belgium,Brugge_West-Vlaanderen,51.2500,3.2167,1,123
+Belgium,Brugge_Oost-Vlaanderen,50.7833,3.5167,1,122
+Belgium,Brussels_Bruxelles-Capitale,50.8333,4.3333,1,123
+Belgium,Brusselse Voorstad_Oost-Vlaanderen,51.0333,3.7667,1,123
+Belgium,Brusselsebossen_Antwerpen,51.3167,4.4500,1,124
+Belgium,Bruxelles-Rupel Canal,50.8667,4.3667,1,124
+Belgium,Bullange_Liege,50.4167,6.2667,1,125
+Belgium,Butgenbach_Liege,50.4333,6.2000,1,125
+Belgium,Ceroux-Mousty_ or BE02,50.6667,4.5167,1,124
+Belgium,Charleroi_Hainaut,50.4167,4.4333,1,123
+Belgium,Chat_Hainaut,50.5333,3.8500,1,123
+Belgium,Chatelet_Hainaut,50.4000,4.5167,1,123
+Belgium,Chatelineau_Hainaut,50.4167,4.5167,1,123
+Belgium,Cuesmes_Hainaut,50.4333,3.9167,1,123
+Belgium,De Panne_West-Vlaanderen,51.1000,2.5833,1,122
+Belgium,Deinze_Oost-Vlaanderen,50.9833,3.5167,1,123
+Belgium,Dendermonde_Oost-Vlaanderen,51.0333,4.0833,1,123
+Belgium,Desselgem_West-Vlaanderen,50.8833,3.3333,1,122
+Belgium,Deurne_Antwerpen,51.2167,4.4500,1,124
+Belgium,Diegem_ or BE02,50.9000,4.4167,1,124
+Belgium,Diepenbeek_Limburg,50.9000,5.4000,1,125
+Belgium,Diest_ or BE02,50.9833,5.0500,1,124
+Belgium,Dilsen_Limburg,51.0333,5.7333,1,125
+Belgium,Elsenborn_Liege,50.4667,6.2167,1,125
+Belgium,Epinois_Hainaut,50.4000,4.1833,1,123
+Belgium,Essen_Antwerpen,51.4667,4.4500,1,124
+Belgium,Etterbeek_ or BE02,50.8333,4.3833,1,124
+Belgium,Eupen_Liege,50.6000,6.1333,1,125
+Belgium,Farciennes_Hainaut,50.4667,4.5333,1,123
+Belgium,Flenu_Hainaut,50.4333,3.8833,1,123
+Belgium,Frameries_Hainaut,50.4000,3.9000,1,123
+Belgium,Geel_Antwerpen,51.1667,5.0000,1,125
+Belgium,Gembloux_Namur,50.5667,4.6833,1,124
+Belgium,Genk_Limburg,50.9667,5.5000,1,125
+Belgium,Genkerhei_Limburg,50.9667,5.4500,1,125
+Belgium,Gent_Oost-Vlaanderen,51.0500,3.7167,1,123
+Belgium,Gentbos_Oost-Vlaanderen,50.9667,3.7500,1,123
+Belgium,Gentbrugge_Oost-Vlaanderen,51.0500,3.7500,1,123
+Belgium,Gentinnes_ or BE02,50.5833,4.5833,1,124
+Belgium,Gentissart_ or BE02,50.5667,4.5667,1,123
+Belgium,Gentsche Vaart_Oost-Vlaanderen,51.2000,4.0333,1,123
+Belgium,Gentsterbloem_Liege,50.7000,5.9167,1,125
+Belgium,Gentstraat_Oost-Vlaanderen,51.1833,3.6333,1,123
+Belgium,Geraardsbergen_Oost-Vlaanderen,50.7667,3.8667,1,123
+Belgium,Gijzegem_Oost-Vlaanderen,50.9833,4.0333,1,123
+Belgium,Gilly_Hainaut,50.4167,4.4833,1,123
+Belgium,Gingelom_Limburg,50.7500,5.1333,1,124
+Belgium,Gosselies_Hainaut,50.4667,4.4167,1,123
+Belgium,Halle_ or BE02,50.7333,4.2333,1,123
+Belgium,Hamme_Oost-Vlaanderen,51.1000,4.1333,1,123
+Belgium,Hamont_Limburg,51.2500,5.5333,1,125
+Belgium,Harelbeke_West-Vlaanderen,50.8667,3.3000,1,122
+Belgium,Hasselt_Limburg,50.9333,5.3333,1,125
+Belgium,Hasselt_ or BE02,50.9500,4.3167,1,124
+Belgium,Hastiere-Lavaux_Namur,50.2167,4.8167,1,123
+Belgium,Hemiksem_Antwerpen,51.1500,4.3500,1,124
+Belgium,Herentals_Antwerpen,51.1667,4.8333,1,124
+Belgium,Herstal_Liege,50.6833,5.6167,1,125
+Belgium,Heusden_Limburg,51.0333,5.2667,1,125
+Belgium,Hoboken_Antwerpen,51.1667,4.3333,1,124
+Belgium,Horrues_Hainaut,50.6000,4.0333,1,123
+Belgium,Houdeng-Aimeries_Hainaut,50.4833,4.1333,1,123
+Belgium,Houthalen_Limburg,51.0333,5.3667,1,125
+Belgium,Huy_Liege,50.5167,5.2333,1,124
+Belgium,Ieper_West-Vlaanderen,50.8500,2.8833,1,122
+Belgium,Ixelles_ or BE02,50.8333,4.3667,1,124
+Belgium,Izegem_West-Vlaanderen,50.9167,3.2000,1,122
+Belgium,Jemappes_Hainaut,50.4500,3.8833,1,123
+Belgium,Jette_ or BE02,50.8667,4.3333,1,123
+Belgium,Kasterlee_Antwerpen,51.2333,4.9667,1,125
+Belgium,Kettenis_Liege,50.6500,6.0500,1,125
+Belgium,Kiel_Antwerpen,51.2000,4.3833,1,124
+Belgium,Kieldrecht_Oost-Vlaanderen,51.2833,4.1833,1,124
+Belgium,Knokke_West-Vlaanderen,51.3333,3.3333,1,123
+Belgium,Knokke-Heist_West-Vlaanderen,51.3500,3.2667,1,123
+Belgium,Koersel_Limburg,51.0667,5.2667,1,125
+Belgium,Kontich_Antwerpen,51.1333,4.4333,1,124
+Belgium,Kortrijk_West-Vlaanderen,50.8333,3.2500,1,122
+Belgium,Kuurne_West-Vlaanderen,50.8500,3.2833,1,122
+Belgium,La Hestre_Hainaut,50.4667,4.2333,1,123
+Belgium,La Louviere_Hainaut,50.4667,4.1833,1,123
+Belgium,La Roche-en-Ardenne_Luxembourg,50.1833,5.6000,1,124
+Belgium,Lanaken_Limburg,50.9000,5.6333,1,125
+Belgium,Langemark_West-Vlaanderen,50.9167,2.9167,1,122
+Belgium,Lebbeke_Oost-Vlaanderen,51.0000,4.1167,1,123
+Belgium,Leopoldsburg_Limburg,51.1167,5.2500,1,125
+Belgium,Lessines_Hainaut,50.7167,3.8333,1,123
+Belgium,Leuven_ or BE02,50.8833,4.7000,1,124
+Belgium,Leuvenstraat_Oost-Vlaanderen,50.9167,4.0667,1,123
+Belgium,Libramont_Luxembourg,49.9167,5.3833,1,124
+Belgium,Liege,50.6333,5.5667,1,125
+Belgium,Lier_Antwerpen,51.1333,4.5667,1,124
+Belgium,Limal_ or BE02,50.7000,4.5667,1,124
+Belgium,Lokeren_Oost-Vlaanderen,51.1000,3.9667,1,123
+Belgium,Lommel_Limburg,51.2333,5.3000,1,125
+Belgium,Louvain-la-Neuve_ or BE02,50.6833,4.6167,1,124
+Belgium,Louviere_Hainaut,50.1500,4.1833,1,123
+Belgium,Maaseik_Limburg,51.1000,5.7833,1,125
+Belgium,Maasmechelen_Limburg,50.8167,5.6667,1,125
+Belgium,Maldegem_Oost-Vlaanderen,51.2167,3.4500,1,123
+Belgium,Malmedy_Liege,50.4167,6.0000,1,125
+Belgium,Manage_Hainaut,50.6333,3.8167,1,123
+Belgium,Manderfeld_Liege,50.3333,6.3333,1,125
+Belgium,Marche-en-Famenne_Luxembourg,50.2000,5.3333,1,124
+Belgium,Marchienne-au-Pont_Hainaut,50.4000,4.3833,1,123
+Belgium,Mechelen_Antwerpen,51.0333,4.4667,1,124
+Belgium,Mechelen_Limburg,50.7333,5.2500,1,124
+Belgium,Medell_Liege,50.3208,6.1664,1,125
+Belgium,Meerhout_Antwerpen,51.1333,5.0833,1,125
+Belgium,Meise_ or BE02,50.9500,4.3333,1,124
+Belgium,Menen_West-Vlaanderen,50.8000,3.1000,1,122
+Belgium,Mere_Oost-Vlaanderen,50.9167,3.9667,1,123
+Belgium,Merksem_Antwerpen,51.2333,4.4333,1,124
+Belgium,Meulebeke_West-Vlaanderen,50.9500,3.2833,1,122
+Belgium,Mevergnies_Hainaut,50.6000,3.8500,1,123
+Belgium,Mol_Antwerpen,51.1833,5.1000,1,125
+Belgium,Molenbeek-Saint-Jean_ or BE02,50.8500,4.3167,1,123
+Belgium,Mons_Hainaut,50.4500,3.9333,1,123
+Belgium,Mons_Liege,50.6333,5.4500,1,125
+Belgium,Mouscron_Hainaut,50.7333,3.2000,1,122
+Belgium,Namur,50.4667,4.8500,1,124
+Belgium,Neufchateau_Liege,50.7167,5.7667,1,125
+Belgium,Neufchateau_Luxembourg,49.8333,5.4167,1,124
+Belgium,Ninove_Oost-Vlaanderen,50.8333,4.0000,1,123
+Belgium,Nivelles_ or BE02,50.6000,4.3333,1,123
+Belgium,Oelegem_Antwerpen,51.2000,4.5833,1,124
+Belgium,Oostende_West-Vlaanderen,51.2167,2.9167,1,122
+Belgium,Ottignies_ or BE02,50.6667,4.5667,1,124
+Belgium,Oud-Turnhout_Antwerpen,51.3333,4.9667,1,125
+Belgium,Oudenaarde_Oost-Vlaanderen,50.8500,3.6000,1,123
+Belgium,Oudergem_ or BE02,50.8167,4.4333,1,124
+Belgium,Overpelt_Limburg,51.2167,5.4167,1,125
+Belgium,Pecq_Hainaut,50.6833,3.3333,1,122
+Belgium,Peruwelz_Hainaut,50.5000,3.5833,1,122
+Belgium,Pont-a-Celles_Hainaut,50.5000,4.3500,1,123
+Belgium,Poperinge_West-Vlaanderen,50.8500,2.7167,1,122
+Belgium,Quairelles_Namur,50.2500,4.4333,1,123
+Belgium,Quaregnon_Hainaut,50.4333,3.8500,1,123
+Belgium,Quaremont_Oost-Vlaanderen,50.7667,3.5167,1,122
+Belgium,Quareux_Liege,50.4500,5.7333,1,125
+Belgium,Quartier Blancpain_Luxembourg,49.8667,5.3500,1,124
+Belgium,Quartier Central_Hainaut,50.5667,4.1667,1,123
+Belgium,Quatre Chemins_Liege,50.6500,5.9000,1,125
+Belgium,Quatre Chemins_Hainaut,50.5000,3.5167,1,122
+Belgium,Quatre Chins_Hainaut,50.5833,3.2833,1,122
+Belgium,Quatre Verges_Namur,50.3333,5.2167,1,124
+Belgium,Quatre-Arbres_Luxembourg,49.7000,5.2333,1,123
+Belgium,Quenast_ or BE02,50.6667,4.1500,1,123
+Belgium,Quenoy_Hainaut,50.5833,3.6667,1,122
+Belgium,Queue de l Herze_Hainaut,50.1667,4.3667,1,123
+Belgium,Queue la Veau_Luxembourg,50.2167,5.6000,1,124
+Belgium,Quevaucamp_West-Vlaanderen,50.7167,3.2667,1,122
+Belgium,Quevaucamps_Hainaut,50.5167,3.6667,1,122
+Belgium,Quevy-le-Petit_Hainaut,50.3667,3.9333,1,123
+Belgium,Qui Vive_Hainaut,50.6000,3.7667,1,123
+Belgium,Quievrain_Hainaut,50.4000,3.6833,1,122
+Belgium,Quievremont_Hainaut,50.5500,3.8000,1,123
+Belgium,Roeselare_West-Vlaanderen,50.9500,3.1333,1,122
+Belgium,Roeselare_Oost-Vlaanderen,50.8500,3.9333,1,123
+Belgium,Ronse_Oost-Vlaanderen,50.7500,3.6000,1,123
+Belgium,Saint-Ghislain_Hainaut,50.4500,3.8167,1,122
+Belgium,Saint-Nicolas_Hainaut,50.3667,4.4167,1,123
+Belgium,Saint-Trond_Limburg,50.8167,5.1667,1,124
+Belgium,Saint-Vincent_Luxembourg,49.6833,5.4833,1,124
+Belgium,Saint-Vith_Liege,50.2500,6.0833,1,125
+Belgium,Schaarbeek_ or BE02,50.8500,4.3833,1,124
+Belgium,Schilde_Antwerpen,51.2333,4.5667,1,124
+Belgium,Schoten_Antwerpen,51.2500,4.4833,1,124
+Belgium,Seraing_Liege,50.5833,5.5000,1,125
+Belgium,Sint-Genesius-Rode_ or BE02,50.7500,4.3500,1,123
+Belgium,Sint-Niklaas_Oost-Vlaanderen,51.1667,4.1333,1,124
+Belgium,Sint-Niklaas_Liege,50.6333,5.5333,1,125
+Belgium,Sint-Pieters-Leeuw_ or BE02,50.7833,4.2333,1,123
+Belgium,Soignies_Hainaut,50.5833,4.0667,1,123
+Belgium,Stokkem_Limburg,51.0167,5.7333,1,125
+Belgium,Temse_Oost-Vlaanderen,51.1667,4.2167,1,124
+Belgium,Tessenderlo_Limburg,51.0667,5.0833,1,125
+Belgium,Tielt_West-Vlaanderen,51.0000,3.3167,1,122
+Belgium,Tienen_ or BE02,50.8000,4.9500,1,124
+Belgium,Tildonk_ or BE02,50.9500,4.6333,1,124
+Belgium,Tintigny_Luxembourg,49.6833,5.5167,1,124
+Belgium,Tongeren_Limburg,50.7833,5.45,1,125
+Belgium,Tournai_Hainaut,50.6000,3.3833,1,122
+Belgium,Tubize_ or BE02,50.6833,4.2000,1,123
+Belgium,Turnhout_Antwerpen,51.3167,4.9333,1,125
+Belgium,Ubbersel_Limburg,51.0167,5.2500,1,125
+Belgium,Uberweywertz_Liege,50.4333,6.1667,1,125
+Belgium,Uccle_ or BE02,50.8000,4.3167,1,123
+Belgium,Ucimont_Luxembourg,49.8333,5.0333,1,123
+Belgium,Udange_Luxembourg,49.6333,5.7667,1,124
+Belgium,Uikhoven_Limburg,50.9333,5.7167,1,125
+Belgium,Uil_Oost-Vlaanderen,51.1833,4.1667,1,124
+Belgium,Uilebeek_Oost-Vlaanderen,51.1833,4.1500,1,124
+Belgium,Uilekot_ or BE02,50.8667,4.8167,1,124
+Belgium,Uilenberg_ or BE02,50.9167,4.8333,1,124
+Belgium,Uilenberg_Antwerpen,51.1333,4.7667,1,124
+Belgium,Uilenbroekdries_Oost-Vlaanderen,50.9500,3.9167,1,123
+Belgium,Uilenkoek_Oost-Vlaanderen,50.9667,3.9667,1,123
+Belgium,Uilenkoploop,51.0167,5.0000,1,124
+Belgium,Uilhoef_Antwerpen,51.0333,4.6667,1,124
+Belgium,Uitdiep,51.3000,2.7667,1,122
+Belgium,Ulbeek_Limburg,50.8333,5.3000,1,125
+Belgium,Ulfheide_Limburg,51.0667,5.1500,1,125
+Belgium,Ulvend_Liege,50.7667,5.8333,1,125
+Belgium,Upigny_Namur,50.5667,4.8667,1,124
+Belgium,Upper Schelde_Oost-Vlaanderen,51.0333,3.7167,1,123
+Belgium,Urf_Liege,50.1958,6.1525,1,125
+Belgium,Ursel_Oost-Vlaanderen,51.1333,3.4667,1,123
+Belgium,Ursene_ or BE02,51.0167,4.3000,1,124
+Belgium,Urtebise_Hainaut,50.6667,3.6833,1,123
+Belgium,Utsenaeken_ or BE02,50.8167,4.9833,1,124
+Belgium,Uykhoven_Limburg,50.9167,5.7333,1,125
+Belgium,Uytbergen_Oost-Vlaanderen,51.0167,3.9500,1,123
+Belgium,Uytkerke_West-Vlaanderen,51.3000,3.1333,1,123
+Belgium,Verviers_Liege,50.5833,5.8667,1,125
+Belgium,Vilvoorde_ or BE02,50.9333,4.4333,1,124
+Belgium,Virton_Luxembourg,49.6000,5.5333,1,124
+Belgium,Vise_Liege,50.7333,5.7000,1,125
+Belgium,Waasmunster_Oost-Vlaanderen,51.1000,4.0833,1,123
+Belgium,Waregem_West-Vlaanderen,50.8833,3.4167,1,122
+Belgium,Waterloo_ or BE02,50.7167,4.3833,1,123
+Belgium,Wavre_Brabant Wallon,50.7167,4.6167,1,124
+Belgium,Wavre_ or BE02,50.7333,4.6000,1,124
+Belgium,Wavre_Oost-Vlaanderen,50.9333,4.1000,1,123
+Belgium,Welkenraedt_Liege,50.6500,5.9667,1,125
+Belgium,Wervik_West-Vlaanderen,50.7667,3.0333,1,122
+Belgium,Wetteren_Oost-Vlaanderen,51.0000,3.8667,1,123
+Belgium,Wichelen_Oost-Vlaanderen,51.0167,3.9667,1,123
+Belgium,Willebroek_Antwerpen,51.0667,4.3500,1,124
+Belgium,Wilrijk_Antwerpen,51.1667,4.4000,1,124
+Belgium,Woluwe-Saint-Lambert_ or BE02,50.8500,4.4000,1,124
+Belgium,Wommelgem_Antwerpen,51.2000,4.5000,1,124
+Belgium,Xaimont_Luxembourg,49.8000,5.5500,1,124
+Belgium,Xhavee_Liege,50.6667,5.6500,1,125
+Belgium,Xhawirs_Liege,50.6167,5.7667,1,125
+Belgium,Xhendelesse_Liege,50.6000,5.7667,1,125
+Belgium,Xhendremael_Liege,50.7000,5.4833,1,125
+Belgium,Xheneumont_Liege,50.6333,5.8167,1,125
+Belgium,Xhignesse_Liege,50.4333,5.5333,1,125
+Belgium,Xhoffraix_Liege,50.4500,6.0667,1,125
+Belgium,Xhoris_Liege,50.4500,5.6000,1,125
+Belgium,Xhos_Liege,50.4833,5.4667,1,124
+Belgium,Xhout-si-Plout_Luxembourg,50.3000,5.7167,1,125
+Belgium,Xhovemont_Liege,50.6500,5.5667,1,125
+Belgium,Xhurdebise_Liege,50.4167,6.0167,1,125
+Belgium,Yachtbeek_Oost-Vlaanderen,51.1500,4.2000,1,124
+Belgium,Ychippe_Namur,50.2500,5.1167,1,124
+Belgium,Yernawe_Liege,50.5833,5.3333,1,124
+Belgium,Yerne_Liege,50.7167,5.3500,1,125
+Belgium,Yernee_Liege,50.5333,5.3833,1,124
+Belgium,Yperleed_West-Vlaanderen,51.1667,2.8333,1,122
+Belgium,Yser,51.1500,2.7167,1,122
+Belgium,Yshovedriesch_Oost-Vlaanderen,50.9167,3.5167,1,123
+Belgium,Yssche_ or BE02,50.8167,4.6333,1,124
+Belgium,Yves_Namur,50.2500,4.4167,1,123
+Belgium,Yves-Gomezee_Namur,50.2333,4.4833,1,123
+Belgium,Yvoir_Namur,50.3333,4.8667,1,124
+Belgium,Yvoy_Namur,50.3667,4.9333,1,124
+Belgium,Ywenne_Namur,50.1833,5.0000,1,124
+Belgium,Yzer_ or BE02,50.8000,4.5500,1,124
+Belgium,Zaventem_ or BE02,50.8833,4.4667,1,124
+Belgium,Zeebrugge_West-Vlaanderen,51.3333,3.2000,1,123
+Belgium,Zele_Oost-Vlaanderen,51.0667,4.0333,1,123
+Belgium,Zellik_ or BE02,50.8833,4.2667,1,123
+Belgium,Zelzate_Oost-Vlaanderen,51.2000,3.8000,1,123
+Belgium,Zwevegem_West-Vlaanderen,50.8000,3.3167,1,122

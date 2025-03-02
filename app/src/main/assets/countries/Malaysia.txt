@@ -1,0 +1,383 @@
+Malaysia,Air Kuning,4.1833,101.1500,8GMT,292
+Malaysia,Alma,5.3333,100.4667,8GMT,292
+Malaysia,Alor Gajah,2.3833,102.2167,8GMT,293
+Malaysia,Alor Star,6.1167,100.3667,8GMT,291
+Malaysia,Ampang,3.1500,101.7667,8GMT,293
+Malaysia,Ampang_Johor,1.3472,104.1556,8GMT,293
+Malaysia,Ampang_Pahang,3.9000,103.0833,8GMT,292
+Malaysia,Ampang Bharu New Village,4.5833,101.1333,8GMT,292
+Malaysia,Arau,6.4333,100.2667,8GMT,291
+Malaysia,Ayer Baloi,1.5833,103.3333,8GMT,293
+Malaysia,Ayer Keroh,2.2667,102.2833,8GMT,293
+Malaysia,Bachok,6.0667,102.4000,8GMT,291
+Malaysia,Bagan Serai,5.0167,100.5333,8GMT,292
+Malaysia,Bakri,2.0500,102.6667,8GMT,293
+Malaysia,Balik Pulau,5.3500,100.2333,8GMT,292
+Malaysia,Baling,5.6667,100.9167,8GMT,292
+Malaysia,Bangi,2.9000,101.7833,8GMT,293
+Malaysia,Bangi Estate,3.9000,101.8000,8GMT,292
+Malaysia,Bangi Forest Reserve,2.9167,101.7833,8GMT,293
+Malaysia,Banting_Sarawak,1.2833,111.2000,8GMT,292
+Malaysia,Banting,2.8167,101.5000,8GMT,293
+Malaysia,Batang Berjuntai,3.3833,101.4167,8GMT,293
+Malaysia,Batu Caves,3.2333,101.6667,8GMT,293
+Malaysia,Batu Gajah_Melaka,2.3000,102.0833,8GMT,293
+Malaysia,Batu Gajah_Perak,4.4667,101.0500,8GMT,292
+Malaysia,Batu Karang,5.7833,101.9000,8GMT,291
+Malaysia,Batu Pahat,1.8500,102.9333,8GMT,293
+Malaysia,Bayan Lepas,5.2833,100.2667,8GMT,292
+Malaysia,Beaufort,5.3333,115.6667,8GMT,291
+Malaysia,Bedong,5.7333,100.5167,8GMT,292
+Malaysia,Behrang Estate,3.7167,101.4833,8GMT,292
+Malaysia,Behrang Hulu,3.7833,101.5000,8GMT,292
+Malaysia,Bentong Town,3.5167,101.9000,8GMT,292
+Malaysia,Bentung,3.5333,101.9167,8GMT,292
+Malaysia,Beseri,6.5167,100.2333,8GMT,291
+Malaysia,Betong,1.5000,111.3333,8GMT,292
+Malaysia,Bidor,4.1167,101.2833,8GMT,292
+Malaysia,Bintulu,3.0000,113.3333,8GMT,292
+Malaysia,Bintulu River,3.1833,113.0333,8GMT,292
+Malaysia,Bota,4.3500,100.8667,8GMT,292
+Malaysia,Bukit Jalil,3.0333,101.6833,8GMT,293
+Malaysia,Bukit Mertajam,5.3667,100.4667,8GMT,292
+Malaysia,Butterworth,5.4167,100.4000,8GMT,292
+Malaysia,Cameron Highlands,4.4833,101.4500,8GMT,292
+Malaysia,Changlun,6.4333,100.4333,8GMT,291
+Malaysia,Cheras,3.0500,101.7667,8GMT,293
+Malaysia,Cukai,4.2500,103.4167,8GMT,292
+Malaysia,Cyberjaya,2.8000,101.6666,8GMT,293
+Malaysia,Damansara,3.1333,101.6333,8GMT,293
+Malaysia,Dengkil Oil Palm Plantation,2.8167,101.7000,8GMT,293
+Malaysia,Dungun,4.7833,103.4333,8GMT,292
+Malaysia,Durian Tunggal,2.3167,102.2833,8GMT,293
+Malaysia,F. J. Davy Estate,4.9000,101.0833,8GMT,292
+Malaysia,Fah Nam Estate,3.0167,101.5500,8GMT,293
+Malaysia,Fairway Rock,4.1167,100.5500,8GMT,292
+Malaysia,Fairway Shoal,7.1167,117.5167,8GMT,291
+Malaysia,Falim,4.7500,101.0667,8GMT,292
+Malaysia,Falloden Hall Shoal,1.3467,104.3150,8GMT,293
+Malaysia,Farrer Islet,6.1167,102.2333,8GMT,291
+Malaysia,Federation of Malaya,2.5000,112.5000,8GMT,292
+Malaysia,Fermanagh Estate,2.6667,101.6500,8GMT,293
+Malaysia,Fishmarket Rocks,1.5611,110.3411,8GMT,292
+Malaysia,Flemington Estate,3.9000,100.8833,8GMT,292
+Malaysia,Flint Pass,5.8500,115.9833,8GMT,291
+Malaysia,Foh Seng Estate,5.8833,102.1833,8GMT,291
+Malaysia,Folly Farm,4.4167,101.3667,8GMT,292
+Malaysia,Fondoland Estate,5.0000,100.7167,8GMT,292
+Malaysia,Fong Shin Tin Mine,2.2667,103.8500,8GMT,293
+Malaysia,Foo Ah Sang Estate,5.8667,102.1333,8GMT,291
+Malaysia,Forest Reserve Semangko,3.6667,101.7500,8GMT,292
+Malaysia,Formosa Bank,1.7333,102.8000,8GMT,293
+Malaysia,Fort Emma,2.1000,112.1500,8GMT,292
+Malaysia,Fort Margherita,1.5608,110.3458,8GMT,292
+Malaysia,Fort Tapong,5.6667,101.3833,8GMT,291
+Malaysia,Fosbrerr Estate,2.5500,102.0000,8GMT,293
+Malaysia,Foulerton Patches,1.6861,102.9670,8GMT,293
+Malaysia,Foulerton Shoal,2.1517,102.2589,8GMT,293
+Malaysia,Four Fathom Patches,5.4833,115.2167,8GMT,291
+Malaysia,Fourth Division,3.7500,114.5000,8GMT,291
+Malaysia,Fraser Estate,1.7167,103.6000,8GMT,293
+Malaysia,Frasers Hill,3.7167,101.7500,8GMT,292
+Malaysia,Fremantle Shoal,4.7389,118.7831,8GMT,291
+Malaysia,Friedrich Haven,4.2667,118.4167,8GMT,291
+Malaysia,Friedrich Reef,4.2333,118.3500,8GMT,291
+Malaysia,Fukuda Estate,1.5500,104.0500,8GMT,293
+Malaysia,Gambang,3.7167,103.1000,8GMT,292
+Malaysia,Gelang Patah,1.4500,103.5833,8GMT,293
+Malaysia,Gelugor Estate,5.3667,100.3000,8GMT,292
+Malaysia,Gemencheh,2.5333,102.4000,8GMT,293
+Malaysia,Gemencheh Lama,2.5333,102.3833,8GMT,293
+Malaysia,Genting_Sarawak,2.1167,111.7000,8GMT,292
+Malaysia,Genting_Pulau Pinang,5.2833,100.3833,8GMT,292
+Malaysia,Genting Highlands,3.4000,101.8000,8GMT,293
+Malaysia,Gerik,5.4167,101.1333,8GMT,292
+Malaysia,Gombak,3.2496,101.5496,8GMT,293
+Malaysia,Gua Musang,4.8833,101.9667,8GMT,292
+Malaysia,Guar Chempedak,5.8667,100.4667,8GMT,291
+Malaysia,Hulu Langat,3.1167,101.8167,8GMT,293
+Malaysia,Hulu Terengganu,5.0666,102.5833,8GMT,292
+Malaysia,Ianjung Batu Kudu,3.3500,113.1500,8GMT,292
+Malaysia,Ibol,1.1000,111.5167,8GMT,292
+Malaysia,Ibul_Johor,2.3000,104.1500,8GMT,293
+Malaysia,Ibul_Sabah,4.7667,115.6000,8GMT,291
+Malaysia,Iburu,4.6833,115.7333,8GMT,291
+Malaysia,Igan,2.8167,111.7167,8GMT,292
+Malaysia,Igan Point,2.8500,111.6500,8GMT,292
+Malaysia,Igang Igang,4.4667,118.7000,8GMT,291
+Malaysia,Ijok,3.3000,101.4000,8GMT,293
+Malaysia,Ijok_Sarawak,1.4667,111.7000,8GMT,292
+Malaysia,Ijok_Perak,5.1333,100.8333,8GMT,292
+Malaysia,Ijok Ulu,1.2167,111.5333,8GMT,292
+Malaysia,Ilanun,5.0081,118.8506,8GMT,291
+Malaysia,Ili Titok,1.2500,111.6833,8GMT,292
+Malaysia,Illanum,5.0147,118.8839,8GMT,291
+Malaysia,Illanun,5.5667,115.6000,8GMT,291
+Malaysia,Inanam,5.9833,116.1333,8GMT,291
+Malaysia,Inaruntang Point,7.0167,117.1333,8GMT,291
+Malaysia,Indah Point,6.2333,116.2000,8GMT,291
+Malaysia,Indai,6.2000,116.2167,8GMT,291
+Malaysia,Indarasabak,4.3000,118.1667,8GMT,291
+Malaysia,Indarasan,6.7667,116.6333,8GMT,291
+Malaysia,Indramuda Hill,5.4167,100.4500,8GMT,292
+Malaysia,Ingal Estate,3.9500,100.9000,8GMT,292
+Malaysia,Inner Bar,4.9333,115.0333,8GMT,291
+Malaysia,Inner Bay,5.7667,117.9333,8GMT,291
+Malaysia,Inobang,5.9000,116.1167,8GMT,291
+Malaysia,Ipil,5.0167,118.3333,8GMT,291
+Malaysia,Ipoh,4.5833,101.0833,8GMT,292
+Malaysia,Irene Rock,6.6617,117.8950,8GMT,291
+Malaysia,Iris Shoals,5.5000,115.3833,8GMT,291
+Malaysia,Isabelle Estate,2.6500,101.9333,8GMT,293
+Malaysia,Ismit,6.8833,117.0167,8GMT,291
+Malaysia,Istana,1.5642,110.3419,8GMT,292
+Malaysia,Istana Pantai,2.7500,101.4500,8GMT,293
+Malaysia,Istana Pasir Pelangi,1.4833,103.7833,8GMT,293
+Malaysia,Istana Raja Perlis,6.4333,100.2833,8GMT,291
+Malaysia,Isu,1.2000,110.9167,8GMT,292
+Malaysia,Itam,1.6333,111.8333,8GMT,292
+Malaysia,Jalan Bangi,2.9167,101.8167,8GMT,293
+Malaysia,Jasin,2.3167,102.4333,8GMT,293
+Malaysia,Jawi,5.2000,100.5000,8GMT,292
+Malaysia,Jelebu,2.9333,102.0833,8GMT,293
+Malaysia,Jempol,2.8000,102.3667,8GMT,293
+Malaysia,Jengka Forest Reserve,3.6500,102.5333,8GMT,292
+Malaysia,Jerantut,3.9333,102.3667,8GMT,292
+Malaysia,Jerteh,5.7500,102.5000,8GMT,291
+Malaysia,Jitra,6.2667,100.4167,8GMT,291
+Malaysia,Johor Bahru,1.4667,103.7500,8GMT,293
+Malaysia,Johore,2.0000,103.5000,8GMT,293
+Malaysia,Johore Bahru,1.6500,103.6000,8GMT,293
+Malaysia,Kajang,2.9833,101.7833,8GMT,293
+Malaysia,Kampong Alor Lintang,5.7667,102.5333,8GMT,291
+Malaysia,Kampong Selabak,3.9833,101.0500,8GMT,292
+Malaysia,Kangar,6.4333,100.2000,8GMT,291
+Malaysia,Kedah,5.4833,102.1000,8GMT,292
+Malaysia,Kedah River,6.1000,100.2833,8GMT,291
+Malaysia,Kelang Gates Dam,3.2333,101.7500,8GMT,293
+Malaysia,Kelantan River,6.2167,102.2333,8GMT,291
+Malaysia,Kemaman,4.2333,103.4500,8GMT,292
+Malaysia,Kemasik,4.4167,103.4500,8GMT,292
+Malaysia,Keningau,5.2500,116.2500,8GMT,291
+Malaysia,Kepala Batas_Pulau Pinang,5.5167,100.4333,8GMT,292
+Malaysia,Kepala Batas_Kedah,6.2000,100.4167,8GMT,291
+Malaysia,Kepong,3.2167,101.6333,8GMT,293
+Malaysia,Kerteh,4.5167,103.4500,8GMT,292
+Malaysia,Kijal,4.3500,103.4833,8GMT,292
+Malaysia,Kinrara,3.0500,101.6500,8GMT,293
+Malaysia,Klabang Estate,4.6833,101.1333,8GMT,293
+Malaysia,Klang_Selangor,3.0333,101.4500,8GMT,293
+Malaysia,Klang Gates Estate,3.2167,101.7500,8GMT,293
+Malaysia,Klang Island,3.0000,101.3000,8GMT,293
+Malaysia,Klang Strait,3.0000,101.3500,8GMT,293
+Malaysia,Kluang,2.2000,103.3333,8GMT,293
+Malaysia,Kota_Pulau Pinang,5.4333,100.4333,8GMT,292
+Malaysia,Kota_Kedah,5.5833,100.3833,8GMT,292
+Malaysia,Kota_Negeri Sembilan,2.5167,102.1667,8GMT,293
+Malaysia,Kota Bahru_Kelantan,6.1333,102.2500,8GMT,291
+Malaysia,Kota Belud,6.2500,116.4167,8GMT,291
+Malaysia,Kota Bharu_Perak,4.4000,101.0833,8GMT,292
+Malaysia,Kota Kinabalu,6.0333,116.1667,8GMT,291
+Malaysia,Kota Samarahan,1.2833,110.4833,8GMT,292
+Malaysia,Kota Tinggi,1.7333,103.9000,8GMT,293
+Malaysia,Kuala,5.6333,115.9500,8GMT,291
+Malaysia,Kuala Ampang,3.2000,101.7833,8GMT,293
+Malaysia,Kuala Berang,5.0667,103.0167,8GMT,292
+Malaysia,Kuala Besut,5.8333,102.5667,8GMT,291
+Malaysia,Kuala Ibai,5.2833,103.1833,8GMT,292
+Malaysia,Kuala Kangsar,4.7667,100.9333,8GMT,292
+Malaysia,Kuala Kelumpang,4.9167,100.5000,8GMT,292
+Malaysia,Kuala Kubu Bharu,3.5667,101.6500,8GMT,292
+Malaysia,Kuala Langat,2.8000,101.4000,8GMT,293
+Malaysia,Kuala Lipis,4.1833,102.0500,8GMT,292
+Malaysia,Kuala Lumpur,3.1667,101.7000,8GMT,293
+Malaysia,Kuala Lundu,1.7000,109.9333,8GMT,292
+Malaysia,Kuala Perlis,6.4000,100.1333,8GMT,291
+Malaysia,Kuala Pilah,2.7333,102.2500,8GMT,293
+Malaysia,Kuala Terengganu,5.3333,103.1333,8GMT,291
+Malaysia,Kuang,3.2500,101.5500,8GMT,293
+Malaysia,Kuantan,3.9700,103.4389,8GMT,292
+Malaysia,Kuching_Sarawak,1.5833,110.3333,8GMT,292
+Malaysia,Kuching_Kedah,5.9667,100.5500,8GMT,291
+Malaysia,Kuching,1.4167,110.3333,8GMT,292
+Malaysia,Kudat,6.8833,116.8333,8GMT,291
+Malaysia,Kudat Harbour,6.8667,116.8333,8GMT,291
+Malaysia,Kulai,1.6667,103.6000,8GMT,293
+Malaysia,Kulim,5.3667,100.5667,8GMT,292
+Malaysia,Labuan,5.2767,115.2417,8GMT,291
+Malaysia,Labuan and Interior Residency,4.8333,116.1667,8GMT,291
+Malaysia,Labuan Terminal,5.2653,115.1194,8GMT,291
+Malaysia,Ladang,4.5333,103.4000,8GMT,292
+Malaysia,Lahad Datu,5.0833,118.1667,8GMT,291
+Malaysia,Langkaw Island,6.3667,99.8000,8GMT,291
+Malaysia,Langkawi,6.3167,99.8500,8GMT,291
+Malaysia,Lawas,4.5000,115.4167,8GMT,291
+Malaysia,Limbang,4.2500,115.1667,8GMT,291
+Malaysia,Lumut,4.2333,100.6333,8GMT,292
+Malaysia,Lutong Airfield,4.4667,114.0000,8GMT,291
+Malaysia,Machang,5.7667,102.2167,8GMT,291
+Malaysia,Malacca,6.0000,102.0000,8GMT,291
+Malaysia,Malacca River,2.1953,102.2547,8GMT,293
+Malaysia,Malaysia Barat,4.0000,102.0000,8GMT,292
+Malaysia,Manjung,4.2333,100.6558,8GMT,292
+Malaysia,Mantin,2.8167,101.9000,8GMT,293
+Malaysia,Maran,3.5833,102.7667,8GMT,292
+Malaysia,Marang,5.2000,103.2167,8GMT,292
+Malaysia,Masai,1.4833,103.8833,8GMT,293
+Malaysia,Matu Daro,2.6667,111.5000,8GMT,292
+Malaysia,Melaka,2.1969,102.2481,8GMT,293
+Malaysia,Melaka Aerodrome,2.2667,102.2500,8GMT,293
+Malaysia,Melaka Pindah,2.3667,102.2333,8GMT,293
+Malaysia,Mentakab,3.4833,102.3500,8GMT,292
+Malaysia,Mersing,2.4333,103.8333,8GMT,293
+Malaysia,Meru,3.1333,101.4333,8GMT,293
+Malaysia,Miri,4.1667,113.9167,8GMT,291
+Malaysia,Miri River,5.3000,115.1667,8GMT,291
+Malaysia,Muar,2.0333,102.5667,8GMT,293
+Malaysia,Mukah,2.6667,112.2500,8GMT,292
+Malaysia,Nabawan,5.0833,116.4500,8GMT,291
+Malaysia,Negeri Sembilan,2.7500,102.1667,8GMT,293
+Malaysia,Nibong Tebal,5.1667,100.4833,8GMT,292
+Malaysia,Nilai,2.8167,101.8000,8GMT,293
+Malaysia,Pahang,3.5333,103.4667,8GMT,292
+Malaysia,Pajam,2.8500,101.8500,8GMT,293
+Malaysia,Paka,4.6500,103.4333,8GMT,292
+Malaysia,Papar,5.5833,116.0000,8GMT,291
+Malaysia,Parit Buntar,5.1167,100.5000,8GMT,292
+Malaysia,Pasir Gudang,1.4667,103.8833,8GMT,293
+Malaysia,Pasir Mas_Kelantan,6.0333,102.1333,8GMT,291
+Malaysia,Pasir Mas_Sarawak,2.4167,111.2000,8GMT,292
+Malaysia,Pasir Puteh,5.8333,102.4000,8GMT,291
+Malaysia,Pekan,3.5000,103.4167,8GMT,292
+Malaysia,Pelabuhan Klang,3.0000,101.4000,8GMT,293
+Malaysia,Penaga,5.5056,100.3667,8GMT,292
+Malaysia,Penang,5.4167,100.3333,8GMT,292
+Malaysia,Penang Harbour,5.4167,100.3667,8GMT,292
+Malaysia,Penang Hill,5.4333,100.2667,8GMT,292
+Malaysia,Penang Island,5.4000,100.2333,8GMT,292
+Malaysia,Penanti,5.4167,100.4833,8GMT,292
+Malaysia,Pendang,6.0000,100.4667,8GMT,291
+Malaysia,Perai,5.3833,100.3833,8GMT,292
+Malaysia,Perak Hilir Daerah,4.1000,101.0167,8GMT,292
+Malaysia,Perak River,4.0167,100.7833,8GMT,292
+Malaysia,Perak Ulu,5.3333,101.3333,8GMT,292
+Malaysia,Peraksi,5.8667,102.4833,8GMT,291
+Malaysia,Permatang Pauh,5.4167,100.4167,8GMT,292
+Malaysia,Petaling_Selangor,3.0833,101.5833,8GMT,293
+Malaysia,Petaling_Negeri Sembilan,2.9500,102.0333,8GMT,293
+Malaysia,Petaling,3.0833,101.6667,8GMT,293
+Malaysia,Petaling Jaya,3.0833,101.6500,8GMT,293
+Malaysia,Pinang,4.2167,102.0500,8GMT,292
+Malaysia,Pontian,1.4833,103.3833,8GMT,293
+Malaysia,Port Dickson,2.5167,101.8000,8GMT,293
+Malaysia,Puchong,3.0000,101.6167,8GMT,293
+Malaysia,Pulau Pinang_Pahang,3.5500,102.5667,8GMT,292
+Malaysia,Pulau Pinang_Terengganu,5.7333,103.0000,8GMT,291
+Malaysia,Pulau Pinang_Johor,2.4333,104.5500,8GMT,293
+Malaysia,Pulau Tioman,2.8000,104.1833,8GMT,293
+Malaysia,Pusing,4.5000,101.0167,8GMT,292
+Malaysia,Putrajaya,2.9364,101.7211,8GMT,293
+Malaysia,Quarantine Anchorage,1.3525,104.0878,8GMT,293
+Malaysia,Quiok,4.5333,116.4333,8GMT,291
+Malaysia,Quoin Hill,5.3028,118.7528,8GMT,291
+Malaysia,Raub,3.8000,101.8667,8GMT,292
+Malaysia,Rawang,3.3167,101.5833,8GMT,293
+Malaysia,Rembau,2.5833,102.1000,8GMT,293
+Malaysia,Rompin_Pahang,2.8167,103.4833,8GMT,293
+Malaysia,Rompin_Negeri Sembilan,2.7000,102.5000,8GMT,293
+Malaysia,S Pang,2.7833,101.9167,8GMT,293
+Malaysia,Sabah,3.7667,100.9833,8GMT,293
+Malaysia,Sabah Negeri,5.5000,117.0000,8GMT,291
+Malaysia,Sabak Bernam Estate Division One,3.8500,100.9333,8GMT,292
+Malaysia,Sandakan,5.7500,118.0000,8GMT,291
+Malaysia,Sandakan Town,5.8333,118.1167,8GMT,291
+Malaysia,Saratok,1.6667,111.4167,8GMT,292
+Malaysia,Sarawak Mangrove Forest Reserve,1.6500,110.2833,8GMT,292
+Malaysia,Sarawak Negeri,2.5000,113.5000,8GMT,292
+Malaysia,Sarikei,2.1667,111.3333,8GMT,292
+Malaysia,Segamat,2.5000,102.8167,8GMT,293
+Malaysia,Segambut,3.1833,101.6500,8GMT,293
+Malaysia,Selangor,3.3500,101.2500,8GMT,293
+Malaysia,Selangor River,3.3500,101.2333,8GMT,293
+Malaysia,Semanggol,4.9500,100.6333,8GMT,292
+Malaysia,Semenyih,2.9500,101.8500,8GMT,293
+Malaysia,Semporna,4.5000,118.3333,8GMT,291
+Malaysia,Senai,1.6000,103.6500,8GMT,293
+Malaysia,Senawang,2.7000,101.9833,8GMT,293
+Malaysia,Sentul,3.1833,101.6833,8GMT,293
+Malaysia,Sepang,2.7000,101.7500,8GMT,293
+Malaysia,Serdang_Terengganu,4.7833,103.3500,8GMT,292
+Malaysia,Serdang_Perak,5.2167,100.6167,8GMT,292
+Malaysia,Serdang Lama,3.0167,101.7167,8GMT,293
+Malaysia,Seremban,2.7167,101.9333,8GMT,293
+Malaysia,Seri Kembangan,3.0333,101.7167,8GMT,293
+Malaysia,Seri Menanti,2.7000,102.1667,8GMT,293
+Malaysia,Setapak,3.1833,101.7000,8GMT,293
+Malaysia,Shah Alam,3.0833,101.5333,8GMT,293
+Malaysia,Sibu,2.3333,111.8333,8GMT,292
+Malaysia,Sik,5.8167,100.7333,8GMT,291
+Malaysia,Simpang Rengam,1.8333,103.3167,8GMT,293
+Malaysia,Sintok,6.4333,100.5167,8GMT,291
+Malaysia,Sipitang,4.7500,115.6667,8GMT,291
+Malaysia,Sitiawan,4.2167,100.7000,8GMT,292
+Malaysia,Skudai,1.5333,103.6667,8GMT,293
+Malaysia,Sri Petaling,3.0600,101.6900,8GMT,293
+Malaysia,Subang Estate,3.1667,101.5167,8GMT,293
+Malaysia,Subang Jaya,3.1500,101.5300,8GMT,293
+Malaysia,Sungai Petani_Sarawak,1.4667,110.2833,8GMT,292
+Malaysia,Sungai Petani_Kedah,5.6500,100.5000,8GMT,292
+Malaysia,Taiping,4.8500,100.7333,8GMT,292
+Malaysia,Tambunan,5.6667,116.4167,8GMT,291
+Malaysia,Tampin,2.4667,102.2333,8GMT,293
+Malaysia,Tanah Merah_Kelantan,5.8000,102.1500,8GMT,291
+Malaysia,Tanah Merah_Negeri Sembilan,2.6000,101.8000,8GMT,293
+Malaysia,Tangkak,2.2667,102.5500,8GMT,293
+Malaysia,Tanjong Berembang,5.1500,100.4667,8GMT,292
+Malaysia,Tanjung Malim,3.6833,101.5167,8GMT,292
+Malaysia,Tapah,4.1833,101.2667,8GMT,292
+Malaysia,Tapah Road,4.1667,101.2000,8GMT,292
+Malaysia,Tatau,2.6667,113.0000,8GMT,292
+Malaysia,Tawau,4.2500,117.9000,8GMT,291
+Malaysia,Tawau Residency,4.5000,118.0000,8GMT,291
+Malaysia,Telok Anson,4.0333,101.0167,8GMT,292
+Malaysia,Teluk Kumbar,5.2833,100.2333,8GMT,292
+Malaysia,Telupid,5.6500,117.1167,8GMT,291
+Malaysia,Temerloh,3.4333,102.4000,8GMT,292
+Malaysia,Tenom,4.9167,115.9167,8GMT,291
+Malaysia,Trengganu,5.0000,103.0000,8GMT,292
+Malaysia,Tronoh,4.4167,100.9833,8GMT,292
+Malaysia,Tumpat,6.2000,102.1667,8GMT,291
+Malaysia,Ulu Kelang,3.1667,101.7500,8GMT,293
+Malaysia,Val d Or,5.2500,100.5000,8GMT,292
+Malaysia,Valentia Estate,3.7667,103.1667,8GMT,292
+Malaysia,Vallambrosa Estate,3.1000,101.3833,8GMT,293
+Malaysia,Verasami Estate,4.8833,101.0667,8GMT,292
+Malaysia,Verdun Estate,5.0000,100.7833,8GMT,292
+Malaysia,Vernon Bank,5.7833,115.0833,8GMT,291
+Malaysia,Victoria Peak,6.0833,116.5500,8GMT,291
+Malaysia,Vigormia Estate,2.7167,101.8667,8GMT,293
+Malaysia,Vimy Estate,3.2500,101.5000,8GMT,293
+Malaysia,Virik Estate,2.3167,102.5167,8GMT,293
+Malaysia,Voules Estate,2.4333,102.9667,8GMT,293
+Malaysia,Wilayah Persekutuan,3.1167,101.6833,8GMT,293
+Malaysia,Wilayah Persekutuan Labuan,5.3333,115.2000,8GMT,291
+Malaysia,Yam Seng Estate,4.9167,100.6833,8GMT,292
+Malaysia,Yan,5.8000,100.3667,8GMT,292
+Malaysia,Yan Kecil,5.8167,100.3833,8GMT,292
+Malaysia,Yap Chan Estate,2.6833,101.9167,8GMT,293
+Malaysia,Yap Moi San Estate,2.4667,102.2167,8GMT,293
+Malaysia,Yap Pong Neo Estate,2.3167,102.1167,8GMT,293
+Malaysia,Yap Tow Sah,2.0167,103.3333,8GMT,293
+Malaysia,Yarak Estate,5.4500,100.4833,8GMT,292
+Malaysia,Yeo Boon Tean Estate,5.3000,100.5000,8GMT,292
+Malaysia,Yeo Yong Chew Estate,1.9167,104.0333,8GMT,293
+Malaysia,Yeow Kim Pong Estate,2.4833,101.9833,8GMT,293
+Malaysia,Yew Hock Estate,1.6667,103.8667,8GMT,293
+Malaysia,Yew Liew Estate,1.8667,103.2667,8GMT,293
+Malaysia,Yong Blab Mountain,4.6500,101.3667,8GMT,292
+Malaysia,Yong Peng,2.0167,103.0667,8GMT,293
+Malaysia,Yong Peng Estate,2.0667,103.0833,8GMT,293
+Malaysia,Yong Poon Onn Estate,2.3000,102.1000,8GMT,293
+Malaysia,Yong Yoon Pow Estate,2.1500,102.5167,8GMT,293
+Malaysia,Yukong Rubber Estate,1.5667,103.8167,8GMT,293
+Malaysia,Zebra Reefs,6.7500,116.9667,8GMT,291

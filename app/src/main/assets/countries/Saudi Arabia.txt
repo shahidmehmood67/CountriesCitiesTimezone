@@ -1,0 +1,200 @@
+Saudi Arabia,Afif,23.9167,42.9500,3GMT,230
+Saudi Arabia,Arar,30.9058,41.1389,3GMT,187
+Saudi Arabia,Aflaj,22.2500,46.8250,3GMT,264
+Saudi Arabia,Abha,18.2200,42.5100,3GMT,323
+Saudi Arabia,Abqaiq,25.9356,49.6683,3GMT,246
+Saudi Arabia,Al Wajh,26.2333,36.4667,3GMT,147
+Saudi Arabia,Ahl al Ash`af,17.8667,43.3667,3GMT,318
+Saudi Arabia,Al Badaya`,26.0000,43.7000,3GMT,219
+Saudi Arabia,Al Ghat,25.9839,45.0311,3GMT,227
+Saudi Arabia,Al Isawiyah,30.6333,37.8833,3GMT,169
+Saudi Arabia,Al Ri`,21.2500,42.7500,3GMT,275
+Saudi Arabia,Al Bahah,20.0167,41.4667,3GMT,314
+Saudi Arabia,Al Hariq,23.6336,46.5139,3GMT,252
+Saudi Arabia,Al Jawf,26.0411,49.4047,3GMT,244
+Saudi Arabia,Al Kharj,24.1483,47.3050,3GMT,250
+Saudi Arabia,Al Lith,20.1500,40.2667,3GMT,343
+Saudi Arabia,Al Majma`ah,25.9039,45.3456,3GMT,230
+Saudi Arabia,Al Mikhwah,19.7794,41.4356,3GMT,319
+Saudi Arabia,Ad Dilam,23.9969,47.1650,3GMT,251
+Saudi Arabia,Al Qunfudhah,19.1264,41.0789,3GMT,334
+Saudi Arabia,Al Awjam,26.5628,49.9439,3GMT,243
+Saudi Arabia,Al Jumum,21.6169,39.6981,3GMT,141
+Saudi Arabia,Al Markaz,25.4000,49.7333,3GMT,249
+Saudi Arabia,Al Uwayqilah,30.3394,42.2117,3GMT,194
+Saudi Arabia,Al `Ula,26.6333,37.9167,3GMT,161
+Saudi Arabia,Al-Baha,20.0000,41.5000,3GMT,313
+Saudi Arabia,Al-Nimas,19.1167,42.1333,3GMT,318
+Saudi Arabia,As Sulayyil,20.6667,45.6667,3GMT,279
+Saudi Arabia,Ar Rabad,23.1833,39.5333,3GMT,170
+Saudi Arabia,Artawi ar Raqqas,25.0664,44.7022,3GMT,232
+Saudi Arabia,Asfan,21.9183,39.3478,3GMT,136
+Saudi Arabia,Ath Thiraywiyah,25.2197,48.8603,3GMT,247
+Saudi Arabia,Awamiyah,26.5936,49.9875,3GMT,243
+Saudi Arabia,Badanah,30.9833,41.0000,3GMT,187
+Saudi Arabia,Batha,24.0253,51.5019,3GMT,259
+Saudi Arabia,Badr,23.7800,38.7906,3GMT,157
+Saudi Arabia,Baljurashi,19.8594,41.5572,3GMT,315
+Saudi Arabia,Bisha,20.0833,42.6667,3GMT,298
+Saudi Arabia,Buraydah,26.3317,43.9717,3GMT,219
+Saudi Arabia,Caf,31.4000,37.4833,3GMT,168
+Saudi Arabia,Cape Aswad,21.3672,39.1339,3GMT,84
+Saudi Arabia,Cats Ears,22.8833,39.7500,3GMT,176
+Saudi Arabia,Cedis,27.4667,41.6833,3GMT,196
+Saudi Arabia,Cefente,27.2517,40.9281,3GMT,190
+Saudi Arabia,Chabali,29.2864,44.3131,3GMT,208
+Saudi Arabia,Chabd ad Darb,27.9939,43.2253,3GMT,205
+Saudi Arabia,Chirshaf,21.3167,41.2667,3GMT,276
+Saudi Arabia,Churuba,30.7500,37.7833,3GMT,168
+Saudi Arabia,Chuwaitir,26.1000,44.1333,3GMT,221
+Saudi Arabia,Cubba,26.4000,36.5333,3GMT,148
+Saudi Arabia,Dammam,26.4258,50.1142,3GMT,244
+Saudi Arabia,Dhahran,26.3042,50.1325,3GMT,245
+Saudi Arabia,Duruma,24.6067,46.1292,3GMT,243
+Saudi Arabia,Dahaban,21.9308,39.1231,3GMT,126
+Saudi Arabia,Duba,27.3500,35.6667,3GMT,146
+Saudi Arabia,Dumat Al-Jandal,29.8833,39.9833,3GMT,181
+Saudi Arabia,Dawadmi,24.6838,44.9586,3GMT,237
+Saudi Arabia,Dam,20.4833,44.8333,3GMT,283
+Saudi Arabia,Damad,17.1000,42.7833,3GMT,328
+Saudi Arabia,Farasan,16.7022,42.1183,3GMT,336
+Saudi Arabia,Fadhili,26.9842,49.1692,3GMT,239
+Saudi Arabia,Gassim,26.3019,43.7742,3GMT,217
+Saudi Arabia,Hawtat Sudayr,25.5975,45.6139,3GMT,233
+Saudi Arabia,Habla,25.6039,42.2917,3GMT,209
+Saudi Arabia,Hajrah,20.2333,41.0500,3GMT,317
+Saudi Arabia,Haql,29.2942,34.9511,3GMT,150
+Saudi Arabia,Hanakiya,24.8797,40.5153,3GMT,190
+Saudi Arabia,Harmah,25.9233,45.3406,3GMT,230
+Saudi Arabia,Ha'il,27.5164,41.6969,3GMT,196
+Saudi Arabia,Hofuf,25.3783,49.5867,3GMT,248
+Saudi Arabia,Hafr Al-Batin,28.4342,45.9636,3GMT,220
+Saudi Arabia,Ibn Shuraym,29.9475,43.3644,3GMT,201
+Saudi Arabia,Jabal Umm al Ru'us,26.3192,50.1317,3GMT,245
+Saudi Arabia,Jalajil,25.6711,45.4544,3GMT,232
+Saudi Arabia,Huraimala,25.1267,46.1225,3GMT,239
+Saudi Arabia,Jeddah,21.5169,39.2192,3GMT,98
+Saudi Arabia,Jizan,16.8892,42.5511,3GMT,331
+Saudi Arabia,Jubail,27.0047,49.6614,3GMT,240
+Saudi Arabia,Jebara Islet,18.5622,40.8964,3GMT,342
+Saudi Arabia,Jidanah,19.7833,41.7333,3GMT,314
+Saudi Arabia,Khafji,28.2500,48.8333,3GMT,232
+Saudi Arabia,Khaybar,25.7333,39.2167,3GMT,172
+Saudi Arabia,Khamis Mushait,18.3064,42.7292,3GMT,320
+Saudi Arabia,Kulayyah,22.5333,39.2667,3GMT,154
+Saudi Arabia,Khobar,26.2794,50.2083,3GMT,245
+Saudi Arabia,Labkah,24.5114,45.3831,3GMT,240
+Saudi Arabia,Lafiya,30.4186,43.0681,3GMT,199
+Saudi Arabia,Laghafat as Subat,23.9550,51.3278,3GMT,259
+Saudi Arabia,Lakothah,19.1353,41.9708,3GMT,320
+Saudi Arabia,Lajam,26.5628,49.9439,3GMT,243
+Saudi Arabia,Lamlah,21.2000,42.7333,3GMT,276
+Saudi Arabia,Lamma`a,24.5833,46.1833,3GMT,243
+Saudi Arabia,Laqum,26.5500,41.7167,3GMT,199
+Saudi Arabia,Lashram,18.2667,42.5667,3GMT,322
+Saudi Arabia,Latit,22.7436,49.9050,3GMT,264
+Saudi Arabia,Lawi,27.8167,36.0833,3GMT,151
+Saudi Arabia,Lawiyat as Sanain,17.4167,43.1500,3GMT,323
+Saudi Arabia,Lawqah,29.8203,42.7433,3GMT,198
+Saudi Arabia,Liban,27.8667,41.5333,3GMT,194
+Saudi Arabia,Libana Islet,24.9772,37.0489,3GMT,143
+Saudi Arabia,Lijfat al Hadh,24.8056,49.1956,3GMT,251
+Saudi Arabia,Limma,27.3333,36.8667,3GMT,155
+Saudi Arabia,Linah,28.7611,43.7389,3GMT,207
+Saudi Arabia,Liqya,16.6603,43.0378,3GMT,328
+Saudi Arabia,Liss,31.2253,38.5319,3GMT,173
+Saudi Arabia,Lith,20.1500,40.2667,3GMT,343
+Saudi Arabia,Lughaf,26.2000,44.8000,3GMT,225
+Saudi Arabia,Lughdan,24.3333,45.5483,3GMT,242
+Saudi Arabia,Layla,22.2856,46.7406,3GMT,264
+Saudi Arabia,Labajah,25.1811,47.0164,3GMT,242
+Saudi Arabia,Labat Shilman,22.8586,41.3236,3GMT,224
+Saudi Arabia,Maarua,19.8292,41.4428,3GMT,318
+Saudi Arabia,Mizhirah,16.8261,42.7333,3GMT,330
+Saudi Arabia,Marat,25.0717,45.4572,3GMT,236
+Saudi Arabia,Mandak,20.1000,41.2833,3GMT,315
+Saudi Arabia,Midhnib,25.8628,44.2281,3GMT,223
+Saudi Arabia,Marjan,28.4167,49.6667,3GMT,234
+Saudi Arabia,Mubarraz,22.2922,46.7389,3GMT,264
+Saudi Arabia,Mena,21.4133,39.8947,3GMT,301
+Saudi Arabia,Munifah,27.6136,48.9842,3GMT,235
+Saudi Arabia,Munifah,27.6136,48.9842,3GMT,235
+Saudi Arabia,Musaijid,24.0833,39.0667,3GMT,165
+Saudi Arabia,Masturah,23.1161,38.8414,3GMT,151
+Saudi Arabia,Mecca,21.4267,39.8261,3GMT,66
+Saudi Arabia,Madina,24.4527,39.6667,3GMT,177
+Saudi Arabia,Najran,17.5000,44.1667,3GMT,315
+Saudi Arabia,Na airiyah,27.5333,48.4167,3GMT,234
+Saudi Arabia,Naairiya,27.4706,48.4731,3GMT,234
+Saudi Arabia,Nabhaniyah,25.8619,43.0669,3GMT,214
+Saudi Arabia,Obardhat adh Dhaba,30.7167,38.9167,3GMT,175
+Saudi Arabia,Oberez az- Zijan,29.3681,39.1111,3GMT,175
+Saudi Arabia,Obu-Esnoon,23.2894,44.4728,3GMT,248
+Saudi Arabia,Odhaim,26.5889,42.4719,3GMT,206
+Saudi Arabia,Okadz,20.5833,40.9667,3GMT,310
+Saudi Arabia,Okdet al-Gowf,29.8333,40.1333,3GMT,182
+Saudi Arabia,Omejjed al-Bird,27.0500,39.0833,3GMT,173
+Saudi Arabia,Omejjed al-Haram,26.9500,39.6833,3GMT,178
+Saudi Arabia,Onejbec,27.2833,36.7833,3GMT,154
+Saudi Arabia,Ophira,28.0000,34.4500,3GMT,142
+Saudi Arabia,Oqair,25.6431,50.2144,3GMT,248
+Saudi Arabia,Orenbe,26.7167,40.1167,3GMT,183
+Saudi Arabia,Ornub,28.1167,35.5833,3GMT,149
+Saudi Arabia,Pearly Gates,16.3667,41.9167,3GMT,339
+Saudi Arabia,Plain of Al-Rakba,22.2500,41.0000,3GMT,233
+Saudi Arabia,Qarah,22.3000,52.4000,3GMT,268
+Saudi Arabia,Qaseem,27.0833,43.4667,3GMT,211
+Saudi Arabia,Qasim,26.1667,44.0000,3GMT,220
+Saudi Arabia,Qiya,21.0711,41.0069,3GMT,289
+Saudi Arabia,Qadhima,22.3472,39.1550,3GMT,145
+Saudi Arabia,Qatif,26.6167,49.9333,3GMT,243
+Saudi Arabia,Qaisumah,28.3097,46.1275,3GMT,221
+Saudi Arabia,Ridha,17.5000,42.7667,3GMT,326
+Saudi Arabia,Rihayyah,30.0900,38.7033,3GMT,173
+Saudi Arabia,RIJal Alma`,18.1500,41.9000,3GMT,330
+Saudi Arabia,Ruhaiya,24.7000,47.2333,3GMT,246
+Saudi Arabia,Rabigh,22.7986,39.0322,3GMT,151
+Saudi Arabia,Rafha,29.6386,43.5014,3GMT,203
+Saudi Arabia,Ar Rass,25.8697,43.5022,3GMT,218
+Saudi Arabia,Ras Tanura,26.6439,50.1592,3GMT,243
+Saudi Arabia,Riyadh,24.6700,46.6900,3GMT,244
+Saudi Arabia,Riyadh Al-Khabra,26.0500,43.5500,3GMT,217
+Saudi Arabia,Rumaila,21.0000,47.5000,3GMT,275
+Saudi Arabia,Safaniya,27.9708,48.7300,3GMT,233
+Saudi Arabia,Sajir,25.1806,44.6003,3GMT,230
+Saudi Arabia,Shagra,25.2483,45.2528,3GMT,234
+Saudi Arabia,Saihat,26.4794,50.0450,3GMT,244
+Saudi Arabia,Safwa,26.6508,49.9558,3GMT,243
+Saudi Arabia,Sakakah,29.9703,40.2086,3GMT,182
+Saudi Arabia,Sharurah,17.4669,47.1212,3GMT,301
+Saudi Arabia,Shamasiyah,26.3183,44.2631,3GMT,221
+Saudi Arabia,Shaybah,22.5000,54.0000,3GMT,268
+Saudi Arabia,Sharma,28.0244,35.2694,3GMT,147
+Saudi Arabia,Soor Bin Mizbil,24.4850,46.4236,3GMT,245
+Saudi Arabia,Sudair,26.0000,45.3333,3GMT,229
+Saudi Arabia,Taif,21.2703,40.4158,3GMT,288
+Saudi Arabia,Tabuk,28.3833,36.5833,3GMT,156
+Saudi Arabia,Tanumah,27.1000,44.1333,3GMT,216
+Saudi Arabia,Tarut,26.5725,50.0650,3GMT,243
+Saudi Arabia,Taymah,27.6333,38.4833,3GMT,168
+Saudi Arabia,Thadiq,25.2964,45.8658,3GMT,236
+Saudi Arabia,Thuwal,22.2650,39.1122,3GMT,140
+Saudi Arabia,Tamrah,20.3983,45.4150,3GMT,282
+Saudi Arabia,Tobi,26.5578,49.9917,3GMT,243
+Saudi Arabia,Turaif,31.6919,38.7342,3GMT,174
+Saudi Arabia,Tubarjal,30.4978,38.2194,3GMT,171
+Saudi Arabia,Udhailiyah,25.1403,49.2981,3GMT,249
+Saudi Arabia,Uqair,25.6431,50.2144,3GMT,248
+Saudi Arabia,Umm as Sahik,26.6536,49.9164,3GMT,243
+Saudi Arabia,Unaiza,26.0956,43.9797,3GMT,220
+Saudi Arabia,Uthmaniya,25.2500,49.2500,3GMT,248
+Saudi Arabia,Valantawa,25.2167,40.7667,3GMT,193
+Saudi Arabia,Wadi ad Dawasir,20.3989,46.4789,3GMT,281
+Saudi Arabia,Yabrin,23.2500,48.9167,3GMT,260
+Saudi Arabia,Yaf`ah,17.7667,43.1833,3GMT,320
+Saudi Arabia,Yamama,24.1942,47.3736,3GMT,250
+Saudi Arabia,Yarfa`,24.6167,38.5833,3GMT,160
+Saudi Arabia,Yatab,27.5000,41.9333,3GMT,198
+Saudi Arabia,Yuhan,18.2167,42.5333,3GMT,323
+Saudi Arabia,Yanbu,24.0853,38.0486,3GMT,148
+Saudi Arabia,Zahran,19.7167,41.3500,3GMT,321

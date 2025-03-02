@@ -1,0 +1,79 @@
+East Timor,Bacau,-8.4711,126.4583,9GMT,292
+East Timor,Dili,-8.5586,125.5736,9GMT,292
+East Timor,Ecapo,-8.6783,125.3725,9GMT,292
+East Timor,Eduquele,-8.6172,126.5219,9GMT,292
+East Timor,Ejomenu,-9.4417,124.3031,9GMT,292
+East Timor,Elomar,-8.7092,126.8283,9GMT,292
+East Timor,Erbean,-8.8492,125.5406,9GMT,292
+East Timor,Ergoa,-8.6833,125.3647,9GMT,292
+East Timor,Ergoi,-8.7400,125.4503,9GMT,292
+East Timor,Erhetu,-8.8344,125.5203,9GMT,292
+East Timor,Erito,-8.6525,125.1714,9GMT,292
+East Timor,Ermera,-8.7522,125.3969,9GMT,292
+East Timor,Ernaro,-8.8419,125.6600,9GMT,292
+East Timor,Eroho,-8.7311,125.3817,9GMT,292
+East Timor,Esloso,-8.6775,125.2350,9GMT,292
+East Timor,Etevata,-8.6958,126.8122,9GMT,292
+East Timor,Ilalein,-8.6997,126.5697,9GMT,292
+East Timor,Ilatkora,-8.9256,125.3894,9GMT,292
+East Timor,Ilicoa,-8.6086,127.0044,9GMT,292
+East Timor,Ilimbaba,-8.5231,125.9017,9GMT,292
+East Timor,Ilpo,-9.1353,125.2072,9GMT,292
+East Timor,Inur Gouilo,-8.5892,125.3106,9GMT,292
+East Timor,Inur Kemaledegana,-8.6050,125.2217,9GMT,292
+East Timor,Inur Kliseilu,-8.5797,125.3519,9GMT,292
+East Timor,Inur Siailo,-8.6033,125.2514,9GMT,292
+East Timor,Ioro,-8.3992,127.2506,9GMT,292
+East Timor,Ira Lalaro,-8.4500,127.1333,9GMT,292
+East Timor,Irabere Rivier,-8.7564,126.7417,9GMT,292
+East Timor,Iralafai,-8.3481,126.9869,9GMT,292
+East Timor,Iraosso,-8.5989,126.6639,9GMT,292
+East Timor,Jaco,-8.4250,127.3250,9GMT,292
+East Timor,Jembatankik,-8.5439,125.6728,9GMT,292
+East Timor,Jimelai,-9.0814,125.2644,9GMT,292
+East Timor,Maliana,-8.9917,125.2197,9GMT,292
+East Timor,Qeorema,-8.8828,125.5361,9GMT,292
+East Timor,Queleborouai,-8.5847,126.3797,9GMT,292
+East Timor,Quelicai,-8.6025,126.5619,9GMT,292
+East Timor,Quintal Arbiro,-8.5675,125.5853,9GMT,292
+East Timor,Quintal Bot,-8.5642,125.5825,9GMT,292
+East Timor,Quintal Qik,-8.5600,125.5831,9GMT,292
+East Timor,Quintaportugal,-8.7053,125.5611,9GMT,292
+East Timor,Suai,-9.3125,125.2556,9GMT,292
+East Timor,Viqueque,-8.8575,126.3647,9GMT,292
+East Timor,Waiderek,-8.6425,125.9772,9GMT,292
+East Timor,Waidua,-8.5283,126.4811,9GMT,292
+East Timor,Waniuma,-8.4419,126.4478,9GMT,292
+East Timor,Waudu,-8.8964,125.2911,9GMT,292
+East Timor,We Hedan,-9.4128,125.1367,9GMT,292
+East Timor,Wecian,-9.0692,125.9189,9GMT,292
+East Timor,Wefau,-9.0419,124.9994,9GMT,292
+East Timor,Welaluhu,-9.0294,125.9947,9GMT,292
+East Timor,Weluli,-9.2769,125.0650,9GMT,292
+East Timor,Wemer,-9.2594,125.1714,9GMT,292
+East Timor,Wesi,-9.0050,125.0075,9GMT,292
+East Timor,Zefaliu,-8.5086,126.8322,9GMT,292
+East Timor,Zobelis,-9.0178,125.3536,9GMT,292
+East Timor,Zoilpo,-9.1250,125.3119,9GMT,292
+East Timor,Zol Bemutin,-9.0936,125.3681,9GMT,292
+East Timor,Zol Berumau,-9.0289,125.1875,9GMT,292
+East Timor,Zol Hief,-9.1506,125.3717,9GMT,292
+East Timor,Zol Ilsa,-9.0650,125.3053,9GMT,292
+East Timor,Zol Kasamau,-9.0675,125.4742,9GMT,292
+East Timor,Zol Laco,-9.0692,125.3375,9GMT,292
+East Timor,Zol Laro,-9.1681,125.2953,9GMT,292
+East Timor,Zol Lelos,-9.1836,125.1242,9GMT,292
+East Timor,Zol Leoe,-9.0764,125.4753,9GMT,292
+East Timor,Zol Letepo,-9.1142,125.3008,9GMT,292
+East Timor,Zol Lora,-9.1792,125.2956,9GMT,292
+East Timor,Zol Mabesi,-9.0344,125.3444,9GMT,292
+East Timor,Zol Mauluto,-9.0725,125.3742,9GMT,292
+East Timor,Zol Mauteo,-9.0111,125.4789,9GMT,292
+East Timor,Zol Oegeta,-9.1731,125.2517,9GMT,292
+East Timor,Zol Pa,-9.0964,125.3692,9GMT,292
+East Timor,Zol Sola,-9.1294,125.3589,9GMT,292
+East Timor,Zol Toren,-9.1158,125.3056,9GMT,292
+East Timor,Zol Zola,-9.1758,125.3936,9GMT,292
+East Timor,Zulo,-9.1100,125.4083,9GMT,292
+East Timor,Zulokota,-9.1539,125.4503,9GMT,292
+East Timor,Zulotos,-9.1125,125.4117,9GMT,292

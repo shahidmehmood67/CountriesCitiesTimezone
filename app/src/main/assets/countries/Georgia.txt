@@ -1,0 +1,111 @@
+Georgia,Bulitsku_Khobis Raioni,42.3748,41.8873,4,185
+Georgia,Ebudi,43.0368,42.5551,4,187
+Georgia,Ekadia,41.9268,42.0101,4,186
+Georgia,El oar,41.3101,46.5101,4,198
+Georgia,Elbachita,42.4379,44.0182,4,191
+Georgia,Eloiani,42.3954,44.4962,4,192
+Georgia,Elontkau,42.5601,44.1268,4,191
+Georgia,Enageti Malyye,41.6159,44.6434,4,193
+Georgia,Eniseli_Qazbegis Raioni,42.0118,45.6715,4,195
+Georgia,Ereda,41.9779,44.6437,4,193
+Georgia,Eret o,42.4929,44.4593,4,192
+Georgia,Erge_Ajaria,41.5715,41.7123,4,185
+Georgia,Ergeta_Zestap onis Raioni,42.3951,41.6932,4,185
+Georgia,Erinja_Akhalk alak is Raioni,41.3009,43.289,4,189
+Georgia,Erio_Javis Raioni,42.4709,43.8034,4,190
+Georgia,Eris-Tskari,42.6326,41.5132,4,184
+Georgia,Erkhvashi,43.0757,42.4259,4,187
+Georgia,Esheri_Abkhazia,43.0398,40.937,4,183
+Georgia,Esheris Sadguri,43.0293,40.9507,4,183
+Georgia,Esherp erdi_Ts ageris Raioni,42.7301,42.0501,4,186
+Georgia,Eshkiti,42.7601,41.7101,4,185
+Georgia,Eshtia_Mts khet is Raioni,41.354,43.6229,4,190
+Georgia,Esikomidon,42.6109,44.4015,4,192
+Georgia,Estonskoye,42.8923,41.2137,4,184
+Georgia,Eto,42.3226,43.5132,4,190
+Georgia,Etvalisi,42.1418,44.7415,4,193
+Georgia,Fachkha,41.6102,42.3435,4,197
+Georgia,Fakhralo,41.383,44.6521,4,193
+Georgia,Falagkau,42.4899,44.4738,4,192
+Georgia,Farazi,42.4505,44.2816,4,191
+Georgia,Feiziye_Ajaria,41.6408,41.688,4,185
+Georgia,Feria_Ajaria,41.6435,41.6616,4,185
+Georgia,Ferma,41.9624,44.533,4,192
+Georgia,Fillippovka,41.2435,43.3102,4,190
+Georgia,Freydental,41.721,45.2244,4,194
+Georgia,Furtio,41.6183,42.2796,4,187
+Georgia,Fushrukauli,41.5769,42.4588,4,187
+Georgia,Gali,42.6603,41.7436,4,185
+Georgia,Georgia,42.0103,43.5103,4,190
+Georgia,Hoffnungstal,41.5104,45.0771,4,194
+Georgia,Ikalto,41.958,45.4041,4,195
+Georgia,Ikhtila,41.5605,43.5605,4,190
+Georgia,Iknevi,41.8772,44.0605,4,191
+Georgia,Ikoti,42.1652,44.5136,4,192
+Georgia,Ikvlivgorana,41.8774,45.0916,4,194
+Georgia,Jabnidzeebi,41.6067,42.1975,4,186
+Georgia,Jagira_Ts ageris Raioni,42.5481,42.0812,4,186
+Georgia,Jampali,43.0317,41.3498,4,184
+Georgia,Jandari,41.4528,45.1781,4,194
+Georgia,Jap aridze_Dedop listsqaros Raioni,41.4662,46.1537,4,197
+Georgia,Javakhet is Zegani,41.4939,43.5773,4,190
+Georgia,Javakhk i Lerrnashght a,41.3439,43.9273,4,191
+Georgia,Javis Raioni,42.5106,44.0606,4,191
+Georgia,Jefremowka_Mts khet is Raioni,41.2025,43.7512,4,191
+Georgia,Jejora_Ninotsmindis Raioni,42.5831,43.4362,4,189
+Georgia,Jemmikli Berg,41.2712,43.932,4,191
+Georgia,Jgerda_Abkhazia,42.9278,41.3656,4,184
+Georgia,Jigrasheni_Mts khet is Raioni,41.3325,43.5512,4,190
+Georgia,Jigrasheni,41.5609,44.362,4,192
+Georgia,Jijet i_T et ritsqaros Raioni,42.1598,44.9034,4,193
+Georgia,Jikha_Samtrediis Raioni,42.3678,42.23,4,186
+Georgia,Jikhaskari_Zestap onis Raioni,42.5242,42.0506,4,186
+Georgia,Jirkhva,43.2009,40.5678,4,182
+Georgia,Joqolo_Akhmetis Raioni,42.182,45.3167,4,194
+Georgia,Jorjiashvili,41.5912,44.6359,4,193
+Georgia,Jria_Rust avi,42.3595,43.5973,4,190
+Georgia,Jruchula,42.3356,43.362,4,189
+Georgia,Jugaani_T bilisi,42.0687,45.4945,4,195
+Georgia,Jugaani,41.6037,46.0,4,196
+Georgia,Jugheli_Ts ageris Raioni,42.667,42.1581,4,186
+Georgia,Jughisi_Dushet is Raioni,42.2912,44.727,4,193
+Georgia,Julgha,41.6012,42.9003,4,188
+Georgia,Jumat i_Onis Raioni,42.0292,41.995,4,186
+Georgia,Jumit i_Ch khorotsqus Raioni,42.5612,42.1512,4,186
+Georgia,Jumushauri,41.5606,42.2939,4,187
+Georgia,Juqmuri_Abkhazia,42.7464,41.4645,4,184
+Georgia,Juruqvet i_Lagodekhis Raioni,42.0906,41.9317,4,186
+Georgia,Jut a_P ot i,42.5912,44.7573,4,193
+Georgia,Jvari,42.7245,42.0642,4,186
+Georgia,Jvarik et i,41.6439,42.4606,4,187
+Georgia,Jvarisa_T ianet is Raioni,42.3862,42.8167,4,188
+Georgia,Jvris Tsqalsats avi_Ts ageris Raioni,42.7753,42.0503,4,186
+Georgia,Jvris Ugheltekhili_Rust avi,42.2075,43.6073,4,190
+Georgia,Qach aghani,41.3549,44.9291,4,194
+Georgia,Qafqaz,42.0113,45.0113,4,194
+Georgia,Qaraghaji,41.5213,46.1444,4,197
+Georgia,Qarajala,41.978,45.4619,4,195
+Georgia,Qazbegi,42.668,44.6546,4,192
+Georgia,Qizilajalo,41.4855,44.7838,4,193
+Georgia,Qizilajlo,41.451,44.1974,4,192
+Georgia,Qizilk ilisa,41.373,44.2544,4,192
+Georgia,Qorolist avi_Ajaria,41.6607,41.7352,4,185
+Georgia,Qudro,41.9407,45.1019,4,194
+Georgia,Qurqutis Mt a,42.3391,44.5896,4,192
+Georgia,Qvaduashi,42.6066,41.9996,4,186
+Georgia,Qvareli,41.9627,45.813,4,196
+Georgia,Qvarlis Raioni_Qazbegis Raioni,42.0113,45.8446,4,196
+Georgia,Qvelani,42.4344,44.6107,4,192
+Georgia,Sokhumi,43.0148,41.0268,4,183
+Georgia,Tblisi,41.7366,44.8024,4,193
+Georgia,Yedikilisa_Tsalenjikhis Raioni,41.6007,43.944,4,191
+Georgia,Yeli,43.0179,42.7657,4,187
+Georgia,Yeloyani,42.3321,44.4549,4,192
+Georgia,Yenashi_Martvilis Raioni,43.024,42.6424,4,187
+Georgia,Yengikvevi_Akhalts ikhis Raioni,41.5968,43.0899,4,189
+Georgia,Yerkhoti,42.4729,44.4765,4,192
+Georgia,Yertatsminda,41.8757,44.3346,4,192
+Georgia,Yudorda,43.031,40.9421,4,183
+Georgia,Yupshara_Abkhazia,43.3824,40.4813,4,182
+Georgia,Yuzhnyy Ptysh,43.1452,41.6968,4,185
+Georgia,Zugdidi,42.503,41.8347,4,185

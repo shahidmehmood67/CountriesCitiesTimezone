@@ -1,0 +1,114 @@
+Jamaica,Discovery Bay_Saint Ann,18.4767,-77.39,-5,0
+Jamaica,Galina Point_Saint Mary,18.4103,-76.873,-5,0
+Jamaica,Indian Coney River_Saint Thomas,17.9438,-76.3062,-5,0
+Jamaica,Inner Oyster Bay_Trelawny,18.4938,-77.6228,-5,0
+Jamaica,Innes Bay_Portland,18.0272,-76.2562,-5,0
+Jamaica,Innswood_Saint Catherine,17.9938,-77.0228,-5,0
+Jamaica,Inverness_Clarendon,17.9272,-77.1562,-5,0
+Jamaica,Ippery Gully_Saint James,18.4605,-77.8395,-5,0
+Jamaica,Ipswich_Saint Elizabeth,18.2105,-77.8228,-5,0
+Jamaica,Ipswich_Portland,18.2272,-76.6895,-5,0
+Jamaica,Irish Town_Saint Andrew,18.0605,-76.7062,-5,0
+Jamaica,Ironshore_Saint James,18.5272,-77.8562,-5,0
+Jamaica,Isles_Manchester,17.9605,-77.5228,-5,0
+Jamaica,Iter Boreale_Saint Mary,18.2772,-76.7228,-5,0
+Jamaica,Iver Cottage_Saint Elizabeth,17.9772,-77.7062,-5,0
+Jamaica,Ivy Mount_Saint Catherine,18.2105,-77.0728,-5,0
+Jamaica,Jacks Hill_Saint Andrew,18.0606,-76.7394,-5,0
+Jamaica,Jacks Rock_Saint Mary,18.2773,-76.7894,-5,0
+Jamaica,Jacobs Brook,18.0439,-76.3727,-5,0
+Jamaica,Jefferey Town_Saint Mary,18.2939,-77.0061,-5,0
+Jamaica,Jericho_Saint Catherine,18.1606,-77.0394,-5,0
+Jamaica,John Crow Hill_Portland,18.0439,-76.4561,-5,0
+Jamaica,John Crow Peak,18.1106,-76.6394,-5,0
+Jamaica,John Crow River_Saint Thomas,18.0606,-76.6227,-5,0
+Jamaica,Johns Hall_Saint Ann,18.3106,-77.3894,-5,0
+Jamaica,Johns Lodge_Saint Elizabeth,17.9773,-77.7227,-5,0
+Jamaica,Johns Rock_Saint Elizabeth,17.9273,-77.8061,-5,0
+Jamaica,Johns Town_Saint Thomas,17.8939,-76.3394,-5,0
+Jamaica,Juan de Bolas_Saint Catherine,18.0939,-77.1394,-5,0
+Jamaica,Junction_Saint Elizabeth,17.9106,-77.5894,-5,0
+Jamaica,Keanwood_Manchester,18.2107,-77.606,-5,0
+Jamaica,Kellets_Clarendon,18.1607,-77.2226,-5,0
+Jamaica,Kelps River_Clarendon,18.044,-77.1726,-5,0
+Jamaica,Kenkoo Hill_Clarendon,18.044,-77.2726,-5,0
+Jamaica,Kenmure Ridge_Saint Thomas,18.0274,-76.556,-5,0
+Jamaica,Kennedys_Clarendon,17.9607,-77.1893,-5,0
+Jamaica,Kensington_Saint Ann,18.344,-77.3226,-5,0
+Jamaica,Kensington_Saint Elizabeth,17.9107,-77.6393,-5,0
+Jamaica,Keppoch_Saint Ann,18.3274,-77.3726,-5,0
+Jamaica,Kew_Hanover,18.444,-78.1393,-5,0
+Jamaica,Kildare_Portland,18.244,-76.6393,-5,0
+Jamaica,Kilmorey_Saint Elizabeth,18.0607,-77.8893,-5,0
+Jamaica,Kingston_Kingston-Saint John,17.9774,-76.7893,-5,0
+Jamaica,Kingston,18.0107,-76.7893,-5,0
+Jamaica,Kingston Bank,17.594,-77.906,-5,0
+Jamaica,Kingston Harbor_Kingston-Saint John,17.9607,-76.7726,-5,0
+Jamaica,Kingwood_Westmoreland,18.244,-78.1226,-5,0
+Jamaica,Kinloss Village_Trelawny,18.4107,-77.556,-5,0
+Jamaica,Kirkvine_Manchester,18.0774,-77.456,-5,0
+Jamaica,Knibbs Pen_Saint Catherine,17.994,-76.9726,-5,0
+Jamaica,Knights_Clarendon,17.794,-77.2893,-5,0
+Jamaica,Knockpatrick_Manchester,18.0107,-77.506,-5,0
+Jamaica,Koningsburgh_Saint Mary,18.244,-76.856,-5,0
+Jamaica,Kupuis_Clarendon,18.1274,-77.2893,-5,0
+Jamaica,Mandeville_Manchester,18.0276,-77.4724,-5,0
+Jamaica,May Pen_Clarendon,17.9942,-77.2058,-5,0
+Jamaica,Montego Bay_Saint James,18.4776,-77.9224,-5,0
+Jamaica,Montego Bay Point_Saint James,18.5109,-77.9224,-5,0
+Jamaica,Negril_Westmoreland,18.2777,-78.339,-5,0
+Jamaica,Negril_Hanover,18.3443,-78.3223,-5,0
+Jamaica,Ocho Rios_Saint Ann,18.4278,-77.1056,-5,0
+Jamaica,Ocho Rios Bay_Saint Ann,18.4278,-77.1222,-5,0
+Jamaica,Old Harbour_Saint Catherine,17.9444,-77.1056,-5,0
+Jamaica,Old Harbour_Clarendon,17.9444,-77.1389,-5,0
+Jamaica,Old Harbour Bay_Saint Catherine,17.9111,-77.2556,-5,0
+Jamaica,Parks Road_Saint Andrew,18.0945,-76.8555,-5,0
+Jamaica,Portmore_Saint Catherine,17.9779,-76.8555,-5,0
+Jamaica,Quaco Gully_Saint Ann,18.4446,-77.4387,-5,0
+Jamaica,Quaco Rock_Clarendon,18.1446,-77.4387,-5,0
+Jamaica,Quaco Spring_Clarendon,18.1446,-77.2887,-5,0
+Jamaica,Quasheba Mountain_Hanover,18.3946,-78.1387,-5,0
+Jamaica,Quashies River_Trelawny,18.2946,-77.522,-5,0
+Jamaica,Quebec_Saint Mary,18.3613,-76.872,-5,0
+Jamaica,Queen of Spains Valley,18.4446,-77.7387,-5,0
+Jamaica,Queenhythe_Saint Ann,18.4446,-77.4054,-5,0
+Jamaica,Queensbury Ridge_Saint Thomas,18.0446,-76.572,-5,0
+Jamaica,Savanna-la-Mar_Westmoreland,18.2282,-78.1218,-5,0
+Jamaica,Spanish Town_Saint Catherine,17.9948,-76.9385,-5,0
+Jamaica,Ugly River_Saint Mary,18.2284,-76.7716,-5,0
+Jamaica,Ulster Spring_Trelawny,18.3284,-77.505,-5,0
+Jamaica,Umbrella Point_Saint James,18.5284,-77.8883,-5,0
+Jamaica,Unity Airstrip_Saint Mary,18.3117,-76.8716,-5,0
+Jamaica,Upper Leyton_Portland,18.2284,-76.605,-5,0
+Jamaica,Upper Warminster_Saint Elizabeth,17.945,-77.655,-5,0
+Jamaica,Usher Mount_Saint Catherine,18.0784,-76.9216,-5,0
+Jamaica,Vanity Fair_Saint Catherine,18.1618,-77.0215,-5,0
+Jamaica,Vaughansfield_Saint James,18.3285,-77.7882,-5,0
+Jamaica,Vauxhall_Saint Elizabeth,18.1618,-77.7549,-5,0
+Jamaica,Vaz Delight_Saint Catherine,18.0285,-77.0382,-5,0
+Jamaica,Verama Hollis Savanna_Clarendon,18.1951,-77.3215,-5,0
+Jamaica,Vernam_Clarendon,17.8951,-77.2882,-5,0
+Jamaica,Village of Christiana_Manchester,18.1785,-77.4715,-5,0
+Jamaica,Village of Davyton_Manchester,18.0785,-77.4382,-5,0
+Jamaica,Village of Kettering_Trelawny,18.4785,-77.5215,-5,0
+Jamaica,Village of Pilox_Saint Thomas,17.9285,-76.3882,-5,0
+Jamaica,Village of Shiloah_Saint Elizabeth,18.1785,-77.7049,-5,0
+Jamaica,Village of Spaldings_Clarendon,18.1618,-77.4382,-5,0
+Jamaica,Vinegar Hill_Westmoreland,18.1618,-77.9549,-5,0
+Jamaica,Vinegar Hill_Portland,18.0285,-76.3049,-5,0
+Jamaica,Vineyard_Saint Andrew,17.9951,-76.7715,-5,0
+Jamaica,Vineyard_Saint Elizabeth,18.0285,-77.7715,-5,0
+Jamaica,Vineyard Hill_Portland,18.0618,-76.3215,-5,0
+Jamaica,Y.S. River_Saint Elizabeth,18.0621,-77.8212,-5,0
+Jamaica,Yallahs Bay_Saint Thomas,17.8788,-76.5546,-5,0
+Jamaica,Yallahs Hill_Saint Thomas,17.9121,-76.4879,-5,0
+Jamaica,Yallahs River,17.8788,-76.5879,-5,0
+Jamaica,Yankee River_Portland,18.1954,-77.4212,-5,0
+Jamaica,Yarmouth_Clarendon,17.8954,-77.2712,-5,0
+Jamaica,Yates Savanna_Clarendon,17.8621,-77.2212,-5,0
+Jamaica,Yeary Yeary Gully_Clarendon,18.1621,-77.4046,-5,0
+Jamaica,Ylhanside_Portland,18.1954,-76.6046,-5,0
+Jamaica,Young Gal Hill_Portland,18.1121,-76.3879,-5,0
+Jamaica,Ys House_Saint Elizabeth,18.1621,-77.8046,-5,0
+Jamaica,Zion Hill_Saint Andrew,18.0955,-76.8211,-5,0

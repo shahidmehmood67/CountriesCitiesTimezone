@@ -1,0 +1,80 @@
+West Bank,Anin,32.5111,35.173,2,0
+West Bank,Beit Hanina,31.8431,35.2098,2,0
+West Bank,Beit Rima,32.0431,35.1134,2,0
+West Bank,Cedron,31.6766,35.4599,2,0
+West Bank,Dhahiriya,31.4267,34.9767,2,0
+West Bank,Fahma,32.3927,35.1899,2,0
+West Bank,Farkha,32.0802,35.158,2,0
+West Bank,Far`un,32.2966,35.0333,2,0
+West Bank,Fashkhah,31.7435,35.4769,2,0
+West Bank,Fawwar Camp,31.4935,35.0769,2,0
+West Bank,Gane Modi`in,31.927,35.0103,2,0
+West Bank,Ghadir Burqu`,32.627,37.977,2,0
+West Bank,Gilgal,31.8603,35.4936,2,0
+West Bank,Hablah,32.1718,34.9854,2,0
+West Bank,Hadar Betar,31.7104,35.1104,2,0
+West Bank,Haggy,31.4937,35.0937,2,0
+West Bank,Haiyat,31.9604,35.4437,2,0
+West Bank,Hajja,32.2151,35.1412,2,0
+West Bank,Hammam Shuweika,31.4104,35.0104,2,0
+West Bank,Hamra,32.2104,35.4271,2,0
+West Bank,Haqw ad Darahim,31.7104,35.4437,2,0
+West Bank,Haqw al Matamir,31.6771,35.4271,2,0
+West Bank,Har Adar,31.8271,35.1437,2,0
+West Bank,Har el Kabir,32.2437,35.3604,2,0
+West Bank,Har Harmun,31.7771,35.4437,2,0
+West Bank,Har HaZofim,31.8104,35.2437,2,0
+West Bank,Har Hordos,31.6771,35.2604,2,0
+West Bank,Har Rahawat,32.0771,35.2771,2,0
+West Bank,Har Tammun,32.2771,35.4104,2,0
+West Bank,Har Ziyyon,31.7771,35.2437,2,0
+West Bank,Har `Eival,32.2437,35.2771,2,0
+West Bank,Haram esh Sharif,31.7937,35.2437,2,0
+West Bank,Harayiq Dawwas,32.1937,35.1104,2,0
+West Bank,Haris,32.1246,35.1529,2,0
+West Bank,Hatserot,32.1879,35.2235,2,0
+West Bank,Hebron,31.5437,35.1104,2,0
+West Bank,Hemdat,32.2604,35.5271,2,0
+West Bank,Hermesh,32.4271,35.1271,2,0
+West Bank,Hinnanit,32.4771,35.1771,2,0
+West Bank,Hizmah,31.8437,35.2771,2,0
+West Bank,Homesh,32.3104,35.1937,2,0
+West Bank,Horbat Nakar,31.6604,35.0104,2,0
+West Bank,Huraybat an Nabi,31.3937,35.1271,2,0
+West Bank,Husan,31.7271,35.1437,2,0
+West Bank,Hyrcania,31.7271,35.3937,2,0
+West Bank,Jerusalem Airport,31.8773,35.2273,2,0
+West Bank,Lahf el Lauza,32.1275,35.4608,2,0
+West Bank,Lido Yehuda,31.7775,35.5108,2,0
+West Bank,Likia,31.8775,35.0775,2,0
+West Bank,Lubban,32.0444,35.0486,2,0
+West Bank,Lubban Sharqiya,32.0825,35.2525,2,0
+West Bank,Nablus,32.2321,35.2654,2,0
+West Bank,Ofra,31.9611,35.3111,2,0
+West Bank,Olivet,31.7944,35.2611,2,0
+West Bank,Omarim,31.3778,34.9611,2,0
+West Bank,Oranit,32.1444,34.9944,2,0
+West Bank,Osarin,32.1444,35.3278,2,0
+West Bank,Otni el,31.4444,35.0278,2,0
+West Bank,Pelas,32.2779,35.5279,2,0
+West Bank,Peza el,32.0612,35.4279,2,0
+West Bank,Pisgat Amir,31.8279,35.2445,2,0
+West Bank,Pools of Solomon,31.6945,35.1779,2,0
+West Bank,Pundaq,32.2009,35.1451,2,0
+West Bank,Pundaqa,32.332,35.2145,2,0
+West Bank,Qabatiyah,32.4199,35.2913,2,0
+West Bank,Qalqiliya,32.1977,34.9744,2,0
+West Bank,Ram Allah,31.9114,35.2114,2,0
+West Bank,Salfit,32.0923,35.1876,2,0
+West Bank,Tul Kerem,32.3224,35.0374,2,0
+West Bank,Tulkarem,32.3283,35.0449,2,0
+West Bank,Yanun,32.1579,35.3643,2,0
+West Bank,Yasid,32.3065,35.289,2,0
+West Bank,Yirihu,31.8788,35.4621,2,0
+West Bank,Yuta,31.4621,35.0954,2,0
+West Bank,Zababida,32.3969,35.3347,2,0
+West Bank,Zahrat al Middah,32.0289,35.3455,2,0
+West Bank,Zahrat Umm al Kasrun,31.7289,35.2955,2,0
+West Bank,Zahrat Zayn ad Din,31.7622,35.2622,2,0
+West Bank,Zaytun al Karm,32.4289,35.2789,2,0
+West Bank,Zor el Madrasa,32.1955,35.5789,2,0

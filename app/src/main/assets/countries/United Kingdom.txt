@@ -1,0 +1,1183 @@
+United Kingdom,A Bhrideanach_ or UK83,57.0167,-6.4667,0,117
+United Kingdom,Abbots Langley,51.7000,-0.4167,0,119
+United Kingdom,Aber-bargoed,51.7000,-3.2333,0,116
+United Kingdom,Aberdare,51.7167,-3.4333,0,116
+United Kingdom,Aberdeen,57.1333,-2.1000,0,122
+United Kingdom,Aberdeen Bank,57.1167,-1.0833,0,123
+United Kingdom,Aberdeen Bay,57.1500,-2.0667,0,122
+United Kingdom,Aberdeen City,57.1667,-2.1667,0,122
+United Kingdom,Aberdeenshire,57.1667,-2.6667,0,121
+United Kingdom,Aberdour,56.0500,-3.3000,0,120
+United Kingdom,Abergavenny,51.8333,-3.0167,0,116
+United Kingdom,Abergele,53.2833,-3.5833,0,117
+United Kingdom,Aberkenfig,51.5333,-3.6000,0,115
+United Kingdom,Aberystwyth,52.4167,-4.0667,0,116
+United Kingdom,Abingdon,51.6667,-1.2833,0,118
+United Kingdom,Abington,55.4833,-3.7000,0,119
+United Kingdom,Accrington,53.7667,-2.3500,0,119
+United Kingdom,Acton Burnell,52.6167,-2.7000,0,117
+United Kingdom,Addlestone,51.3667,-0.4833,0,118
+United Kingdom,Airdrie,55.8500,-3.9833,0,119
+United Kingdom,Albrighton,52.6333,-2.2667,0,118
+United Kingdom,Aldershot,51.2500,-0.7667,0,118
+United Kingdom,Alexandria,55.9833,-4.6000,0,118
+United Kingdom,Alloa,56.1167,-3.8000,0,119
+United Kingdom,Alness,57.6833,-4.2500,0,120
+United Kingdom,Altrincham,53.3833,-2.3500,0,118
+United Kingdom,Amersham,51.6667,-0.6167,0,119
+United Kingdom,Ammanford,51.8000,-4.0000,0,115
+United Kingdom,Andover,51.2000,-1.4833,0,117
+United Kingdom,Angus,56.6667,-2.9167,0,120
+United Kingdom,Angus Oil Field,56.1833,3.1000,0,127
+United Kingdom,Annfield Plain,54.8500,-1.7333,0,120
+United Kingdom,Arborfield,51.4000,-0.9167,0,118
+United Kingdom,Ascot,51.4000,-0.6667,0,118
+United Kingdom,Ash Vale,51.2667,-0.7167,0,118
+United Kingdom,Ashford,51.1000,-4.1000,0,114
+United Kingdom,Ashtead,51.3000,-0.3000,0,119
+United Kingdom,Ashton under Lyne,53.5000,-2.1000,0,119
+United Kingdom,Attleborough,52.5000,-1.4500,0,118
+United Kingdom,Avon,51.4333,-2.5000,0,116
+United Kingdom,Avon Dassett,52.1333,-1.4000,0,118
+United Kingdom,Avon Lwyd,51.6167,-2.9333,0,116
+United Kingdom,Avonbridge,55.9333,-3.7500,0,119
+United Kingdom,Avonmouth,51.5000,-2.6833,0,116
+United Kingdom,Aylesbury,51.8167,-0.8000,0,119
+United Kingdom,Aylesbury Vale,51.8333,-0.8000,0,119
+United Kingdom,Ayr,55.4500,-4.6167,0,118
+United Kingdom,Ayr Bay,55.5000,-4.6667,0,118
+United Kingdom,Ayre of Cara,58.8333,-2.9000,0,122
+United Kingdom,Ayre Point,58.8333,-3.1500,0,122
+United Kingdom,Ayrshire,55.5000,-4.5000,0,118
+United Kingdom,Baildon,53.8500,-1.7667,0,119
+United Kingdom,Baillieston,55.8500,-4.1333,0,118
+United Kingdom,Bakewell,53.2000,-1.6667,0,119
+United Kingdom,Balham,51.4500,-0.1333,0,119
+United Kingdom,Ballyclare,54.7667,-6.0167,0,116
+United Kingdom,Ballymena,54.8667,-6.2667,0,115
+United Kingdom,Banbury,52.0500,-1.3333,0,118
+United Kingdom,Bangor,53.2667,-4.1167,0,116
+United Kingdom,Bangor Bay,54.6667,-5.6667,0,116
+United Kingdom,Banstead,51.3167,-0.1667,0,119
+United Kingdom,Barking,51.5333,0.0833,0,119
+United Kingdom,Barking Point,51.5167,0.1000,0,119
+United Kingdom,Barkingside,51.5833,0.0833,0,119
+United Kingdom,Barmouth Bay,52.6833,-4.1000,0,116
+United Kingdom,Barnet,51.6500,-0.2000,0,119
+United Kingdom,Barnetby,53.5667,-0.4000,0,121
+United Kingdom,Barningham,52.3500,0.9000,0,121
+United Kingdom,Barnoldswick,53.9167,-2.1833,0,119
+United Kingdom,Barnsley,53.5500,-1.4833,0,119
+United Kingdom,Barnsley Canal,53.6833,-1.4667,0,120
+United Kingdom,Barnstaple,51.0833,-4.0500,0,114
+United Kingdom,Barnstaple Bar,51.0833,-4.2667,0,114
+United Kingdom,Barnstaple Bay,51.0833,-4.4167,0,114
+United Kingdom,Barrow in Furness,54.1167,-3.2333,0,118
+United Kingdom,Barry,51.4000,-3.2500,0,116
+United Kingdom,Basildon,51.5667,0.4667,0,120
+United Kingdom,Basingstoke,51.2667,-1.0833,0,118
+United Kingdom,Bath,51.3833,-2.3500,0,116
+United Kingdom,Bathampton,51.3833,-2.3167,0,117
+United Kingdom,Batheaston,51.4000,-2.3167,0,117
+United Kingdom,Bathford,51.4000,-2.3000,0,117
+United Kingdom,Bathgate,55.9000,-3.6333,0,119
+United Kingdom,Batley Carr,53.7000,-1.6333,0,119
+United Kingdom,Battersea,51.4667,-0.1500,0,119
+United Kingdom,Battle,50.9167,0.5333,0,119
+United Kingdom,Beaconsfield,51.6000,-0.6333,0,119
+United Kingdom,Beckenham,51.3833,-0.0333,0,119
+United Kingdom,Beckton,51.5167,0.0667,0,119
+United Kingdom,Bedford,52.1333,-0.4500,0,119
+United Kingdom,Bedford Level,52.5000,0.0000,0,120
+United Kingdom,Bedfordshire,52.0000,-0.5000,0,119
+United Kingdom,Beeford,53.9667,-0.2667,0,121
+United Kingdom,Beeston,52.9167,-1.2167,0,119
+United Kingdom,Beeston Hill,53.7833,-1.5667,0,119
+United Kingdom,Belfast,54.5833,-5.9500,0,115
+United Kingdom,Belfast County Borough,54.6000,-5.9333,0,116
+United Kingdom,Belfast Lough,54.6667,-5.6000,0,116
+United Kingdom,Bellingham,55.1500,-2.2333,0,120
+United Kingdom,Bellshill,55.8167,-4.0167,0,119
+United Kingdom,Benfleet,51.5333,0.5500,0,120
+United Kingdom,Berkshire,51.5000,-1.2500,0,118
+United Kingdom,Berkshire Downs,51.5000,-1.5000,0,118
+United Kingdom,Bethesda,53.1667,-4.0833,0,116
+United Kingdom,Beverley,53.8333,-0.4167,0,121
+United Kingdom,Bexhill,50.8500,0.4833,0,119
+United Kingdom,Bexhill Reef,50.8333,0.4833,0,119
+United Kingdom,Bexley,51.4333,0.1500,0,119
+United Kingdom,Bicester,51.9000,-1.1500,0,118
+United Kingdom,Bideford_Deven,51.0167,-4.2167,0,114
+United Kingdom,Biggleswade,52.0833,-0.2667,0,119
+United Kingdom,Billericay,51.6167,0.4167,0,120
+United Kingdom,Billingham,54.6000,-1.3000,0,120
+United Kingdom,Bilston,52.5667,-2.0667,0,118
+United Kingdom,Bingham,52.9333,-0.9500,0,119
+United Kingdom,Bingley,53.8500,-1.8333,0,119
+United Kingdom,Birgham,55.6500,-2.3333,0,120
+United Kingdom,Birkenhead,53.4000,-3.0333,0,118
+United Kingdom,Birkenshaw,53.7500,-1.6833,0,119
+United Kingdom,Birlingham,52.0833,-2.1000,0,117
+United Kingdom,Birmingham,52.4667,-1.9167,0,118
+United Kingdom,Birmingham and Fazeley Canal,52.6167,-1.7000,0,118
+United Kingdom,Bishop Auckland,54.6500,-1.6667,0,120
+United Kingdom,Bishopbriggs,55.9000,-4.2333,0,118
+United Kingdom,Bishops Stortford,51.8667,0.1667,0,120
+United Kingdom,Blaby,52.5333,-1.1667,0,119
+United Kingdom,Black Burn,55.1833,-2.8000,0,119
+United Kingdom,Black Halls Rocks,54.7467,-1.2672,0,121
+United Kingdom,Blackburn,55.8667,-3.6333,0,119
+United Kingdom,Blackpool,53.8167,-3.0500,0,118
+United Kingdom,Blackwell,53.1167,-1.3333,0,119
+United Kingdom,Blackwood,55.6667,-3.9167,0,119
+United Kingdom,Blaenau Festiniog,52.9833,-3.9333,0,116
+United Kingdom,Blandford Forum,50.8667,-2.1667,0,116
+United Kingdom,Bletchley,51.9833,-0.7333,0,119
+United Kingdom,Bodelwyddan,53.2500,-3.4833,0,117
+United Kingdom,Bognor Regis,50.7833,-0.6500,0,118
+United Kingdom,Bolton,55.9167,-2.7833,0,118
+United Kingdom,Bolton Bridge,53.9667,-1.8833,0,119
+United Kingdom,Bolton le Sands,54.0833,-2.7833,0,118
+United Kingdom,Bolton on Swale,54.3833,-1.6000,0,120
+United Kingdom,Bolton Percy,53.8667,-1.2000,0,120
+United Kingdom,Boltongate,54.7500,-3.1833,0,119
+United Kingdom,Borehamwood,51.6500,-0.2667,0,119
+United Kingdom,Borough of Blackburn with Darwen_Blackburn with Darwen,53.6667,-2.4667,0,118
+United Kingdom,Borough of Bolton_Bolton,53.5833,-2.5000,0,118
+United Kingdom,Borough of Bournemouth_Bournemouth,50.7167,-1.8667,0,116
+United Kingdom,Boston,52.9833,-0.0167,0,120
+United Kingdom,Boston Deep,53.0000,0.2833,0,121
+United Kingdom,Boston Spa,53.9000,-1.3500,0,120
+United Kingdom,Bottesford,52.9500,-0.8000,0,120
+United Kingdom,Bourne End,51.7333,-0.5167,0,119
+United Kingdom,Bournemouth_ or UK12,50.7167,-1.8833,0,116
+United Kingdom,Bow,51.5333,-0.0167,0,119
+United Kingdom,Bow Burn,55.2500,-4.2667,0,118
+United Kingdom,Bow Fell,54.4333,-3.1667,0,118
+United Kingdom,Bow Head,59.3667,-2.9500,0,122
+United Kingdom,Bow of Hoy,58.9333,-3.3500,0,122
+United Kingdom,Bowden,52.4833,-0.9000,0,119
+United Kingdom,Bowdon,53.3667,-2.3667,0,118
+United Kingdom,Bower,58.5333,-3.3167,0,121
+United Kingdom,Bowes,54.5000,-2.0000,0,120
+United Kingdom,Bowes Moor,54.5167,-2.1000,0,120
+United Kingdom,Bowhouse,55.6000,-4.4167,0,118
+United Kingdom,Bowling,55.9167,-4.4833,0,118
+United Kingdom,Bracknell,51.4167,-0.7500,0,118
+United Kingdom,Bradford,53.7833,-1.7500,0,119
+United Kingdom,Bradford Abbas,50.9167,-2.5833,0,116
+United Kingdom,Bradford on Avon,51.3333,-2.2000,0,117
+United Kingdom,Bradwell,51.8667,0.6167,0,120
+United Kingdom,Braintree,51.8833,0.5667,0,120
+United Kingdom,Bramhall,53.3667,-2.1667,0,118
+United Kingdom,Brandon,54.7500,-1.6167,0,120
+United Kingdom,Bratton,51.2667,-2.1167,0,117
+United Kingdom,Brent,51.5500,-0.2667,0,119
+United Kingdom,Brentwood,51.6167,0.3167,0,120
+United Kingdom,Bridgend,51.5000,-3.5833,0,115
+United Kingdom,Bridgwater,51.1167,-3.0000,0,116
+United Kingdom,Bridlington,54.0950,-0.2081,0,121
+United Kingdom,Brierfield,53.8167,-2.2333,0,119
+United Kingdom,Brierley Hill,52.4833,-2.1167,0,118
+United Kingdom,Brigg,53.5500,-0.4833,0,120
+United Kingdom,Brighton,50.8333,-0.1500,0,118
+United Kingdom,Brington,52.2667,-1.0167,0,119
+United Kingdom,Brislington,51.4167,-2.5500,0,116
+United Kingdom,Bristol,51.4500,-2.5833,0,116
+United Kingdom,Bristol Channel,51.3333,-4.5000,0,114
+United Kingdom,Brixton,51.4667,-0.1000,0,119
+United Kingdom,Broadstairs,51.3667,1.4500,0,121
+United Kingdom,Brocket Hall,51.8000,-0.2333,0,119
+United Kingdom,Brockworth,51.8500,-2.1667,0,117
+United Kingdom,Bromley,51.4000,0.0500,0,119
+United Kingdom,Bromley Cross,53.6000,-2.4000,0,118
+United Kingdom,Bromsgrove,52.3333,-2.0667,0,118
+United Kingdom,Broughton Astley,52.5167,-1.2167,0,119
+United Kingdom,Buckie,57.6667,-2.9667,0,121
+United Kingdom,Buckingham,52.0000,-0.9833,0,119
+United Kingdom,Buckinghamshire,51.7500,-0.7500,0,119
+United Kingdom,Buckley,53.1667,-3.0833,0,117
+United Kingdom,Burgess Hill,50.9667,-0.1333,0,118
+United Kingdom,Burley,52.6667,-0.7000,0,119
+United Kingdom,Burnham,51.5167,-0.6500,0,118
+United Kingdom,Burnham Flats,53.0833,0.6333,0,121
+United Kingdom,Burnham on Crouch,51.6167,0.8333,0,120
+United Kingdom,Burnham Ridge,53.1167,-0.5833,0,120
+United Kingdom,Burnley,53.8000,-2.2333,0,119
+United Kingdom,Burntisland,56.0500,-3.2333,0,120
+United Kingdom,Burton upon Trent,52.8000,-1.6167,0,119
+United Kingdom,Bury,53.6000,-2.3000,0,119
+United Kingdom,Bury Saint Edmunds,52.2500,0.7167,0,121
+United Kingdom,Burythorpe,54.0667,-0.7833,0,121
+United Kingdom,Bushey,51.6333,-0.3667,0,119
+United Kingdom,Buxton,53.2500,-1.9167,0,119
+United Kingdom,Byfleet,51.3333,-0.4667,0,118
+United Kingdom,Caaf Water,55.7000,-4.7167,0,118
+United Kingdom,Caerphilly,51.5833,-3.2167,0,116
+United Kingdom,California,54.0500,0.0833,0,122
+United Kingdom,Cam,51.7000,-2.3500,0,117
+United Kingdom,Camberley,51.3500,-0.7333,0,118
+United Kingdom,Cambridge,52.2000,0.1167,0,120
+United Kingdom,Cambridge_Cambridgeshire,52.3333,0.0833,0,120
+United Kingdom,Cambridgeshire Fens,52.5000,0.1667,0,120
+United Kingdom,Canley,52.3833,-1.5500,0,118
+United Kingdom,Cannock,52.6833,-2.0167,0,118
+United Kingdom,Canterbury,51.2667,1.0833,0,120
+United Kingdom,Canvey Island,51.5333,0.5833,0,120
+United Kingdom,Cardiff,51.5000,-3.2000,0,116
+United Kingdom,Cardiff Castle,51.4833,-3.1833,0,116
+United Kingdom,Cardiff East Moors,51.4833,-3.1333,0,116
+United Kingdom,Cardigan,52.2500,-4.0000,0,116
+United Kingdom,Cardigan,52.0833,-4.6667,0,115
+United Kingdom,Carlisle,54.8833,-2.9333,0,119
+United Kingdom,Carlisle Plain,54.9000,-3.1667,0,119
+United Kingdom,Carmarthen_Carmarthenshire,51.8333,-4.1667,0,115
+United Kingdom,Carmarthen,51.8667,-4.3000,0,115
+United Kingdom,Carshalton,51.3500,-0.1500,0,119
+United Kingdom,Castleford,53.7167,-1.3500,0,120
+United Kingdom,Caterham,51.2667,-0.0833,0,119
+United Kingdom,Charlbury,51.8667,-1.4667,0,118
+United Kingdom,Chatham,51.3833,0.5167,0,120
+United Kingdom,Chatsworth House,53.2167,-1.6000,0,119
+United Kingdom,Cheadle,53.4000,-2.2167,0,118
+United Kingdom,Cheadle Hulme,53.3667,-2.1833,0,118
+United Kingdom,Chelmsford,51.7333,0.4833,0,120
+United Kingdom,Cheltenham,51.9000,-2.0833,0,117
+United Kingdom,Chertsey,51.3833,-0.5000,0,118
+United Kingdom,Chesham,51.7000,-0.6000,0,119
+United Kingdom,Cheshire Plain,53.2833,-2.6333,0,118
+United Kingdom,Cheshunt,51.7000,-0.0333,0,119
+United Kingdom,Chessington,51.3500,-0.3000,0,119
+United Kingdom,Chester,53.2000,-2.9167,0,118
+United Kingdom,Chester_Cheshire,53.1667,-2.5833,0,118
+United Kingdom,Chesterfield,53.2500,-1.4167,0,119
+United Kingdom,Chesters,55.3833,-2.6000,0,120
+United Kingdom,Chichester,50.8333,-0.7833,0,118
+United Kingdom,Chigwell,51.6167,0.0833,0,119
+United Kingdom,Chingford,51.6167,0.0167,0,119
+United Kingdom,Chippenham,52.3000,0.4333,0,120
+United Kingdom,Chislehurst,51.4000,0.0667,0,119
+United Kingdom,Chiswick,51.4833,-0.2667,0,119
+United Kingdom,Chorley,53.6500,-2.6167,0,118
+United Kingdom,Chorleywood,51.6500,-0.4833,0,119
+United Kingdom,Chorlton upon Medlock,53.4667,-2.2167,0,118
+United Kingdom,Chudleigh,50.6000,-3.5833,0,114
+United Kingdom,Cirencester,51.7333,-1.9833,0,117
+United Kingdom,Clacton-on-Sea,51.7833,1.1667,0,121
+United Kingdom,Cleckheaton,53.7167,-1.7167,0,119
+United Kingdom,Cleethorpes,53.5500,-0.0333,0,121
+United Kingdom,Cleveland,54.5000,-1.2167,0,120
+United Kingdom,Cleveland Hills,54.4167,-1.0833,0,121
+United Kingdom,Cleveland Port,54.5833,-1.2000,0,121
+United Kingdom,Clitheroe,53.8667,-2.4000,0,119
+United Kingdom,Clowne,53.2667,-1.2500,0,119
+United Kingdom,Clwyd,53.0833,-3.5000,0,117
+United Kingdom,Clwydian Range,53.1833,-3.2500,0,117
+United Kingdom,Clydebank,55.9000,-4.4000,0,118
+United Kingdom,Coalville,52.7167,-1.3667,0,119
+United Kingdom,Cobham,51.3833,0.4000,0,119
+United Kingdom,Cockermouth,54.6667,-3.3500,0,118
+United Kingdom,Colchester,51.8833,0.9000,0,121
+United Kingdom,Coleraine,55.1333,-6.6667,0,115
+United Kingdom,Colne,53.8500,-2.1667,0,119
+United Kingdom,Colwyn Bay,53.3000,-3.7500,0,117
+United Kingdom,Congleton,53.1500,-2.2000,0,118
+United Kingdom,Conisbrough,53.4833,-1.2333,0,120
+United Kingdom,Consett,54.8500,-1.8333,0,120
+United Kingdom,Coppull,53.6167,-2.6500,0,118
+United Kingdom,Corby,52.8000,-0.5167,0,120
+United Kingdom,Corby and Weldon,52.4833,-0.6833,0,119
+United Kingdom,Cornwall,50.4167,-4.7500,0,113
+United Kingdom,Cosford,52.4000,-1.2667,0,119
+United Kingdom,Cosham,50.8333,-1.0667,0,117
+United Kingdom,Coulsdon,51.3000,-0.1167,0,119
+United Kingdom,County Antrim,55.0000,-6.1667,0,116
+United Kingdom,County Down,54.3333,-5.7500,0,115
+United Kingdom,Cove,57.1000,-2.0833,0,122
+United Kingdom,Coveney,52.4167,0.2000,0,120
+United Kingdom,Coventry,52.4167,-1.5500,0,118
+United Kingdom,Coventry Canal,52.7167,-1.7833,0,118
+United Kingdom,Cowdenbeath,56.1167,-3.3500,0,120
+United Kingdom,Cowes,50.7667,-1.3000,0,117
+United Kingdom,Cowley,51.8333,-2.0500,0,117
+United Kingdom,Cramlington,55.0667,-1.5833,0,121
+United Kingdom,Cranfield,52.0667,-0.6000,0,119
+United Kingdom,Cranfield Point,54.0167,-6.0667,0,115
+United Kingdom,Cranford,52.3667,-0.6333,0,119
+United Kingdom,Cranwell,53.0333,-0.4667,0,120
+United Kingdom,Craven Arms,52.4333,-2.8333,0,117
+United Kingdom,Crawley,51.1000,-1.3833,0,117
+United Kingdom,Crayford,51.4333,0.1833,0,119
+United Kingdom,Creswell,53.2500,-1.2167,0,119
+United Kingdom,Crewe,53.1000,-2.4333,0,118
+United Kingdom,Crewe Hall,53.0833,-2.4000,0,118
+United Kingdom,Cricklewood,51.5500,-0.2167,0,119
+United Kingdom,Cromer,52.9333,1.3000,0,122
+United Kingdom,Crossgates,56.0667,-3.3833,0,119
+United Kingdom,Crowborough,51.0500,0.1500,0,119
+United Kingdom,Croy,57.5167,-4.0333,0,120
+United Kingdom,Croydon,51.3833,-0.1000,0,119
+United Kingdom,Cumbernauld,55.9500,-3.9833,0,119
+United Kingdom,Cumbria,54.5833,-2.8333,0,119
+United Kingdom,Cupar,56.3167,-3.0167,0,120
+United Kingdom,Currie,55.9000,-3.3000,0,119
+United Kingdom,Cwm-bran,51.6333,-3.0167,0,116
+United Kingdom,Dagenham,51.5500,0.1667,0,119
+United Kingdom,Dagenham Dock,51.5333,0.1500,0,119
+United Kingdom,Dalston,54.8333,-2.9833,0,119
+United Kingdom,Daresbury,53.3333,-2.6333,0,118
+United Kingdom,Darlaston,52.5667,-2.0333,0,118
+United Kingdom,Darlington,50.4500,-3.7167,0,114
+United Kingdom,Dartford,51.4500,0.2167,0,119
+United Kingdom,Dartmouth,50.3500,-3.5833,0,114
+United Kingdom,Darwen,53.7000,-2.4667,0,118
+United Kingdom,Datchet,51.4667,-0.5667,0,118
+United Kingdom,Daventry,52.2500,-1.1667,0,119
+United Kingdom,Denbury,50.5000,-3.6500,0,114
+United Kingdom,Derby,52.9333,-1.5000,0,119
+United Kingdom,Derby_Derbyshire,53.1667,-1.5833,0,119
+United Kingdom,Desford,52.6167,-1.2833,0,119
+United Kingdom,Devonport,50.3667,-4.1833,0,114
+United Kingdom,Devonshire_Deven,50.7500,-3.7500,0,114
+United Kingdom,Dewsbury,53.7000,-1.6167,0,119
+United Kingdom,Didcot,51.6000,-1.2500,0,118
+United Kingdom,Dollar,56.1500,-3.6667,0,119
+United Kingdom,Doncaster,53.5333,-1.1167,0,120
+United Kingdom,Dorchester,50.7167,-2.4333,0,116
+United Kingdom,Dorking,51.2167,-0.3333,0,119
+United Kingdom,Dorsetshire_Dorset,50.7500,-2.3333,0,116
+United Kingdom,Douglas,55.5500,-3.8500,0,118
+United Kingdom,Dover,51.1500,1.2333,0,120
+United Kingdom,Dovercliffe,53.5167,-1.4500,0,119
+United Kingdom,Downpatrick,54.3167,-5.7000,0,116
+United Kingdom,Driffield,54.0000,-0.4333,0,121
+United Kingdom,Dromara,54.3667,-6.0167,0,115
+United Kingdom,Dronfield,53.3000,-1.4667,0,119
+United Kingdom,Dudley,52.5000,-2.0833,0,118
+United Kingdom,Dudley Hill,53.7667,-1.7167,0,119
+United Kingdom,Dumfries,55.0667,-3.5500,0,118
+United Kingdom,Dumfries and Galloway,55.0833,-3.8333,0,118
+United Kingdom,Dunbar,56.0000,-2.5167,0,120
+United Kingdom,Dunblane,56.2000,-3.9667,0,119
+United Kingdom,Dundee,56.5000,-2.9667,0,120
+United Kingdom,Dundee City,56.4667,-2.9167,0,120
+United Kingdom,Dundonald,54.5833,-5.8000,0,116
+United Kingdom,Dunfermline,56.0833,-3.4667,0,119
+United Kingdom,Dunham,53.2667,-0.7667,0,120
+United Kingdom,Duns,55.7667,-2.3500,0,120
+United Kingdom,Dunstable,51.8833,-0.5167,0,119
+United Kingdom,Durham,54.7667,-1.5667,0,120
+United Kingdom,Durrington,51.1833,-1.7667,0,117
+United Kingdom,Dyfed,51.9167,-4.1667,0,115
+United Kingdom,Ealing,51.5000,-0.3167,0,119
+United Kingdom,Earley,51.4333,-0.9333,0,118
+United Kingdom,Earlston,55.6333,-2.6667,0,120
+United Kingdom,East Barnet,51.6333,-0.1500,0,119
+United Kingdom,East Dereham,52.6833,0.9333,0,121
+United Kingdom,East Finchley,51.5833,-0.1667,0,119
+United Kingdom,East Grinstead,51.1167,-0.0167,0,119
+United Kingdom,East Ham,51.5333,0.0500,0,119
+United Kingdom,East Kilbride,55.7667,-4.1667,0,118
+United Kingdom,East Sussex,50.9167,0.3333,0,119
+United Kingdom,East Tilbury,51.4500,0.4667,0,120
+United Kingdom,Eastbourne,50.8000,0.2500,0,119
+United Kingdom,Eastdean,50.7500,0.2000,0,119
+United Kingdom,Eastham,53.3000,-2.9667,0,118
+United Kingdom,Eastleigh,50.9667,-1.3500,0,117
+United Kingdom,Eastwood,53.7167,-2.0500,0,119
+United Kingdom,Ebbw Vale,51.7833,-3.2000,0,116
+United Kingdom,Eccles,52.4667,0.9667,0,121
+United Kingdom,Edgbaston,52.4500,-1.9167,0,118
+United Kingdom,Edgware,51.6000,-0.2667,0,119
+United Kingdom,Edinburgh_Midlothian,55.8333,-3.0833,0,120
+United Kingdom,Edinburgh,55.9500,-3.2000,0,120
+United Kingdom,Edinburgh Channels,51.5167,1.3333,0,121
+United Kingdom,Edmonton,51.6000,-0.0667,0,119
+United Kingdom,Egham,51.4167,-0.5667,0,118
+United Kingdom,Elgin,57.6500,-3.3333,0,121
+United Kingdom,Elland,53.6833,-1.8333,0,119
+United Kingdom,Ellesmere Port,53.2833,-2.9000,0,118
+United Kingdom,Ellon,57.3500,-2.0833,0,122
+United Kingdom,Ely,52.4000,0.2667,0,120
+United Kingdom,Emsworth,50.8500,-0.9333,0,118
+United Kingdom,Enfield,51.6667,-0.0667,0,119
+United Kingdom,Enfield Lock,51.6667,-0.0167,0,119
+United Kingdom,England,53.0000,-2.0000,0,118
+United Kingdom,Englefield,51.4333,-1.1000,0,118
+United Kingdom,Englefield Green,51.4333,-0.5833,0,118
+United Kingdom,Enniskillen,54.3667,-7.6333,0,114
+United Kingdom,Epping,51.7000,0.1167,0,119
+United Kingdom,Epsom,51.3167,-0.2667,0,119
+United Kingdom,Erdington,52.5333,-1.8167,0,118
+United Kingdom,Erith,51.4833,0.2000,0,119
+United Kingdom,Essex,51.8333,0.5833,0,120
+United Kingdom,Eton,51.5000,-0.6000,0,118
+United Kingdom,Evesham,52.0833,-1.9333,0,118
+United Kingdom,Ewell,51.3333,-0.2500,0,119
+United Kingdom,Exeter,50.7000,-3.5333,0,115
+United Kingdom,Exeter Canal,50.7167,-3.5167,0,115
+United Kingdom,Exmouth,50.5833,-3.4000,0,115
+United Kingdom,Eyemouth,55.8667,-2.1000,0,121
+United Kingdom,Falkirk,56.0000,-3.7500,0,119
+United Kingdom,Falmer,50.8500,-0.0667,0,118
+United Kingdom,Falmouth_Cornwall,50.1483,-5.0761,0,113
+United Kingdom,Fareham,50.8500,-1.1833,0,117
+United Kingdom,Farmborough,51.3333,-2.5000,0,116
+United Kingdom,Farnborough,51.2667,-0.7333,0,118
+United Kingdom,Farnham,50.9333,-2.0667,0,116
+United Kingdom,Farnworth,53.3833,-2.7167,0,118
+United Kingdom,Farringdon,51.1000,-0.9833,0,118
+United Kingdom,Felixstowe,51.9667,1.3500,0,121
+United Kingdom,Feltham,51.4500,-0.4167,0,119
+United Kingdom,Ferndale,51.6667,-3.4500,0,116
+United Kingdom,Fife,56.2500,-3.1667,0,120
+United Kingdom,Fifeshire,56.3333,-3.0000,0,120
+United Kingdom,Finchley,51.6000,-0.1667,0,119
+United Kingdom,Fitzwilliam,53.6333,-1.3833,0,120
+United Kingdom,Fleet,52.7833,0.0667,0,120
+United Kingdom,Fleetwood,53.9167,-3.0000,0,118
+United Kingdom,Flint_Flintshire,53.2500,-3.1667,0,117
+United Kingdom,Folkestone,51.0833,1.1833,0,120
+United Kingdom,Folkestone Harbour,51.0667,1.1833,0,120
+United Kingdom,Forres,57.6000,-3.6167,0,120
+United Kingdom,Fort William,56.8167,-5.1167,0,118
+United Kingdom,Four Oaks,52.5833,-1.8333,0,118
+United Kingdom,Frimley,51.3000,-0.7333,0,118
+United Kingdom,Frinton-on-Sea,51.8333,1.2500,0,121
+United Kingdom,Fulham,51.4667,-0.2167,0,119
+United Kingdom,Fyfield,51.7333,0.2667,0,120
+United Kingdom,Gainsborough,53.3833,-0.7667,0,120
+United Kingdom,Galashiels,55.6000,-2.8167,0,120
+United Kingdom,Galloway,55.0500,-4.5000,0,117
+United Kingdom,Garstang,53.9000,-2.7667,0,118
+United Kingdom,Gateshead,54.9450,-1.6175,0,120
+United Kingdom,Gateshead District_Gateshead,54.9333,-1.6667,0,120
+United Kingdom,Gatwick,51.1667,-0.1833,0,119
+United Kingdom,Gilford,54.3667,-6.3333,0,115
+United Kingdom,Gillingham,51.4000,0.5667,0,120
+United Kingdom,Glamorgan,51.6667,-3.6667,0,115
+United Kingdom,Glanamman,51.8000,-3.9333,0,115
+United Kingdom,Glasgow,55.8333,-4.2500,0,118
+United Kingdom,Glasgow City,55.8667,-4.2500,0,118
+United Kingdom,Glastonbury,51.1333,-2.7167,0,116
+United Kingdom,Glenrothes,56.2000,-3.1833,0,120
+United Kingdom,Gloucester,51.8333,-2.2500,0,117
+United Kingdom,Gloucester_Gloucestershire,51.8333,-2.1667,0,117
+United Kingdom,Godalming,51.1833,-0.6000,0,118
+United Kingdom,Goodmayes,51.5667,0.1167,0,119
+United Kingdom,Goole,53.7167,-0.8667,0,120
+United Kingdom,Goring by Sea,50.8000,-0.4167,0,118
+United Kingdom,Gorleston-on-Sea_ or UK29,52.5833,1.7167,0,122
+United Kingdom,Gosport,50.8000,-1.1333,0,117
+United Kingdom,Grangemouth,56.0167,-3.7333,0,119
+United Kingdom,Grantham,52.9000,-0.6333,0,120
+United Kingdom,Gravesend,51.4333,0.3667,0,119
+United Kingdom,Grays,51.4833,0.3333,0,120
+United Kingdom,Great Ashby,52.5000,-1.1667,0,119
+United Kingdom,Great Malvern,52.1167,-2.3167,0,117
+United Kingdom,Great Sankey,53.3833,-2.6167,0,118
+United Kingdom,Great Yarmouth,52.6333,1.7500,0,122
+United Kingdom,Greenford,51.5167,-0.3333,0,119
+United Kingdom,Greenhithe,51.4333,0.3000,0,119
+United Kingdom,Greenock,55.9333,-4.7500,0,118
+United Kingdom,Greenwich,51.4667,0.0000,0,119
+United Kingdom,Grimsby,53.5333,-0.0500,0,121
+United Kingdom,Guildford,51.2167,-0.5667,0,118
+United Kingdom,Gwent,51.6667,-3.0000,0,116
+United Kingdom,Gwynedd,52.8333,-3.9167,0,116
+United Kingdom,Hackbridge,51.3833,-0.1500,0,119
+United Kingdom,Hackney,51.5500,-0.0500,0,119
+United Kingdom,Halesowen,52.4500,-2.0500,0,118
+United Kingdom,Halifax,53.7167,-1.8500,0,119
+United Kingdom,Ham,51.3500,-1.5167,0,117
+United Kingdom,Hamilton,55.7667,-4.0333,0,118
+United Kingdom,Hammersmith,51.5000,-0.2333,0,119
+United Kingdom,Hampshire,51.0000,-1.2500,0,117
+United Kingdom,Hampstead,51.5500,-0.1833,0,119
+United Kingdom,Hampton,52.4667,-2.3833,0,117
+United Kingdom,Handsworth,53.3667,-1.3833,0,119
+United Kingdom,Hanley,53.0333,-2.1833,0,118
+United Kingdom,Hanwell,52.0833,-1.3667,0,118
+United Kingdom,Hanworth,51.4333,-0.3833,0,119
+United Kingdom,Harefield,51.6000,-0.4833,0,119
+United Kingdom,Haringey,51.5833,-0.0833,0,119
+United Kingdom,Harlesden,51.5333,-0.2500,0,119
+United Kingdom,Harlow,51.7833,0.1667,0,120
+United Kingdom,Harlow Hill,55.0000,-1.8667,0,120
+United Kingdom,Harpenden,51.8000,-0.3500,0,119
+United Kingdom,Harris,57.9167,-6.8333,0,117
+United Kingdom,Harrogate,53.9833,-1.5333,0,120
+United Kingdom,Harrow,51.5833,-0.3167,0,119
+United Kingdom,Harrow Point,58.6500,-3.2500,0,122
+United Kingdom,Harrow Weald,51.6000,-0.3167,0,119
+United Kingdom,Harrowden,52.3167,-0.7167,0,119
+United Kingdom,Harrowgate Hill,54.5500,-1.5500,0,120
+United Kingdom,Hartfield,51.0833,0.1167,0,119
+United Kingdom,Hartington,53.1333,-1.8167,0,119
+United Kingdom,Hartlebury,52.3333,-2.2333,0,117
+United Kingdom,Hartlepool,54.6861,-1.2125,0,121
+United Kingdom,Haslemere,51.0833,-0.7000,0,118
+United Kingdom,Haslingden,53.7000,-2.3333,0,119
+United Kingdom,Hastings,50.8500,0.6000,0,119
+United Kingdom,Hatfield,51.7667,-0.1667,0,119
+United Kingdom,Hatfield Heath,51.8000,0.2167,0,120
+United Kingdom,Havant,50.8500,-0.9833,0,117
+United Kingdom,Haverfordwest,51.8167,-4.9667,0,114
+United Kingdom,Hawarden,53.1833,-3.0333,0,117
+United Kingdom,Hayes,51.5000,-0.4167,0,119
+United Kingdom,Haywards Heath,50.9833,-0.1000,0,119
+United Kingdom,Headington,51.7500,-1.2000,0,118
+United Kingdom,Heathrow,51.4667,-0.4500,0,119
+United Kingdom,Hebburn,54.9667,-1.5167,0,121
+United Kingdom,Heckmondwike,53.7000,-1.6667,0,119
+United Kingdom,Helston_Cornwall,50.0997,-5.2722,0,112
+United Kingdom,Hemel Hempstead,51.7500,-0.4667,0,119
+United Kingdom,Hemel Hempsted and Boxmoor,51.7333,-0.4833,0,119
+United Kingdom,Hemsworth,53.6000,-1.3500,0,120
+United Kingdom,Hendon,51.6000,-0.2167,0,119
+United Kingdom,Henley on Thames,51.5333,-0.9000,0,118
+United Kingdom,Hereford,52.0500,-2.7167,0,117
+United Kingdom,Hereford_Herefordshire,52.0833,-2.7500,0,117
+United Kingdom,Herne Bay,51.3667,1.1333,0,120
+United Kingdom,Hersham,51.3667,-0.4000,0,119
+United Kingdom,Hertford,51.8000,-0.0667,0,119
+United Kingdom,Hertfordshire,51.8333,-0.2500,0,119
+United Kingdom,Heslington,53.9500,-1.0333,0,120
+United Kingdom,Heston,51.4833,-0.3667,0,119
+United Kingdom,Heywood,53.5833,-2.2167,0,119
+United Kingdom,High Wycombe,51.6333,-0.7667,0,118
+United Kingdom,Hillingdon,51.5167,-0.4500,0,119
+United Kingdom,Hilton,52.5667,-2.3167,0,118
+United Kingdom,Hinckley,52.5333,-1.3667,0,119
+United Kingdom,Hitchin,51.9500,-0.2667,0,119
+United Kingdom,Hockley,52.5000,-1.9167,0,118
+United Kingdom,Hoddesdon,51.7500,0.0000,0,119
+United Kingdom,Holborn,51.5167,-0.1167,0,119
+United Kingdom,Holytown,55.8167,-3.9500,0,119
+United Kingdom,Horley,51.1667,-0.1667,0,119
+United Kingdom,Horsham,51.0500,-0.3333,0,118
+United Kingdom,Hounslow,51.4667,-0.3500,0,119
+United Kingdom,Hove,50.8333,-0.1833,0,118
+United Kingdom,Huddersfield,53.6500,-1.7833,0,119
+United Kingdom,Hull,53.7167,-0.3333,0,121
+United Kingdom,Hull Sand,52.8333,0.3000,0,121
+United Kingdom,Hulland,53.0167,-1.6333,0,119
+United Kingdom,Hullavington,51.5333,-2.1500,0,117
+United Kingdom,Humberside,53.7500,-0.4167,0,121
+United Kingdom,Huntingdon,52.3333,-0.1833,0,120
+United Kingdom,Huntingdon and Peterborough,52.3333,-0.1667,0,120
+United Kingdom,Huntingdon District,52.3500,-0.3000,0,120
+United Kingdom,Hursley Park,51.0333,-1.4000,0,117
+United Kingdom,Hyde,53.4500,-2.0833,0,119
+United Kingdom,Ilford,51.5500,0.0500,0,119
+United Kingdom,Ingatestone,51.6667,0.3833,0,120
+United Kingdom,Inverkip,55.9000,-4.8667,0,118
+United Kingdom,Inverness,57.4667,-4.2333,0,120
+United Kingdom,Inverness Firth,57.5500,-4.1500,0,120
+United Kingdom,Ipswich,52.0833,1.1667,0,121
+United Kingdom,Irvine,55.6000,-4.6667,0,118
+United Kingdom,Isle of Sheppey,51.4000,0.8333,0,120
+United Kingdom,Isle of Wight,50.6667,-1.3333,0,117
+United Kingdom,Isleworth,51.4667,-0.3333,0,119
+United Kingdom,Islington,51.5333,-0.1000,0,119
+United Kingdom,Jarrow,54.9806,-1.4508,0,121
+United Kingdom,Jersey,49.2079,-2.1955,0,115
+United Kingdom,Johnston,51.7500,-5.0000,0,114
+United Kingdom,Jordanstown,54.6833,-5.9000,0,116
+United Kingdom,Keele,53.0000,-2.2833,0,118
+United Kingdom,Kegworth,52.8167,-1.2667,0,119
+United Kingdom,Keighley,53.8833,-1.9167,0,119
+United Kingdom,Kempston,52.1000,-0.4833,0,119
+United Kingdom,Kendal,54.3167,-2.7500,0,119
+United Kingdom,Kenilworth,52.3500,-1.5833,0,118
+United Kingdom,Kennington,51.1500,0.8833,0,120
+United Kingdom,Kensington,51.4833,-0.1833,0,119
+United Kingdom,Kent,51.2500,0.7500,0,120
+United Kingdom,Kettering,52.4000,-0.7167,0,119
+United Kingdom,Ketteringham,52.5667,-1.1833,0,119
+United Kingdom,Kidderminster,52.3833,-2.2500,0,118
+United Kingdom,Kidlington,51.8167,-1.2833,0,118
+United Kingdom,Killamarsh,53.3167,-1.3167,0,119
+United Kingdom,Kilmarnock,55.6333,-4.5333,0,118
+United Kingdom,Kings Cross Station,51.5333,-0.1167,0,119
+United Kingdom,Kings Lynn,52.7500,0.3833,0,121
+United Kingdom,Kingsbury,52.5500,-1.6833,0,118
+United Kingdom,Kingsey,51.7500,-0.9167,0,118
+United Kingdom,Kingston_ or UK12,50.6167,-2.0667,0,116
+United Kingdom,Kingston,57.6667,-3.1000,0,121
+United Kingdom,Kingston upon Thames,51.4167,-0.2833,0,119
+United Kingdom,Kirkby,53.4833,-2.9000,0,118
+United Kingdom,Kirkby in Ashfield,53.0833,-1.2667,0,119
+United Kingdom,Kirkcaldy,56.1167,-3.1667,0,120
+United Kingdom,Kirkcaldy Harbour,56.1167,-3.1500,0,120
+United Kingdom,Kirkintilloch,55.9167,-4.1667,0,118
+United Kingdom,Kirkwall,58.9667,-2.9500,0,122
+United Kingdom,Knottingley,53.7000,-1.2333,0,120
+United Kingdom,Knutsford,53.3000,-2.3667,0,118
+United Kingdom,Laindon,51.5667,0.4333,0,120
+United Kingdom,Lampeter,52.1167,-4.0667,0,115
+United Kingdom,Lanarkshire,55.5833,-3.8333,0,119
+United Kingdom,Lancaster,54.1167,-2.7667,0,118
+United Kingdom,Lancaster_Lancashire,53.8333,-2.5000,0,119
+United Kingdom,Lancaster Canal,54.0667,-2.8000,0,118
+United Kingdom,Lancing,50.8167,-0.3333,0,118
+United Kingdom,Land s End_Cornwall,50.0592,-5.7081,0,112
+United Kingdom,Landewednack,49.9667,-5.2000,0,112
+United Kingdom,Langley,51.9833,0.1000,0,120
+United Kingdom,Langley Station,51.5000,-0.5333,0,119
+United Kingdom,Launceston_Cornwall,50.6339,-4.3644,0,114
+United Kingdom,Le Varne,50.9667,1.3167,0,120
+United Kingdom,Leamington Spa,52.3000,-1.5333,0,118
+United Kingdom,Leatherhead,51.2833,-0.3167,0,119
+United Kingdom,Leece,54.1000,-3.1667,0,118
+United Kingdom,Leeds,53.8000,-1.5833,0,119
+United Kingdom,Leeds and Liverpool Canal,53.7833,-1.5167,0,120
+United Kingdom,Leedstown,50.1667,-5.3667,0,112
+United Kingdom,Leek,53.1000,-2.0167,0,118
+United Kingdom,Leicester,52.6333,-1.1333,0,119
+United Kingdom,Leicester_Leicestershire,52.6667,-1.0000,0,119
+United Kingdom,Leigh,51.9333,-2.1833,0,117
+United Kingdom,Leigh and Wigan Canal,53.5333,-2.6333,0,118
+United Kingdom,Leigh-on-Sea,51.5500,0.6667,0,120
+United Kingdom,Leighton Buzzard,51.9167,-0.6500,0,119
+United Kingdom,Leominster,52.2333,-2.7333,0,117
+United Kingdom,Lerwick,60.1500,-1.1500,0,125
+United Kingdom,Lesmahagow,55.6167,-3.9000,0,118
+United Kingdom,Letchworth,51.9667,-0.2167,0,119
+United Kingdom,Levenshulme,53.4500,-2.2000,0,119
+United Kingdom,Lewes,50.8667,-0.0167,0,119
+United Kingdom,Lewisham,51.4500,-0.0167,0,119
+United Kingdom,Leyland,53.6833,-2.7000,0,118
+United Kingdom,Leyton,51.5667,-0.0167,0,119
+United Kingdom,Lichfield,52.6833,-1.8167,0,118
+United Kingdom,Limehouse,51.5167,-0.0333,0,119
+United Kingdom,Lincoln_Lincolnshire,53.1667,-0.2500,0,120
+United Kingdom,Lincoln,53.2333,-0.5333,0,120
+United Kingdom,Lingfield,51.1667,-0.0167,0,119
+United Kingdom,Linlithgow_West Lothian,55.9167,-3.5000,0,119
+United Kingdom,Linton-on-Ouse,54.0333,-1.2500,0,120
+United Kingdom,Lisburn,54.5167,-6.0667,0,115
+United Kingdom,Little Sutton,53.2833,-2.9500,0,118
+United Kingdom,Littlehampton,50.8000,-0.5333,0,118
+United Kingdom,Liverpool,53.4167,-3.0000,0,118
+United Kingdom,Liverpool Bay,53.5333,-3.2000,0,117
+United Kingdom,Liverpool Street Station,51.5167,-0.0833,0,119
+United Kingdom,Liversedge,53.7000,-1.7000,0,119
+United Kingdom,Livingston,55.8833,-3.5333,0,119
+United Kingdom,Llandudno,53.3333,-3.8333,0,117
+United Kingdom,Llanelli,51.6833,-4.1500,0,115
+United Kingdom,Llantwit Major,51.4000,-3.4833,0,115
+United Kingdom,Loanhead,55.8667,-3.1500,0,120
+United Kingdom,Loans,55.5500,-4.6333,0,118
+United Kingdom,Loch a Chaoruinn,56.2667,-5.4167,0,117
+United Kingdom,Loch Mariveg,58.1167,-6.3833,0,118
+United Kingdom,Loch Skercha,58.4167,-5.0500,0,119
+United Kingdom,Lochgelly,56.1333,-3.3167,0,120
+United Kingdom,Loddon,52.5333,1.4833,0,122
+United Kingdom,Lon Mor,57.4833,-6.2500,0,117
+United Kingdom,London,51.5000,-0.1167,0,119
+United Kingdom,London Basin,51.5000,-0.5000,0,119
+United Kingdom,London Borough of Barking and Dagenham_Barking and Dagenham,51.5500,0.1167,0,119
+United Kingdom,London Borough of Barnet_Barnet,51.6000,-0.2500,0,119
+United Kingdom,London Borough of Bexley_Bexley,51.4167,0.1333,0,119
+United Kingdom,London Borough of Brent_Brent,51.5333,-0.2667,0,119
+United Kingdom,London Borough of Bromley_Bromley,51.3333,0.0833,0,119
+United Kingdom,London Borough of Camden_Camden,51.5333,-0.1667,0,119
+United Kingdom,London Borough of Croydon_Croydon,51.3333,-0.0833,0,119
+United Kingdom,London Borough of Ealing_Ealing,51.5000,-0.3333,0,119
+United Kingdom,London Borough of Enfield_Enfield,51.6000,-0.0833,0,119
+United Kingdom,London Borough of Greenwich_Greenwich,51.4500,0.0500,0,119
+United Kingdom,London Borough of Hackney_Hackney,51.5333,-0.0833,0,119
+United Kingdom,London Borough of Hammersmith and Fulham_Hammersmith and Fulham,51.5000,-0.2500,0,119
+United Kingdom,London Borough of Haringey_Haringey,51.5667,-0.1167,0,119
+United Kingdom,London Borough of Harrow_Harrow,51.5667,-0.3333,0,119
+United Kingdom,London Borough of Havering_Havering,51.5500,0.2167,0,119
+United Kingdom,London Borough of Hillingdon_Hillingdon,51.5000,-0.4500,0,119
+United Kingdom,London Borough of Hounslow_Hounslow,51.4500,-0.3333,0,119
+United Kingdom,London Borough of Islington_Islington,51.5333,-0.1333,0,119
+United Kingdom,London Borough of Lambeth_Lambeth,51.4167,-0.1333,0,119
+United Kingdom,London Borough of Lewisham_Lewisham,51.4167,-0.0333,0,119
+United Kingdom,London Borough of Merton_Merton,51.3833,-0.1667,0,119
+United Kingdom,London Borough of Newham_Newham,51.5167,0.0333,0,119
+United Kingdom,London Borough of Redbridge_Redbridge,51.5667,0.0833,0,119
+United Kingdom,London Borough of Richmond upon Thames_Richmond upon Thames,51.4167,-0.3333,0,119
+United Kingdom,London Borough of Southwark_Southwark,51.4500,-0.0833,0,119
+United Kingdom,London Borough of Sutton_Sutton,51.3333,-0.1667,0,119
+United Kingdom,London Borough of Tower Hamlets_Tower Hamlets,51.5167,-0.0500,0,119
+United Kingdom,London Borough of Waltham Forest_Waltham Forest,51.5667,-0.0333,0,119
+United Kingdom,London Borough of Wandsworth_Wandsworth,51.4167,-0.2000,0,119
+United Kingdom,London Bridge,51.5000,-0.0833,0,119
+United Kingdom,London Colney,51.7167,-0.2833,0,119
+United Kingdom,London Road,53.4833,-2.2333,0,118
+United Kingdom,Londonderry,55.0000,-7.3333,0,114
+United Kingdom,Londonderry_Derry,55.0000,-7.2500,0,114
+United Kingdom,Longborough,51.9500,-1.7333,0,118
+United Kingdom,Longdon,52.7167,-1.8833,0,118
+United Kingdom,Longtown,55.0000,-2.9667,0,119
+United Kingdom,Lossiemouth,57.7000,-3.2833,0,121
+United Kingdom,Loughborough,52.7667,-1.2000,0,119
+United Kingdom,Loughton,51.6333,0.0667,0,119
+United Kingdom,Louth,53.3667,-0.0167,0,121
+United Kingdom,Lowestoft,52.4833,1.7500,0,122
+United Kingdom,Lowestoft Ness,52.4833,1.7639,0,122
+United Kingdom,Ludlow,52.3667,-2.7333,0,117
+United Kingdom,Luton,51.8833,-0.4167,0,119
+United Kingdom,Luton Hoo,51.8500,-0.4000,0,119
+United Kingdom,Lutton,52.4667,-0.3667,0,120
+United Kingdom,Lyme Regis,50.7333,-2.9333,0,115
+United Kingdom,Lymm,53.3667,-2.4333,0,118
+United Kingdom,Lytham,53.7333,-2.9667,0,118
+United Kingdom,Mac Donnell Race,55.3167,-6.1333,0,116
+United Kingdom,Macclesfield,53.2500,-2.1167,0,118
+United Kingdom,Maesteg,51.6167,-3.6667,0,115
+United Kingdom,Maichwater,55.7500,-4.6667,0,118
+United Kingdom,Maidenhead,51.5167,-0.7000,0,118
+United Kingdom,Maidstone,51.2667,0.5167,0,120
+United Kingdom,Malmesbury,51.5833,-2.0833,0,117
+United Kingdom,Malvern Hills,52.0833,-2.3500,0,117
+United Kingdom,Malvern Wells,52.0667,-2.3167,0,117
+United Kingdom,Mancetter,52.5667,-1.5167,0,118
+United Kingdom,Manchester,53.5000,-2.2167,0,119
+United Kingdom,Manchester Ship Canal,53.3333,-2.7500,0,118
+United Kingdom,Manfield,54.5167,-1.6500,0,120
+United Kingdom,Mangaster,60.4167,-1.4000,0,125
+United Kingdom,Mansfield,53.1333,-1.2000,0,119
+United Kingdom,March,52.5500,0.0833,0,120
+United Kingdom,Margate,51.3833,1.4167,0,121
+United Kingdom,Market Harborough,52.4667,-0.9167,0,119
+United Kingdom,Markfield,52.6667,-1.2833,0,119
+United Kingdom,Marlow,51.5667,-0.7667,0,118
+United Kingdom,Martlesham Heath,52.0667,1.2833,0,121
+United Kingdom,Maryculter,57.0833,-2.2333,0,122
+United Kingdom,Measham,52.7167,-1.5000,0,119
+United Kingdom,Melksham,51.3667,-2.1333,0,117
+United Kingdom,Melrose,55.5833,-2.7167,0,120
+United Kingdom,Melton Mowbray,52.7667,-0.8833,0,119
+United Kingdom,Merseyside,53.4000,-3.0833,0,118
+United Kingdom,Merthyr Tydfil,51.7500,-3.3833,0,116
+United Kingdom,Merton,51.8500,-1.1667,0,118
+United Kingdom,Middlesbrough,54.5728,-1.1628,0,121
+United Kingdom,Middleton,53.5500,-2.2000,0,119
+United Kingdom,Middlewich,53.1833,-2.4333,0,118
+United Kingdom,Midlands,52.7500,-1.5000,0,119
+United Kingdom,Mile End,51.9167,0.9000,0,121
+United Kingdom,Millton,57.3500,-4.5000,0,119
+United Kingdom,Milton Keynes,52.0333,-0.7000,0,119
+United Kingdom,Minehead,51.2000,-3.4833,0,115
+United Kingdom,Mirfield,53.6667,-1.6833,0,119
+United Kingdom,Mitcham,51.4000,-0.1667,0,119
+United Kingdom,Mold,53.1667,-3.1333,0,117
+United Kingdom,Montrose,56.7000,-2.4500,0,121
+United Kingdom,Morden,51.3833,-0.2000,0,119
+United Kingdom,Morecambe,54.0667,-2.8500,0,118
+United Kingdom,Moreton in Marsh,51.9833,-1.7000,0,118
+United Kingdom,Morley,53.7333,-1.5833,0,119
+United Kingdom,Motherwell,55.7833,-4.0000,0,119
+United Kingdom,Musselburgh,55.9333,-3.0500,0,120
+United Kingdom,Mylor Bridge_ or UK08,50.1667,-5.0500,0,113
+United Kingdom,Nailsea,51.4333,-2.7667,0,116
+United Kingdom,Nantwich,53.0833,-2.6000,0,118
+United Kingdom,Neasden,51.5500,-0.2500,0,119
+United Kingdom,Neath,51.6667,-3.8000,0,115
+United Kingdom,Nelson,53.8333,-2.2000,0,119
+United Kingdom,New Castle,51.8500,-2.8000,0,116
+United Kingdom,New Malden,51.4167,-0.2500,0,119
+United Kingdom,New Romney,50.9833,0.9333,0,120
+United Kingdom,New York,53.0833,-0.1500,0,120
+United Kingdom,Newark,53.0667,-0.8167,0,120
+United Kingdom,Newbury,51.4000,-1.3167,0,118
+United Kingdom,Newcastle,52.4333,-3.1167,0,117
+United Kingdom,Newcastle Central,54.9667,-1.6167,0,120
+United Kingdom,Newcastle under Lyme,53.0000,-2.2333,0,118
+United Kingdom,Newcastle upon Tyne,54.9881,-1.6194,0,120
+United Kingdom,Newham,55.5333,-1.7167,0,121
+United Kingdom,Newmarket,53.3000,-3.3833,0,117
+United Kingdom,Newport_ or UK88,56.4333,-2.9167,0,120
+United Kingdom,Newport,50.7000,-1.3000,0,117
+United Kingdom,Newport Bay,52.0333,-4.8667,0,114
+United Kingdom,Newquay,50.4167,-5.0833,0,113
+United Kingdom,Newquay Bay,50.4167,-5.0667,0,113
+United Kingdom,Newry,54.1833,-6.3333,0,115
+United Kingdom,Newton Abbot,50.5333,-3.6000,0,114
+United Kingdom,Newton-le-Willows,53.4500,-2.6000,0,118
+United Kingdom,Norbury,52.9667,-1.8167,0,118
+United Kingdom,Norfolk,52.6667,1.0000,0,121
+United Kingdom,North Acton,51.5167,-0.2500,0,119
+United Kingdom,North Ham,60.3833,-1.4500,0,125
+United Kingdom,North Shields,55.0047,-1.4728,0,121
+United Kingdom,Northallerton,54.3333,-1.4333,0,120
+United Kingdom,Northampton_Northamptonshire,52.2500,-0.8333,0,119
+United Kingdom,Northampton,52.1500,-0.8833,0,119
+United Kingdom,Northern Ireland,54.5000,-6.5000,0,115
+United Kingdom,Northolt,51.5333,-0.3667,0,119
+United Kingdom,Northwich,53.2667,-2.5000,0,118
+United Kingdom,Northwood,50.7333,-1.3167,0,117
+United Kingdom,Norwich,52.6333,1.3000,0,122
+United Kingdom,Nottingham,52.9667,-1.1667,0,119
+United Kingdom,Nottinghamshire,53.1667,-1.0000,0,120
+United Kingdom,Nuneaton,52.5167,-1.4667,0,118
+United Kingdom,Oadby,52.6000,-1.0833,0,119
+United Kingdom,Oadby and Wigston,52.5500,-1.0833,0,119
+United Kingdom,Oakham,52.6667,-0.7333,0,119
+United Kingdom,Oban,56.4167,-5.4667,0,117
+United Kingdom,Old Hill,52.4833,-2.0667,0,118
+United Kingdom,Oldbury,52.5500,-1.5333,0,118
+United Kingdom,Oldham,53.5500,-2.1167,0,119
+United Kingdom,Omagh,54.6000,-7.3000,0,114
+United Kingdom,Ormskirk,53.5667,-2.9000,0,118
+United Kingdom,Orpington,51.3500,0.1000,0,119
+United Kingdom,Ossett,53.6667,-1.5667,0,119
+United Kingdom,Oswaldtwistle,53.7333,-2.4000,0,119
+United Kingdom,Oswestry,52.8500,-3.0333,0,117
+United Kingdom,Otley,53.9000,-1.6833,0,119
+United Kingdom,Oulton,52.8167,1.1667,0,122
+United Kingdom,Oundle,52.4833,-0.4667,0,120
+United Kingdom,Oxford,51.7500,-1.2500,0,118
+United Kingdom,Oxford_Oxfordshire,51.8333,-1.2500,0,118
+United Kingdom,Oxford Canal,52.4500,-1.4667,0,118
+United Kingdom,Oxford Station,51.5167,-0.1500,0,119
+United Kingdom,Oxshott,51.3167,-0.3500,0,119
+United Kingdom,Oxted,51.2333,-0.0167,0,119
+United Kingdom,Paddington,51.5000,-0.1833,0,119
+United Kingdom,Paignton,50.4333,-3.5667,0,114
+United Kingdom,Paisley,55.8333,-4.4333,0,118
+United Kingdom,Peckham,51.4833,-0.0500,0,119
+United Kingdom,Penrith,54.6500,-2.7333,0,119
+United Kingdom,Penryn_Cornwall,50.1667,-5.1000,0,113
+United Kingdom,Penzance_Cornwall,50.1136,-5.5478,0,112
+United Kingdom,Perivale,51.5333,-0.3167,0,119
+United Kingdom,Perth,56.4000,-3.4333,0,120
+United Kingdom,Perth and Kinross,56.5000,-3.7500,0,119
+United Kingdom,Perthshire,56.5000,-4.0000,0,119
+United Kingdom,Peterborough,52.5833,-0.2500,0,120
+United Kingdom,Peterhead,57.5000,-1.7833,0,122
+United Kingdom,Petworth,50.9833,-0.6000,0,118
+United Kingdom,Pinner,51.5833,-0.3833,0,119
+United Kingdom,Plaistow,51.0500,-0.5667,0,118
+United Kingdom,Plumstead,52.8667,1.1667,0,122
+United Kingdom,Plymouth,50.3964,-4.1386,0,114
+United Kingdom,Plymouth Sound,50.3439,-4.1389,0,114
+United Kingdom,Plympton,50.4000,-4.0500,0,114
+United Kingdom,Ponders End,51.6333,-0.0333,0,119
+United Kingdom,Pontefract,53.6833,-1.3000,0,120
+United Kingdom,Ponteland,55.0500,-1.7500,0,120
+United Kingdom,Pontypool,51.7000,-3.0333,0,116
+United Kingdom,Pontypridd,51.6000,-3.3333,0,116
+United Kingdom,Poole_ or UK12,50.7167,-2.0000,0,116
+United Kingdom,Poole,53.9000,-1.6167,0,120
+United Kingdom,Poole Harbour_ or UK12,50.7000,-2.0000,0,116
+United Kingdom,Poplar,51.5000,-0.0167,0,119
+United Kingdom,Porth Dinllaen,52.9500,-4.5500,0,116
+United Kingdom,Portland Harbour_ or UK12,50.5833,-2.4500,0,116
+United Kingdom,Portlemouth,50.2333,-3.7500,0,114
+United Kingdom,Portsea Island,50.8000,-1.0667,0,117
+United Kingdom,Portslade,50.8333,-0.2167,0,118
+United Kingdom,Portsmouth,50.7667,-1.0833,0,117
+United Kingdom,Portsmouth Arms Station,50.9500,-3.9500,0,114
+United Kingdom,Portsmouth Harbour,50.8167,-1.1167,0,117
+United Kingdom,Potters Bar,51.6833,-0.1667,0,119
+United Kingdom,Prescot,53.4167,-2.8000,0,118
+United Kingdom,Prestatyn,53.3333,-3.4167,0,117
+United Kingdom,Preston,51.9000,-0.2833,0,119
+United Kingdom,Preston_ or UK12,50.6500,-2.4167,0,116
+United Kingdom,Preston Junction Station,53.7333,-2.6833,0,118
+United Kingdom,Preston on the Hill,53.3167,-2.6500,0,118
+United Kingdom,Prestwich,53.5333,-2.2833,0,118
+United Kingdom,Princes Risborough,51.7167,-0.8167,0,118
+United Kingdom,Prudhoe,54.9500,-1.8500,0,120
+United Kingdom,Pudsey,53.7833,-1.6667,0,119
+United Kingdom,Purfleet,51.4833,0.2333,0,119
+United Kingdom,Purley,51.3167,-0.1000,0,119
+United Kingdom,Purton,51.7333,-2.4500,0,117
+United Kingdom,Putney,51.4500,-0.2167,0,119
+United Kingdom,Pwllheli,52.8833,-4.4167,0,116
+United Kingdom,Queensbury,53.7667,-1.9167,0,119
+United Kingdom,Quinton,52.4667,-2.0167,0,118
+United Kingdom,Radyr,51.5167,-3.2500,0,116
+United Kingdom,Rainham,51.3500,0.6000,0,120
+United Kingdom,Rainhill,53.4000,-2.7667,0,118
+United Kingdom,Ramsgate,51.3333,1.4333,0,121
+United Kingdom,Rawtenstall,53.7000,-2.2833,0,119
+United Kingdom,Reading,51.4333,-1.0000,0,118
+United Kingdom,Redbridge,50.9167,-1.4667,0,117
+United Kingdom,Redcar,54.6075,-1.0594,0,121
+United Kingdom,Redditch,52.3000,-1.9333,0,118
+United Kingdom,Redhill,51.2333,-0.1667,0,119
+United Kingdom,Reigate,51.2333,-0.2167,0,119
+United Kingdom,Reigate and Banstead District,51.2667,-0.1833,0,119
+United Kingdom,Rhyl,53.3167,-3.5000,0,117
+United Kingdom,Riccarton Junction Station,55.2667,-2.7333,0,119
+United Kingdom,Richmond,51.4500,-0.2833,0,119
+United Kingdom,Richmond upon Thames,51.4333,-0.3000,0,119
+United Kingdom,Rickmansworth,51.6333,-0.4667,0,119
+United Kingdom,Ripon,54.1167,-1.5167,0,120
+United Kingdom,Rochdale,53.6167,-2.1500,0,119
+United Kingdom,Rochdale Canal,53.7000,-1.9167,0,119
+United Kingdom,Roehampton,51.4500,-0.2500,0,119
+United Kingdom,Romford,51.5833,0.2000,0,119
+United Kingdom,Romsey and Stockbridge,51.0167,-1.5667,0,117
+United Kingdom,Ross on Wye,51.9167,-2.5667,0,117
+United Kingdom,Rossendale Valley,53.7000,-2.2667,0,119
+United Kingdom,Rotherham,53.4333,-1.3500,0,119
+United Kingdom,Rowsley,53.1833,-1.6167,0,119
+United Kingdom,Rugby,52.3667,-1.2500,0,119
+United Kingdom,Rugeley,52.7667,-1.9333,0,118
+United Kingdom,Ruislip,51.5667,-0.4167,0,119
+United Kingdom,Rushden,52.2833,-0.5833,0,119
+United Kingdom,Rusholme,53.4500,-2.2333,0,118
+United Kingdom,Ryde,50.7167,-1.1667,0,117
+United Kingdom,Rye,50.9500,0.7333,0,119
+United Kingdom,Saffron Walden,52.0167,0.2500,0,120
+United Kingdom,Saint Albans,51.7500,-0.3333,0,119
+United Kingdom,Saint Andrews,56.3333,-2.7833,0,120
+United Kingdom,Saint Annes on the Sea,53.7500,-3.0167,0,118
+United Kingdom,Saint Donats,51.4000,-3.5333,0,115
+United Kingdom,Saint Helens,53.4500,-2.7333,0,118
+United Kingdom,Saint Ives,52.3000,-0.0667,0,120
+United Kingdom,Saint Neots,52.2167,-0.2667,0,120
+United Kingdom,Sale,53.4167,-2.3000,0,118
+United Kingdom,Salford,53.4833,-2.2667,0,118
+United Kingdom,Salisbury,51.0667,-1.7833,0,117
+United Kingdom,Saltburn-by-the-Sea,54.5847,-0.9764,0,121
+United Kingdom,Sandown Bay,50.6333,-1.1333,0,117
+United Kingdom,Sandwich,51.2667,1.3500,0,120
+United Kingdom,Scarborough,54.2872,-0.4142,0,121
+United Kingdom,Scarborough Bay,54.2719,-0.3656,0,121
+United Kingdom,Scorborough,53.8833,-0.4500,0,121
+United Kingdom,Scotland,56.0000,-4.0000,0,119
+United Kingdom,Scunthorpe,53.5833,-0.6500,0,120
+United Kingdom,Seaford,50.7667,0.1000,0,119
+United Kingdom,Selly Oak,52.4333,-1.9500,0,118
+United Kingdom,Settrington,54.1167,-0.7167,0,121
+United Kingdom,Seven Kings,51.5667,0.1000,0,119
+United Kingdom,Sevenoaks,51.2667,0.2000,0,119
+United Kingdom,Shawbury,52.7833,-2.6500,0,117
+United Kingdom,Shedfield,50.9167,-1.1833,0,117
+United Kingdom,Sheerness,51.4333,0.7667,0,120
+United Kingdom,Sheerness Harbour,51.4333,0.7333,0,120
+United Kingdom,Sheffield,53.3667,-1.5000,0,119
+United Kingdom,Sheffield and South Yorkshire Navigation,53.3833,-1.4667,0,119
+United Kingdom,Sheffield Park,50.9833,0.0167,0,119
+United Kingdom,Shelford,52.1333,0.1333,0,120
+United Kingdom,Shelton,52.4667,1.2667,0,121
+United Kingdom,Shepherds Bush,51.5000,-0.2167,0,119
+United Kingdom,Sherborne,50.9500,-2.5000,0,116
+United Kingdom,Sherfield,51.3000,-1.0167,0,118
+United Kingdom,Sheringham,52.9333,1.2000,0,122
+United Kingdom,Shipley,53.8333,-1.7667,0,119
+United Kingdom,Shoreham-by-Sea,50.8333,-0.2333,0,118
+United Kingdom,Shrewsbury,52.7167,-2.7333,0,117
+United Kingdom,Shrivenham,51.6000,-1.6500,0,117
+United Kingdom,Shropshire,52.6667,-2.7500,0,117
+United Kingdom,Sidcup,51.4167,0.1167,0,119
+United Kingdom,Silsoe,52.0000,-0.4167,0,119
+United Kingdom,Sittingbourne,51.3333,0.7500,0,120
+United Kingdom,Skegness,53.1333,0.3500,0,121
+United Kingdom,Skelmersdale,53.5333,-2.8000,0,118
+United Kingdom,Skipton,53.9667,-2.0167,0,119
+United Kingdom,Sleaford,52.9833,-0.4000,0,120
+United Kingdom,Slough,51.6667,-0.8333,0,118
+United Kingdom,Slough-na-more,55.2500,-6.2167,0,116
+United Kingdom,Small Heath,52.4500,-1.8167,0,118
+United Kingdom,Smalley,52.9833,-1.3833,0,119
+United Kingdom,Smethwick,52.5000,-2.0000,0,118
+United Kingdom,Solihull,52.4167,-1.7833,0,118
+United Kingdom,Sonning,51.4667,-0.9000,0,118
+United Kingdom,South East,51.4000,-0.5000,0,119
+United Kingdom,South Glamorgan,51.3333,-3.3833,0,115
+United Kingdom,South Hall,55.9000,-5.1000,0,117
+United Kingdom,South Ham,50.4000,-3.8333,0,114
+United Kingdom,South Kensington,51.4833,-0.1667,0,119
+United Kingdom,South Ribble,53.7167,-2.7333,0,118
+United Kingdom,South Shields,54.9878,-1.4214,0,121
+United Kingdom,South Shields Harbor,55.0000,-1.4333,0,121
+United Kingdom,Southall,51.5000,-0.3667,0,119
+United Kingdom,Southampton,50.9000,-1.4000,0,117
+United Kingdom,Southampton Water,50.8667,-1.3333,0,117
+United Kingdom,Southend_ or UK87,55.3167,-5.6333,0,116
+United Kingdom,Southend-on-Sea,51.5333,0.7000,0,120
+United Kingdom,Southport,53.6667,-3.0000,0,118
+United Kingdom,Southsea,50.7833,-1.0667,0,117
+United Kingdom,Spalding,52.7833,-0.1667,0,120
+United Kingdom,Spaunton Moor,54.3333,-0.9000,0,121
+United Kingdom,Stafford,52.8000,-2.1000,0,118
+United Kingdom,Staffordshire_St. Helens,52.8333,-2.0000,0,118
+United Kingdom,Staffordstown,54.7167,-6.3833,0,115
+United Kingdom,Staines,51.4333,-0.5167,0,119
+United Kingdom,Stalybridge,53.4833,-2.0667,0,119
+United Kingdom,Stamford,52.6500,-0.4833,0,120
+United Kingdom,Stanford le Hope,51.5000,0.4167,0,120
+United Kingdom,Stanmore,51.6167,-0.3167,0,119
+United Kingdom,Stansted,51.3167,0.3000,0,119
+United Kingdom,Stevenage,51.9167,-0.2167,0,119
+United Kingdom,Steyning,50.8833,-0.3333,0,118
+United Kingdom,Stirling,56.1167,-3.9500,0,119
+United Kingdom,Stockport,53.4000,-2.1500,0,119
+United Kingdom,Stockton,52.2667,-1.3500,0,118
+United Kingdom,Stockton-on-Tees,54.5833,-1.4167,0,120
+United Kingdom,Stoke,53.2500,-2.8667,0,118
+United Kingdom,Stoke on Trent,53.0000,-2.1833,0,118
+United Kingdom,Stoke Poges,51.5167,-0.5833,0,119
+United Kingdom,Stone,52.9000,-2.1333,0,118
+United Kingdom,Stonehouse,51.7500,-2.2833,0,117
+United Kingdom,Stornoway,58.2167,-6.3667,0,118
+United Kingdom,Stourbridge,52.4667,-2.1333,0,118
+United Kingdom,Stowmarket,52.1833,0.9833,0,121
+United Kingdom,Stranraer,54.9000,-5.0333,0,117
+United Kingdom,Stratford,51.5333,0.0000,0,119
+United Kingdom,Stratford-upon-Avon,52.1833,-1.7000,0,118
+United Kingdom,Strathaven,55.6667,-4.0667,0,118
+United Kingdom,Stretford,52.2000,-2.8167,0,117
+United Kingdom,Strood,51.3833,0.5000,0,120
+United Kingdom,Suffolk,52.1667,1.0000,0,121
+United Kingdom,Sunbury-on-Thames,51.4000,-0.4000,0,119
+United Kingdom,Sunderland,54.9119,-1.3833,0,121
+United Kingdom,Sunderland Bridge,54.7333,-1.5833,0,120
+United Kingdom,Sunderland Hall,55.5833,-2.8167,0,120
+United Kingdom,Sunderland Harbour,54.9167,-1.3667,0,121
+United Kingdom,Sunninghill,51.3833,-0.6500,0,118
+United Kingdom,Surbiton,51.3833,-0.3000,0,119
+United Kingdom,Surrey,51.2500,-0.3333,0,119
+United Kingdom,Surrey Heath,51.2833,-0.7000,0,118
+United Kingdom,Sussex,50.9167,-0.0833,0,119
+United Kingdom,Sutton,51.3500,-0.2000,0,119
+United Kingdom,Sutton Coldfield,52.5667,-1.8167,0,118
+United Kingdom,Sutton in Ashfield,53.1167,-1.2667,0,119
+United Kingdom,Swallow Bank,50.9500,1.0167,0,120
+United Kingdom,Swanley Junction,51.3833,0.1667,0,119
+United Kingdom,Swansea,51.6333,-3.9667,0,115
+United Kingdom,Swansea Bay,51.5333,-3.8667,0,115
+United Kingdom,Swaythling,50.9333,-1.3667,0,117
+United Kingdom,Swindon,51.9333,-2.1000,0,117
+United Kingdom,Sydenham,54.6000,-5.8833,0,116
+United Kingdom,Tadworth,51.2833,-0.2333,0,119
+United Kingdom,Tamworth,52.6167,-1.6833,0,118
+United Kingdom,Taplow,51.5167,-0.6833,0,118
+United Kingdom,Taunton,51.0333,-3.1167,0,115
+United Kingdom,Telford,52.8000,-2.6700,0,117
+United Kingdom,Tenby,51.6667,-4.7000,0,114
+United Kingdom,Tetbury,51.6333,-2.1667,0,117
+United Kingdom,Tewkesbury,52.0000,-2.1500,0,117
+United Kingdom,Thame,51.7500,-0.9833,0,118
+United Kingdom,Thatcham,51.4000,-1.2667,0,118
+United Kingdom,Thetford,52.4167,0.7500,0,121
+United Kingdom,Thirsk,54.2167,-1.3333,0,120
+United Kingdom,Thornaby on Tees,54.5333,-1.3000,0,120
+United Kingdom,Thornton Heath,51.4000,-0.1000,0,119
+United Kingdom,Thrapston,52.4000,-0.5333,0,119
+United Kingdom,Tipton,52.5167,-2.0833,0,118
+United Kingdom,Todmorden,53.7167,-2.0833,0,119
+United Kingdom,Tollcross,55.8500,-4.1833,0,118
+United Kingdom,Tonbridge,51.1833,0.2833,0,119
+United Kingdom,Torquay,50.4500,-3.5000,0,114
+United Kingdom,Totteridge,51.6333,-0.2000,0,119
+United Kingdom,Treforest,51.5833,-3.3167,0,116
+United Kingdom,Tring,51.7833,-0.6500,0,119
+United Kingdom,Trowbridge,51.3167,-2.2333,0,117
+United Kingdom,Truro_Cornwall,50.2617,-5.0433,0,113
+United Kingdom,Tunbridge Wells,51.1333,0.2833,0,119
+United Kingdom,Tutbury,52.8500,-1.6833,0,119
+United Kingdom,Twickenham,51.4333,-0.3167,0,119
+United Kingdom,Tyne and Wear,54.9167,-1.5667,0,120
+United Kingdom,Uckfield,50.9667,0.1000,0,119
+United Kingdom,UK MASTER SOURCE HOLDINGS LIST,54.0000,-4.0000,0,117
+United Kingdom,Ulverston,54.2000,-3.1000,0,118
+United Kingdom,Upminster,51.5500,0.2500,0,119
+United Kingdom,Urmston,53.4500,-2.3500,0,118
+United Kingdom,Uxbridge,51.5500,-0.4833,0,119
+United Kingdom,Virginia Water,51.4000,-0.6000,0,118
+United Kingdom,Wakefield,53.7000,-1.4833,0,120
+United Kingdom,Wales,52.5000,-3.5000,0,116
+United Kingdom,Walford,51.8833,-2.6000,0,117
+United Kingdom,Wallingford,51.6000,-1.1333,0,118
+United Kingdom,Wallington,50.8500,-1.1667,0,117
+United Kingdom,Walsall,52.6000,-2.0000,0,118
+United Kingdom,Walsall Wood,52.6167,-1.9167,0,118
+United Kingdom,Waltham Cross,51.7000,-0.0167,0,119
+United Kingdom,Walthamstow,51.6000,-0.0333,0,119
+United Kingdom,Walton le Dale,53.7333,-2.6667,0,118
+United Kingdom,Walton upon Thames,51.3833,-0.4333,0,119
+United Kingdom,Wandsworth,51.4500,-0.2000,0,119
+United Kingdom,Wanstead,51.5667,0.0333,0,119
+United Kingdom,Ware,51.8000,-0.0333,0,119
+United Kingdom,Warminster,51.2000,-2.1833,0,116
+United Kingdom,Warrington,53.3833,-2.6000,0,118
+United Kingdom,Warsash,50.8500,-1.3000,0,117
+United Kingdom,Warton,53.7667,-2.8833,0,118
+United Kingdom,Warwick_Warwickshire,52.3333,-1.5833,0,118
+United Kingdom,Warwick,52.2833,-1.5833,0,118
+United Kingdom,Watchfield,51.6000,-1.6333,0,117
+United Kingdom,Watford,51.6667,-0.4000,0,119
+United Kingdom,Watford West Station,51.6500,-0.4000,0,119
+United Kingdom,Waxham,52.7667,1.6167,0,122
+United Kingdom,Wealdstone,51.5833,-0.2833,0,119
+United Kingdom,Wednesbury,52.5500,-2.0167,0,118
+United Kingdom,Wellingborough,52.3000,-0.7000,0,119
+United Kingdom,Wellington,52.7000,-2.5167,0,117
+United Kingdom,Wells,51.2167,-2.6500,0,116
+United Kingdom,Welwyn Garden City,51.8000,-0.2000,0,119
+United Kingdom,Welwyn Hatfield,51.7500,-0.2167,0,119
+United Kingdom,Wembley,51.5500,-0.2833,0,119
+United Kingdom,West Bromwich,52.5167,-2.0000,0,118
+United Kingdom,West Drayton,51.5000,-0.4667,0,119
+United Kingdom,West Midlands,52.5000,-1.9667,0,118
+United Kingdom,West Norwood,51.4167,-0.1000,0,119
+United Kingdom,West Sussex,51.0000,-0.4167,0,118
+United Kingdom,West Wittering,50.7667,-0.9000,0,117
+United Kingdom,West Yorkshire,53.7000,-1.5833,0,119
+United Kingdom,Weston-Super-Mare_ or UK36,51.3500,-2.9833,0,116
+United Kingdom,Weybridge,51.3667,-0.4667,0,119
+United Kingdom,Weymouth_ or UK12,50.6000,-2.4500,0,116
+United Kingdom,Whitby,54.4867,-0.6306,0,121
+United Kingdom,Whitefield,53.5500,-2.3000,0,118
+United Kingdom,Whitehaven,54.5500,-3.6000,0,118
+United Kingdom,Whitley Bay,55.0508,-1.4539,0,121
+United Kingdom,Whitstable,51.3500,1.1000,0,120
+United Kingdom,Wick,58.4333,-3.0833,0,122
+United Kingdom,Wickford,51.6000,0.5167,0,120
+United Kingdom,Widnes,53.3500,-2.7333,0,118
+United Kingdom,Wigan,53.5333,-2.6167,0,118
+United Kingdom,Wigston,52.5000,-1.3167,0,119
+United Kingdom,Willenhall,52.6000,-2.0333,0,118
+United Kingdom,Willesden,51.5333,-0.2333,0,119
+United Kingdom,Willoughby,52.2833,-1.2333,0,119
+United Kingdom,Wilmslow,53.3333,-2.2333,0,118
+United Kingdom,Wimbledon,51.4333,-0.2167,0,119
+United Kingdom,Wimbledon Common,51.4333,-0.2333,0,119
+United Kingdom,Wincanton,51.0833,-2.4000,0,116
+United Kingdom,Winchester,51.0167,-1.3167,0,117
+United Kingdom,Winchmore Hill,51.6333,-0.1000,0,119
+United Kingdom,Windermere,54.3333,-2.9500,0,118
+United Kingdom,Windsor,51.4833,-0.6000,0,118
+United Kingdom,Windsor and Maidenhead,51.4667,-0.6667,0,118
+United Kingdom,Winsford,51.1000,-3.5667,0,115
+United Kingdom,Wirral,53.3333,-3.0833,0,117
+United Kingdom,Wisbech,52.6667,0.1667,0,120
+United Kingdom,Wishaw,55.7667,-3.9167,0,119
+United Kingdom,Witham,51.7833,0.6333,0,120
+United Kingdom,Wivenhoe,51.8500,0.9667,0,121
+United Kingdom,Woking,51.3167,-0.5333,0,118
+United Kingdom,Wokingham,51.4167,-0.8333,0,118
+United Kingdom,Wolverhampton,52.5833,-2.1333,0,118
+United Kingdom,Wood Green,51.6000,-0.1167,0,119
+United Kingdom,Woodbridge,52.1000,1.3167,0,121
+United Kingdom,Woodford Green,51.6167,0.0333,0,119
+United Kingdom,Woolwich,51.4667,0.2000,0,119
+United Kingdom,Worcester,52.2000,-2.2000,0,117
+United Kingdom,Worcester_Worcestershire,52.1667,-2.1667,0,117
+United Kingdom,Worcester and Birmingham Canal,52.4833,-1.9167,0,118
+United Kingdom,Worcester Park,51.4000,-0.2500,0,119
+United Kingdom,Workington,54.6500,-3.5667,0,118
+United Kingdom,Worksop,53.3000,-1.1333,0,120
+United Kingdom,Worthing,50.8000,-0.3667,0,118
+United Kingdom,Wraxall,51.4500,-2.7333,0,116
+United Kingdom,Wrexham,53.0500,-3.0000,0,117
+United Kingdom,Wrexham Maelor_Wrexham,53.0000,-3.0000,0,117
+United Kingdom,Wycombe,51.5833,-0.9000,0,118
+United Kingdom,Wye,51.1833,0.9333,0,120
+United Kingdom,Wythenshawe,53.4000,-2.2667,0,118
+United Kingdom,Yarm,54.5000,-1.3500,0,120
+United Kingdom,Yeovil,50.9500,-2.6333,0,116
+United Kingdom,York,53.9667,-1.0833,0,120
+United Kingdom,York Road Station,54.6167,-5.9167,0,116
+United Kingdom,Ystradgynlais,51.7667,-3.7667,0,115

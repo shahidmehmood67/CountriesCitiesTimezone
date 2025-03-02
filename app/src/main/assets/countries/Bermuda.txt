@@ -1,0 +1,285 @@
+Bermuda,Abbot s Cliff_Hamilton,32.3333,-64.7333,-4,64
+Bermuda,Abbot s Hill_Hamilton,32.3414,-64.7239,-4,64
+Bermuda,Achilles Bay_Saint George,32.3903,-64.6758,-4,64
+Bermuda,Agassiz Island_Warwick,32.2894,-64.8144,-4,64
+Bermuda,Albanys Point_Smith s,32.3147,-64.7158,-4,64
+Bermuda,Albuoy Point_Hamilton,32.2906,-64.7869,-4,64
+Bermuda,Alexandra Battery_Saint George,32.3803,-64.6647,-4,64
+Bermuda,Alpha Island_Warwick,32.2842,-64.8322,-4,64
+Bermuda,Angle Beach_Southampton,32.2533,-64.8175,-4,64
+Bermuda,Bartram Island_Saint George,32.3758,-64.6936,-4,64
+Bermuda,Beebe Island_Warwick,32.2900,-64.8125,-4,64
+Bermuda,Bermuda Great Reef_Sandys,32.3333,-64.8333,-4,64
+Bermuda,Bermuda Naval Air Station_Saint George s,32.3656,-64.6803,-4,64
+Bermuda,Bluck Point_Pembroke,32.2992,-64.8144,-4,64
+Bermuda,Boat Rock_Southampton,32.2469,-64.8372,-4,64
+Bermuda,Boaz Island_Sandys,32.3086,-64.8531,-4,64
+Bermuda,Boiling Hole_Sandys,32.2839,-64.8706,-4,64
+Bermuda,Bond Bay_Paget,32.2919,-64.7764,-4,64
+Bermuda,Bowen Point_Hamilton,32.3331,-64.7422,-4,64
+Bermuda,Brangman s Fort_Saint George s,32.3422,-64.6678,-4,64
+Bermuda,Brooks Island_Saint George s,32.3714,-64.6753,-4,64
+Bermuda,Buck Island_Southampton,32.2569,-64.8589,-4,64
+Bermuda,Burchall Cove_Hamilton,32.3369,-64.7400,-4,64
+Bermuda,Burgess Point_Saint George s,32.3650,-64.7147,-4,64
+Bermuda,Burrows Hill_Saint George s,32.3606,-64.6683,-4,64
+Bermuda,Burt Island_Warwick,32.2753,-64.8256,-4,64
+Bermuda,Burton Bay_Pembroke,32.3000,-64.8000,-4,64
+Bermuda,Butterfield Rock_Paget,32.2881,-64.8028,-4,64
+Bermuda,Butts Beach_Southampton,32.2525,-64.8192,-4,64
+Bermuda,Cambridge Beaches_Sandys,32.3083,-64.8681,-4,64
+Bermuda,Cashew City_Saint George s,32.3703,-64.6544,-4,64
+Bermuda,Cavello Bay_Sandys,32.2972,-64.8597,-4,64
+Bermuda,Chaddock Bar_Southampton,32.2333,-64.9000,-4,64
+Bermuda,Chelston_Paget,32.2836,-64.7706,-4,64
+Bermuda,Cock Rock Cut_Saint George s,32.3453,-64.6669,-4,64
+Bermuda,Commonland Point_Hamilton,32.3303,-64.7364,-4,64
+Bermuda,Cove Point_Saint George s,32.3628,-64.6503,-4,64
+Bermuda,Darrell Island_Warwick,32.2750,-64.8211,-4,64
+Bermuda,Devil s Kitchen_Sandys,32.3228,-64.8403,-4,64
+Bermuda,Devils Flats_Sandys,32.4167,-64.8333,-4,64
+Bermuda,Devonshire,32.3028,-64.7558,-4,64
+Bermuda,Devonshire Bay_Devonshire,32.2997,-64.7450,-4,64
+Bermuda,Devonshire Dock_Devonshire,32.3078,-64.7722,-4,64
+Bermuda,Devonshire Marsh_Devonshire,32.3086,-64.7544,-4,64
+Bermuda,Dockyard Point_Pembroke,32.3061,-64.7836,-4,64
+Bermuda,Doe Bay_Devonshire,32.2917,-64.7558,-4,64
+Bermuda,Ducking Stool_Pembroke,32.3064,-64.7836,-4,64
+Bermuda,Dunscombe Rocks_Pembroke,32.3053,-64.7933,-4,64
+Bermuda,Dyer Island_Warwick,32.2861,-64.8103,-4,64
+Bermuda,East Whale Bay_Southampton,32.2500,-64.8253,-4,64
+Bermuda,Elbow Bay_Paget,32.2719,-64.7769,-4,64
+Bermuda,Elephant Head_Warwick,32.2547,-64.8142,-4,64
+Bermuda,Ely s Harbour_Sandys,32.2831,-64.8806,-4,64
+Bermuda,Epsilon Island_Warwick,32.2808,-64.8228,-4,64
+Bermuda,Eta Island_Warwick,32.2844,-64.8192,-4,64
+Bermuda,Evans Bay_Southampton,32.2597,-64.8653,-4,64
+Bermuda,Evans Pond_Southampton,32.2606,-64.8672,-4,64
+Bermuda,Fairyland Creek_Pembroke,32.2967,-64.8036,-4,64
+Bermuda,Fern Island_Warwick,32.2833,-64.8164,-4,64
+Bermuda,Ferry Point_Sandys,32.3042,-64.8592,-4,64
+Bermuda,Ferry Point_Saint George s,32.3619,-64.7164,-4,64
+Bermuda,Ferry Reach_Saint George s,32.3669,-64.7017,-4,64
+Bermuda,Fish Hook Island_Southampton,32.2492,-64.8261,-4,64
+Bermuda,Five Fathom Hole_Saint George s,32.3833,-64.6333,-4,64
+Bermuda,Flatt s Inlet_Smith s,32.3233,-64.7425,-4,64
+Bermuda,Flora Point_Sandys,32.3083,-64.8703,-4,64
+Bermuda,Foot of Crow Lane_Pembroke,32.2931,-64.7736,-4,64
+Bermuda,Fort Albert_Saint George,32.3867,-64.6733,-4,64
+Bermuda,Fort Cunningham_Saint George s,32.3742,-64.6592,-4,64
+Bermuda,Fort George_Saint George s,32.3803,-64.6828,-4,64
+Bermuda,Fort Hamilton_Pembroke,32.2947,-64.7775,-4,64
+Bermuda,Fort Hill Bay_Saint George s,32.3481,-64.6556,-4,64
+Bermuda,Fort Prospect_Devonshire,32.2992,-64.7656,-4,64
+Bermuda,Fort Saint Catherine_Saint George,32.3906,-64.6750,-4,64
+Bermuda,Fort Scaur_Sandys,32.2850,-64.8722,-4,64
+Bermuda,Fort Victoria_Saint George,32.3867,-64.6758,-4,64
+Bermuda,Freeport_Sandys,32.3217,-64.8350,-4,64
+Bermuda,Frith Point_Paget,32.2842,-64.7917,-4,64
+Bermuda,Gamma Island_Warwick,32.2811,-64.8264,-4,64
+Bermuda,Gates Fort_Saint George s,32.3792,-64.6633,-4,64
+Bermuda,Gibb s Hill_Southampton,32.2525,-64.8347,-4,64
+Bermuda,Gibbet Islet_Smith s,32.3231,-64.7442,-4,64
+Bermuda,Gibbons Bay_Smith s,32.3219,-64.7444,-4,64
+Bermuda,Gilbert Hill_Smith s,32.3108,-64.7397,-4,64
+Bermuda,Gill Licker Shoal_Hamilton,32.3350,-64.7164,-4,64
+Bermuda,Glebe Hill_Southampton,32.2672,-64.8672,-4,64
+Bermuda,Goat Island_Pembroke,32.2961,-64.8072,-4,64
+Bermuda,Goat Islands_Saint George s,32.3547,-64.6639,-4,64
+Bermuda,Godet Island_Paget,32.2825,-64.8028,-4,64
+Bermuda,Godet s Passage_Warwick,32.2797,-64.8008,-4,64
+Bermuda,Goose Island_Pembroke,32.2972,-64.8097,-4,64
+Bermuda,Grace Island_Southampton,32.2733,-64.8350,-4,64
+Bermuda,Granaway Deep_Warwick,32.2781,-64.8100,-4,64
+Bermuda,Grape Bay_Paget,32.2811,-64.7683,-4,64
+Bermuda,Grassy Bay_Pembroke,32.3061,-64.7844,-4,64
+Bermuda,Grassy Bay_Sandys,32.3236,-64.8244,-4,64
+Bermuda,Gravelly Bay_Smith s,32.3175,-64.7139,-4,64
+Bermuda,Great Oswego Island_Saint George s,32.3667,-64.6617,-4,64
+Bermuda,Great Scaur_Saint George s,32.3586,-64.6533,-4,64
+Bermuda,Great Whale Point_Southampton,32.2478,-64.8311,-4,64
+Bermuda,Green Bay_Smith s,32.3267,-64.7386,-4,64
+Bermuda,Gurnet Head_Saint George s,32.3464,-64.6533,-4,64
+Bermuda,H.M.S. Malabar_Sandys,32.3208,-64.8411,-4,64
+Bermuda,Haggis Island_Southampton,32.2606,-64.8275,-4,64
+Bermuda,Hamilton,32.2939,-64.7836,-4,64
+Bermuda,Hamilton Harbour_Hamilton,32.2881,-64.7911,-4,64
+Bermuda,Hamilton Island,32.3022,-64.7594,-4,64
+Bermuda,Hamilton Parish_Hamilton,32.3422,-64.7283,-4,64
+Bermuda,Harrington Hundreds_Smith s,32.3186,-64.7289,-4,64
+Bermuda,Harrington Sound,32.3306,-64.7219,-4,64
+Bermuda,Harris Bay_Smith s,32.3153,-64.7353,-4,64
+Bermuda,Hawkins Island_Warwick,32.2861,-64.8286,-4,64
+Bermuda,Head of the Lane_Warwick,32.2886,-64.8153,-4,64
+Bermuda,Hen Island_Saint George s,32.3758,-64.6717,-4,64
+Bermuda,Higgs Bay_Saint George s,32.3703,-64.6781,-4,64
+Bermuda,Higgs Island_Saint George s,32.3772,-64.6633,-4,64
+Bermuda,Hinson Bay_Pembroke,32.3072,-64.7761,-4,64
+Bermuda,Hinson Hall_Smith s,32.3136,-64.7436,-4,64
+Bermuda,Hog Bay_Sandys,32.2711,-64.8800,-4,64
+Bermuda,Hogfish Bay_Pembroke,32.3078,-64.8067,-4,64
+Bermuda,Hogfish Cut_Southampton,32.2500,-64.8728,-4,64
+Bermuda,Holly Hill_Smith s,32.3175,-64.7411,-4,64
+Bermuda,Horn Rock_Saint George s,32.3431,-64.6664,-4,64
+Bermuda,Horseshoe Bay_Southampton,32.2708,-64.8564,-4,64
+Bermuda,Horseshoe Island_Saint George s,32.3772,-64.6647,-4,64
+Bermuda,Hungry Bay_Paget,32.2889,-64.7606,-4,64
+Bermuda,Hunt Island_Southampton,32.2586,-64.8347,-4,64
+Bermuda,Idol Island_Saint George s,32.3453,-64.6614,-4,64
+Bermuda,Inner Island_Sandys,32.3106,-64.8642,-4,64
+Bermuda,Inner Pear Rocks_Saint George s,32.3503,-64.6531,-4,64
+Bermuda,Irresistible Island_Warwick,32.2819,-64.8131,-4,64
+Bermuda,Isle of Devils,32.3044,-64.7517,-4,64
+Bermuda,Jennings Bay_Southampton,32.2572,-64.8636,-4,64
+Bermuda,Jobson s Point_Sandys,32.2892,-64.8767,-4,64
+Bermuda,Kappa Island_Warwick,32.2858,-64.8231,-4,64
+Bermuda,Kappa Rock_Warwick,32.2869,-64.8258,-4,64
+Bermuda,Kerosene Island_Saint George s,32.3731,-64.6811,-4,64
+Bermuda,Kindley Field_Saint George s,32.3672,-64.6869,-4,64
+Bermuda,King s Point_Sandys,32.3097,-64.8653,-4,64
+Bermuda,King s Wharf_Sandys,32.3197,-64.8353,-4,64
+Bermuda,Knapton Hill_Smith s,32.3167,-64.7233,-4,64
+Bermuda,Lambda Island_Warwick,32.2889,-64.8311,-4,64
+Bermuda,Lapstone_Pembroke,32.3086,-64.8206,-4,64
+Bermuda,Leamington Caves_Hamilton,32.3428,-64.7086,-4,64
+Bermuda,Lefroy Island_Warwick,32.2908,-64.8119,-4,64
+Bermuda,Little Crumb Island_Warwick,32.2586,-64.8328,-4,64
+Bermuda,Little Oswego Island_Saint George s,32.3675,-64.6608,-4,64
+Bermuda,Little Scaur_Saint George s,32.3561,-64.6556,-4,64
+Bermuda,Little Turtle Bay_Warwick,32.2719,-64.8128,-4,64
+Bermuda,Little Watford Bridge_Sandys,32.3072,-64.8556,-4,64
+Bermuda,Lobster Flat_Southampton,32.2619,-64.8922,-4,64
+Bermuda,Long Bay_Saint George s,32.3506,-64.6553,-4,64
+Bermuda,Long Bay_Sandys,32.3047,-64.8744,-4,64
+Bermuda,Long Island_Saint George s,32.3622,-64.6758,-4,64
+Bermuda,Loyal Hill_Devonshire,32.3119,-64.7511,-4,64
+Bermuda,Lusher Hill_Warwick,32.2642,-64.8064,-4,64
+Bermuda,Malabar Island_Sandys,32.3117,-64.8522,-4,64
+Bermuda,Mangrove Bay_Sandys,32.3061,-64.8644,-4,64
+Bermuda,Marley Beach_Warwick,32.2647,-64.7950,-4,64
+Bermuda,Melrose_Saint George s,32.3633,-64.6731,-4,64
+Bermuda,Mermaid Beach_Warwick,32.2611,-64.8025,-4,64
+Bermuda,Methelin Bay_Sandys,32.3000,-64.8781,-4,64
+Bermuda,Mill Creek_Pembroke,32.3014,-64.8058,-4,64
+Bermuda,Mill Point_Pembroke,32.3006,-64.8094,-4,64
+Bermuda,Millhouse Bay_Hamilton,32.3417,-64.7108,-4,64
+Bermuda,Mills Breaker Ledge_Saint George s,32.4000,-64.6167,-4,64
+Bermuda,Mosquito Hill_Smith s,32.3169,-64.7319,-4,64
+Bermuda,Mount Pleasant_Paget,32.2742,-64.7836,-4,64
+Bermuda,Mowbray Island_Pembroke,32.2922,-64.8117,-4,64
+Bermuda,Mullet Bay_Saint George s,32.3750,-64.6931,-4,64
+Bermuda,Murray s Anchorage_Saint George s,32.3839,-64.7206,-4,64
+Bermuda,Navy Channel_Southampton,32.2694,-64.8414,-4,64
+Bermuda,Nelly Island_Warwick,32.2842,-64.8247,-4,64
+Bermuda,Nelson Bay_Pembroke,32.3075,-64.8167,-4,64
+Bermuda,Neptunus Rock_Saint George s,32.3461,-64.6536,-4,64
+Bermuda,Nonsuch Bay_Saint George s,32.3461,-64.6639,-4,64
+Bermuda,Nonsuch Cut_Saint George s,32.3458,-64.6661,-4,64
+Bermuda,Nonsuch Scaur_Saint George s,32.3483,-64.6606,-4,64
+Bermuda,North Basin_Sandys,32.3242,-64.8339,-4,64
+Bermuda,North Channel,32.4000,-64.7431,-4,64
+Bermuda,North s Point_Smith s,32.3128,-64.7219,-4,64
+Bermuda,North Shore Village_Devonshire,32.3064,-64.7736,-4,64
+Bermuda,Old Castle_Saint George s,32.3333,-64.6667,-4,64
+Bermuda,Old Shoal_Smith s,32.3286,-64.7208,-4,64
+Bermuda,Omega Rocks_Warwick,32.2897,-64.8333,-4,64
+Bermuda,One Rock Passage_Warwick,32.2903,-64.8125,-4,64
+Bermuda,One Tree Island_Sandys,32.3092,-64.8636,-4,64
+Bermuda,Ordnance Island_Saint George s,32.3800,-64.6767,-4,64
+Bermuda,Outer Island_Sandys,32.3122,-64.8619,-4,64
+Bermuda,Paget Island_Saint George s,32.3753,-64.6606,-4,64
+Bermuda,Paget Marsh_Paget,32.2850,-64.7769,-4,64
+Bermuda,Paget Parish_Paget,32.2783,-64.7817,-4,64
+Bermuda,Partridge Island_Pembroke,32.2981,-64.8094,-4,64
+Bermuda,Paynters Hill_Saint George s,32.3375,-64.7022,-4,64
+Bermuda,Pear Rock_Saint George s,32.3486,-64.6511,-4,64
+Bermuda,Pearl Island_Warwick,32.2914,-64.8375,-4,64
+Bermuda,Pearman Hill_Hamilton,32.3372,-64.7331,-4,64
+Bermuda,Peel Rock_Southampton,32.2519,-64.8197,-4,64
+Bermuda,Peel Rock Cove_Southampton,32.2522,-64.8194,-4,64
+Bermuda,Pembroke Marsh_Pembroke,32.3019,-64.7806,-4,64
+Bermuda,Pembroke Parish_Pembroke,32.2994,-64.7928,-4,64
+Bermuda,Pendle Hill_Saint George s,32.3700,-64.7003,-4,64
+Bermuda,Perot Island_Southampton,32.2603,-64.8314,-4,64
+Bermuda,Phillips Cove_Pembroke,32.3075,-64.8114,-4,64
+Bermuda,Pidgeon Rocks_Hamilton,32.3483,-64.7314,-4,64
+Bermuda,Pilchard Bay_Sandys,32.2775,-64.8825,-4,64
+Bermuda,Plaice Point_Pembroke,32.3042,-64.8181,-4,64
+Bermuda,Point Shares_Pembroke,32.2936,-64.8047,-4,64
+Bermuda,Port Royal Cove_Southampton,32.2503,-64.8236,-4,64
+Bermuda,Post Office Bar_Saint George s,32.3717,-64.6739,-4,64
+Bermuda,Powder Hole_Saint George s,32.3753,-64.6739,-4,64
+Bermuda,Prudden Bay_Paget,32.2839,-64.7922,-4,64
+Bermuda,Rabbit Island_Hamilton,32.3325,-64.7303,-4,64
+Bermuda,Red Hole_Paget,32.2903,-64.7761,-4,64
+Bermuda,Red Hole_Saint George s,32.3667,-64.6333,-4,64
+Bermuda,Redshank Islands_Hamilton,32.3272,-64.7372,-4,64
+Bermuda,Regatta Island_Sandys,32.3122,-64.8436,-4,64
+Bermuda,Reid Island_Warwick,32.2861,-64.7992,-4,64
+Bermuda,Riddles Bay_Warwick,32.2619,-64.8272,-4,64
+Bermuda,Robert s Hill_Saint George s,32.3694,-64.6744,-4,64
+Bermuda,Robinson Bay_Devonshire,32.3100,-64.7647,-4,64
+Bermuda,Rocky Bay_Devonshire,32.2978,-64.7458,-4,64
+Bermuda,Rogue s Island_Saint George s,32.3644,-64.7089,-4,64
+Bermuda,Rushy Island_Saint George s,32.3375,-64.6739,-4,64
+Bermuda,Saint George,32.3842,-64.6764,-4,64
+Bermuda,Salt Kettle Bay_Paget,32.2819,-64.7944,-4,64
+Bermuda,Sandys,32.2919,-64.8722,-4,64
+Bermuda,Seon Point_Hamilton,32.3400,-64.7386,-4,64
+Bermuda,Shelly Bay Shoal_Hamilton,32.3417,-64.7600,-4,64
+Bermuda,Southampton Parish_Southampton,32.2508,-64.8564,-4,64
+Bermuda,Stag Rocks_Pembroke,32.3133,-64.8289,-4,64
+Bermuda,Stokes Point_Saint George s,32.3725,-64.6886,-4,64
+Bermuda,Stonehole Bay_Warwick,32.2550,-64.8136,-4,64
+Bermuda,Sugar Cane Point_Sandys,32.3047,-64.8608,-4,64
+Bermuda,Sunnyside_Hamilton,32.3264,-64.7411,-4,64
+Bermuda,Tatem Point_Sandys,32.2939,-64.8628,-4,64
+Bermuda,Tepping Shoals_Hamilton,32.3522,-64.7317,-4,64
+Bermuda,The Camber_Sandys,32.3261,-64.8344,-4,64
+Bermuda,The Causeway_Saint George s,32.3556,-64.7081,-4,64
+Bermuda,The Chimneys,32.4167,-64.8167,-4,64
+Bermuda,The Cove_Saint George s,32.3625,-64.6503,-4,64
+Bermuda,The Crawl_Hamilton,32.3408,-64.7386,-4,64
+Bermuda,The Flatts Village_Smith s,32.3211,-64.7369,-4,64
+Bermuda,The Lagoon_Sandys,32.3139,-64.8453,-4,64
+Bermuda,The Narrows_Saint George s,32.3781,-64.6494,-4,64
+Bermuda,The Quintons_Sandys,32.3133,-64.8542,-4,64
+Bermuda,The Rocky Partners,32.3833,-64.8000,-4,64
+Bermuda,The Scaur_Sandys,32.2797,-64.8775,-4,64
+Bermuda,The Stags_Smith s,32.3342,-64.7436,-4,64
+Bermuda,Three Hill Shoals_Saint George s,32.4167,-64.7333,-4,64
+Bermuda,Trimingham Hill_Paget,32.2894,-64.7692,-4,64
+Bermuda,Trott s Bay_Hamilton,32.3261,-64.7011,-4,64
+Bermuda,Trott s Pond_Hamilton,32.3281,-64.7028,-4,64
+Bermuda,Trunk Island_Hamilton,32.3333,-64.7275,-4,64
+Bermuda,Two Rocks Pass_Pembroke,32.2914,-64.8111,-4,64
+Bermuda,Two Way Shoal_Pembroke,32.3086,-64.8017,-4,64
+Bermuda,Tynes Bay_Devonshire,32.3092,-64.7678,-4,64
+Bermuda,Vaughan s Bay_Saint George s,32.3697,-64.6567,-4,64
+Bermuda,Verrill Island_Warwick,32.2897,-64.8136,-4,64
+Bermuda,Waller s Bay_Saint George s,32.3361,-64.6803,-4,64
+Bermuda,Waller s Point_Saint George s,32.3361,-64.6817,-4,64
+Bermuda,Walsingham Bay_Hamilton,32.3450,-64.7092,-4,64
+Bermuda,Walsingham Caves_Saint George s,32.3481,-64.7103,-4,64
+Bermuda,Warwick,32.2658,-64.8072,-4,64
+Bermuda,Warwick Camp_Warwick,32.2572,-64.8161,-4,64
+Bermuda,Warwick Long Bay_Warwick,32.2575,-64.8089,-4,64
+Bermuda,Warwick Pond_Warwick,32.2678,-64.8042,-4,64
+Bermuda,Water Rocks_Southampton,32.2531,-64.8183,-4,64
+Bermuda,Water Rocks Beach_Southampton,32.2533,-64.8178,-4,64
+Bermuda,Watford Bridge_Sandys,32.3047,-64.8583,-4,64
+Bermuda,Watford Island_Sandys,32.3061,-64.8567,-4,64
+Bermuda,Watling Island_Warwick,32.2850,-64.8081,-4,64
+Bermuda,Watlington Point_Devonshire,32.3000,-64.7500,-4,64
+Bermuda,West Whale Bay_Southampton,32.2550,-64.8739,-4,64
+Bermuda,Westcott Island_Saint George s,32.3622,-64.6719,-4,64
+Bermuda,Whale Island_Sandys,32.2789,-64.8814,-4,64
+Bermuda,Whalebone Bay_Saint George s,32.3644,-64.7139,-4,64
+Bermuda,Whalers Islands_Saint George s,32.3736,-64.6656,-4,64
+Bermuda,White Flats,32.3833,-64.8167,-4,64
+Bermuda,White Point_Smith s,32.3183,-64.7133,-4,64
+Bermuda,White Shoal_Hamilton,32.3392,-64.7153,-4,64
+Bermuda,Wreck Bay_Sandys,32.2819,-64.8867,-4,64
+Bermuda,Wreck Hill_Sandys,32.2800,-64.8856,-4,64
+Bermuda,Yawning Rock_Southampton,32.2467,-64.8364,-4,64
+Bermuda,Zeta Island_Warwick,32.2808,-64.8206,-4,64

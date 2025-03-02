@@ -1,0 +1,80 @@
+Guernsey,Alderney Harbour,49.7264,-2.1903,0,115
+Guernsey,Alderney South Banks,48.693,-2.1903,0,114
+Guernsey,Baie de Port Grat,49.5098,-2.5569,0,114
+Guernsey,Bailiffs Cross,49.4598,-2.5569,0,114
+Guernsey,Bailiwick of Guernsey,49.5931,-2.3235,0,115
+Guernsey,Banc de la Schole,49.5765,-2.2235,0,115
+Guernsey,Belle Greve Bay,49.4765,-2.5235,0,114
+Guernsey,Bibette,49.7431,-2.1735,0,115
+Guernsey,Bon Repos Harbour,49.4265,-2.6069,0,114
+Guernsey,Bordeaux Harbour,49.4931,-2.4902,0,115
+Guernsey,Braye du Val,49.4765,-2.5402,0,114
+Guernsey,Burons,49.4431,-2.3235,0,115
+Guernsey,Caskets,49.7266,-2.3901,0,115
+Guernsey,Corbet,49.7266,-2.2234,0,115
+Guernsey,Cul de l Hotel,49.5099,-2.4234,0,115
+Guernsey,Delancy,49.4933,-2.5233,0,115
+Guernsey,Derrible Bay,49.4267,-2.34,0,115
+Guernsey,Dixcard Bay,49.4433,-2.34,0,115
+Guernsey,Fermain Bay,49.4435,-2.5231,0,114
+Guernsey,Fort Doyle,49.5102,-2.4898,0,115
+Guernsey,Fourquie,49.7269,-2.3565,0,115
+Guernsey,Fregondee,49.4435,-2.3565,0,115
+Guernsey,Godin,49.4936,-2.423,0,115
+Guernsey,Goubiniere,49.4603,-2.4397,0,115
+Guernsey,Gouliot Passage,49.4436,-2.373,0,115
+Guernsey,Grand Greve,49.427,-2.3564,0,115
+Guernsey,Grand Havre,49.5103,-2.5397,0,115
+Guernsey,Grande Amfroque,49.527,-2.4064,0,115
+Guernsey,Grande Fauconriere,49.4603,-2.4564,0,115
+Guernsey,Great Russel,49.427,-2.473,0,114
+Guernsey,Grosnez Point,49.7436,-2.1897,0,115
+Guernsey,Hanoveaux,49.4437,-2.6896,0,114
+Guernsey,Hautnez,49.4437,-2.5896,0,114
+Guernsey,Herm,49.5104,-2.4563,0,115
+Guernsey,Homet,49.4937,-2.4563,0,115
+Guernsey,Houmet Herbe,49.7437,-2.1396,0,115
+Guernsey,Houmets,49.4937,-2.5729,0,114
+Guernsey,Icart Point,49.4272,-2.5562,0,114
+Guernsey,Jerbourg Point,49.4273,-2.5227,0,114
+Guernsey,L Equet,49.7275,-2.3392,0,115
+Guernsey,L Etac de Sark,49.4108,-2.3559,0,115
+Guernsey,L Etart de la Quoire,49.7108,-2.1725,0,115
+Guernsey,La Creux Mahe,49.4275,-2.6225,0,114
+Guernsey,La Grosse Rock,49.4441,-2.6725,0,114
+Guernsey,La Tchue,49.7275,-2.1725,0,115
+Guernsey,Le Mont Durand,49.4608,-2.5392,0,114
+Guernsey,Le Puits Jervais,49.7108,-2.2225,0,115
+Guernsey,Lihou Island,49.4775,-2.6559,0,114
+Guernsey,Little Russel,49.5108,-2.4725,0,115
+Guernsey,Miniquiers,48.9776,-2.0724,0,114
+Guernsey,Mont Hubert,49.4442,-2.5724,0,114
+Guernsey,Moulin Huet Bay,49.4276,-2.5391,0,114
+Guernsey,Noir Houmet,49.7443,-2.239,0,115
+Guernsey,Noir Pute,49.4777,-2.4057,0,115
+Guernsey,Ortac,49.7278,-2.2722,0,115
+Guernsey,Ortac Pass,49.7444,-2.2889,0,115
+Guernsey,Paradis,49.5112,-2.5055,0,115
+Guernsey,Perelle Bay,49.4779,-2.6388,0,114
+Guernsey,Plat Saline Bay,49.7279,-2.2055,0,115
+Guernsey,Point Banquette,49.4612,-2.3388,0,115
+Guernsey,Point La Moye,49.4279,-2.5888,0,114
+Guernsey,Point Sauzebourge,49.4779,-2.4388,0,115
+Guernsey,Port Goury,49.4279,-2.3721,0,115
+Guernsey,Portinfer Bay,49.5112,-2.5721,0,114
+Guernsey,Quenard Point,49.7446,-2.1554,0,115
+Guernsey,Queux Kings Mill,49.478,-2.5887,0,114
+Guernsey,Raz Island,49.7281,-2.1553,0,115
+Guernsey,Renonpuet,49.7447,-2.2719,0,115
+Guernsey,Rocquaine Bay,49.4614,-2.6553,0,114
+Guernsey,Rohais Manor,49.4781,-2.5553,0,114
+Guernsey,Roque au Nord,49.5281,-2.5219,0,115
+Guernsey,Saint Anne,49.7115,-2.1885,0,115
+Guernsey,Saint Peter Port,49.4615,-2.5218,0,114
+Guernsey,Saint Sampson,49.4948,-2.5052,0,115
+Guernsey,Sark,49.4615,-2.3552,0,115
+Guernsey,Tetes d Aval,49.4449,-2.4717,0,115
+Guernsey,The Swinge,49.7449,-2.2217,0,115
+Guernsey,Torteval,49.4449,-2.6384,0,114
+Guernsey,Vazon Bay,49.4785,-2.6049,0,114
+Guernsey,Vermerette,49.4785,-2.4549,0,115

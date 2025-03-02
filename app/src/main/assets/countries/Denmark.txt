@@ -1,0 +1,314 @@
+Denmark,Aabenraa,55.0333,9.4333,1GMT,134
+Denmark,Aabybro,57.1500,9.7500,1GMT,136
+Denmark,Aalborg,57.0500,9.9333,1GMT,136
+Denmark,Aalborg Bugt,56.7500,10.5000,1GMT,136
+Denmark,Aalborg Gaard,57.3667,10.2500,1GMT,137
+Denmark,Aarhus,56.1500,10.2167,1GMT,136
+Denmark,Aarhus Amt,56.2500,10.2000,1GMT,136
+Denmark,Aarhus Bugt,56.1500,10.3000,1GMT,136
+Denmark,Aars,56.8000,9.5333,1GMT,135
+Denmark,Aarslev,55.3000,10.4833,1GMT,135
+Denmark,Ahl,56.1667,10.6500,1GMT,136
+Denmark,Albertslund,55.6500,12.3500,1GMT,138
+Denmark,Albertslund Kommune,55.6833,12.3667,1GMT,138
+Denmark,Alborg,57.1000,9.8500,1GMT,136
+Denmark,Allerod,55.8667,12.3833,1GMT,138
+Denmark,Allerod Kommune,55.8667,12.3667,1GMT,138
+Denmark,Allinge,55.2667,14.8167,1GMT,141
+Denmark,Arhus Hovedbanegard,56.1500,10.2000,1GMT,136
+Denmark,Arhus Kommune,56.1667,10.2500,1GMT,136
+Denmark,Arhus Ostbanegard,56.1667,10.2167,1GMT,136
+Denmark,Aulum,56.2667,8.8000,1GMT,134
+Denmark,Avedore,55.6500,12.4500,1GMT,138
+Denmark,Bagsvaerd,55.7667,12.4667,1GMT,138
+Denmark,Ballerup,55.7333,12.3667,1GMT,138
+Denmark,Ballerup Kommune,55.7167,12.3667,1GMT,138
+Denmark,Birkerod,55.8333,12.4333,1GMT,138
+Denmark,Bjerringbro,56.3833,9.6667,1GMT,135
+Denmark,Bornholm,55.1667,15.0000,1GMT,141
+Denmark,Borup,55.5000,11.9833,1GMT,137
+Denmark,Brabrand,56.1500,10.1167,1GMT,135
+Denmark,Bramming,55.4667,8.7000,1GMT,133
+Denmark,Brande,55.9500,9.1167,1GMT,134
+Denmark,Bredebro Kommune,55.0833,8.7500,1GMT,133
+Denmark,Brondby Strand,55.6167,12.3500,1GMT,138
+Denmark,Bronderslev,57.2667,9.9667,1GMT,136
+Denmark,Bronderslev Kommune,57.2500,10.0000,1GMT,136
+Denmark,Brovst,57.1000,9.5333,1GMT,135
+Denmark,Cadet channel,54.5000,12.2500,1GMT,137
+Denmark,Cattegat,57.0000,11.0000,1GMT,137
+Denmark,Cecilielyst,55.0333,9.4000,1GMT,134
+Denmark,Centrum,56.7333,8.7500,1GMT,134
+Denmark,Charlottedal,55.3833,11.3833,1GMT,136
+Denmark,Charlottendal,56.6667,10.2500,1GMT,136
+Denmark,Chersonesus,56.0000,9.2500,1GMT,134
+Denmark,Christiansborg,55.6833,12.5833,1GMT,138
+Denmark,Christiansdal,55.5167,9.8000,1GMT,135
+Denmark,Christiansfeld Kommune,55.3333,9.5000,1GMT,134
+Denmark,Christianshab,57.0667,10.0958,1GMT,136
+Denmark,Christianshavns Kanal,55.6667,12.6000,1GMT,138
+Denmark,Christianshede,56.1167,9.4000,1GMT,134
+Denmark,Christiansholm,55.6833,12.6000,1GMT,138
+Denmark,Christianslund,55.5500,10.1167,1GMT,135
+Denmark,Christiansminde_Fyn,55.0667,10.6333,1GMT,135
+Denmark,Christiansminde_Arhus,56.4333,10.8500,1GMT,137
+Denmark,Christinelund,55.1167,12.0833,1GMT,137
+Denmark,Clasonsborg,55.9500,8.8833,1GMT,134
+Denmark,Clausholm,56.3833,10.1833,1GMT,136
+Denmark,Constantia,56.4500,10.7333,1GMT,136
+Denmark,Copenhagen,55.6667,12.5833,1GMT,138
+Denmark,Cypressegaard,54.8000,11.6667,1GMT,136
+Denmark,Denmark,56.0000,10.0000,1GMT,135
+Denmark,Dronninglund Kommune,57.2000,10.2500,1GMT,136
+Denmark,Durup_Viborg,56.7500,8.9500,1GMT,134
+Denmark,Durup_Nordjylland,56.7167,9.6333,1GMT,135
+Denmark,Egernsund,54.9000,9.6167,1GMT,134
+Denmark,Esbjerg,55.5167,8.5500,1GMT,133
+Denmark,Esbjerg Kommune,55.6167,8.5000,1GMT,133
+Denmark,Fakse Kommune,55.2667,12.2000,1GMT,137
+Denmark,Farso,56.7833,9.3500,1GMT,135
+Denmark,Farum Kommune,55.8000,12.3333,1GMT,138
+Denmark,Fjerritslev Kommune,57.0833,9.3333,1GMT,135
+Denmark,Fredericia,55.5833,9.7667,1GMT,135
+Denmark,Fredericia Kommune,55.6000,9.7167,1GMT,134
+Denmark,Frederiks Stationsby,56.3500,9.2500,1GMT,134
+Denmark,Frederiksberg_Fyn,54.8333,10.7333,1GMT,135
+Denmark,Frederiksberg_Arhus,56.4500,10.0500,1GMT,136
+Denmark,Frederiksberg_Nordjylland,57.2500,10.3000,1GMT,137
+Denmark,Frederiksberg_Vestsjaelland,55.4167,11.5667,1GMT,137
+Denmark,Frederiksberg Kommune,55.6833,12.5333,1GMT,138
+Denmark,Frederikshavn,57.4333,10.5333,1GMT,137
+Denmark,Frederikshavn Kommune,57.4667,10.4000,1GMT,137
+Denmark,Frederiksvaerk Kommune,55.9500,12.0333,1GMT,138
+Denmark,Fyn,55.3333,10.5000,1GMT,135
+Denmark,Gentofte,55.7500,12.5500,1GMT,138
+Denmark,Gladsaxe,55.7333,12.4833,1GMT,138
+Denmark,Glostrup Kommune,55.6667,12.4000,1GMT,138
+Denmark,Glyngore,56.7667,8.8667,1GMT,134
+Denmark,Gorlev Kommune,55.5167,11.2000,1GMT,136
+Denmark,Greve,55.6000,12.2500,1GMT,138
+Denmark,Greve Kommune,55.6167,12.2500,1GMT,138
+Denmark,Haderslev,55.2500,9.5000,1GMT,133
+Denmark,Haderslev Dam,55.2333,9.4500,1GMT,134
+Denmark,Haderslev Fjord,55.2833,9.6667,1GMT,134
+Denmark,Haderslev Kommune,55.2333,9.5000,1GMT,134
+Denmark,Hanstholm Kommune,57.0833,8.8333,1GMT,135
+Denmark,Hasle_Bornholms,55.1833,14.7167,1GMT,141
+Denmark,Hasle_Arhus,56.1667,10.1667,1GMT,136
+Denmark,Haslev Kommune,55.3333,11.9667,1GMT,137
+Denmark,He,56.1500,8.3000,1GMT,133
+Denmark,Hedehusene_Ribe,55.7833,8.7500,1GMT,133
+Denmark,Hedehusene_Kobenhavn,55.6500,12.2000,1GMT,138
+Denmark,Helsingor,56.0333,12.6167,1GMT,139
+Denmark,Helsingor Red,56.0000,12.6167,1GMT,139
+Denmark,Herning,56.1833,9.0333,1GMT,134
+Denmark,Herning Kommune,56.1667,9.0000,1GMT,134
+Denmark,Hillerod,55.9333,12.3167,1GMT,138
+Denmark,Hillerod Kommune,55.9333,12.3000,1GMT,138
+Denmark,Hirtshals,57.5869,9.9606,1GMT,136
+Denmark,Hirtshals Kommune,57.5833,10.1000,1GMT,137
+Denmark,Hjerm,56.4333,8.6500,1GMT,134
+Denmark,Hjoerring,57.4666,9.9833,1GMT,136
+Denmark,Hjorring,57.4667,9.9833,1GMT,136
+Denmark,Hjorring Kommune,57.4167,10.0000,1GMT,136
+Denmark,Hobro,56.6333,9.8000,1GMT,135
+Denmark,Hoje Taastrup,55.6500,12.2833,1GMT,138
+Denmark,Hoje-Tastrup Kommune,55.6333,12.2833,1GMT,138
+Denmark,Hojer,54.9667,8.7167,1GMT,133
+Denmark,Holbaek_Sonderjylland,55.1833,8.8333,1GMT,133
+Denmark,Holbaek_Vestsjaelland,55.7167,11.7167,1GMT,137
+Denmark,Holbaek_Arhus,56.5500,10.3000,1GMT,136
+Denmark,Holbaek Kommune,55.7000,11.7000,1GMT,137
+Denmark,Holstebro,56.3500,8.6333,1GMT,134
+Denmark,Holstebro Kommune,56.3333,8.5833,1GMT,134
+Denmark,Holstebro-Struer Havn,56.4833,8.6000,1GMT,134
+Denmark,Hong Kommune,55.5000,11.3333,1GMT,136
+Denmark,Horsens,55.8719,9.8811,1GMT,135
+Denmark,Horsens Kommune,55.8667,9.8667,1GMT,135
+Denmark,Hundested Kommune,55.9667,11.9000,1GMT,138
+Denmark,Hundige,55.6000,12.3333,1GMT,138
+Denmark,Hvalso,55.6000,11.8500,1GMT,137
+Denmark,Hvalso Kommune,55.5833,11.8667,1GMT,137
+Denmark,Hvide Sande,55.9833,8.1333,1GMT,133
+Denmark,Hvidovre,55.6500,12.4833,1GMT,138
+Denmark,Hvidovre Kommune,55.7167,12.4667,1GMT,138
+Denmark,Ikast,56.1333,9.1667,1GMT,134
+Denmark,Ishoj,55.6167,12.3167,1GMT,138
+Denmark,Ishoj Kommune,55.6333,12.3333,1GMT,138
+Denmark,Juelsminde Kommune,55.7500,9.9000,1GMT,135
+Denmark,Jyderup_Vestsjaelland,55.6667,11.4333,1GMT,137
+Denmark,Jyderup_Storstrom,55.2167,12.0833,1GMT,137
+Denmark,Kallundborg,55.6833,11.1000,1GMT,136
+Denmark,Kalundborg Kommune,55.7167,11.1000,1GMT,136
+Denmark,Kastrup,55.6167,12.6500,1GMT,138
+Denmark,Kastrupgard,56.7333,9.5167,1GMT,135
+Denmark,Kibaek,56.0333,8.8500,1GMT,134
+Denmark,Kjellerup_Viborg,56.2833,9.4333,1GMT,135
+Denmark,Kjellerup_Arhus,56.6000,10.0000,1GMT,136
+Denmark,Kjellerup Kommune,56.3333,9.5000,1GMT,135
+Denmark,Kobenhavns Amt,55.7000,12.3500,1GMT,138
+Denmark,Kobenhavns Frihavnsstation,55.7000,12.6000,1GMT,138
+Denmark,Kobenhavns Red,55.7167,12.6333,1GMT,138
+Denmark,Koge,55.4500,12.1830,1GMT,138
+Denmark,Koge Aa,55.4500,12.2167,1GMT,138
+Denmark,Koge Bugt,55.5000,12.3333,1GMT,138
+Denmark,Koge Kommune,55.4333,12.1667,1GMT,138
+Denmark,Kokkedal,55.9000,12.5167,1GMT,138
+Denmark,Kolding,55.5167,9.4833,1GMT,134
+Denmark,Kolding A,55.5000,9.4833,1GMT,134
+Denmark,Kolding Fjord,55.5000,9.5833,1GMT,134
+Denmark,Kolding Kommune,55.5333,9.4667,1GMT,134
+Denmark,Kolding Skov,55.5167,9.5000,1GMT,134
+Denmark,Kongens Lyngby,55.7667,12.5167,1GMT,138
+Denmark,Korsor,55.3333,11.1500,1GMT,136
+Denmark,Korsor Kommune,55.3333,11.2500,1GMT,136
+Denmark,Lemvig,56.5000,8.3167,1GMT,133
+Denmark,Lemvig Kommune,56.4167,8.3333,1GMT,133
+Denmark,Logstor,56.9667,9.2500,1GMT,135
+Denmark,Logumkloster,55.0500,8.9500,1GMT,133
+Denmark,Logumkloster Kommune,55.0500,9.0667,1GMT,133
+Denmark,Lyngby_Roskilde,55.6667,11.9500,1GMT,137
+Denmark,Lyngby_Nordjylland,57.4167,9.7500,1GMT,136
+Denmark,Lyngby_Arhus,56.1667,10.0333,1GMT,135
+Denmark,Lyngby_Viborg,56.8667,8.3167,1GMT,134
+Denmark,Lyngby-Tarbaek Kommune,55.8000,12.5000,1GMT,138
+Denmark,Lyngbyvej Station,55.7167,12.5667,1GMT,138
+Denmark,Lynge_Vestsjaelland,55.4000,11.5833,1GMT,137
+Denmark,Lynge_Frederiksborg,55.8500,12.2833,1GMT,138
+Denmark,Lystrup_Arhus,56.5000,10.4833,1GMT,136
+Denmark,Lystrup_Storstrom,55.3667,12.2500,1GMT,138
+Denmark,Lystrup_Frederiksborg,55.8667,12.2333,1GMT,138
+Denmark,Lystrup_Vejle,55.8000,9.8000,1GMT,135
+Denmark,Maribo Kommune,54.8167,11.4167,1GMT,136
+Denmark,Mejlby Vestergard,55.4000,8.9333,1GMT,133
+Denmark,Middelfart,55.5000,9.7500,1GMT,134
+Denmark,Moldrup,56.6167,9.5000,1GMT,136
+Denmark,Munkebo,55.4500,10.5667,1GMT,135
+Denmark,Naerum,55.8167,12.5500,1GMT,138
+Denmark,Naestved,55.2333,11.7667,1GMT,137
+Denmark,Naestved Kommune,55.2500,11.6667,1GMT,137
+Denmark,Nakskov,54.8167,11.1333,1GMT,136
+Denmark,Niva,55.9333,12.5333,1GMT,138
+Denmark,Norager Kommune,56.7500,9.6667,1GMT,135
+Denmark,Nordborg Kommune,55.0333,9.8333,1GMT,134
+Denmark,Norre Nebel,55.7833,8.3000,1GMT,133
+Denmark,Nyborg_Fyn,55.3167,10.8000,1GMT,136
+Denmark,Nyborg_Vejle,55.8167,9.5333,1GMT,134
+Denmark,Nyborg Kommune,55.3333,10.7500,1GMT,136
+Denmark,Nykjobing,54.7667,11.8833,1GMT,137
+Denmark,Nykobing Falster Kommune,54.7500,11.8000,1GMT,136
+Denmark,Nykobing Mors,56.8000,8.8667,1GMT,134
+Denmark,Nysted,54.6667,11.7500,1GMT,136
+Denmark,Odden,54.9667,10.5333,1GMT,135
+Denmark,Oddense,56.6500,8.9500,1GMT,134
+Denmark,Odder,55.9667,10.1667,1GMT,135
+Denmark,Odense,55.4667,10.3167,1GMT,135
+Denmark,Odense A,55.4333,10.4333,1GMT,135
+Denmark,Odense Fjord,55.5000,10.5667,1GMT,135
+Denmark,Odense Kanal,55.4667,10.4333,1GMT,135
+Denmark,Odense Kommune,55.3833,10.3833,1GMT,135
+Denmark,Qvartus Grund,55.5500,12.7167,1GMT,138
+Denmark,Qvistrup,56.4667,8.6167,1GMT,134
+Denmark,Randers,56.5000,10.0333,1GMT,136
+Denmark,Randers Kommune,56.4833,10.0167,1GMT,136
+Denmark,Ribe,55.3500,8.7667,1GMT,133
+Denmark,Ribe Kommune,55.3167,8.8333,1GMT,133
+Denmark,Ringkjobing Fiord,56.0000,8.2500,1GMT,133
+Denmark,Ringkobing,56.0833,8.2500,1GMT,133
+Denmark,Ringkobing Amt,56.1667,8.7500,1GMT,134
+Denmark,Ringkobing Kommune,56.1333,8.2667,1GMT,133
+Denmark,Ringsted,55.4167,11.8000,1GMT,137
+Denmark,Ringsted Kommune,55.4500,11.8500,1GMT,137
+Denmark,Rodding Kommune,55.3833,9.1000,1GMT,136
+Denmark,Rodkaersbro,56.3500,9.5167,1GMT,135
+Denmark,Ronne,55.0667,14.7500,1GMT,141
+Denmark,Roskilde,55.5833,12.1167,1GMT,138
+Denmark,Roskilde Amt,55.6000,12.1500,1GMT,138
+Denmark,Roskilde Fjord,55.9333,12.0000,1GMT,138
+Denmark,Roskilde Kommune,55.6500,12.1000,1GMT,138
+Denmark,Saeby_Vestsjaelland,55.5500,11.3167,1GMT,137
+Denmark,Saeby_Nordjylland,57.3333,10.5333,1GMT,137
+Denmark,Saeby_Viborg,56.7667,8.9167,1GMT,134
+Denmark,Saeby_Roskilde,55.7000,11.9500,1GMT,137
+Denmark,Saeby Kommune,57.3333,10.3333,1GMT,137
+Denmark,Silkeborg_Arhus,56.1667,9.5667,1GMT,135
+Denmark,Silkeborg_Ringkobing,56.1000,9.4000,1GMT,134
+Denmark,Silkeborg Kommune,56.1667,9.6000,1GMT,135
+Denmark,Skanderborg,56.0333,9.9333,1GMT,135
+Denmark,Skive,56.5500,9.1667,1GMT,135
+Denmark,Skive Kommune,56.5833,9.0000,1GMT,134
+Denmark,Slagelse,55.4000,11.3667,1GMT,136
+Denmark,Slagelse Kommune,55.4500,11.3667,1GMT,136
+Denmark,Sonderborg,54.9667,9.7833,1GMT,134
+Denmark,Sonderborg Kommune,54.9167,9.8000,1GMT,134
+Denmark,Struer,56.4833,8.6167,1GMT,134
+Denmark,Struer Kommune,56.4667,8.5833,1GMT,134
+Denmark,Svebolle Stationsby,55.6500,11.3000,1GMT,137
+Denmark,Svenborg,55.0500,10.6167,1GMT,135
+Denmark,Svendborg Kommune,55.0167,10.6167,1GMT,135
+Denmark,Svinninge,55.7167,11.4667,1GMT,137
+Denmark,Svinninge Kommune,55.7167,11.5000,1GMT,137
+Denmark,Sydkojshage,55.4833,9.7167,1GMT,134
+Denmark,Taastrup_Vestsjaelland,55.5167,11.9167,1GMT,137
+Denmark,Taastrup_Fyn,55.4833,10.3167,1GMT,135
+Denmark,Taastrup_Storstrom,55.2333,11.6167,1GMT,137
+Denmark,Taastrup_Kobenhavn*,55.6500,12.3167,1GMT,138
+Denmark,Taastrup_Arhus,56.1333,10.0000,1GMT,135
+Denmark,Tarm,55.9167,8.5333,1GMT,133
+Denmark,Thisted,57.0667,8.7000,1GMT,134
+Denmark,Thisted Kommune,57.0000,8.6667,1GMT,134
+Denmark,Thyregod,55.9000,9.2667,1GMT,134
+Denmark,Tonder,54.9333,8.8333,1GMT,133
+Denmark,Tonder Kommune,54.9667,8.9167,1GMT,133
+Denmark,Tranum,57.1333,9.4667,1GMT,133
+Denmark,Tullebolle,54.9667,10.8000,1GMT,135
+Denmark,Valby_Frederiksborg,56.0500,12.2167,1GMT,138
+Denmark,Valby_Kobenhavn,55.6500,12.5167,1GMT,138
+Denmark,Varde,55.6333,8.4833,1GMT,133
+Denmark,Varde Kommune,55.6667,8.5000,1GMT,133
+Denmark,Veddum,56.7667,10.2000,1GMT,136
+Denmark,Vejen,55.4833,9.1500,1GMT,134
+Denmark,Vejle,55.2667,10.3167,1GMT,135
+Denmark,Vejle Amt,55.7500,9.3333,1GMT,134
+Denmark,Vejle Fjord,55.6667,9.7500,1GMT,135
+Denmark,Vejle Kommune,55.7333,9.5000,1GMT,134
+Denmark,Viborg,56.4333,9.4000,1GMT,135
+Denmark,Viborg Amt,56.6667,9.0833,1GMT,135
+Denmark,Viborg Kommune,56.4500,9.3667,1GMT,135
+Denmark,Videbaek Kommune,56.0833,8.6667,1GMT,134
+Denmark,Vinderup Kommune,56.4167,8.8333,1GMT,134
+Denmark,Vordingborg,55.0167,11.9167,1GMT,137
+Denmark,Vordingborg Kommune,55.0833,11.8667,1GMT,137
+Denmark,Warnitz,55.0167,9.5833,1GMT,134
+Denmark,Wedellsborg,55.3667,9.8333,1GMT,134
+Denmark,Wedellsborg Badehavn,55.3500,9.8167,1GMT,134
+Denmark,Wedellsborg Hoved,55.3667,9.8000,1GMT,134
+Denmark,Wedelslund,56.1833,9.9333,1GMT,135
+Denmark,Wegenersminde,55.7167,11.7667,1GMT,137
+Denmark,West Aaby,55.0833,10.4000,1GMT,135
+Denmark,West Hjermerslev,57.2833,9.7667,1GMT,136
+Denmark,West Skjerninge,55.0667,10.4500,1GMT,135
+Denmark,Wied Au,54.9333,8.9000,1GMT,133
+Denmark,Wredeslund,54.7333,11.4667,1GMT,136
+Denmark,Wulffs Flak,56.0833,10.3833,1GMT,136
+Denmark,Ydby,56.7000,8.4167,1GMT,134
+Denmark,Yder Knob,54.5000,12.0833,1GMT,137
+Denmark,Yderbredning,55.9000,11.8167,1GMT,137
+Denmark,Yderby,55.9833,11.3500,1GMT,137
+Denmark,Yderflak,56.0667,11.0000,1GMT,137
+Denmark,Yderhavn,55.7000,12.6167,1GMT,138
+Denmark,Yderik,55.7000,8.5833,1GMT,133
+Denmark,Yderrevet,56.0667,11.2500,1GMT,137
+Denmark,Yderup,56.1833,10.0667,1GMT,135
+Denmark,Yding,55.9833,9.7833,1GMT,135
+Denmark,Yding Skov,56.0000,9.8167,1GMT,135
+Denmark,Yding Skovhoj,56.0000,9.8000,1GMT,135
+Denmark,Ydinggard,55.6667,12.0833,1GMT,138
+Denmark,Ydo,54.8000,11.0000,1GMT,135
+Denmark,Ydre Knudegrund,55.2833,8.3833,1GMT,133
+Denmark,Yllebjerg,56.3333,8.8000,1GMT,134
+Denmark,Ypnested,55.1667,15.0667,1GMT,141
+Denmark,Yppenbjerg,55.6167,11.1833,1GMT,136
+Denmark,Yttrup,56.7167,9.0000,1GMT,134
+Denmark,Zastrov,55.4667,10.2833,1GMT,135
+Denmark,Zealand,55.5000,11.7500,1GMT,137

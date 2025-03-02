@@ -1,0 +1,191 @@
+Namibia,10 Kilometre Kop_Karas,-28.6284,18.9882,1,0
+Namibia,Ibbu_Caprivi,-17.9395,24.5272,1,0
+Namibia,Ibenstein_(WA40,-22.9395,17.6438,1,0
+Namibia,Ibolokwa_Caprivi,-17.8062,24.4272,1,0
+Namibia,Ichaboe Island_Karas,-26.2728,14.9605,1,0
+Namibia,Iihamyongwe_Omusati,-17.8895,15.2272,1,0
+Namibia,Iihongo_Oshikoto,-18.0395,16.1772,1,0
+Namibia,Iikango_Omusati,-17.8395,15.2105,1,0
+Namibia,Iikelo_Oshana,-17.6895,15.7272,1,0
+Namibia,Iikokla_Oshikoto,-17.8562,16.1605,1,0
+Namibia,Iilambo_Omusati,-17.9562,15.0438,1,0
+Namibia,Iindangungu_Oshana,-17.7728,15.9772,1,0
+Namibia,Iipopo_Oshikoto,-18.1562,16.0938,1,0
+Namibia,Iiputu_Ohangwena,-17.5895,15.6272,1,0
+Namibia,Iithindi_Oshikoto,-17.7562,16.8438,1,0
+Namibia,Ikaba_Caprivi,-17.6062,24.9772,1,0
+Namibia,Ikoma_Caprivi,-17.8228,24.3605,1,0
+Namibia,Ilango_Caprivi,-17.7062,24.8605,1,0
+Namibia,Ilumba_Caprivi,-17.5895,24.4938,1,0
+Namibia,Imperani_Hardap,-23.8395,17.7272,1,0
+Namibia,Imukusi_Caprivi,-17.4728,24.3605,1,0
+Namibia,Inachab_Karas,-27.0228,17.2938,1,0
+Namibia,Inachabkuppe_Karas,-27.0228,17.4105,1,0
+Namibia,Inaubrivier_Karas,-28.3895,17.4105,1,0
+Namibia,Indibi River_Caprivi,-17.7228,25.1772,1,0
+Namibia,Ined_Omaheke,-23.3895,18.9105,1,0
+Namibia,Ingururu_Omusati,-18.4562,14.7438,1,0
+Namibia,Innisfree_(WA40,-22.6728,16.4272,1,0
+Namibia,Intabeni_Hardap,-25.4728,18.8105,1,0
+Namibia,Irene_Hardap,-23.7728,19.1438,1,0
+Namibia,Isabis_(WA40,-23.4062,16.5105,1,0
+Namibia,Isabis_Hardap,-23.4228,16.5272,1,0
+Namibia,Isanpan_Omaheke,-23.3562,18.8772,1,0
+Namibia,Ishesha_Caprivi,-17.7395,22.8272,1,0
+Namibia,Isolionke_Caprivi,-17.5062,24.5105,1,0
+Namibia,Itomba_Caprivi,-17.6728,24.9105,1,0
+Namibia,Itsawisis_Karas,-26.2228,18.1772,1,0
+Namibia,Iturea_(WA40,-22.7092,17.2722,1,0
+Namibia,Iutzema_Otjozondjupa,-19.8228,20.4938,1,0
+Namibia,Ivoma_Caprivi,-17.9395,24.6438,1,0
+Namibia,J.G. Strijdom Lughawe_(WA40,-22.47,17.4798,1,0
+Namibia,Ja Dennoch_Hardap,-23.7227,18.1439,1,0
+Namibia,Jagd-schlucht_Hardap,-25.0394,16.2106,1,0
+Namibia,Jagerhofberge_Otjozondjupa,-20.2561,16.7606,1,0
+Namibia,Jakhalswater_Erongo,-22.6061,15.3606,1,0
+Namibia,Jakkalsdraai_Karas,-25.7894,17.7106,1,0
+Namibia,Jakkalsfontein_Hardap,-24.8227,17.8939,1,0
+Namibia,Jakkalskop_Karas,-26.5894,16.6273,1,0
+Namibia,Jakkalspan_Hardap,-24.7727,18.9106,1,0
+Namibia,Jakkalsvlei_Karas,-25.8227,18.4773,1,0
+Namibia,Jammerbaai_Karas,-27.1561,15.2606,1,0
+Namibia,Jan Jonkerberg_(WA40,-23.0727,16.1939,1,0
+Namibia,Joloyi_Caprivi,-17.8394,23.5773,1,0
+Namibia,Jonkershoek_Omaheke,-22.0227,19.3606,1,0
+Namibia,Jonkheer_Hardap,-24.8227,18.6606,1,0
+Namibia,Josephine_(WA40,-22.7227,18.1773,1,0
+Namibia,Joubertsberge_Kunene,-18.4061,13.9273,1,0
+Namibia,Jules Vley_Karas,-26.6227,18.8939,1,0
+Namibia,Juliana_Omaheke,-22.2227,19.1939,1,0
+Namibia,Jungfrau_Erongo,-22.0227,15.9773,1,0
+Namibia,Jurgen_Karas,-26.7727,17.9273,1,0
+Namibia,Juriesdraai_Kunene,-19.9227,13.9106,1,0
+Namibia,Katima Mulilo_Caprivi,-17.4893,24.2774,1,0
+Namibia,Katima Mulilo Rapids,-17.456,24.2607,1,0
+Namibia,Luderitz_Karas,-26.6392,15.1441,1,0
+Namibia,Luderitz_(WA09,-26.4892,16.0108,1,0
+Namibia,Luderitz Aerodrome_Karas,-26.6761,15.2541,1,0
+Namibia,Luderitz Harbour_Karas,-26.6339,15.1552,1,0
+Namibia,Luderitzbaai_Karas,-26.5978,15.1486,1,0
+Namibia,Qaganiha Pan_Caprivi,-17.8054,22.628,1,0
+Namibia,Qanja_Caprivi,-18.0387,22.778,1,0
+Namibia,Qeya_Caprivi,-17.9387,23.178,1,0
+Namibia,Qobengili_Caprivi,-17.8554,22.3446,1,0
+Namibia,Qoha_Caprivi,-17.922,22.2946,1,0
+Namibia,Qonisha_Caprivi,-17.9887,23.0113,1,0
+Namibia,Qowasha_Caprivi,-17.922,22.478,1,0
+Namibia,Quartzhugel_(WA40,-22.572,17.7113,1,0
+Namibia,Quartzkoppie_Karas,-28.422,19.378,1,0
+Namibia,Quarzriff_Karas,-27.672,18.428,1,0
+Namibia,Que Sera Sera_Hardap,-24.6054,19.328,1,0
+Namibia,Quedas Montenegro,-16.9887,13.2613,1,0
+Namibia,Quelle Kuppe_Karas,-27.2054,15.7113,1,0
+Namibia,Quellort_Karas,-26.872,19.8946,1,0
+Namibia,Qugap_Karas,-28.372,18.728,1,0
+Namibia,Quinta_Omaheke,-22.372,19.4113,1,0
+Namibia,Quises_Hardap,-23.9054,17.1946,1,0
+Namibia,Quiver Tree Forest_Karas,-26.4554,18.2446,1,0
+Namibia,Quork_Oshana,-18.2054,15.928,1,0
+Namibia,Quqali_Caprivi,-18.0387,22.5113,1,0
+Namibia,Qwinikwa_Caprivi,-18.0887,21.6446,1,0
+Namibia,Rundu_Okavango,-17.9219,19.7781,1,0
+Namibia,Tsumeb_Oshikoto,-19.2051,17.7116,1,0
+Namibia,Tsumeb_(WA18,-18.9884,17.0116,1,0
+Namibia,Windhoek_(WA40,-22.5581,17.0955,1,0
+Namibia,Windhoek_Khomas,-22.4881,17.0119,1,0
+Namibia,Windhoek Noord_(WA40,-22.5367,17.085,1,0
+Namibia,Windhoek Town and Townlands_(WA40,-22.6048,16.9786,1,0
+Namibia,Xabpoort_Omaheke,-22.7547,18.662,1,0
+Namibia,Xae-sca_Otjozondjupa,-19.838,20.4787,1,0
+Namibia,Xao_Otjozondjupa,-19.2213,20.212,1,0
+Namibia,Xaraxab_Omaheke,-22.7047,18.912,1,0
+Namibia,Xaubehunis_Erongo,-21.4047,15.1453,1,0
+Namibia,Xaudum,-18.6047,21.662,1,0
+Namibia,Xeidang_Okavango,-18.6713,20.2953,1,0
+Namibia,Xhamukwe_Caprivi,-18.038,21.462,1,0
+Namibia,Xo-niuma_Otjozondjupa,-19.9047,20.5453,1,0
+Namibia,Yaamugenga_Oshana,-18.0546,15.9954,1,0
+Namibia,Yaanguyeenkono_Oshana,-17.9546,15.7288,1,0
+Namibia,Yafululula_Ohangwena,-17.5879,15.7954,1,0
+Namibia,Yahamukmata_Ohangwena,-17.6379,15.9121,1,0
+Namibia,Yaheti_Ohangwena,-17.4379,16.2454,1,0
+Namibia,Yahoma_Hardap,-24.5046,19.5954,1,0
+Namibia,Yaka_Caprivi,-18.1046,23.9621,1,0
+Namibia,Yakalongo_Omusati,-17.4212,15.3121,1,0
+Namibia,Yakandonga_Kunene,-20.5546,16.2788,1,0
+Namibia,Yakapeto_Omusati,-17.8046,15.3954,1,0
+Namibia,Yakeenene_Oshana,-17.9212,15.5454,1,0
+Namibia,Yalwege_Oshana,-18.0379,15.7788,1,0
+Namibia,Yanaipadi_Ohangwena,-17.4212,15.9621,1,0
+Namibia,Yanamutai_Oshana,-17.6879,15.8288,1,0
+Namibia,Yanangali_Ohangwena,-17.3879,15.9788,1,0
+Namibia,Yanepaya_Oshana,-17.9712,15.7954,1,0
+Namibia,Yangenga_Ohangwena,-17.4212,15.6788,1,0
+Namibia,Yanghandja_Ohangwena,-17.5546,16.0288,1,0
+Namibia,Yaro_Okavango,-17.9879,20.6121,1,0
+Namibia,Yashe_Omusati,-17.5879,15.0288,1,0
+Namibia,Yashepumbi_Oshana,-17.9712,15.6454,1,0
+Namibia,Yashikuku_Omusati,-17.6712,15.4788,1,0
+Namibia,Yatamanzi_Omusati,-17.9546,15.2788,1,0
+Namibia,Yatananga_Omusati,-17.7212,15.1121,1,0
+Namibia,Yatulo_Oshana,-17.9046,15.5121,1,0
+Namibia,Yenolyegaya_Oshana,-18.0212,15.8288,1,0
+Namibia,Yikurukadi_Okavango,-17.7879,18.6454,1,0
+Namibia,Yinsu_Okavango,-17.7712,18.5954,1,0
+Namibia,Ysterberg_Karas,-28.1046,18.1454,1,0
+Namibia,Ysterkop_Hardap,-24.9046,16.0454,1,0
+Namibia,Ysterputs_Karas,-28.2379,18.0954,1,0
+Namibia,Yumbwa_Omusati,-17.7712,15.1621,1,0
+Namibia,Yunguru_Caprivi,-17.9046,22.0954,1,0
+Namibia,Zabubegas-Ost_Karas,-26.6211,19.1789,1,0
+Namibia,Zabubegas-Wes_Karas,-26.6711,19.0955,1,0
+Namibia,Zachas_Omaheke,-22.6378,19.3122,1,0
+Namibia,Zackenberg_Karas,-25.7711,16.2789,1,0
+Namibia,Zackenberge_Hardap,-25.6211,17.0955,1,0
+Namibia,Zagenicht_(WA40,-22.4792,17.135,1,0
+Namibia,Zais_Hardap,-24.0045,16.1455,1,0
+Namibia,Zambesi,-18.8211,36.2955,1,0
+Namibia,Zamenkomst_Karas,-26.1045,19.2289,1,0
+Namibia,Zamnarib_Hardap,-24.3378,17.5622,1,0
+Namibia,Zamnarib-Ost_Hardap,-24.3711,17.6122,1,0
+Namibia,Zandfontein,-22.9711,14.5455,1,0
+Namibia,Zania_Omaheke,-23.4711,18.4955,1,0
+Namibia,Zarachaibes_Hardap,-23.4545,17.2455,1,0
+Namibia,Zaracheibis_Karas,-27.3878,17.3955,1,0
+Namibia,Zaris_Hardap,-24.9378,16.3789,1,0
+Namibia,Zaris Berge_Hardap,-24.8211,16.3455,1,0
+Namibia,Zastroberg_Otjozondjupa,-20.2378,17.2289,1,0
+Namibia,Zaudaus_Hardap,-24.6711,18.6789,1,0
+Namibia,Zebedeus_Erongo,-21.3045,14.8122,1,0
+Namibia,Zebra_Kunene,-17.1211,13.4622,1,0
+Namibia,Zebra Rivier_Hardap,-24.5045,16.3122,1,0
+Namibia,Zebraberg_Hardap,-23.2211,17.4955,1,0
+Namibia,Zebrafontein_Karas,-27.7211,16.8955,1,0
+Namibia,Zebrafontein_Kunene,-20.6378,15.2455,1,0
+Namibia,Zebrapomp_Kunene,-19.3545,14.5122,1,0
+Namibia,Zebrarivier_Hardap,-24.5045,16.0789,1,0
+Namibia,Zelda_Omaheke,-22.2711,19.8289,1,0
+Namibia,Zendelingshoek_Hardap,-24.8711,18.8122,1,0
+Namibia,Zesfontein_Kunene,-19.1211,13.6289,1,0
+Namibia,Ziegenberge_(WA40,-22.5689,17.4908,1,0
+Namibia,Ziegenrucken_(WA40,-23.5378,16.3122,1,0
+Namibia,Zieglerberg_Otjozondjupa,-21.9211,16.8455,1,0
+Namibia,Zilitene_Caprivi,-17.8211,24.3789,1,0
+Namibia,Zisabspitze_Erongo,-21.1378,14.6622,1,0
+Namibia,Zonnewald_Hardap,-24.4878,18.3789,1,0
+Namibia,Zoutputz_Karas,-26.5545,19.4122,1,0
+Namibia,Zoutriver_Erongo,-23.5711,15.0289,1,0
+Namibia,Zoveha_Caprivi,-18.1378,21.6955,1,0
+Namibia,Zuckerhutberg_(WA40,-22.4378,16.9122,1,0
+Namibia,Zukaus_Karas,-27.0378,18.2289,1,0
+Namibia,Zulowkopf_Karas,-26.9045,15.4455,1,0
+Namibia,Zumbwabizu_Caprivi,-17.7211,25.1622,1,0
+Namibia,Zunichab_Kunene,-19.9545,15.5622,1,0
+Namibia,Zwartbank_Erongo,-23.3211,14.8622,1,0
+Namibia,Zwartbankberg_Erongo,-23.2878,14.8122,1,0
+Namibia,Zwei Point_Karas,-26.8453,15.1597,1,0
+Namibia,Zweikuppenberg_Karas,-26.9045,15.3289,1,0
+Namibia,Zweiseckstein_(WA40,-22.4725,17.2353,1,0
+Namibia,Zwiebel-Hochebene_Hardap,-25.1545,17.0955,1,0
+Namibia,Zwillingrivier_Hardap,-24.8378,17.4455,1,0
+Namibia,Zwischenpunkt_Karas,-27.0211,19.2122,1,0

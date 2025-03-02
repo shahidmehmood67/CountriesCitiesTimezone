@@ -13,6 +13,12 @@
         android:theme="@style/Theme.CountriesCitiesTimeZonesLocation"
         tools:targetApi="31">
         <activity
+            android:name=".countries.CitiesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".countries.CountriesActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:theme="@style/Theme.CountriesCitiesTimeZonesLocation">

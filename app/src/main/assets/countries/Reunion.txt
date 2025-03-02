@@ -1,0 +1,182 @@
+Reunion,Abondance,-21.0236,55.6764,4,0
+Reunion,Aloes,-21.2403,55.4597,4,0
+Reunion,Anse des Cascades,-21.1736,55.843,4,0
+Reunion,Anse du Sac,-21.107,55.8264,4,0
+Reunion,Anse-les Hauts,-21.2903,55.5764,4,0
+Reunion,Aurere,-20.9903,55.443,4,0
+Reunion,Avenir,-20.907,55.343,4,0
+Reunion,Avirons,-21.2236,55.343,4,0
+Reunion,Cafrine,-21.3234,55.5266,4,0
+Reunion,Camp de Pierrot,-21.0401,55.4766,4,0
+Reunion,Camp Jacquot,-20.9734,55.6932,4,0
+Reunion,Camp Menard,-20.9568,55.4432,4,0
+Reunion,Cap Banane,-21.0068,55.5432,4,0
+Reunion,Cap Champagne,-21.0068,55.2266,4,0
+Reunion,Cap de la Possession,-20.8901,55.3432,4,0
+Reunion,Cap des Aigrettes,-21.0234,55.2266,4,0
+Reunion,Cap des Gouffres,-20.8568,55.4099,4,0
+Reunion,Cap Fontaine,-21.0068,55.7266,4,0
+Reunion,Cap la Houssaye,-20.9901,55.2432,4,0
+Reunion,Cap Picard,-20.9734,55.5599,4,0
+Reunion,Carosse,-21.3401,55.6099,4,0
+Reunion,Carreau Morin,-20.9734,55.6599,4,0
+Reunion,Cascades,-21.1401,55.8432,4,0
+Reunion,Caverne de Terre,-20.9734,55.4766,4,0
+Reunion,Caverne Mussard,-21.0734,55.5266,4,0
+Reunion,Chaine des Salazes,-21.0568,55.4599,4,0
+Reunion,Champ-Borne,-20.9234,55.6932,4,0
+Reunion,Cirque de Salazie,-21.0401,55.5099,4,0
+Reunion,Coeur Saignant,-20.9068,55.6932,4,0
+Reunion,Colimacons,-21.1068,55.3266,4,0
+Reunion,Commune Ango,-20.9234,55.6266,4,0
+Reunion,Commune Carron,-20.9068,55.6266,4,0
+Reunion,Coteau Calumet,-21.0734,55.5766,4,0
+Reunion,Cratere Chisny,-21.2068,55.6766,4,0
+Reunion,Cratere Hubert,-21.2234,55.6932,4,0
+Reunion,Cratere Mi-cote,-21.2068,55.7599,4,0
+Reunion,Cratere Ramond,-21.2568,55.7099,4,0
+Reunion,Crete Morne de Fourche,-21.0234,55.4266,4,0
+Reunion,Decouverte,-20.9567,55.5767,4,0
+Reunion,Demenjod,-20.89,55.51,4,0
+Reunion,Departement de la Reunion,-21.09,55.61,4,0
+Reunion,Deuxieme Bras du Bois-Blanc,-21.1733,55.8267,4,0
+Reunion,Dimitile,-21.2733,55.61,4,0
+Reunion,Dos d Ane,-20.9567,55.3933,4,0
+Reunion,Etan-Sale-les-Hauts,-21.2399,55.3934,4,0
+Reunion,Etang du Bois-Rouge,-20.8899,55.6601,4,0
+Reunion,Etang-les Hauts,-21.1232,55.3434,4,0
+Reunion,Etang-Sale les Bains,-21.2399,55.3434,4,0
+Reunion,F. Sauger,-21.0065,55.2602,4,0
+Reunion,Fiagues,-21.2398,55.4435,4,0
+Reunion,Fleurimont,-21.0231,55.2769,4,0
+Reunion,Fleurs Jaunes,-21.1065,55.4602,4,0
+Reunion,Fond de Galet,-21.2898,55.6435,4,0
+Reunion,Fond de l Elibat,-20.8565,55.5435,4,0
+Reunion,Foret Mourouvin,-21.1231,55.7935,4,0
+Reunion,Fournaise,-21.2231,55.7269,4,0
+Reunion,Franche Terre,-20.8731,55.5935,4,0
+Reunion,Gillot,-20.873,55.527,4,0
+Reunion,Gol-le Haut,-21.223,55.427,4,0
+Reunion,Grand Battoir,-21.023,55.6436,4,0
+Reunion,Grand Benard,-21.0897,55.427,4,0
+Reunion,Grand Fond,-21.1397,55.627,4,0
+Reunion,Grand Pays Brule,-21.223,55.7936,4,0
+Reunion,Gueule Rouge,-21.123,55.4936,4,0
+Reunion,Harmonie,-20.9896,55.7271,4,0
+Reunion,Hell-Bourg,-21.0396,55.5437,4,0
+Reunion,Hermitage,-21.0563,55.2437,4,0
+Reunion,Ilet a Cordes,-21.1228,55.4438,4,0
+Reunion,Ilet a Guillaume,-20.9228,55.4272,4,0
+Reunion,Ilet a Vidot,-21.2895,55.6272,4,0
+Reunion,Ilet Bois-Rouge,-21.0062,55.4105,4,0
+Reunion,Ilet da Patience,-21.0895,55.6272,4,0
+Reunion,Ilet de Roche Plate,-21.2228,55.6272,4,0
+Reunion,Ilet Denise,-20.9562,55.3772,4,0
+Reunion,Ilet du Gros Galet,-21.1395,55.4938,4,0
+Reunion,Ilet Marron,-21.1895,55.5272,4,0
+Reunion,Ilet Nourry,-20.9728,55.4105,4,0
+Reunion,Ilet Payet,-20.9728,55.6105,4,0
+Reunion,Ilet Ronde,-21.2228,55.4605,4,0
+Reunion,Ilet Techer,-21.1728,55.5272,4,0
+Reunion,Ilet Tommic,-21.1395,55.4772,4,0
+Reunion,Jacques Payet,-21.3061,55.6773,4,0
+Reunion,Jean Petit-les Bas,-21.3394,55.6273,4,0
+Reunion,Kelval,-21.056,55.444,4,0
+Reunion,La Plaine des Cafres,-21.2059,55.5608,4,0
+Reunion,M. Lamotte,-20.9724,55.6776,4,0
+Reunion,Ma Pensee,-20.9724,55.7109,4,0
+Reunion,Mafatte,-21.0391,55.4276,4,0
+Reunion,Mahavel,-21.2558,55.4776,4,0
+Reunion,Maison de l Enfance,-21.1891,55.5776,4,0
+Reunion,Maison Henou,-21.1224,55.5942,4,0
+Reunion,Maison Moullan,-21.0224,55.5109,4,0
+Reunion,Maison Payet,-20.9558,55.6442,4,0
+Reunion,Mal-Cote,-20.8891,55.3942,4,0
+Reunion,Manapany,-21.3391,55.5776,4,0
+Reunion,Manapany-les Bains,-21.3558,55.6109,4,0
+Reunion,Manapany-les Hauts,-21.3058,55.5942,4,0
+Reunion,Mare,-20.8724,55.5442,4,0
+Reunion,Mare a Goyaves,-20.9891,55.5442,4,0
+Reunion,Mare a Martin,-20.9724,55.5109,4,0
+Reunion,Mare a Poule d Eau,-21.0224,55.5442,4,0
+Reunion,Mare a Trevet,-21.0391,55.5609,4,0
+Reunion,Mare a Vieille Place,-21.0058,55.5276,4,0
+Reunion,Mare Longue,-21.3558,55.7609,4,0
+Reunion,Mare Seche,-21.1058,55.4942,4,0
+Reunion,Marepine,-20.8391,55.5276,4,0
+Reunion,Marsouins,-21.0891,55.5776,4,0
+Reunion,Mascarene Islands,-19.9891,57.0109,4,0
+Reunion,Matouta,-21.3391,55.7109,4,0
+Reunion,Mazerin,-21.0391,55.5776,4,0
+Reunion,Menciol,-20.9224,55.6442,4,0
+Reunion,Mon Caprice,-21.2891,55.5109,4,0
+Reunion,Montagne,-20.8724,55.4442,4,0
+Reunion,Montause,-21.1558,55.3276,4,0
+Reunion,Montee Panon,-21.0724,55.2776,4,0
+Reunion,Montee Sano,-20.9224,55.5609,4,0
+Reunion,Montvert-les Hauts,-21.2891,55.5609,4,0
+Reunion,Morange,-21.0724,55.7442,4,0
+Reunion,Morne de Fourche,-21.0391,55.4442,4,0
+Reunion,Morne de l Etang,-21.0724,55.6609,4,0
+Reunion,Morne de Langevin,-21.2224,55.6609,4,0
+Reunion,Morne du Bras des Lianes,-20.9891,55.5942,4,0
+Reunion,Morne Patates a Durand,-20.9224,55.4942,4,0
+Reunion,Morne Sainte Anne,-21.0724,55.7109,4,0
+Reunion,Mornes de Saint-Francois,-21.1058,55.6609,4,0
+Reunion,Nez Coupe,-21.1723,55.7443,4,0
+Reunion,Nez Coupe du Tremblet,-21.2557,55.761,4,0
+Reunion,Nez de Boeuf,-21.1723,55.6277,4,0
+Reunion,Noel,-21.2057,55.3277,4,0
+Reunion,Orne,-21.3389,55.5611,4,0
+Reunion,Port,-20.9055,55.3112,4,0
+Reunion,Port Caron,-21.0888,55.7945,4,0
+Reunion,Portail,-21.1888,55.3112,4,0
+Reunion,Quartier-Francais,-20.9054,55.6446,4,0
+Reunion,Saint Paul Bay,-20.9718,55.2782,4,0
+Reunion,Saint Phillippe,-21.3385,55.7782,4,0
+Reunion,Saint-Andre,-20.9385,55.6615,4,0
+Reunion,Saint-Benoit,-21.0218,55.7282,4,0
+Reunion,Saint-Denis,-20.8552,55.4782,4,0
+Reunion,Saint-Francois,-20.8885,55.4782,4,0
+Reunion,Saint-Gilles-les Bains,-21.0218,55.2448,4,0
+Reunion,Saint-Joseph,-21.3552,55.6282,4,0
+Reunion,Saint-Leu,-21.1385,55.2948,4,0
+Reunion,Saint-Louis,-21.2552,55.4282,4,0
+Reunion,Saint-Paul,-20.9885,55.2782,4,0
+Reunion,Saint-Pierre,-21.3052,55.4948,4,0
+Reunion,Sainte-Anne,-21.0552,55.7615,4,0
+Reunion,Sainte-Anne-les Hauts,-21.0718,55.7282,4,0
+Reunion,Sainte-Clotilde,-20.8718,55.4948,4,0
+Reunion,Sainte-Marie,-20.8718,55.5615,4,0
+Reunion,Sainte-Suzanne,-20.8885,55.6282,4,0
+Reunion,Sainte-Therese,-20.9218,55.3448,4,0
+Reunion,Salazes,-21.0885,55.4448,4,0
+Reunion,Salazie,-21.0052,55.5615,4,0
+Reunion,Saline-les Hauts,-21.0718,55.3282,4,0
+Reunion,Savannah Usine,-20.9552,55.3282,4,0
+Reunion,Sommet de l Entre-Deux,-21.1052,55.5115,4,0
+Reunion,Source Denise,-20.9552,55.3615,4,0
+Reunion,Source Samary,-21.1385,55.5448,4,0
+Reunion,Sous les Bois Noirs,-21.3552,55.6448,4,0
+Reunion,Stella Matutina,-21.1718,55.3115,4,0
+Reunion,Surprise,-21.1385,55.3115,4,0
+Reunion,Taibit,-21.0717,55.4283,4,0
+Reunion,Takamaka,-21.2884,55.8116,4,0
+Reunion,Tampon,-21.2551,55.5283,4,0
+Reunion,Tapal,-21.1051,55.4449,4,0
+Reunion,Terrain Elisa,-20.9051,55.5616,4,0
+Reunion,Terre Sainte,-21.3217,55.4949,4,0
+Reunion,Trinite,-21.3217,55.7783,4,0
+Reunion,Trois Bassins,-21.0884,55.3116,4,0
+Reunion,Trois Mares-les Hauts,-21.2217,55.5283,4,0
+Reunion,Trois Petits Bonhommes,-21.0717,55.5116,4,0
+Reunion,Trois Roches,-21.0217,55.2616,4,0
+Reunion,Usine du Gol,-21.2383,55.4117,4,0
+Reunion,Vallee Orre,-21.2715,55.4618,4,0
+Reunion,Verger Hemery,-21.3549,55.5618,4,0
+Reunion,Village de l Anse,-21.3049,55.5618,4,0
+Reunion,Village de Montvert,-21.3049,55.5451,4,0
+Reunion,Village du Piton,-21.1882,55.3285,4,0
+Reunion,Village Ravine du Pont,-21.3049,55.5785,4,0
+Reunion,Vincendo,-21.3382,55.6951,4,0
+Reunion,Vue Belle,-21.0549,55.2785,4,0

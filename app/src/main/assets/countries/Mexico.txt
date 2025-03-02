@@ -1,0 +1,106 @@
+Mexico,Acapulco_Guerrero,16.8597,-99.907,-6,0
+Mexico,Acapulco_Sinaloa,24.9628,-107.6122,-7,0
+Mexico,Acapulco_Baja California,32.0844,-115.2097,-8,0
+Mexico,Acapulco_Puebla,18.8764,-98.4236,-6,0
+Mexico,Acapulco_Jalisco,21.943,-103.5236,-6,0
+Mexico,Ahualulco_Jalisco,20.693,-103.957,-6,0
+Mexico,Campeche,20.0099,-93.9901,-6,0
+Mexico,Cancun_Quintana Roo,21.1766,-86.8234,-6,0
+Mexico,Chihuahua_Nuevo Leon,25.1932,-99.7401,-6,0
+Mexico,Chihuahua,28.6432,-106.0734,-7,0
+Mexico,Chihuahua_Sonora,27.4766,-110.3068,-8,0
+Mexico,Chihuahua_Baja California,32.4943,-115.229,-8,0
+Mexico,Chihuahua_Chiapas,16.0349,-91.9651,-6,0
+Mexico,Chihuahua International_Chihuahua,28.7099,-105.9568,-7,0
+Mexico,Ciudad Juarez_Chihuahua,31.6432,-106.3234,-7,0
+Mexico,Ciudad Juarez_Mexico,31.7432,-106.4734,-6,0
+Mexico,Cordoba_Chiapas,16.7099,-93.9109,-6,0
+Mexico,Coyoacan_Sonora,28.9766,-111.6568,-8,0
+Mexico,Coyoacan_Distrito Federal,19.3388,-99.1504,-6,0
+Mexico,Cozumel_Quintana Roo,20.5182,-86.9359,-6,0
+Mexico,Cuernavaca_Morelos,18.9266,-99.2401,-6,0
+Mexico,Distrito Federal,19.26,-99.1567,-6,0
+Mexico,Distrito Federal_Baja California,32.5014,-115.0269,-8,0
+Mexico,Ensenada_Baja California,31.8768,-116.6066,-8,0
+Mexico,Guadalajara_Baja California,32.5545,-114.8544,-8,0
+Mexico,Guadalajara_Durango,24.3436,-104.323,-6,0
+Mexico,Guadalajara_Jalisco,20.677,-103.323,-6,0
+Mexico,Guadalajara_Sonora,28.777,-111.7564,-8,0
+Mexico,Guadalajara_Chihuahua,27.4436,-107.973,-7,0
+Mexico,Hermosillo_Sonora,29.0771,-110.9563,-8,0
+Mexico,Hermosillo_Hidalgo,20.4271,-98.9396,-6,0
+Mexico,Hermosillo_Guanajuato,20.586,-101.5193,-6,0
+Mexico,Hermosillo_Baja California,32.5207,-114.9129,-8,0
+Mexico,Leon_Guanajuato,21.1275,-101.6559,-6,0
+Mexico,Leon_San Luis Potosi,22.5275,-100.6559,-6,0
+Mexico,Leon_Chihuahua,30.7275,-107.6225,-7,0
+Mexico,Leon_Baja California,28.5275,-113.7725,-8,0
+Mexico,Leon Fonseca_Sinaloa,25.7441,-108.3392,-7,0
+Mexico,Leon Garcia_San Luis Potosi,22.0275,-98.9559,-6,0
+Mexico,Leon Guzman_Durango,25.5108,-103.6392,-6,0
+Mexico,Leon Zarate_Tabasco,18.24,-93.3059,-6,0
+Mexico,Leona_Coahuila de Zaragoza,26.0108,-101.1225,-6,0
+Mexico,Leona Vicario_Baja California,32.1225,-115.177,-8,0
+Mexico,Leona Vicario_Tabasco,17.7066,-91.5309,-6,0
+Mexico,Leonardo_Chihuahua,27.4775,-104.9059,-7,0
+Mexico,Leoncito_San Luis Potosi,23.3608,-100.7725,-6,0
+Mexico,Leones_Zacatecas,22.7275,-103.0725,-6,0
+Mexico,Leones_Sonora,29.8941,-110.9725,-8,0
+Mexico,Leones_Chihuahua,28.7608,-105.9392,-7,0
+Mexico,Leones_Nuevo Leon,24.9608,-99.3559,-6,0
+Mexico,Leonidas_Sonora,29.4108,-111.5392,-8,0
+Mexico,Leonides_Veracruz-Llave,20.3275,-97.3559,-6,0
+Mexico,Leontina_Sonora,29.8275,-111.1392,-8,0
+Mexico,Lerdo_Durango,25.5441,-103.5225,-6,0
+Mexico,Merida_Yucatan,20.9776,-89.6058,-6,0
+Mexico,Mexicali_Baja California,32.6442,-115.4224,-8,0
+Mexico,Mexico,19.4109,-99.0391,-6,0
+Mexico,Mexico_Sonora,28.6442,-111.6224,-8,0
+Mexico,Mexico_Chiapas,15.9942,-93.1974,-6,0
+Mexico,Mexico City,19.4326,-99.1332,-6,0
+Mexico,Mexico_Chihuahua,28.3609,-106.7891,-7,0
+Mexico,Mexico_Durango,26.7109,-105.8891,-6,0
+Mexico,Mexico_Baja California,32.5248,-114.9652,-8,0
+Mexico,Mexico_Distrito Federal,19.4451,-99.1277,-6,0
+Mexico,Mexico Libre_Tamaulipas,22.6442,-99.1391,-6,0
+Mexico,Monterrey_Tamaulipas,26.0442,-98.0724,-6,0
+Mexico,Monterrey_Sinaloa,25.6776,-107.5224,-7,0
+Mexico,Monterrey_Chiapas,16.9276,-93.2224,-6,0
+Mexico,Monterrey_Tabasco,17.8942,-93.5724,-6,0
+Mexico,Monterrey_Baja California,32.559,-115.0597,-8,0
+Mexico,Monterrey_Campeche,18.4109,-91.1058,-6,0
+Mexico,Monterrey_Sonora,29.2276,-110.7558,-8,0
+Mexico,Monterrey_Durango,25.4942,-103.6058,-6,0
+Mexico,Monterrey_Nuevo Leon,25.6776,-100.3058,-6,0
+Mexico,Monterrey Private_Nuevo Leon,25.7442,-100.2891,-6,0
+Mexico,Morelia_Michoacan de Ocampo,19.7109,-101.1058,-6,0
+Mexico,Naucalpan de Juarez_Mexico,19.4904,-99.2273,-6,0
+Mexico,Oaxaca,17.0611,-96.7056,-6,0
+Mexico,Playa del Carmen_Quintana Roo,20.6279,-87.0555,-6,0
+Mexico,Puebla,18.8445,-97.9888,-6,0
+Mexico,Puebla_Coahuila de Zaragoza,25.4445,-101.2888,-6,0
+Mexico,Puebla_Baja California,32.5756,-115.3421,-8,0
+Mexico,Puebla_Campeche,18.1445,-92.0888,-6,0
+Mexico,Puebla_Chiapas,16.6612,-91.8546,-6,0
+Mexico,Puerto Vallarta_Jalisco,20.6279,-105.2388,-6,0
+Mexico,Queretaro_Queretaro de Arteaga,20.6113,-100.3887,-6,0
+Mexico,Rancho Las Palomas_Coahuila de Zaragoza,27.7281,-101.2053,-6,0
+Mexico,Reynosa_Tamaulipas,26.0947,-98.2719,-6,0
+Mexico,Saltillo_Coahuila de Zaragoza,25.4282,-100.9885,-6,0
+Mexico,Saltillo New_Coahuila de Zaragoza,25.5448,-100.9052,-6,0
+Mexico,San Cristobal de Las Casas_Chiapas,16.7615,-92.6218,-6,0
+Mexico,Tampico_Tamaulipas,22.3116,-97.8384,-6,0
+Mexico,Tequesquitengo_Morelos,18.6116,-99.2551,-6,0
+Mexico,Tijuana_Baja California,32.5449,-116.9717,-8,0
+Mexico,Tijuana_Baja California Sur,25.2616,-111.1217,-7,0
+Mexico,Tlalnepantla_Mexico,19.5385,-99.2101,-6,0
+Mexico,Torreon_Coahuila de Zaragoza,25.5616,-103.4217,-6,0
+Mexico,Veracruz_Chiapas,15.3118,-92.4882,-6,0
+Mexico,Villa Flores_Chiapas,16.2451,-93.2215,-6,0
+Mexico,Wadley_San Luis Potosi,23.6286,-100.9714,-6,0
+Mexico,Warne_Baja California,32.1786,-116.2548,-8,0
+Mexico,Watamo_Sinaloa,23.1286,-106.2381,-7,0
+Mexico,Whitewater Creek,31.0786,-109.3048,-6,0
+Mexico,Wilberth_Baja California,32.4119,-116.6548,-8,0
+Mexico,Willard_Sonora,28.9786,-110.8548,-8,0
+Mexico,Xalapa_Veracruz-Llave,19.5453,-96.9047,-6,0

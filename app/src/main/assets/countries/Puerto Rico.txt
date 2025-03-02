@@ -1,0 +1,288 @@
+Puerto Rico,Aceitunas,18.4547,-67.0553,-4,0
+Puerto Rico,Acevedo,18.2737,-66.9743,-4,0
+Puerto Rico,Adjuntas,18.1747,-66.7133,-4,0
+Puerto Rico,Aguacate,18.5137,-67.0963,-4,0
+Puerto Rico,Aguada,18.3907,-67.1793,-4,0
+Puerto Rico,Aguadilla,18.4597,-67.1236,-4,0
+Puerto Rico,Aguas Buenas,18.2687,-66.0933,-4,0
+Puerto Rico,Aguas Claras,18.2647,-65.6443,-4,0
+Puerto Rico,Aibonito,18.1517,-66.2563,-4,0
+Puerto Rico,Alcantavilla,18.4887,-66.8443,-4,0
+Puerto Rico,Aldea Cintron,18.3087,-65.6353,-4,0
+Puerto Rico,Algarrobo,17.9927,-66.0753,-4,0
+Puerto Rico,Allende,18.4137,-66.5943,-4,0
+Puerto Rico,Almacigo Bajo,18.0667,-66.8573,-4,0
+Puerto Rico,Altagracia,18.4497,-66.4683,-4,0
+Puerto Rico,Altamira,18.4097,-66.0943,-4,0
+Puerto Rico,Amelia,18.4467,-66.1073,-4,0
+Puerto Rico,Amuelas,18.0437,-66.4963,-4,0
+Puerto Rico,Anton Ruiz,18.1967,-65.7993,-4,0
+Puerto Rico,Aquilino,18.2677,-67.1093,-4,0
+Puerto Rico,Arecibo,18.3764,-66.7236,-4,0
+Puerto Rico,Arenales,18.4897,-67.1083,-4,0
+Puerto Rico,Arenas,18.0347,-66.8993,-4,0
+Puerto Rico,Arturo Lluberas,18.0577,-66.8543,-4,0
+Puerto Rico,Arus,18.0117,-66.5193,-4,0
+Puerto Rico,Asomante,18.3907,-66.5873,-4,0
+Puerto Rico,Balboa,18.2148,-67.1242,-4,0
+Puerto Rico,Ballaja,18.0908,-67.1282,-4,0
+Puerto Rico,Banos de Coamo,18.0498,-66.3642,-4,0
+Puerto Rico,Barrancas,17.9598,-66.1202,-4,0
+Puerto Rico,Barranquitas,18.1988,-66.2972,-4,0
+Puerto Rico,Bayamon,18.4098,-66.1569,-4,0
+Puerto Rico,Bayaney,18.3808,-66.7842,-4,0
+Puerto Rico,Belgica,18.0188,-66.6002,-4,0
+Puerto Rico,Beltran,18.3528,-65.6242,-4,0
+Puerto Rico,Betances,18.0408,-67.1252,-4,0
+Puerto Rico,Bizarreta,18.0078,-66.4482,-4,0
+Puerto Rico,Blasina,18.3868,-65.8082,-4,0
+Puerto Rico,Boqueron,18.0758,-66.4942,-4,0
+Puerto Rico,Boquillas,18.4738,-66.4792,-4,0
+Puerto Rico,Bucana,18.0168,-66.5822,-4,0
+Puerto Rico,Bucarabones,18.4078,-66.2092,-4,0
+Puerto Rico,Buena Vista,18.1278,-65.7892,-4,0
+Puerto Rico,Buenos Aires,18.4508,-66.0532,-4,0
+Puerto Rico,Cabo Rojo,18.0989,-67.1361,-4,0
+Puerto Rico,Caguas,18.2459,-66.0391,-4,0
+Puerto Rico,Carolina,18.3929,-65.9481,-4,0
+Puerto Rico,Catano,18.4432,-66.1234,-4,0
+Puerto Rico,Cayey,18.1432,-66.1734,-4,0
+Puerto Rico,Cidra,18.1879,-66.1521,-4,0
+Puerto Rico,Daguao,18.238,-65.674,-4,0
+Puerto Rico,Descalabrado,18.018,-66.425,-4,0
+Puerto Rico,Dominguito,18.433,-66.738,-4,0
+Puerto Rico,Dorado,18.471,-66.258,-4,0
+Puerto Rico,Dos Pinos,18.417,-66.029,-4,0
+Puerto Rico,Duque,18.251,-65.741,-4,0
+Puerto Rico,El Cinco,18.2201,-65.9959,-4,0
+Puerto Rico,El Pueblo del Nino,18.3931,-65.8439,-4,0
+Puerto Rico,El Rosario,18.0391,-66.8469,-4,0
+Puerto Rico,El Saco,18.4231,-66.7869,-4,0
+Puerto Rico,Estacion Naguabo,18.2161,-65.7199,-4,0
+Puerto Rico,Extension Mariani,18.0161,-66.6139,-4,0
+Puerto Rico,Fagot,18.0262,-66.5908,-4,0
+Puerto Rico,Fairview,18.3792,-66.0278,-4,0
+Puerto Rico,Fajardo,18.3269,-65.6565,-4,0
+Puerto Rico,Faria,18.3832,-66.1878,-4,0
+Puerto Rico,Feliciano,18.4762,-67.1158,-4,0
+Puerto Rico,Fermina,18.1882,-65.8438,-4,0
+Puerto Rico,Finca Juanita,18.0142,-67.0438,-4,0
+Puerto Rico,Finca La Corza,18.2162,-67.0588,-4,0
+Puerto Rico,Finca Marini,18.2272,-67.0728,-4,0
+Puerto Rico,Finca Pinones,18.4592,-65.9478,-4,0
+Puerto Rico,Finca San Miguel,18.2662,-67.0778,-4,0
+Puerto Rico,Flamboyant Gardens,18.4022,-66.1508,-4,0
+Puerto Rico,Flamingo Garden,18.3862,-66.1558,-4,0
+Puerto Rico,Floral Park,18.4302,-66.0428,-4,0
+Puerto Rico,Forest Hills,18.3982,-66.1538,-4,0
+Puerto Rico,Fortuna,17.9932,-66.2468,-4,0
+Puerto Rico,Fraternidad,18.0222,-66.8978,-4,0
+Puerto Rico,Fuerte San Cristobal,18.4792,-66.1008,-4,0
+Puerto Rico,Fuerte San Geronimo,18.4752,-66.0758,-4,0
+Puerto Rico,Fuig,18.0002,-66.9058,-4,0
+Puerto Rico,Galateo Bajo,18.4683,-66.9937,-4,0
+Puerto Rico,Galicias,18.0063,-66.5047,-4,0
+Puerto Rico,Gandara,18.1883,-66.1357,-4,0
+Puerto Rico,Garcia,18.1563,-67.1457,-4,0
+Puerto Rico,Garden Hills,18.4113,-66.1037,-4,0
+Puerto Rico,Garita,18.1083,-67.1647,-4,0
+Puerto Rico,Garona,18.0233,-65.9157,-4,0
+Puerto Rico,Garrochales,18.4663,-66.5567,-4,0
+Puerto Rico,Guanabana,18.0233,-67.1077,-4,0
+Puerto Rico,Guanaiibo,18.1553,-67.1277,-4,0
+Puerto Rico,Guanajibo Castillo,18.1773,-67.1447,-4,0
+Puerto Rico,Guanica,17.9843,-66.8977,-4,0
+Puerto Rico,Guaniquilla,18.0763,-67.1697,-4,0
+Puerto Rico,Guaraguao,18.1373,-66.6607,-4,0
+Puerto Rico,Guayabal,18.0933,-66.4917,-4,0
+Puerto Rico,Guayabo Dulce,18.2013,-66.8017,-4,0
+Puerto Rico,Guayama,17.9936,-66.1564,-4,0
+Puerto Rico,Guayanilla,18.0313,-66.7817,-4,0
+Puerto Rico,Guaydia,18.0363,-66.7787,-4,0
+Puerto Rico,Guaynabo,18.3693,-66.1007,-4,0
+Puerto Rico,Guaypao,18.0263,-66.7217,-4,0
+Puerto Rico,Gurabo,18.2663,-65.9627,-4,0
+Puerto Rico,Hatillo,18.4984,-66.8156,-4,0
+Puerto Rico,Humacao,18.1624,-65.8176,-4,0
+Puerto Rico,Iglesia,18.4415,-67.1435,-4,0
+Puerto Rico,Imbery,18.4495,-66.5425,-4,0
+Puerto Rico,Indiera Alta,18.1645,-66.8745,-4,0
+Puerto Rico,Ingenio,18.4545,-66.2155,-4,0
+Puerto Rico,Isabel Josefa,18.1165,-67.1165,-4,0
+Puerto Rico,Isabel Segunda,18.1615,-65.4325,-4,0
+Puerto Rico,Isabela,18.5135,-67.0145,-4,0
+Puerto Rico,Isidra,18.3515,-65.6315,-4,0
+Puerto Rico,Isleta,18.3865,-67.0985,-4,0
+Puerto Rico,Islote,18.4995,-66.5865,-4,0
+Puerto Rico,Jacaguas,18.0666,-66.5184,-4,0
+Puerto Rico,Jacana,18.0926,-66.2864,-4,0
+Puerto Rico,Jagual,18.1746,-65.9854,-4,0
+Puerto Rico,Jaguas,18.0886,-66.7154,-4,0
+Puerto Rico,Jagueyes,18.1226,-66.4984,-4,0
+Puerto Rico,Jajome,18.0756,-66.1504,-4,0
+Puerto Rico,Jardines de Arecibo,18.4836,-66.7404,-4,0
+Puerto Rico,Jardines de Caparra,18.4066,-66.1204,-4,0
+Puerto Rico,Jardines de Monte Hatillo,18.4006,-66.0004,-4,0
+Puerto Rico,Jardines de Ponce,18.0546,-66.5844,-4,0
+Puerto Rico,Jardines del Caribe,18.0246,-66.6384,-4,0
+Puerto Rico,Jarealito,18.4916,-66.6804,-4,0
+Puerto Rico,Jauca,17.9816,-66.3554,-4,0
+Puerto Rico,Jayuya,18.2316,-66.5814,-4,0
+Puerto Rico,Jayuya Abajo,18.2306,-66.6054,-4,0
+Puerto Rico,Jobos,18.5096,-67.0614,-4,0
+Puerto Rico,Jose Mercado,18.2296,-66.0134,-4,0
+Puerto Rico,Josefa,18.3246,-65.6394,-4,0
+Puerto Rico,Joya de los Santos,18.4786,-66.7264,-4,0
+Puerto Rico,Joyuda,18.1276,-67.1724,-4,0
+Puerto Rico,Juana Diaz,18.0646,-66.4964,-4,0
+Puerto Rico,Juana Matos,18.4496,-66.1194,-4,0
+Puerto Rico,Juncos,18.2396,-65.9104,-4,0
+Puerto Rico,Junio,18.1986,-65.7754,-4,0
+Puerto Rico,Korea,18.3887,-65.7713,-4,0
+Puerto Rico,Loiza,18.4438,-65.8702,-4,0
+Puerto Rico,Loiza Valley,18.3878,-65.9032,-4,0
+Puerto Rico,Mabi,18.3819,-65.7681,-4,0
+Puerto Rico,Macana,18.0689,-66.7631,-4,0
+Puerto Rico,Machuchal,18.0569,-66.9331,-4,0
+Puerto Rico,Magas Arriba,18.0299,-66.7581,-4,0
+Puerto Rico,Maguayo,18.0229,-67.0731,-4,0
+Puerto Rico,Magueyes,18.0329,-66.8771,-4,0
+Puerto Rico,Maizales,18.2459,-65.7501,-4,0
+Puerto Rico,Malecon,18.2329,-67.1501,-4,0
+Puerto Rico,Mameyal,18.4859,-66.2641,-4,0
+Puerto Rico,Mameyes,18.3829,-65.7601,-4,0
+Puerto Rico,Manati,18.4399,-66.4821,-4,0
+Puerto Rico,Maracayo,18.4959,-66.8421,-4,0
+Puerto Rico,Maraguez,18.1019,-66.5681,-4,0
+Puerto Rico,Margarita,18.3659,-65.6881,-4,0
+Puerto Rico,Maria Jimenez,18.2779,-65.9311,-4,0
+Puerto Rico,Mariani,18.0199,-66.6071,-4,0
+Puerto Rico,Maricao,18.1939,-66.9691,-4,0
+Puerto Rico,Marruecos,18.4529,-66.0601,-4,0
+Puerto Rico,Marueno,18.0949,-66.6571,-4,0
+Puerto Rico,Mata y Orsini,18.2799,-67.0691,-4,0
+Puerto Rico,Matilde,18.2809,-66.8331,-4,0
+Puerto Rico,Matojillo,18.4439,-66.8371,-4,0
+Puerto Rico,Maunabo,18.0199,-65.8891,-4,0
+Puerto Rico,Mayaguez,18.2276,-67.1391,-4,0
+Puerto Rico,Media Quijada,17.9959,-66.8271,-4,0
+Puerto Rico,Mediania Alta,18.4369,-65.8331,-4,0
+Puerto Rico,Medina,18.3109,-66.2881,-4,0
+Puerto Rico,Miraflores,18.4369,-66.6411,-4,0
+Puerto Rico,Miranda,18.3999,-66.3731,-4,0
+Puerto Rico,Moca,18.4079,-67.1031,-4,0
+Puerto Rico,Monserrate,18.4499,-66.3491,-4,0
+Puerto Rico,Monte Carlo,18.4599,-66.3811,-4,0
+Puerto Rico,Mora,18.4809,-67.0221,-4,0
+Puerto Rico,Morales,18.2449,-66.0481,-4,0
+Puerto Rico,Morovis,18.3389,-66.3961,-4,0
+Puerto Rico,Moscou,18.1619,-65.4221,-4,0
+Puerto Rico,Mosquito Desembarcadero,18.1449,-65.5011,-4,0
+Puerto Rico,Naguabo,18.225,-65.724,-4,0
+Puerto Rico,Naranjales,18.223,-66.988,-4,0
+Puerto Rico,Naranjito,18.314,-66.234,-4,0
+Puerto Rico,Negrito,18.339,-66.523,-4,0
+Puerto Rico,Nemesio Canales,18.434,-66.069,-4,0
+Puerto Rico,Nogueras,18.158,-66.155,-4,0
+Puerto Rico,Notre Dame,18.244,-66.034,-4,0
+Puerto Rico,Nuevo,18.439,-67.143,-4,0
+Puerto Rico,Obrero,18.4471,-66.0419,-4,0
+Puerto Rico,Ocean Park,18.4651,-66.0439,-4,0
+Puerto Rico,Oceanview,18.4831,-66.7249,-4,0
+Puerto Rico,Ojo de Agua,18.4621,-66.3889,-4,0
+Puerto Rico,Olimpo,18.0151,-66.0979,-4,0
+Puerto Rico,Olivares,18.0151,-67.0599,-4,0
+Puerto Rico,Ollas Hondas,18.0601,-66.5179,-4,0
+Puerto Rico,Oriente,18.4541,-66.7039,-4,0
+Puerto Rico,Orocovis,18.2401,-66.3799,-4,0
+Puerto Rico,Ortiga,18.1791,-66.4369,-4,0
+Puerto Rico,Ortiz,18.3401,-66.3089,-4,0
+Puerto Rico,Ponce,18.0279,-66.5888,-4,0
+Puerto Rico,Ponce de Leon,18.0192,-66.6128,-4,0
+Puerto Rico,Quebrada,18.3703,-66.8217,-4,0
+Puerto Rico,Quebrada Grande,18.1983,-66.2657,-4,0
+Puerto Rico,Quebrada Seca,18.2503,-65.6537,-4,0
+Puerto Rico,Quebradillas,18.4873,-66.9277,-4,0
+Puerto Rico,Quemados,18.1953,-65.9757,-4,0
+Puerto Rico,Quinta Esperanza,17.9813,-66.5567,-4,0
+Puerto Rico,Rio Piedras,18.4104,-66.0386,-4,0
+Puerto Rico,San Juan,18.4795,-66.0945,-4,0
+Puerto Rico,San Lorenzo,18.2025,-65.9495,-4,0
+Puerto Rico,Suromar,18.2015,-65.7155,-4,0
+Puerto Rico,Tablonal,18.4096,-67.1554,-4,0
+Puerto Rico,Tablones,18.2546,-65.7344,-4,0
+Puerto Rico,Tabonuco,18.2966,-66.8764,-4,0
+Puerto Rico,Tallaboa,18.0086,-66.7054,-4,0
+Puerto Rico,Tallaboa Alta,18.0646,-66.6894,-4,0
+Puerto Rico,Tallaboa Poniente,18.0456,-66.7224,-4,0
+Puerto Rico,Tamarindo,18.4496,-67.1444,-4,0
+Puerto Rico,Tiburones,18.4456,-66.5694,-4,0
+Puerto Rico,Tintillo,18.4186,-66.1174,-4,0
+Puerto Rico,Tio,18.3836,-66.1644,-4,0
+Puerto Rico,Toa Alta,18.4016,-66.2374,-4,0
+Puerto Rico,Toa Baja,18.4576,-66.2484,-4,0
+Puerto Rico,Toita,18.1446,-66.1784,-4,0
+Puerto Rico,Toma de Agua,18.3666,-65.8894,-4,0
+Puerto Rico,Torrecillas,18.3526,-66.4234,-4,0
+Puerto Rico,Torres,18.1576,-66.2644,-4,0
+Puerto Rico,Torrimar,18.4016,-66.1064,-4,0
+Puerto Rico,Tosquero,18.4016,-67.1924,-4,0
+Puerto Rico,Tras Talleres,18.4596,-66.0684,-4,0
+Puerto Rico,Trujillo,18.3449,-65.8217,-4,0
+Puerto Rico,Trujillo Alto,18.3686,-65.9964,-4,0
+Puerto Rico,Trujillo Bajo,18.3816,-65.9444,-4,0
+Puerto Rico,Truman,18.4306,-66.0284,-4,0
+Puerto Rico,Tuque,18.0006,-66.6454,-4,0
+Puerto Rico,Turabo,18.2306,-66.0514,-4,0
+Puerto Rico,University Gardens,18.4197,-66.0543,-4,0
+Puerto Rico,Utuado,18.2797,-66.6893,-4,0
+Puerto Rico,Valencia,18.4138,-66.1802,-4,0
+Puerto Rico,Valle Arriba Heights,18.4228,-65.9622,-4,0
+Puerto Rico,Van Scoy,18.3628,-66.1842,-4,0
+Puerto Rico,Vapor,18.3178,-65.6612,-4,0
+Puerto Rico,Varela,18.3898,-66.6192,-4,0
+Puerto Rico,Vavas,18.0128,-66.5662,-4,0
+Puerto Rico,Vayas,18.0658,-66.5722,-4,0
+Puerto Rico,Vazquez,18.0798,-66.2272,-4,0
+Puerto Rico,Vega Alta,18.4258,-66.3202,-4,0
+Puerto Rico,Vega Baja,18.4578,-66.3762,-4,0
+Puerto Rico,Velazquez,17.9868,-66.4052,-4,0
+Puerto Rico,Ventura,18.0288,-66.5322,-4,0
+Puerto Rico,Vertedero,18.0938,-66.2342,-4,0
+Puerto Rico,Victoria,18.4188,-67.1432,-4,0
+Puerto Rico,Vieques,18.4388,-65.8212,-4,0
+Puerto Rico,Villa Andalucia,18.3958,-66.0162,-4,0
+Puerto Rico,Villa Blanca,18.2578,-66.0392,-4,0
+Puerto Rico,Villa Borinquen,18.1888,-66.0332,-4,0
+Puerto Rico,Villa Caparra,18.4218,-66.0992,-4,0
+Puerto Rico,Villa Capri,18.4058,-66.0192,-4,0
+Puerto Rico,Villa Carolina,18.4118,-65.9512,-4,0
+Puerto Rico,Villa Clementina,18.3818,-66.0822,-4,0
+Puerto Rico,Villa Contessa,18.3928,-66.1572,-4,0
+Puerto Rico,Villa de Rey,18.2288,-66.0502,-4,0
+Puerto Rico,Villa Espana,18.4128,-66.1272,-4,0
+Puerto Rico,Villa Esperanza,18.0338,-66.5902,-4,0
+Puerto Rico,Villa Flores,18.0218,-66.5792,-4,0
+Puerto Rico,Villa Fontana,18.4178,-65.9622,-4,0
+Puerto Rico,Villa Graciela,18.2518,-65.9122,-4,0
+Puerto Rico,Villa Grillasca,18.0138,-66.6122,-4,0
+Puerto Rico,Villa Mar,18.4568,-66.0172,-4,0
+Puerto Rico,Villa Milagros,18.0388,-66.8502,-4,0
+Puerto Rico,Villa Nevares,18.4058,-66.0582,-4,0
+Puerto Rico,Villa Palmeras,18.4538,-66.0392,-4,0
+Puerto Rico,Villa Perez,18.2048,-66.7672,-4,0
+Puerto Rico,Villa Prades,18.4208,-66.0132,-4,0
+Puerto Rico,Villa Rica,18.4098,-66.1592,-4,0
+Puerto Rico,Villalba,18.1408,-66.4812,-4,0
+Puerto Rico,Villodas,17.9888,-66.1672,-4,0
+Puerto Rico,Vinet,18.3448,-65.1552,-4,0
+Puerto Rico,Vista Alegre,18.0258,-65.8862,-4,0
+Puerto Rico,Vista Verde,18.1988,-67.1422,-4,0
+Puerto Rico,Vistamar,18.4408,-65.9672,-4,0
+Puerto Rico,Volcan,18.4228,-66.1732,-4,0
+Puerto Rico,Yabucoa,18.0651,-65.8679,-4,0
+Puerto Rico,Yauco,18.0491,-66.8379,-4,0
+Puerto Rico,Yeguada,18.4931,-66.8709,-4,0
+Puerto Rico,Yuquiyu,18.3601,-65.7169,-4,0
+Puerto Rico,Zanja Blanca,18.1142,-66.3958,-4,0
+Puerto Rico,Zanja Negra,18.1092,-66.3868,-4,0

@@ -1,0 +1,156 @@
+Paraguay,24 De Julio_Cordillera,-25.0783,-57.295,-4,0
+Paraguay,28 Km Paranambu_Alto Parana,-25.8117,-54.8283,-4,0
+Paraguay,Asuncion_Central,-25.257,-57.657,-4,0
+Paraguay,Bobi Pucu_Itapua,-26.7902,-56.2569,-4,0
+Paraguay,Ciudad del Este_Alto Parana,-25.5068,-54.6068,-4,0
+Paraguay,Encarnacion_Itapua,-27.3232,-55.8899,-4,0
+Paraguay,General Genes_Presidente Hayes,-24.0064,-59.5397,-4,0
+Paraguay,General Pando_Alto Paraguay,-19.5897,-59.7564,-4,0
+Paraguay,Hachita_San Pedro,-24.5896,-56.1729,-4,0
+Paraguay,Hohenau_Itapua,-27.0729,-55.7396,-4,0
+Paraguay,Hotel Rio Negro_Presidente Hayes,-24.1563,-58.3063,-4,0
+Paraguay,Hyhaty_Guaira,-25.7229,-56.5063,-4,0
+Paraguay,Iba-Pobo_San Pedro,-23.637,-57.3806,-4,0
+Paraguay,Ibapobo_Alto Paraguay,-19.6562,-58.7228,-4,0
+Paraguay,Igatimi_Canindeyu,-24.0728,-55.4895,-4,0
+Paraguay,Ihacanguazu_Guaira,-25.9395,-56.4728,-4,0
+Paraguay,Ihu_Caaguazu,-24.9728,-55.9728,-4,0
+Paraguay,Ijhoby_Central,-25.4395,-57.3062,-4,0
+Paraguay,Independencia_Guaira,-25.7062,-56.2395,-4,0
+Paraguay,Independencia_Boqueron,-21.5562,-62.1562,-4,0
+Paraguay,Industrial Mbaracayu_Alto Parana,-25.1895,-54.6395,-4,0
+Paraguay,Ingavi_Alto Paraguay,-19.9062,-60.7728,-4,0
+Paraguay,Insfran-cue_Presidente Hayes,-24.5395,-57.9062,-4,0
+Paraguay,Ipacarai_Central,-25.3728,-57.2562,-4,0
+Paraguay,Irala_Alto Parana,-25.8895,-54.7062,-4,0
+Paraguay,Irendague_Boqueron,-20.5062,-62.1228,-4,0
+Paraguay,Isidro_Itapua,-27.3562,-55.8062,-4,0
+Paraguay,Isla Alta_Itapua,-26.9895,-56.3062,-4,0
+Paraguay,Isla Banco_Presidente Hayes,-25.2728,-57.6562,-4,0
+Paraguay,Isla Boby-nu_Neembucu,-27.2228,-58.4062,-4,0
+Paraguay,Isla Caraya_Caazapa,-26.5895,-56.4395,-4,0
+Paraguay,Isla Clavel_Itapua,-27.3728,-56.5895,-4,0
+Paraguay,Isla Cuatro_Alto Paraguay,-19.7395,-58.2228,-4,0
+Paraguay,Isla Cururu_Itapua,-27.3562,-56.5062,-4,0
+Paraguay,Isla Fretes_Paraguari,-25.9562,-57.4062,-4,0
+Paraguay,Isla Guazu_Cordillera,-25.2728,-56.7728,-4,0
+Paraguay,Isla Hermosa_Neembucu,-25.8895,-57.8062,-4,0
+Paraguay,Isla Ity a_Caaguazu,-25.4562,-56.6228,-4,0
+Paraguay,Isla La Muerta_Amambay,-22.5395,-56.6562,-4,0
+Paraguay,Isla Laguna_Caaguazu,-25.4228,-56.6562,-4,0
+Paraguay,Isla Mborevi_Misiones,-27.4062,-56.8228,-4,0
+Paraguay,Isla Oculto_Itapua,-27.5228,-56.4728,-4,0
+Paraguay,Isla Palo Seco_Itapua,-27.4395,-56.3728,-4,0
+Paraguay,Isla Paloma_Itapua,-27.3395,-56.4062,-4,0
+Paraguay,Isla Paray_Central,-25.8062,-57.7728,-4,0
+Paraguay,Isla Poi,-22.4895,-59.7228,-4,0
+Paraguay,Isla Pucu_Itapua,-27.3562,-56.2395,-4,0
+Paraguay,Isla Pucu_Cordillera,-25.2895,-56.8895,-4,0
+Paraguay,Isla Real_Concepcion,-22.6062,-57.6395,-4,0
+Paraguay,Isla Saca_Caazapa,-26.5062,-56.3395,-4,0
+Paraguay,Isla San Pablo_Itapua,-27.3728,-56.3728,-4,0
+Paraguay,Isla Sapucai_Cordillera,-25.4062,-56.6728,-4,0
+Paraguay,Isla Talavera_Itapua,-27.5228,-56.4228,-4,0
+Paraguay,Isla Umbu_Neembucu,-26.9895,-58.2895,-4,0
+Paraguay,Isla Yacyreta_Itapua,-27.4062,-56.4895,-4,0
+Paraguay,Isla Yapepo_Caazapa,-26.7228,-56.4728,-4,0
+Paraguay,Isla Ybycui_Itapua,-27.2728,-56.1228,-4,0
+Paraguay,Isla Ypecua_Cordillera,-24.9895,-57.3062,-4,0
+Paraguay,Islas de la Limosna,-27.2562,-58.1062,-4,0
+Paraguay,Ita Vepa_Alto Parana,-25.9562,-54.6228,-4,0
+Paraguay,Ita Ydate_Central,-25.5395,-57.5062,-4,0
+Paraguay,Itacora_Neembucu,-27.1895,-58.2562,-4,0
+Paraguay,Itacurabi_San Pedro,-24.4895,-56.6728,-4,0
+Paraguay,Itacurbi_San Pedro,-23.5895,-57.1062,-4,0
+Paraguay,Itacurubi_Concepcion,-23.3228,-57.3562,-4,0
+Paraguay,Itacurubi_Cordillera,-25.4395,-56.8395,-4,0
+Paraguay,Itaipu_Alto Parana,-25.3895,-54.5895,-4,0
+Paraguay,Itanara_Canindeyu,-23.8062,-55.7728,-4,0
+Paraguay,Itape_Guaira,-25.8395,-56.6062,-4,0
+Paraguay,Itapua Poty_Itapua,-26.5728,-55.5562,-4,0
+Paraguay,Itapucumi_Concepcion,-22.7395,-57.8562,-4,0
+Paraguay,Itaquyry_Alto Parana,-24.9228,-55.2062,-4,0
+Paraguay,Itaquyry_San Pedro,-23.5728,-55.9562,-4,0
+Paraguay,Itaugua Guazu_Central,-25.3895,-57.3062,-4,0
+Paraguay,Itayuru_Misiones,-26.5395,-57.0562,-4,0
+Paraguay,Iturbe_Guaira,-26.0395,-56.4728,-4,0
+Paraguay,J J Perez_Alto Paraguay,-19.4061,-60.2394,-4,0
+Paraguay,J. D. Ocampos_Caaguazu,-25.3894,-55.4227,-4,0
+Paraguay,J. E. Estigarribia_Caaguazu,-25.3727,-55.5894,-4,0
+Paraguay,J. Leon Mallorquin_Alto Parana,-25.3894,-55.2561,-4,0
+Paraguay,J. R. Chavez_Caaguazu,-24.9561,-56.2394,-4,0
+Paraguay,J. Rodriguez_Alto Paraguay,-22.0061,-58.3227,-4,0
+Paraguay,J. Saldivar_Central,-25.4394,-57.3894,-4,0
+Paraguay,Jara-cue_Paraguari,-26.4561,-56.7894,-4,0
+Paraguay,Jardin_San Pedro,-24.4061,-56.1061,-4,0
+Paraguay,Jayucubas_Boqueron,-22.5561,-60.6727,-4,0
+Paraguay,Jejui_San Pedro,-24.0894,-56.4727,-4,0
+Paraguay,Jejui Guazu_Canindeyu,-24.2061,-55.5894,-4,0
+Paraguay,Jesuitas_Alto Paraguay,-19.8394,-59.2727,-4,0
+Paraguay,Jhugua_Guaira,-25.6894,-56.5227,-4,0
+Paraguay,Jimenez_Alto Paraguay,-20.0561,-58.2061,-4,0
+Paraguay,Jjovy_Alto Paraguay,-20.2894,-60.0894,-4,0
+Paraguay,Jorge Bolf_Itapua,-27.2727,-56.4227,-4,0
+Paraguay,Jose Eduvigis Diaz_Neembucu,-27.1561,-58.4061,-4,0
+Paraguay,Jose Fassardi_Guaira,-25.9561,-56.1061,-4,0
+Paraguay,Jose Potrero_Itapua,-26.8727,-55.9894,-4,0
+Paraguay,Juan Cue_Alto Paraguay,-21.9727,-59.5227,-4,0
+Paraguay,Juan De Ayolas_Misiones,-27.3894,-56.8894,-4,0
+Paraguay,Juan de Zalazar_Presidente Hayes,-23.0894,-59.2894,-4,0
+Paraguay,Juan E. O leary_Alto Parana,-25.4061,-55.3727,-4,0
+Paraguay,Juan M. Fruto_Caaguazu,-25.3561,-55.7894,-4,0
+Paraguay,Juan Piru-cue_Presidente Hayes,-25.1061,-57.7727,-4,0
+Paraguay,Juanita_Alto Parana,-25.1061,-55.0394,-4,0
+Paraguay,Julio Silva_Presidente Hayes,-22.6727,-58.3561,-4,0
+Paraguay,Junin_Alto Paraguay,-20.1227,-60.1894,-4,0
+Paraguay,Katupyry_Itapua,-26.4726,-55.5226,-4,0
+Paraguay,Kendall_Central,-25.306,-57.3393,-4,0
+Paraguay,Kilometro 160,-22.0726,-59.3226,-4,0
+Paraguay,Kilometro 262_Boqueron,-22.056,-60.3393,-4,0
+Paraguay,Neembucu,-26.989,-57.989,-4,0
+Paraguay,Obligado_Itapua,-27.0222,-55.6222,-4,0
+Paraguay,Obraje Natalia_Amambay,-23.4722,-56.0556,-4,0
+Paraguay,Obraje San Miguel_Boqueron,-21.9645,-60.5767,-4,0
+Paraguay,Ocampo-cue_San Pedro,-23.9222,-56.9556,-4,0
+Paraguay,Ochoa_Boqueron,-21.7617,-60.9347,-4,0
+Paraguay,Octavo Departamento_Misiones,-26.9889,-56.9889,-4,0
+Paraguay,Ohia_Alto Paraguay,-20.4722,-58.7056,-4,0
+Paraguay,Olimpo_Alto Paraguay,-21.0222,-57.8889,-4,0
+Paraguay,Oliva_Neembucu,-26.0056,-57.8722,-4,0
+Paraguay,Olivares_Presidente Hayes,-23.8222,-59.7222,-4,0
+Paraguay,Omasuyos_Boqueron,-21.0222,-61.1389,-4,0
+Paraguay,Oratorio Antonio_Misiones,-26.7056,-56.9556,-4,0
+Paraguay,Oratorio Juan Bautista_Paraguari,-26.3056,-56.9222,-4,0
+Paraguay,Oratorio Perpetuo Socorro_Itapua,-26.7056,-56.0889,-4,0
+Paraguay,Oratorio San Antonio_Misiones,-26.8722,-56.8722,-4,0
+Paraguay,Ordonez_Alto Parana,-25.7389,-54.6222,-4,0
+Paraguay,Orihuela_Presidente Hayes,-23.4056,-58.6556,-4,0
+Paraguay,Otacio_Boqueron,-21.9556,-61.4889,-4,0
+Paraguay,Otazu_Alto Paraguay,-21.9722,-58.3556,-4,0
+Paraguay,Quiindy_Paraguari,-25.9887,-57.1554,-4,0
+Paraguay,Quintana_Boqueron,-23.472,-61.172,-4,0
+Paraguay,Quinto Departamento_Caaguazu,-25.322,-55.822,-4,0
+Paraguay,Quiteria_Itapua,-27.272,-55.8887,-4,0
+Paraguay,Quyquyho_Paraguari,-26.222,-56.972,-4,0
+Paraguay,Ugarte Cue_Concepcion,-22.9383,-57.305,-4,0
+Paraguay,Ultimo Rancho_Presidente Hayes,-23.4216,-58.255,-4,0
+Paraguay,Upper Chaco_Boqueron,-21.405,-59.9883,-4,0
+Paraguay,Uruguaita Estancia_San Pedro,-24.7383,-57.1383,-4,0
+Paraguay,Urusapucai_Itapua,-27.1716,-55.9383,-4,0
+Paraguay,Vacay_Itapua,-26.8882,-55.5882,-4,0
+Paraguay,Valenzuela_Cordillera,-25.5715,-56.8549,-4,0
+Paraguay,Valle Apua_Paraguari,-26.0215,-57.2382,-4,0
+Paraguay,Vapor Cue_Cordillera,-25.1882,-56.7715,-4,0
+Paraguay,Villa Curuguaty_Canindeyu,-24.5049,-55.6882,-4,0
+Paraguay,Villarrica_Guaira,-25.7382,-56.4215,-4,0
+Paraguay,Zanja Cora_Caazapa,-26.1211,-55.8045,-4,0
+Paraguay,Zanja Jhu_San Pedro,-24.3878,-56.1045,-4,0
+Paraguay,Zanja Pyta_Amambay,-22.6211,-55.6545,-4,0
+Paraguay,Zanjita_Paraguari,-25.9378,-57.1045,-4,0
+Paraguay,Zanjita_Neembucu,-26.0878,-57.8878,-4,0
+Paraguay,Zapatero-cue_Concepcion,-23.2711,-57.3378,-4,0
+Paraguay,Zarate Isla_Central,-25.2211,-57.4878,-4,0
+Paraguay,Zarza_Caazapa,-26.6878,-56.3878,-4,0
+Paraguay,Zeballos-cue_Presidente Hayes,-25.2045,-57.5711,-4,0
+Paraguay,Zebollo_Concepcion,-22.3711,-57.6545,-4,0
+Paraguay,Zenteno_Presidente Hayes,-23.1545,-59.9711,-4,0

@@ -1,0 +1,229 @@
+Armenia,Ch iva,39.7672,45.1408,4GMT,195
+Armenia,Chalabi,40.8372,44.4411,4GMT,193
+Armenia,Chalidzor,40.4044,44.5653,4GMT,193
+Armenia,Chamrlu,40.5333,44.4167,4GMT,193
+Armenia,Chanakhch'i,40.9264,44.6322,4GMT,193
+Armenia,Changli,40.0200,44.8364,4GMT,194
+Armenia,Charbakh,40.1389,44.4503,4GMT,193
+Armenia,Chikdamlu,39.9833,44.5000,4GMT,194
+Armenia,Chirchir,40.5561,44.9111,4GMT,194
+Armenia,Chokhkaldara,41.1000,43.8333,4GMT,191
+Armenia,Chorlu,40.9500,43.9167,4GMT,191
+Armenia,Chubuliki,40.6331,44.9522,4GMT,194
+Armenia,Echmiadzin,40.1625,44.3422,4GMT,193
+Armenia,Echmiadzinskiy Kanal,40.1775,44.2767,4GMT,193
+Armenia,Efendi,40.8475,44.3167,4GMT,192
+Armenia,Eghnajur,41.0892,43.5614,4GMT,190
+Armenia,Ejmiatsni Shrjan,40.1667,44.3333,4GMT,193
+Armenia,Ek'izler Lerrnagagat,41.1000,43.7500,4GMT,191
+Armenia,El'pin-chay,39.7256,45.1869,4GMT,196
+Armenia,Elagyoz Lerrnagagat,40.5258,44.1942,4GMT,192
+Armenia,Elar,40.2692,44.6244,4GMT,194
+Armenia,Ellar Oyugi,41.1128,43.5964,4GMT,190
+Armenia,Elmalu,39.5661,45.3769,4GMT,196
+Armenia,Elpin,39.8058,45.1103,4GMT,195
+Armenia,Emar Lerr,40.8617,44.6383,4GMT,193
+Armenia,Eranos Lerrnagagat,40.0789,44.6678,4GMT,194
+Armenia,Eranosi Lerrnashght'a,40.0500,44.7833,4GMT,194
+Armenia,Erdapin,39.8589,45.3614,4GMT,196
+Armenia,Erebuni,40.1397,44.5278,4GMT,193
+Armenia,Eridzor,40.8333,45.5333,4GMT,196
+Armenia,Ertagin,39.7275,45.3297,4GMT,196
+Armenia,Ertich,39.7406,45.2667,4GMT,196
+Armenia,Eshakmeydan Lerrnashght'a,40.6167,44.8667,4GMT,194
+Armenia,Evdzhilar,40.0428,44.1458,4GMT,192
+Armenia,Evlu,41.1997,44.2900,4GMT,192
+Armenia,Eyrich'ai,39.4869,46.0403,4GMT,198
+Armenia,Farukh,40.5844,44.7533,4GMT,194
+Armenia,Ferik,40.1864,44.2094,4GMT,193
+Armenia,Ferma Argyas,39.7825,45.4253,4GMT,196
+Armenia,Fioletovo,40.7247,44.7139,4GMT,194
+Armenia,Fontan,40.3942,44.6850,4GMT,194
+Armenia,Franganots,40.2464,44.2725,4GMT,193
+Armenia,Hadis Lerr,40.3128,44.7228,4GMT,194
+Armenia,Haghardzin,40.7781,44.9625,4GMT,194
+Armenia,Haghartsin,40.7786,44.9206,4GMT,194
+Armenia,Haght'anak,40.1864,44.4239,4GMT,193
+Armenia,Hajat'in,39.2039,46.1386,4GMT,199
+Armenia,Hajibaj,39.2500,46.0833,4GMT,199
+Armenia,Hakhpat,41.0950,44.7103,4GMT,193
+Armenia,Hakhumi Lerrnashght'a,40.8528,45.2650,4GMT,195
+Armenia,Halab Lerr,40.8058,44.6322,4GMT,193
+Armenia,Halab Lerrnagagat',40.7858,44.7256,4GMT,194
+Armenia,Halaj,39.2347,46.4314,4GMT,200
+Armenia,Halavar,40.7700,44.3842,4GMT,193
+Armenia,Halidzor,39.4103,46.2953,4GMT,199
+Armenia,Hamberd Lerr,40.4500,44.1833,4GMT,192
+Armenia,Hamgach'iman,40.7381,44.6875,4GMT,194
+Armenia,Hanberd Berd,40.3897,44.2336,4GMT,193
+Armenia,Hank'avan,40.6442,44.4814,4GMT,193
+Armenia,Harrich,40.5981,44.0075,4GMT,192
+Armenia,Harsnasar Lerr,39.6131,45.2817,4GMT,196
+Armenia,Hart'agyugh,40.8356,44.0467,4GMT,192
+Armenia,Hart'ashen,39.4858,46.4197,4GMT,199
+Armenia,Hart'avan,40.4781,44.4006,4GMT,193
+Armenia,Hartashen,41.0094,43.9228,4GMT,191
+Armenia,Hatis,40.3406,44.7297,4GMT,194
+Armenia,Hats'avan,40.1378,44.6522,4GMT,194
+Armenia,Hats'ik,40.8475,43.8742,4GMT,191
+Armenia,Hayastan,40.0000,45.0000,4GMT,195
+Armenia,Haykadzor,40.5378,43.6608,4GMT,191
+Armenia,Haykashen,40.0728,44.3069,4GMT,193
+Armenia,Hayravank,40.4344,45.0969,4GMT,195
+Armenia,Hayrenyats,40.6328,43.8706,4GMT,191
+Armenia,Hayt'agh,40.1808,44.2297,4GMT,193
+Armenia,Herher,39.7733,45.5386,4GMT,197
+Armenia,Herheri Jrambar,39.7389,45.5464,4GMT,197
+Armenia,Hesan Kand,39.8333,45.3017,4GMT,196
+Armenia,Hin,40.7408,44.8631,4GMT,194
+Armenia,Hnaberd,40.0058,44.5744,4GMT,194
+Armenia,Hoktember,40.1361,44.0139,4GMT,192
+Armenia,Hoktemberyan,40.1522,44.0308,4GMT,192
+Armenia,Horadis,39.6211,45.3783,4GMT,196
+Armenia,Horbategh,39.8947,45.3356,4GMT,196
+Armenia,Horom,40.6542,43.8822,4GMT,191
+Armenia,Hors,39.8625,45.2303,4GMT,196
+Armenia,Hovtamej,40.1836,44.2572,4GMT,193
+Armenia,Hovtashat,40.1019,44.3428,4GMT,193
+Armenia,Hovtashen,40.0244,44.4500,4GMT,193
+Armenia,Hovtun,40.9667,43.8167,4GMT,191
+Armenia,Hrazdan,40.5017,44.7547,4GMT,194
+Armenia,Hrazdani Jrambar,40.5111,44.7422,4GMT,194
+Armenia,Hrazdani Shrjan,40.5000,44.6667,4GMT,194
+Armenia,Hushakert,40.0811,43.9264,4GMT,192
+Armenia,Ibish,40.9833,43.6500,4GMT,191
+Armenia,Igdalu,40.0406,44.0675,4GMT,192
+Armenia,Ijevan,40.8756,45.1492,4GMT,195
+Armenia,Ijevani Lerrnashght a,40.8500,45.0167,4GMT,194
+Armenia,Ijevani Shrjan,40.8333,45.0000,4GMT,194
+Armenia,Ilanchalan,40.3936,44.3814,4GMT,193
+Armenia,Ilanly,41.0467,43.7769,4GMT,191
+Armenia,Ilkhiabi,40.7000,43.9000,4GMT,191
+Armenia,Illi,40.9167,43.8167,4GMT,191
+Armenia,Ilmazlu,41.1411,44.1742,4GMT,192
+Armenia,Imanshalu,40.0200,44.4911,4GMT,193
+Armenia,Imeni Beriya_Yerevan,40.1847,44.4597,4GMT,193
+Armenia,Imeni Beriya_Armavir,40.1617,44.0883,4GMT,192
+Armenia,Imeni Kalinina,40.0236,44.4244,4GMT,193
+Armenia,Imeni Kirova,39.9158,44.6003,4GMT,194
+Armenia,Imeni Mikoyana,40.1758,44.0186,4GMT,192
+Armenia,Imeni Shaumyana,40.7883,44.5317,4GMT,193
+Armenia,Imeni Stalina,40.0500,43.9667,4GMT,192
+Armenia,Imeni Tairova,40.1833,44.4833,4GMT,193
+Armenia,Imeni Voroshilova,40.1642,43.9408,4GMT,192
+Armenia,Imrlu,40.5747,44.4547,4GMT,193
+Armenia,Inak'dagh Lerrnagagat',40.2342,45.8739,4GMT,197
+Armenia,Inakdag,40.2333,45.8500,4GMT,197
+Armenia,Indzhevar,39.2558,46.4394,4GMT,200
+Armenia,Ipakli,40.1086,44.4144,4GMT,193
+Armenia,Irind,40.3833,43.9833,4GMT,192
+Armenia,Isaakyan,40.6167,43.7253,4GMT,191
+Armenia,Isharandi,40.9144,45.0725,4GMT,194
+Armenia,Ishkanasar,39.5600,46.0436,4GMT,198
+Armenia,Itkran,39.5442,45.4167,4GMT,196
+Armenia,Itsakar,40.8667,45.3000,4GMT,195
+Armenia,Jaghats'adzor,40.1467,45.8156,4GMT,197
+Armenia,Jajur,40.8506,43.9481,4GMT,191
+Armenia,Jajurri Lerrnants'k',40.8597,44.0317,4GMT,192
+Armenia,Jamshlu,40.6906,44.2736,4GMT,192
+Armenia,Jamushli,40.6203,43.9761,4GMT,192
+Armenia,Janfida,40.0456,44.0208,4GMT,192
+Armenia,Jegward,40.3217,44.4814,4GMT,193
+Armenia,Jibillu,39.2500,46.5167,4GMT,200
+Armenia,Jil,40.4544,45.4536,4GMT,196
+Armenia,Jiliza,41.2156,44.6703,4GMT,193
+Armenia,Jinli Lich,39.5900,46.2539,4GMT,199
+Armenia,Joghazi Jrambar,41.0689,45.1275,4GMT,194
+Armenia,Jomardlu,39.4194,45.9267,4GMT,198
+Armenia,Jraber,40.3519,44.6450,4GMT,194
+Armenia,Jrahovit,40.0453,44.4736,4GMT,193
+Armenia,Jrap'i,40.5569,43.6828,4GMT,191
+Armenia,Jrarat_Lorri,40.7461,44.0883,4GMT,182
+Armenia,Jrarat_Armavir,40.0714,44.2631,4GMT,193
+Armenia,Jrarrat,40.5533,44.7575,4GMT,194
+Armenia,Jrashen,40.0547,44.5133,4GMT,194
+Armenia,Jrband Lerrnants'k',39.1175,46.1603,4GMT,199
+Armenia,Jrvezh,40.1856,44.5869,4GMT,194
+Armenia,Oganavan,40.3422,44.3864,4GMT,193
+Armenia,Ogrudzha,40.2811,45.7828,4GMT,197
+Armenia,Ogurbeklu,39.9833,44.5167,4GMT,194
+Armenia,Ollag,40.0781,44.7494,4GMT,194
+Armenia,Oparts,40.9603,44.4942,4GMT,193
+Armenia,Orgov,40.3333,44.2500,4GMT,193
+Armenia,Ortachia,40.6939,44.3567,4GMT,193
+Armenia,Ortakilisa,40.8531,43.8294,4GMT,191
+Armenia,Ovtashen,40.6667,43.9000,4GMT,191
+Armenia,Ozero Akna,40.2864,44.9186,4GMT,194
+Armenia,Ozero Togmaganlich,40.1583,44.9100,4GMT,195
+Armenia,Qacaran,39.1511,46.1600,4GMT,199
+Armenia,Qafan,39.2011,46.4150,4GMT,200
+Armenia,Qaragol,39.5889,46.2367,4GMT,199
+Armenia,Qayabasi,40.1831,45.8256,4GMT,197
+Armenia,Qizilqach,41.0375,43.8581,4GMT,191
+Armenia,Qusabulaq,40.1567,45.8011,4GMT,197
+Armenia,Uch't'ap'alari Dasht,40.2889,44.4836,4GMT,193
+Armenia,"
+Uch't'apalar Lerrnagagat'",41.1167,43.4500,4GMT,190
+Armenia,Uch't'ep'e,39.4664,46.2483,4GMT,199
+Armenia,Uckilise,40.1728,44.2925,4GMT,193
+Armenia,Udzhan,40.3022,44.2056,4GMT,192
+Armenia,Ughedzor,39.6869,45.6794,4GMT,197
+Armenia,Ukhtuakunk,40.0667,44.8667,4GMT,194
+Armenia,Uliya Sarvanlar,40.0586,44.3864,4GMT,193
+Armenia,Ulukhanlu,40.0672,44.4361,4GMT,193
+Armenia,Unut,39.2500,46.3833,4GMT,199
+Armenia,Urasar,41.0153,44.2800,4GMT,192
+Armenia,Urasar Lerr,40.9781,44.1197,4GMT,192
+Armenia,Urrut,41.0711,44.3969,4GMT,193
+Armenia,Urts'adzor,39.9125,44.8175,4GMT,194
+Armenia,Urtsalanj,39.8531,44.9850,4GMT,195
+Armenia,Urtsi Argelavayr,40.1022,44.6919,4GMT,194
+Armenia,Urtsi Lerr,39.8061,44.9064,4GMT,195
+Armenia,Urtsi Lerrnashght'a,39.8167,44.8500,4GMT,195
+Armenia,Urut,39.4886,46.1414,4GMT,199
+Armenia,Ushi,40.3536,44.3686,4GMT,193
+Armenia,Utkum,39.1997,46.4250,4GMT,200
+Armenia,Uz,39.5167,46.0500,4GMT,198
+Armenia,Uzhanis,39.2356,46.5419,4GMT,200
+Armenia,Uzunlar,41.0539,44.6114,4GMT,193
+Armenia,Uzunoba,40.0608,44.0953,4GMT,192
+Armenia,Uzuntala,40.9744,45.2519,4GMT,195
+Armenia,Vanadzor,40.8128,44.4883,4GMT,193
+Armenia,Wedi Tschei,39.8164,44.6303,4GMT,194
+Armenia,Xalac,39.2017,46.4628,4GMT,200
+Armenia,Yerevan,40.1811,44.5136,4GMT,193
+Armenia,Yerevan Parakar,40.1525,44.4022,4GMT,193
+Armenia,Yerevanyan Lich,40.1597,44.4778,4GMT,193
+Armenia,Zaimka Kara-Gamzu,41.0244,44.9200,4GMT,194
+Armenia,Zakhmat,40.1258,44.4031,4GMT,193
+Armenia,Zaliv Artanishskiy,40.4697,45.3753,4GMT,196
+Armenia,Zanga,39.9689,44.4750,4GMT,193
+Armenia,Zangakatun,39.8094,45.0511,4GMT,195
+Armenia,Zarindzha,40.4667,43.7833,4GMT,191
+Armenia,Zarishat,41.0017,43.6594,4GMT,191
+Armenia,Zarishat Lerrnazangvats,41.1500,43.5500,4GMT,190
+Armenia,Zaritap,39.6372,45.5086,4GMT,197
+Armenia,Zarr,40.2611,44.7361,4GMT,194
+Armenia,Zart'onk',40.1092,44.1606,4GMT,192
+Armenia,Zarzibil,40.1808,45.9017,4GMT,197
+Armenia,Zay-chay,39.4744,45.9944,4GMT,198
+Armenia,Zeyta,39.6819,45.3917,4GMT,196
+Armenia,Zeytun,40.2036,44.5431,4GMT,193
+Armenia,Zeyva_Armavir,40.1297,44.2244,4GMT,193
+Armenia,Zeyva_Syunik,39.3181,46.4953,4GMT,200
+Armenia,Zhani Kabakhlu,39.8672,45.4719,4GMT,196
+Armenia,Ziarat' Lerrnagagat',40.5436,44.0825,4GMT,192
+Armenia,Zimovka Sirgak,39.1531,46.3517,4GMT,199
+Armenia,Zirak,39.8183,45.7106,4GMT,197
+Armenia,Znjrrlu Lerrnashght'a,40.5681,44.5231,4GMT,193
+Armenia,Zod,40.2031,45.8647,4GMT,197
+Armenia,Zograblu,40.0286,44.5586,4GMT,194
+Armenia,Zolak ar,40.1250,45.3750,4GMT,196
+Armenia,Zorakert,41.0928,43.6597,4GMT,191
+Armenia,Zovaber_Syunik,39.4333,46.2333,4GMT,199
+Armenia,Zovaber_Geghark unik,40.5736,44.7864,4GMT,194
+Armenia,Zovasar,40.4744,43.9500,4GMT,192
+Armenia,Zovashen,40.0714,44.5606,4GMT,194
+Armenia,Zovk',40.2061,44.6936,4GMT,194
+Armenia,Zovuni,40.2364,44.5039,4GMT,193
+Armenia,Zuygaghbyur,41.0211,43.9036,4GMT,191

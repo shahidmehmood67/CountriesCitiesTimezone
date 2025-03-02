@@ -1,0 +1,183 @@
+Kiribati,Abaokoro,1.4764,173.0264,12,0
+Kiribati,Arariki,-4.507,-172.207,13,0
+Kiribati,Babaroroa,-2.6069,176.7931,12,0
+Kiribati,Bairiki,1.3431,172.9765,12,0
+Kiribati,Bangai,-1.3569,174.8431,12,0
+Kiribati,Banreaba,1.3431,173.0431,12,0
+Kiribati,Baretoa Passage,2.0098,173.2765,12,0
+Kiribati,Batitotai,-2.6569,176.8598,12,0
+Kiribati,Bay of Wrecks,1.8765,-157.3235,14,0
+Kiribati,Benson Point,1.9431,-157.4902,14,0
+Kiribati,Betino Island,1.3598,172.9431,12,0
+Kiribati,Bicknell Point,3.9098,-159.3902,14,0
+Kiribati,Bikati,3.2598,172.6931,12,0
+Kiribati,Bikeman Island,1.3931,173.0098,12,0
+Kiribati,Bikenibeu,1.3598,173.1431,12,0
+Kiribati,Bikerei,1.0098,173.0098,12,0
+Kiribati,Bingham Channel,1.7598,172.9765,12,0
+Kiribati,Binoinano,0.4265,173.9265,12,0
+Kiribati,Bird Islet,-9.9735,-150.2235,14,0
+Kiribati,Birney,-3.5735,-171.5069,13,0
+Kiribati,Bititu Anchorage,1.3765,172.9431,12,0
+Kiribati,Bolton Point,1.7265,172.9931,12,0
+Kiribati,Borotiam,1.9098,172.9765,12,0
+Kiribati,Buariki,1.6098,172.9765,12,0
+Kiribati,Buota,2.0265,173.2765,12,0
+Kiribati,Byron Island,-1.3569,176.4765,12,0
+Kiribati,Cape Manning,2.0432,-157.4234,14,0
+Kiribati,Carondelet Reef,-5.5401,-173.8234,13,0
+Kiribati,Cecile Peninsula,1.8599,-157.4901,14,0
+Kiribati,Celestial Seamount,-3.0401,-169.3068,13,0
+Kiribati,Christmas Island Ridge,5.0099,-159.9901,14,0
+Kiribati,Cochrone Reef,1.9932,-157.4734,14,0
+Kiribati,Danger Point,3.86,-159.3567,14,0
+Kiribati,Dog,-0.6567,174.36,12,0
+Kiribati,Drummon Island,-1.3233,174.8433,12,0
+Kiribati,Dundas,0.41,173.8767,12,0
+Kiribati,Eanikai,-1.1732,174.7434,12,0
+Kiribati,Ederbury Island,-3.1232,-171.0732,13,0
+Kiribati,Eita,1.3601,173.0934,12,0
+Kiribati,Eke,1.8768,172.9101,12,0
+Kiribati,Ella Island,1.3768,173.1601,12,0
+Kiribati,Ellice Ridge,-7.9899,178.0101,12,0
+Kiribati,Entrance Island,3.1268,172.7601,12,0
+Kiribati,Equatorial Islands,0.0101,-156.9899,14,0
+Kiribati,Espiegel Anchorage,-1.3399,175.9768,12,0
+Kiribati,Fanning Island,3.8769,-159.3231,14,0
+Kiribati,Fenua-ura,3.8769,-159.3565,14,0
+Kiribati,Flink Point,3.0935,172.7602,12,0
+Kiribati,Flint Island,-11.4231,-151.7898,14,0
+Kiribati,Francis Island,-1.3231,176.0102,12,0
+Kiribati,Gagarin Seamount,1.5103,-154.2397,14,0
+Kiribati,Gilbert Archipelago,0.0103,174.0103,12,0
+Kiribati,Gran Cocal Reef,-5.9897,176.2603,12,0
+Kiribati,Grapple Rocks,1.977,-157.4897,14,0
+Kiribati,Henson Rocks,0.3771,173.8771,12,0
+Kiribati,Hurd Island,-2.6229,176.8271,12,0
+Kiribati,Ijaki,-1.9062,175.5938,12,0
+Kiribati,Iku,1.7772,172.9605,12,0
+Kiribati,Independence Island,-4.0395,-154.9728,14,0
+Kiribati,Kabangaki,0.3274,173.944,12,0
+Kiribati,Kaiaroa,-0.656,174.4774,12,0
+Kiribati,Kariri,-1.2893,175.9774,12,0
+Kiribati,Kenna Island,0.3274,173.9274,12,0
+Kiribati,Keua,3.144,172.9274,12,0
+Kiribati,Kiribasi,-4.9893,-169.9893,13,0
+Kiribati,Kiritimati,1.8774,-157.406,14,0
+Kiribati,Knox Island,1.4274,173.0107,12,0
+Kiribati,Koinawa,1.8774,172.994,12,0
+Kiribati,Kopuna,-1.3226,174.794,12,0
+Kiribati,Koscuisko Bank,-10.2893,179.7274,12,0
+Kiribati,Kuma,3.1774,172.9774,12,0
+Kiribati,Kurebentaboniba,1.894,172.8607,12,0
+Kiribati,Kuup,3.294,172.9774,12,0
+Kiribati,Les Iles Lagoon,1.8441,-157.3725,14,0
+Kiribati,Macaw Bank,-10.7058,-179.2058,13,0
+Kiribati,Maiakei,2.0276,173.2942,12,0
+Kiribati,Maiana Island,0.9276,173.0109,12,0
+Kiribati,Makauro,-0.7058,174.4776,12,0
+Kiribati,Makin Atoll,3.1276,172.8109,12,0
+Kiribati,Malden Island Anchorage,-4.0391,-155.0058,14,0
+Kiribati,Manna,1.8776,172.8942,12,0
+Kiribati,Manoku,0.3442,173.9609,12,0
+Kiribati,Manounou,4.7109,-160.3891,14,0
+Kiribati,Manra Atoll,-4.4391,-171.2391,13,0
+Kiribati,Manriki,-1.3391,176.4609,12,0
+Kiribati,Manulu Lagoon,1.9609,-157.3558,14,0
+Kiribati,Marenanuka,1.4776,173.0442,12,0
+Kiribati,Mary Balcourt,-2.8224,-171.6724,13,0
+Kiribati,Matan,-0.6724,174.4776,12,0
+Kiribati,Matthews,1.8609,172.9776,12,0
+Kiribati,Maungatabu,1.3442,173.0109,12,0
+Kiribati,McKean Island,-3.5891,-174.1224,13,0
+Kiribati,Melanesian Basin,0.0942,160.5942,12,0
+Kiribati,Merlin Seamount,-9.0724,-150.7224,14,0
+Kiribati,Metaua Point,3.9276,-159.3391,14,0
+Kiribati,Minneapolis Ridge,5.4276,-157.9891,14,0
+Kiribati,Morikao,1.8609,173.0109,12,0
+Kiribati,Motu Lakau,-3.9891,-171.9891,13,0
+Kiribati,Motu o Tau,3.9276,-159.3224,14,0
+Kiribati,Motu Tabu,1.9776,-157.4224,14,0
+Kiribati,Motu Tuba,1.9442,-157.4224,14,0
+Kiribati,Motu Upou,2.0109,-157.4391,14,0
+Kiribati,Muggin Island,3.3442,172.9776,12,0
+Kiribati,Muribenua,-1.3058,176.4276,12,0
+Kiribati,Naanikai,1.3443,172.9943,12,0
+Kiribati,Nabeina,1.4277,173.0943,12,0
+Kiribati,Nanikirata,1.911,172.7943,12,0
+Kiribati,Nansaba,-1.3057,176.011,12,0
+Kiribati,Napari,3.911,-159.3723,14,0
+Kiribati,Nataka Island,3.2277,172.961,12,0
+Kiribati,Northern Gilberts,1.8443,173.011,12,0
+Kiribati,Noto,1.511,173.0277,12,0
+Kiribati,Nuka,-1.339,176.011,12,0
+Kiribati,Nukumanu,-1.3723,176.4777,12,0
+Kiribati,Nuotaea,1.8943,172.8277,12,0
+Kiribati,Nuribenua,-1.139,174.6777,12,0
+Kiribati,O-N-Aorakai,-0.8722,169.5611,12,0
+Kiribati,Ocean Pacifique,0.0111,180.0111,12,0
+Kiribati,Ocean Pacifique Nord,30.0111,-169.9889,13,0
+Kiribati,Ocean Pacifique Sud,-44.9889,-129.9889,14,0
+Kiribati,On Changs Wharf,3.0778,172.7944,12,0
+Kiribati,Oneaka,0.2611,173.3778,12,0
+Kiribati,Onne,3.2778,172.9611,12,0
+Kiribati,Onotoa Island,-1.8556,175.5778,12,0
+Kiribati,Ooma,-0.8889,169.5611,12,0
+Kiribati,Orona,-4.5056,-172.1722,13,0
+Kiribati,Oteariki,3.2111,172.7111,12,0
+Kiribati,Otoeie Island,-1.8556,175.6111,12,0
+Kiribati,Peacock Anchorage,-1.2055,174.7112,12,0
+Kiribati,Peao,3.8112,-159.3055,14,0
+Kiribati,Phoenix Seamounts,-3.9888,-172.9888,13,0
+Kiribati,Piachueta,3.2779,172.7112,12,0
+Kiribati,Pig Islet,-9.9721,-150.2055,14,0
+Kiribati,Pig Point,1.3279,172.9945,12,0
+Kiribati,Polynesia,-9.9888,-149.9888,14,0
+Kiribati,Prospect Island,4.7279,-160.3888,14,0
+Kiribati,Puarik,-1.4721,175.0779,12,0
+Kiribati,Pureara Bank,-1.4388,174.9112,12,0
+Kiribati,Puta-tutae,3.8279,-159.3221,14,0
+Kiribati,Pyramid Point,-2.8555,-171.6055,13,0
+Kiribati,Rakai Tuai,3.0947,172.7947,12,0
+Kiribati,Rakentai,-0.6386,174.4781,12,0
+Kiribati,Ramanaba,3.1114,172.7614,12,0
+Kiribati,Rapa,3.8781,-159.2553,14,0
+Kiribati,Rapa-iti,3.8614,-159.2553,14,0
+Kiribati,Rawaki Atoll,-3.7053,-170.7053,13,0
+Kiribati,Rawannawi,2.0614,173.2781,12,0
+Kiribati,Reweta Passage,2.0114,173.3114,12,0
+Kiribati,Riaria,1.7947,173.0614,12,0
+Kiribati,Ribona,1.9781,172.8781,12,0
+Kiribati,Rironga Passage,0.9281,172.9781,12,0
+Kiribati,Ritiati,-4.6553,-174.5219,13,0
+Kiribati,Rokai ni Bitau,3.0947,172.8114,12,0
+Kiribati,Rongata,-1.3386,176.4447,12,0
+Kiribati,Roreti,-2.6386,176.8447,12,0
+Kiribati,Rotcher Island,-2.4886,175.9947,12,0
+Kiribati,Rotuma,-0.6053,174.4281,12,0
+Kiribati,Saint Stanislas Bay,1.8948,-157.5218,14,0
+Kiribati,Semple Reef,1.9782,-157.4718,14,0
+Kiribati,Severo-Vostochnaya Kotlovina,20.0115,-139.9885,14,0
+Kiribati,South Lagoon,-1.4718,174.9448,12,0
+Kiribati,South West Anchorage,-0.7718,174.4448,12,0
+Kiribati,Southern Entrance,-0.7385,174.3115,12,0
+Kiribati,Southern Gilbert Islands,-1.1552,174.7615,12,0
+Kiribati,Spam Island,-2.8052,-171.7052,13,0
+Kiribati,Starbuck,0.1948,173.6115,12,0
+Kiribati,Tarawa,-0.8717,169.5449,12,0
+Kiribati,Thornton Island,-9.9551,-150.2051,14,0
+Kiribati,Ubanteman,1.945,172.945,12,0
+Kiribati,Ukiannan Point,3.0617,172.7784,12,0
+Kiribati,Umai Ataei,-1.5216,175.0784,12,0
+Kiribati,Umantewena,-0.7216,174.4784,12,0
+Kiribati,Unitia,-1.4383,175.045,12,0
+Kiribati,Upalhaku,3.2284,172.9284,12,0
+Kiribati,Utiroa,-1.205,174.7617,12,0
+Kiribati,Vai-tepu,3.9118,-159.3215,14,0
+Kiribati,Vinstra Shoal,1.3951,172.9451,12,0
+Kiribati,Volunteer Island,-5.6049,-155.8715,14,0
+Kiribati,Vostok Island,-10.0882,-152.3715,14,0
+Kiribati,Western Passage,0.4452,173.8119,12,0
+Kiribati,Wilkes Point,2.0786,173.2952,12,0
+Kiribati,Winslow Reef,-1.5881,-174.9381,13,0
+Kiribati,Woodle,0.2452,173.3952,12,0

@@ -1,0 +1,273 @@
+Russia,Aktay_Sverdlovskaya Oblast,58.8716,60.6797,6,0
+Russia,Al met yevsk_Tatarstan,54.893,52.343,4,0
+Russia,Archangelsk_Arkhangel skaya Oblast,64.5764,40.543,4,0
+Russia,Astrakhan_Astrakhanskaya Oblast,46.3591,48.0589,4,0
+Russia,Astrakhan_Kirovskaya Oblast,57.8286,51.2683,4,0
+Russia,Astrakhan Oblast_Astrakhanskaya Oblast,47.0097,48.0097,4,0
+Russia,Astrakhan Roadstead_Astrakhanskaya Oblast,45.5097,48.0097,4,0
+Russia,Baksan_Kabardino-Balkariya,43.6979,43.5467,4,0
+Russia,Baksanenok_Kabardino-Balkariya,43.6995,43.6645,4,0
+Russia,Baksanges_Kabardino-Balkariya,43.6654,43.3962,4,0
+Russia,Baksanskiy_Kabardino-Balkariya,43.6751,43.9462,4,0
+Russia,Baksanskiy Rayon_Kabardino-Balkariya,43.7598,43.5098,4,0
+Russia,Barnaul_Altayskiy Kray,53.3656,83.762,8,0
+Russia,Bavly_Tatarstan,54.3931,53.2931,4,0
+Russia,Belgorod_Bryanskaya Oblast,52.8826,34.6623,4,0
+Russia,Belgorod_Belgorodskaya Oblast,50.6231,36.597,4,0
+Russia,Belovo_Kemerovskaya Oblast,54.4315,86.3084,8,0
+Russia,Bugul ma_Tatarstan,54.5598,52.8098,4,0
+Russia,Buguruslan_Orenburgskaya Oblast,53.6598,52.4431,4,0
+Russia,Chayvo_Sakhalinskaya Oblast,52.3766,143.1932,11,0
+Russia,Cheboksary_Chuvashiya,56.1421,47.2618,4,0
+Russia,Chelyabinsk_Chelyabinskaya Oblast,55.1643,61.4396,6,0
+Russia,Chelyabinsk Glavnyy_Chelyabinskaya Oblast,55.1388,61.4268,6,0
+Russia,Cherkessk_Karachayevo-Cherkesiya,44.2332,42.0677,4,0
+Russia,Chirkey_Dagestan,42.9732,46.9866,4,0
+Russia,Chita_Chitinskaya Oblast,52.4932,114.1766,10,0
+Russia,Dagestan,42.01,47.01,4,0
+Russia,Dimitrovgrad_Ul yanovskaya Oblast,54.26,49.56,4,0
+Russia,Ekaterinburg_Sverdlovskaya Oblast,56.8601,60.6101,6,0
+Russia,Elista_Kalmykiya,46.3179,44.2659,4,0
+Russia,Gorky_Nizhegorodskaya Oblast,56.3436,44.0103,4,0
+Russia,Grozny_Chechnya and Ingushetiya,43.3186,45.7106,4,0
+Russia,Gubkinskiy_Yamalo-Nenetskiy Avtonomnyy Okrug,64.4656,76.6272,6,0
+Russia,Irkutsk,52.3074,104.2805,8,0
+Russia,Irkutsk_Irkutskaya Oblast,52.2772,104.3438,8,0
+Russia,Ivanovo-Voznesensk_Ivanovskaya Oblast,57.0047,40.9963,4,0
+Russia,Izberbash_Dagestan,42.5738,47.8741,4,0
+Russia,Izhevsk_Udmurtiya,56.8605,53.2438,4,0
+Russia,Kaliningrad_Moskovskaya Oblast,55.9249,37.8363,4,0
+Russia,Kaliningrad_Kaliningradskaya Oblast,54.7207,20.5107,4,0
+Russia,Kaluga_Kaluzhskaya Oblast,54.561,36.379,4,0
+Russia,Karabulak_Chechnya and Ingushetiya,43.3168,44.916,4,0
+Russia,Kazan_Tatarstan,55.7607,49.144,4,0
+Russia,Kazan_Kabardino-Balkariya,43.5499,43.7749,4,0
+Russia,Kemerovo_Kemerovskaya Oblast,55.344,86.094,8,0
+Russia,Khabarovsk_Khabarovskiy Kray,48.5107,135.1107,11,0
+Russia,Khanty Mansisk_Khanty-Mansiyskiy Avtonomnyy Okrug,61.0149,69.0126,6,0
+Russia,Kislovodsk_Stavropol skiy Kray,43.924,42.7315,4,0
+Russia,Kizlyar_Dagestan,43.8393,46.7324,4,0
+Russia,Komsomol sk-na-Amure_Khabarovskiy Kray,50.5663,137.0107,11,0
+Russia,Kraskino_Primorskiy Kray,42.7199,130.7929,11,0
+Russia,Krasnodar_Kransnodarskiy Kray,45.0938,38.9626,4,0
+Russia,Krasnodar_Voronezhskaya Oblast,49.9051,40.2682,4,0
+Russia,Krasnoyarsk_Kransoyarskiy Kray,56.0204,92.8024,8,0
+Russia,Krasnoyarsk_Sakhalinskaya Oblast,47.3774,142.544,11,0
+Russia,Krasnoyarsk_Orenburgskaya Oblast,51.4424,60.1565,6,0
+Russia,Krymsk_Kransnodarskiy Kray,44.9765,38.021,4,0
+Russia,Kukmor_Tatarstan,56.1924,50.9004,4,0
+Russia,Kurgan_Kurganskaya Oblast,55.4607,65.344,6,0
+Russia,Kursk_Leningradskaya Oblast,59.3274,29.144,4,0
+Russia,Kursk_Kransoyarskiy Kray,54.5921,91.5101,8,0
+Russia,Kursk_Kurskaya Oblast,51.7521,36.1499,4,0
+Russia,Kursk_Pskovskaya Oblast,58.3582,29.3379,4,0
+Russia,Kursk Oblast_Kurskaya Oblast,51.5107,36.0107,4,0
+Russia,Kuybyshev_Tatarstan,54.9607,49.0774,4,0
+Russia,Kuybyshev_Kemerovskaya Oblast,53.7274,87.1107,8,0
+Russia,Kuybyshev_Novosibirskaya Oblast,55.461,78.3271,7,0
+Russia,Kuybyshev_Kransnodarskiy Kray,46.1154,40.349,4,0
+Russia,Kuybyshev_Orenburgskaya Oblast,52.694,53.444,4,0
+Russia,Kuybyshev_Samarskaya Oblast,53.2107,50.1607,4,0
+Russia,Kuybyshev_Stavropol skiy Kray,44.2629,43.8054,4,0
+Russia,Kuybyshev_Altayskiy Kray,51.5774,81.144,8,0
+Russia,Kuybyshev Canal_Chechnya and Ingushetiya,43.6204,46.3676,4,0
+Russia,Kuybyshev Oblast_Samarskaya Oblast,53.0107,50.0107,4,0
+Russia,Kuybysheva_Kransnodarskiy Kray,44.2629,40.884,4,0
+Russia,Kuybyshevka_RSJA,45.094,147.694,11,0
+Russia,Kuybyshevka_Amurskaya Oblast,50.9274,128.4774,10,0
+Russia,Kuybyshevka_Chelyabinskaya Oblast,54.4107,62.744,6,0
+Russia,Kuybyshevo_Volgogradskaya Oblast,48.694,44.8607,4,0
+Russia,Kuybyshevo_Kaliningradskaya Oblast,54.9288,22.0657,4,0
+Russia,Kuybyshevo_Altayskiy Kray,51.3607,80.594,8,0
+Russia,Kuybyshevo_Rostovskaya Oblast,48.8274,41.2607,4,0
+Russia,Kuybyshevo_Khakasiya,53.204,90.7915,8,0
+Russia,Kuybyshevskiy_Novosibirskaya Oblast,55.494,78.2774,7,0
+Russia,Kuybyshevskiy_Samarskaya Oblast,52.6635,49.6185,4,0
+Russia,Kuybyshevskiy_RSJA,45.0996,147.7315,11,0
+Russia,Kuybyshevskiy_Kransnodarskiy Kray,45.7099,38.4601,4,0
+Russia,Kuybyshevskiy Kanal_Samarskaya Oblast,52.7126,48.649,4,0
+Russia,Kuybyshevskiy Rayon_Amurskaya Oblast,50.7607,128.5107,10,0
+Russia,Kuybyshevskiy Zaliv_RSJA,45.144,147.6774,11,0
+Russia,Kuybyshevskiy Zaton_Tatarstan,55.161,49.1735,4,0
+Russia,Kuybyshevskiye_Rostovskaya Oblast,47.8774,38.944,4,0
+Russia,Kuybyshevskoye_Kaliningradskaya Oblast,54.654,21.289,4,0
+Russia,Kuybyshevskoye More,54.5107,48.5107,4,0
+Russia,Langepas,61.2608,75.1408,6,0
+Russia,Leningrad_Sankt-Peterburg,59.9052,30.275,4,0
+Russia,Leningrad_Novosibirskaya Oblast,54.1355,79.2511,7,0
+Russia,Leningrad_Omskaya Oblast,55.1608,71.3941,7,0
+Russia,Leningrad Baltiyskiy_Sankt-Peterburg,59.9108,30.3108,4,0
+Russia,Leningrad Canal_Sankt-Peterburg,59.9722,29.8114,4,0
+Russia,Leningrad Finlyandskiy_Sankt-Peterburg,59.9608,30.3775,4,0
+Russia,Leningrad Moskovskiy_Sankt-Peterburg,59.9441,30.3775,4,0
+Russia,Leningrad Navalochnyy_Sankt-Peterburg,59.9108,30.3941,4,0
+Russia,Leningrad Oblast_Leningradskaya Oblast,60.0108,32.0108,4,0
+Russia,Leningrad Varshavskiy_Sankt-Peterburg,59.9108,30.3275,4,0
+Russia,Leningrad Vitebskiy_Sankt-Peterburg,59.9275,30.3441,4,0
+Russia,Leningrad-300_Arkhangel skaya Oblast,62.7941,40.3441,4,0
+Russia,Leningrad-Dekabristow_Sankt-Peterburg,59.9636,30.2464,4,0
+Russia,Leningrad-Tovarnaya Finlyandskiy_Sankt-Peterburg,59.9775,30.3608,4,0
+Russia,Leningradka_Samarskaya Oblast,52.4441,51.1608,4,0
+Russia,Leningradka_Omskaya Oblast,56.4775,74.6108,7,0
+Russia,Leningradskaya_Kransnodarskiy Kray,46.325,39.4011,4,0
+Russia,Leningradskaya_Taymyrskiy Dolgano-Nenetskiy Avtonomnyy Okrug,76.4275,104.0108,8,0
+Russia,Leningradskaya Sloboda_Leningradskaya Oblast,60.2108,31.7775,4,0
+Russia,Leningradskaya Southwest_Kransnodarskiy Kray,46.2658,39.4394,4,0
+Russia,Leningradskaya West_Kransnodarskiy Kray,46.3075,39.3372,4,0
+Russia,Leningradskiy_Orenburgskaya Oblast,53.2608,52.2275,4,0
+Russia,Leningradskiy_Chukotskiy Avtonomnyy Okrug,69.3941,178.4275,13,0
+Russia,Leningradskiy_Voronezhskaya Oblast,51.0269,40.9636,4,0
+Russia,Leningradskiy_Kemerovskaya Oblast,55.3941,86.0941,8,0
+Russia,Leningradskiy Rayon_Moskva,55.8108,37.5441,4,0
+Russia,Leningradskiy Rayon_Kaliningradskaya Oblast,54.7275,20.5108,4,0
+Russia,Leningradskiy Rayon_Kransnodarskiy Kray,46.1775,39.4275,4,0
+Russia,Lipetsk_Lipetskaya Oblast,52.6294,39.5797,4,0
+Russia,Magnitogorsk_Chelyabinskaya Oblast,53.4295,59.0581,6,0
+Russia,Makhach-Kala_Stavropol skiy Kray,45.729,42.304,4,0
+Russia,Makhach-Kala_Dagestan,42.9981,47.5167,4,0
+Russia,Makhachkala_Dagestan,42.9862,47.5131,4,0
+Russia,Mamontovo_Khanty-Mansiyskiy Avtonomnyy Okrug,60.6776,72.8442,6,0
+Russia,Maykop_Adygeya,44.6187,40.1167,4,0
+Russia,Megion_Khanty-Mansiyskiy Avtonomnyy Okrug,61.0609,76.1109,6,0
+Russia,Meleuz_Bashkortostan,52.9609,55.9609,6,0
+Russia,Mocha_Moskovskaya Oblast,55.4506,37.4726,4,0
+Russia,Moscow_Moskva,55.7631,37.6265,4,0
+Russia,Moscow Basin,55.0109,34.0109,4,0
+Russia,Moscow Canal,56.7276,37.1442,4,0
+Russia,Moscow Vnukovo_Moskovskaya Oblast,55.6034,37.2737,4,0
+Russia,Moscow-Akishevo_Moskovskaya Oblast,55.6781,37.2617,4,0
+Russia,Moscow-Central_Moskva,55.8009,37.5412,4,0
+Russia,Moscow-Dolgoprudnyy_Moskovskaya Oblast,55.9473,37.5084,4,0
+Russia,Moscow-Domodedovo_Moskovskaya Oblast,55.4212,37.9162,4,0
+Russia,Moscow-Lyubertsy_Moskva,55.6956,37.8634,4,0
+Russia,Moscow-Myachkovo_Moskovskaya Oblast,55.5712,37.9942,4,0
+Russia,Moscow-Odintsovo_Moskva,55.679,37.3115,4,0
+Russia,Moscow-Orlovo_Moskovskaya Oblast,55.6512,37.4084,4,0
+Russia,Moscow-Ostafyevo_Moskovskaya Oblast,55.5192,37.5201,4,0
+Russia,Moscow-Salarevo_Moskva,55.6203,37.4578,4,0
+Russia,Moscow-Sheremetyevo_Moskovskaya Oblast,55.9828,37.4248,4,0
+Russia,Moscow-Suponino_Moskovskaya Oblast,55.8856,37.984,4,0
+Russia,Moscow-Tushino_Moskva,55.8309,37.4403,4,0
+Russia,Moscow-Vykhina_Moskva,55.712,37.7948,4,0
+Russia,Moskowskoje_Voronezhskaya Oblast,51.422,39.6137,4,0
+Russia,Moskva,55.087,38.8523,4,0
+Russia,Moskva_Pskovskaya Oblast,58.1776,28.3109,4,0
+Russia,Moskva_Tverskaya Oblast,56.9287,32.1742,4,0
+Russia,Moskva_Vologodskaya Oblast,60.1609,45.6776,4,0
+Russia,Moskva_Dagestan,44.1981,45.3137,4,0
+Russia,Moskva_Tyumenskaya Oblast,57.4723,65.7295,6,0
+Russia,Moskva_Novosibirskaya Oblast,54.1109,83.0276,7,0
+Russia,Moskva_Kirovskaya Oblast,57.9781,49.1226,4,0
+Russia,Moskva_Saratovskaya Oblast,52.1942,48.8942,4,0
+Russia,Moskva_Kransnodarskiy Kray,45.5962,40.4326,4,0
+Russia,Moskva_Samarskaya Oblast,53.1942,50.4609,4,0
+Russia,Moskva Zapadnyy Port_Moskovskaya Oblast,55.7609,37.5109,4,0
+Russia,Murmansk_Murmanskaya Oblast,68.9776,33.0942,4,0
+Russia,Naberezhnyye Chelny_Tatarstan,55.7671,52.4399,4,0
+Russia,Nazran_Chechnya and Ingushetiya,43.2371,44.7927,4,0
+Russia,Neftekamsk_Bashkortostan,56.0943,54.2777,4,0
+Russia,Nefteyugansk_Khanty-Mansiyskiy Avtonomnyy Okrug,61.0943,72.711,6,0
+Russia,Nizhnekamsk_Tatarstan,55.6493,51.8279,4,0
+Russia,Nizhnevartovsk_Khanty-Mansiyskiy Avtonomnyy Okrug,60.9443,76.5777,6,0
+Russia,Nogliki_Sakhalinskaya Oblast,51.8443,143.1777,11,0
+Russia,Novgorod_Primorskiy Kray,42.661,130.8141,11,0
+Russia,Novgorod_Novgorodskaya Oblast,58.5277,31.2943,4,0
+Russia,Novokuznetsk_Kemerovskaya Oblast,53.761,87.111,8,0
+Russia,Novorossiisk_Kransnodarskiy Kray,44.7349,37.7818,4,0
+Russia,Novosibirsk_Novosibirskaya Oblast,55.0521,82.9454,7,0
+Russia,Novyy Urengoy_Yamalo-Nenetskiy Avtonomnyy Okrug,66.0943,76.6443,6,0
+Russia,Noyabr sk_Yamalo-Nenetskiy Avtonomnyy Okrug,63.1777,75.6277,6,0
+Russia,Omsk_Omskaya Oblast,55.0111,73.4111,7,0
+Russia,Orenburg_Orenburgskaya Oblast,51.7958,55.1097,6,0
+Russia,Orenburg_Kransnodarskiy Kray,44.3119,39.405,4,0
+Russia,Penza_Kemerovskaya Oblast,56.1034,86.6701,8,0
+Russia,Penza_Penzenskaya Oblast,53.1806,45.0468,4,0
+Russia,Penza_Bashkortostan,54.4612,55.3279,6,0
+Russia,Perm_Permskaya Oblast,58.0112,56.2612,6,0
+Russia,Petrozavodsk_Kareliya,61.8279,34.3445,4,0
+Russia,Poykovskiy_Khanty-Mansiyskiy Avtonomnyy Okrug,61.0168,71.9323,6,0
+Russia,Pyatigorsk_Stavropol skiy Kray,44.0604,43.0337,4,0
+Russia,Qamysty Say,55.0113,71.5113,6,0
+Russia,Qaraqaya Dagi,41.4805,47.2119,13,0
+Russia,Qatyn Zhotasy,49.7938,86.5313,8,0
+Russia,Qdim Asirimi,41.2788,47.4427,13,0
+Russia,Qorida Dagi,41.8188,46.5888,4,0
+Russia,Qorzhyntau Zhotasy,50.2227,84.6246,8,0
+Russia,Qqoskelda_Chechnya and Ingushetiya,43.2619,46.3652,4,0
+Russia,Qudurdag,41.793,46.8005,4,0
+Russia,Qudurdag Asirimi,41.7855,46.8052,4,0
+Russia,Quednau_Kaliningradskaya Oblast,54.7613,20.5613,4,0
+Russia,Quilitten_Kaliningradskaya Oblast,54.4982,20.0824,4,0
+Russia,Qulyndy Zhazyghy,53.0113,79.0113,6,0
+Russia,Quton Dagi,41.8721,46.7727,4,0
+Russia,Raduzhnyy_Khanty-Mansiyskiy Avtonomnyy Okrug,62.1075,77.4864,6,0
+Russia,Rostov-on-Don_Rostovskaya Oblast,47.2478,39.7253,4,0
+Russia,Ryazan_Ryazanskaya Oblast,54.6311,39.7514,4,0
+Russia,Saint Petersburg_Sankt-Peterburg,59.9052,30.275,4,0
+Russia,Saint Petersburg Station_Moskva,55.7904,37.6662,4,0
+Russia,Sakhalin_Sakhalinskaya Oblast,51.0115,143.0115,11,0
+Russia,Salavat_Bashkortostan,53.3832,55.9326,6,0
+Russia,Samara,53.1782,50.0782,4,0
+Russia,Samara_Chelyabinskaya Oblast,54.9282,60.9282,6,0
+Russia,Samara_Leningradskaya Oblast,59.9809,34.3971,4,0
+Russia,Samara_Permskaya Oblast,59.6423,58.0421,6,0
+Russia,Samara_Ryazanskaya Oblast,54.0262,38.8451,4,0
+Russia,Samara_Irkutskaya Oblast,53.8623,102.0243,8,0
+Russia,Samara_Bryanskaya Oblast,53.1532,33.5704,4,0
+Russia,Samara_Voronezhskaya Oblast,51.8948,38.5782,4,0
+Russia,Samara_Yevreyskaya Avtonomnaya Oblast,47.7657,131.3796,11,0
+Russia,Samara_Orlovskaya Oblast,52.3615,35.0115,4,0
+Russia,Sankt-Peterburg,59.9282,30.2615,4,0
+Russia,Saransk_Mordoviya,54.1948,45.1948,4,0
+Russia,Saratov_Orenburgskaya Oblast,53.1282,54.8782,4,0
+Russia,Saratov_Saratovskaya Oblast,51.5782,46.0448,4,0
+Russia,Sernovodsk_Chechnya and Ingushetiya,43.3232,45.1743,4,0
+Russia,Shadrinsk_Kurganskaya Oblast,56.094,63.6551,6,0
+Russia,Smolensk_Smolenskaya Oblast,54.8357,32.0382,4,0
+Russia,Sochi_Kransnodarskiy Kray,43.5948,39.7259,4,0
+Russia,Staraya Kulatka_Ul yanovskaya Oblast,52.7282,47.6282,4,0
+Russia,Stavropol_Stavropol skiy Kray,45.0443,42.0351,4,0
+Russia,Sterlitamak_Bashkortostan,53.6446,55.9579,6,0
+Russia,Surgut_Samarskaya Oblast,53.9448,51.2115,4,0
+Russia,Surgut_Khanty-Mansiyskiy Avtonomnyy Okrug,61.2615,73.4282,6,0
+Russia,Syktyvkar_Komi,61.6782,50.8237,4,0
+Russia,Taganrog_Rostovskaya Oblast,47.233,38.921,4,0
+Russia,Tambov_Tambovskaya Oblast,52.7172,41.3802,4,0
+Russia,Tatarstan,55.3449,51.0116,4,0
+Russia,Tobol sk_Tyumenskaya Oblast,58.2116,68.2783,6,0
+Russia,Togliatti_Samarskaya Oblast,53.5349,49.4241,4,0
+Russia,Tomsk_Tomskaya Oblast,56.5116,84.9783,8,0
+Russia,Tu_Kransnodarskiy Kray,44.1985,38.8966,4,0
+Russia,Tuapse_Kransnodarskiy Kray,44.0994,39.0933,4,0
+Russia,Tuimazy_Bashkortostan,54.6116,53.7116,4,0
+Russia,Tula_Tul skaya Oblast,54.2283,37.561,4,0
+Russia,Tula_Novosibirskaya Oblast,54.9116,82.8116,7,0
+Russia,Tver_Tverskaya Oblast,56.8735,35.9047,4,0
+Russia,Tyumen_Tyumenskaya Oblast,57.1638,65.5388,6,0
+Russia,Tyumenskiy_Kransnodarskiy Kray,44.1924,38.9877,4,0
+Russia,Ufa_Chelyabinskaya Oblast,55.7617,60.1284,6,0
+Russia,Ufa,54.6895,56.0039,6,0
+Russia,Ufa_Bashkortostan,54.7867,56.0492,6,0
+Russia,Ufa Plateau_Bashkortostan,56.7617,57.5117,6,0
+Russia,Ukhta_Komi,63.6239,53.9,4,0
+Russia,Ul yanovsk_Ul yanovskaya Oblast,54.345,48.4117,4,0
+Russia,Ul yanovskaya Oblast,54.0117,48.0117,4,0
+Russia,Uray_Khanty-Mansiyskiy Avtonomnyy Okrug,60.1364,64.7875,6,0
+Russia,Urus-Martan_Chechnya and Ingushetiya,43.1403,45.5548,4,0
+Russia,Usinsk_Komi,66.0056,57.5398,6,0
+Russia,Vladikavkaz_Severnaya Osetiya-Alaniya,43.0546,44.6954,4,0
+Russia,Vladimir_Primorskiy Kray,43.9118,135.5118,11,0
+Russia,Vladimir_Vladimirskaya Oblast,56.1546,40.4099,4,0
+Russia,Vladimir_Murmanskaya Oblast,69.426,33.1271,4,0
+Russia,Vladimir_Irkutskaya Oblast,53.4851,102.6671,8,0
+Russia,Vladivostok_Primorskiy Kray,43.1451,131.9118,11,0
+Russia,Volgograd_Volgogradskaya Oblast,48.8165,44.5976,4,0
+Russia,Voronezh,51.5299,39.1012,4,0
+Russia,Voronezh_Voronezhskaya Oblast,51.6782,39.1818,4,0
+Russia,Voronezh_Orenburgskaya Oblast,51.4129,58.0326,6,0
+Russia,Voronezh_Altayskiy Kray,51.2071,82.0221,8,0
+Russia,Xoraca_Chechnya and Ingushetiya,42.9223,46.152,4,0
+Russia,Yakutsk_Sakha Yakutiya,62.046,129.7452,10,0
+Russia,Yaroslavl_Yaroslavskaya Oblast,57.6288,39.8788,4,0
+Russia,Yoshkar-Ola_Mariy-El,56.649,47.8832,4,0
+Russia,Yuzhno-Sakhalinsk_Sakhalinskaya Oblast,46.9643,142.7527,11,0

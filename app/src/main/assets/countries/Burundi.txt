@@ -1,0 +1,304 @@
+Burundi,Aerodrome de Gihofi-Moso_Rutana,-4.0339,30.1319,2,20
+Burundi,Agahotsa_Cankuzo,-3.1058,30.5778,2,20
+Burundi,Agasenyi_Karuzi,-3.1967,30.1325,2,21
+Burundi,Akabizi,-2.8317,30.1156,2,21
+Burundi,Akadahoka_Ngozi,-2.8758,30.0858,2,21
+Burundi,Akagera,-0.9500,31.7833,2,19
+Burundi,Akagogo_Gitega,-3.7317,29.8967,2,21
+Burundi,Akagoma_ or BY05,-3.3417,29.7708,2,21
+Burundi,Akagoma_Ngozi,-2.9375,29.8681,2,21
+Burundi,Akagondo_Cankuzo,-3.2653,30.8236,2,19
+Burundi,Akagoti_Cankuzo,-3.1167,30.6903,2,20
+Burundi,Akaguhu_Bujumbura,-3.4253,29.5703,2,22
+Burundi,Akaguya_Gitega,-3.4444,30.0708,2,21
+Burundi,Akamira_Ngozi,-2.9364,29.9069,2,21
+Burundi,Akamurenda_Ruyigi,-3.5994,30.2969,2,20
+Burundi,Akanweka_Cankuzo,-2.9728,30.6006,2,20
+Burundi,Akaremera_Ngozi,-2.8158,29.7883,2,22
+Burundi,Akarenga_Kayanza,-3.0153,29.8014,2,21
+Burundi,Akashishi_Ruyigi,-3.6111,30.3003,2,20
+Burundi,Akayogo_Ruyigi,-3.3861,30.3692,2,20
+Burundi,Akimpama_Ruyigi,-3.3819,30.4594,2,20
+Burundi,Athenee Bujumbura_Bujumbura,-3.3958,29.3722,2,22
+Burundi,Athenee Gitega_Gitega,-3.4214,29.9369,2,21
+Burundi,Athenee Rubanga_Bururi,-3.7539,29.6981,2,21
+Burundi,Bujumbura,-3.3833,29.3289,2,22
+Burundi,Dabambe_Rutana,-3.9389,30.0033,2,20
+Burundi,Dama_Makamba,-4.2119,29.7228,2,22
+Burundi,Dama_Bururi,-3.9628,29.4208,2,22
+Burundi,Dangara_Gitega,-3.8289,29.9403,2,21
+Burundi,Daraza,-2.9417,30.2656,2,21
+Burundi,Denzwa_Makamba,-4.3683,29.7269,2,21
+Burundi,Dispensaire Bujumbura_Bujumbura,-3.3697,29.3831,2,22
+Burundi,Donge_Bururi,-3.6833,29.5444,2,21
+Burundi,Donge Burasira_Bururi,-3.6631,29.5564,2,21
+Burundi,Donge Ruzi_Bururi,-3.7119,29.5342,2,21
+Burundi,Donzi_Bururi,-3.7383,29.4694,2,22
+Burundi,Dundwe_Bururi,-3.9261,29.5564,2,21
+Burundi,Dunga_Makamba,-4.1506,29.9322,2,20
+Burundi,Dusasa_Kayanza,-2.8308,29.4572,2,22
+Burundi,Dutwaro_Gitega,-3.3206,29.8611,2,21
+Burundi,Dutwe_Ruyigi,-3.4619,30.3153,2,20
+Burundi,Echelle de crues Ndurumu_Ngozi,-2.7247,29.9864,2,21
+Burundi,Ecole Bujumbura_Bujumbura,-3.4178,29.3542,2,22
+Burundi,Ecole d agriculture Gitega_Gitega,-3.4008,29.9189,2,21
+Burundi,Ecole moyenne Mugera_Gitega,-3.3231,29.9556,2,21
+Burundi,Ecole moyenne Muyaga_Cankuzo,-3.2447,30.5486,2,20
+Burundi,Ecole normale Buhiga_Karuzi,-3.0314,30.1536,2,21
+Burundi,Ecole normale Bujumbura_Bujumbura,-3.3608,29.3731,2,22
+Burundi,Ecole normale Bukeye_ or BY05,-3.1983,29.6450,2,22
+Burundi,Ecole normale Busiga_Ngozi,-2.8789,29.7397,2,22
+Burundi,Ecole normale Kayokwe_ or BY05,-3.5322,29.7406,2,21
+Burundi,Ecole normale Kibimba_Gitega,-3.2981,29.7928,2,21
+Burundi,Ecole normale Kiremba_Bururi,-3.9392,29.6733,2,21
+Burundi,Ecole normale Mushasha_Gitega,-3.4478,29.9397,2,21
+Burundi,Ecole normale Mutumba_Bujumbura,-3.5867,29.3564,2,22
+Burundi,Ecole normale Rugari_Muyinga,-2.7328,30.3864,2,21
+Burundi,Ecole normale Ruyigi_Ruyigi,-3.4600,30.2353,2,20
+Burundi,Ecole pedagogique Musenyi_Ngozi,-2.9497,30.0381,2,21
+Burundi,Ecole primaire Nyamugari_Bururi,-3.9483,29.6339,2,21
+Burundi,Faille des Allemands_Rutana,-3.9033,30.1278,2,20
+Burundi,Ferme de Randa_Bubanza,-3.1547,29.3681,2,22
+Burundi,Ferme Karuzi_Karuzi,-3.1019,30.1561,2,21
+Burundi,Ferme Mparambo_Cibitoke,-2.8297,29.0689,2,23
+Burundi,Ferme Nyabibuye_Muyinga,-2.9806,30.4522,2,20
+Burundi,Ferme Rugombo_Cibitoke,-2.7992,29.0769,2,23
+Burundi,Foko_Kirundo,-2.3569,30.0161,2,22
+Burundi,Fota_ or BY05,-3.4389,29.7042,2,21
+Burundi,Fuku_Bururi,-3.8661,29.6417,2,21
+Burundi,Funzwe_Ruyigi,-3.7017,30.3594,2,20
+Burundi,Fute_Makamba,-4.1092,29.6486,2,21
+Burundi,Haga_Kirundo,-2.4286,30.0833,2,21
+Burundi,Hanganzo_ or BY05,-3.3592,29.6158,2,22
+Burundi,Hangarizo_Ngozi,-2.8328,29.7619,2,22
+Burundi,Harudede_Kirundo,-2.6181,30.2108,2,21
+Burundi,Hayi_Bururi,-3.7914,29.5928,2,21
+Burundi,Hayiro_Ngozi,-2.8536,29.8303,2,22
+Burundi,Hayiro_ or BY05,-3.3853,29.6817,2,21
+Burundi,Heha_Bujumbura,-3.6036,29.4969,2,22
+Burundi,Higiro_Bururi,-3.8247,29.5514,2,21
+Burundi,Higiro_Gitega,-3.4033,29.9675,2,21
+Burundi,Higiro_Bubanza,-3.0847,29.4453,2,22
+Burundi,Hina_Ngozi,-2.9169,29.7586,2,22
+Burundi,Honga_Bururi,-3.9803,29.5808,2,21
+Burundi,Hopital Bujumbura_Bujumbura,-3.3861,29.3650,2,22
+Burundi,Hopital Bururi_Bururi,-3.9483,29.6194,2,21
+Burundi,Hopital Kayokwe_ or BY05,-3.5297,29.7422,2,21
+Burundi,Hopital Muyinga_Muyinga,-2.8422,30.3464,2,21
+Burundi,Humure_Cankuzo,-3.1067,30.5914,2,20
+Burundi,Ibuga_Ruyigi,-3.5283,30.4553,2,20
+Burundi,Ibuna_Kayanza,-3.1178,29.6744,2,22
+Burundi,Ihangiro_Ruyigi,-3.2878,30.3867,2,20
+Burundi,Ijenda_Bujumbura,-3.4794,29.5675,2,22
+Burundi,Ijuru_Bururi,-3.6792,29.6419,2,21
+Burundi,Ile Akayoba_Kirundo,-2.4272,30.2764,2,21
+Burundi,Ile Kigwa_Kirundo,-2.5042,30.1264,2,21
+Burundi,Inacavu_Bubanza,-2.9611,29.3869,2,22
+Burundi,Inadjaga_Gitega,-3.5292,29.8439,2,21
+Burundi,Inakigogo_Ngozi,-2.8111,29.7528,2,22
+Burundi,Inamurambi_Cibitoke,-2.8250,29.3628,2,22
+Burundi,Inanjororo_Bubanza,-3.0903,29.3653,2,22
+Burundi,Inanzegwe,-4.0683,29.7314,2,21
+Burundi,iProvense ya Kirundo_Kirundo,-2.5833,30.1667,2,21
+Burundi,iProvense ya Ngozi_Ngozi,-2.8750,29.9250,2,21
+Burundi,iProvense ya Ruyigi_Ruyigi,-3.4500,30.3167,2,20
+Burundi,Irimwa_ or BY05,-3.4033,29.6169,2,22
+Burundi,Isale_Bujumbura,-3.3506,29.4892,2,22
+Burundi,Isare_Bujumbura,-3.3486,29.4833,2,22
+Burundi,Isigi_Bujumbura,-3.5881,29.5114,2,22
+Burundi,Itaba_Gitega,-3.6597,30.0139,2,21
+Burundi,Itahe_Ruyigi,-3.4456,30.5311,2,20
+Burundi,Iteka_Ruyigi,-3.4903,30.4483,2,20
+Burundi,Iteka_ or BY05,-3.4972,29.6928,2,21
+Burundi,Iteme_Karuzi,-3.0303,29.9864,2,21
+Burundi,Iyogera_Ruyigi,-3.5211,30.4411,2,20
+Burundi,Jabiro_Kirundo,-2.6642,29.9953,2,21
+Burundi,Jaga_ or BY05,-3.4606,29.8500,2,21
+Burundi,Jagamba_Cibitoke,-2.7028,29.2486,2,23
+Burundi,Janda_Bujumbura,-3.6978,29.4503,2,22
+Burundi,Janga_ or BY05,-3.2703,29.7108,2,21
+Burundi,Jani_Muyinga,-2.8156,30.1831,2,21
+Burundi,Janja_Gitega,-3.5317,29.9328,2,21
+Burundi,Jarama_Muyinga,-3.0003,30.2850,2,21
+Burundi,Jembegeti_Kayanza,-2.8764,29.5903,2,22
+Burundi,Jenda_Gitega,-3.2906,29.9106,2,21
+Burundi,Jenda_Bururi,-3.8669,29.6586,2,21
+Burundi,Jenda_Makamba,-4.0453,29.8086,2,21
+Burundi,Jene_Kayanza,-2.8594,29.6172,2,22
+Burundi,Jerama_Gitega,-3.7442,29.8786,2,21
+Burundi,Jerama_Bururi,-3.8872,29.5139,2,21
+Burundi,Jerijeri_Gitega,-3.6089,29.8631,2,21
+Burundi,Jiji_Bururi,-3.8869,29.5589,2,21
+Burundi,Jimbi_Makamba,-4.2883,29.8769,2,20
+Burundi,Jimbi_Ngozi,-2.8589,29.8769,2,21
+Burundi,Jimbi_Gitega,-3.4731,29.8931,2,21
+Burundi,Jimbi_Kayanza,-3.0533,29.7589,2,22
+Burundi,Jobe_Rutana,-3.9039,29.9692,2,21
+Burundi,Jogo_Karuzi,-3.2194,30.1775,2,21
+Burundi,Jomati_Rutana,-3.9139,30.0331,2,20
+Burundi,Jubete_Rutana,-3.8242,30.0028,2,21
+Burundi,Jugwe_Gitega,-3.5247,29.8853,2,21
+Burundi,Jungwe_Makamba,-4.1128,29.6928,2,21
+Burundi,Jungwe_Bururi,-3.9686,29.7786,2,21
+Burundi,Jurugati_Rutana,-3.8367,30.1558,2,20
+Burundi,Lac Dogodogo_Cibitoke,-2.8403,29.0972,2,23
+Burundi,Lac Gacamirinda_Kirundo,-2.4569,30.0111,2,21
+Burundi,Lac Gitamo_Kirundo,-2.5050,30.0144,2,21
+Burundi,Lac Kanzigiri_Kirundo,-2.4583,30.3625,2,21
+Burundi,Lac Kibenga_Bubanza,-3.2367,29.4114,2,22
+Burundi,Lac Mwungere_Kirundo,-2.5775,29.9456,2,22
+Burundi,Lac Narungazi_Kirundo,-2.5442,29.9975,2,21
+Burundi,Lac Nyamuziba_Cibitoke,-2.8486,29.1247,2,23
+Burundi,Lac Rwihinda_Kirundo,-2.5500,30.0778,2,21
+Burundi,Lugongo_Cankuzo,-3.2614,30.7097,2,20
+Burundi,Luhwa,-2.7333,29.0333,2,23
+Burundi,Lutare_Ruyigi,-3.4544,30.5625,2,20
+Burundi,Luvusi,-3.6167,30.5333,2,20
+Burundi,Lycee Bujumbura_Bujumbura,-3.3850,29.3911,2,22
+Burundi,Lycee Bururi_Bururi,-3.9458,29.6247,2,21
+Burundi,Lycee Gisanze_Muyinga,-2.7822,30.1758,2,21
+Burundi,Lycee Ijenda_Bujumbura,-3.4794,29.5639,2,22
+Burundi,Ngozi_Gitega,-3.4850,29.9003,2,21
+Burundi,Ngozi,-2.9114,29.8306,2,21
+Burundi,Ngozi_Rutana,-3.9056,30.0544,2,20
+Burundi,OCIBU Nyamugari_Ngozi,-3.0114,29.8964,2,21
+Burundi,Parc national de la Kibira,-3.0000,29.5000,2,22
+Burundi,Petit Seminaire Bujumbura_Bujumbura,-3.4167,29.3614,2,22
+Burundi,Petit Seminaire Buta_Bururi,-3.9528,29.7094,2,21
+Burundi,Pfunyangeso_Gitega,-3.5606,30.0614,2,21
+Burundi,Phare Bujumbura_Bujumbura,-3.3797,29.3444,2,22
+Burundi,Plage Bujumbura_Bujumbura,-3.3806,29.3461,2,22
+Burundi,Plage Kibenga_Bujumbura,-3.4214,29.3389,2,22
+Burundi,Pompage Rutoka_Muyinga,-2.7456,30.3969,2,21
+Burundi,Port Bujumbura_Bujumbura,-3.3761,29.3417,2,22
+Burundi,Prison Muyange-Gashoho_Muyinga,-2.8128,30.1256,2,21
+Burundi,Province de Bubanza_Bubanza,-3.1167,29.4000,2,22
+Burundi,Province de Bururi_Bururi,-3.8500,29.6333,2,21
+Burundi,Province de Cankuzo_Cankuzo,-3.1333,30.5833,2,20
+Burundi,Province de Cibitoke_Cibitoke,-2.8833,29.2500,2,23
+Burundi,Province de Gitega_Gitega,-3.5000,29.9500,2,21
+Burundi,Province de Karuzi_Karuzi,-3.1250,30.1333,2,21
+Burundi,Province de Kayanza_Kayanza,-3.0667,29.6667,2,22
+Burundi,Province de Makamba_Makamba,-4.1667,29.7528,2,21
+Burundi,Province de Muramvya_Muramvya,-3.2500,29.6667,2,22
+Burundi,Province de Muyinga_Muyinga,-2.8333,30.3333,2,21
+Burundi,Province de Mwaro_Mwaro,-3.5000,29.6667,2,21
+Burundi,Province de Rutana_Rutana,-3.8667,30.1000,2,20
+Burundi,Pukeye_Makamba,-4.3500,29.6000,2,21
+Burundi,Tabi_Gitega,-3.4469,29.8661,2,21
+Burundi,Tabi_Bujumbura,-3.6417,29.3989,2,22
+Burundi,Tagara_Bururi,-3.8833,29.6153,2,21
+Burundi,Tahiro_Rutana,-3.9142,29.8992,2,21
+Burundi,Takwe_Makamba,-4.1467,29.7594,2,21
+Burundi,Tamba_Cankuzo,-3.0064,30.5933,2,20
+Burundi,Tanganika_Kirundo,-2.5100,30.1828,2,21
+Burundi,Tangara_Ngozi,-2.9222,29.9736,2,21
+Burundi,Tara_Bururi,-3.8264,29.6631,2,21
+Burundi,Tara_Kayanza,-3.2008,29.7233,2,21
+Burundi,Tarire_Bururi,-3.9756,29.6142,2,21
+Burundi,Tawe,-3.7875,29.9531,2,21
+Burundi,Teka_ or BY05,-3.2233,29.7125,2,21
+Burundi,Temba_Cibitoke,-2.8583,29.2522,2,23
+Burundi,Tenga_Bujumbura,-3.3056,29.4153,2,22
+Burundi,Terera_Rutana,-3.8875,30.0236,2,20
+Burundi,Tetero_Cankuzo,-3.0075,30.7803,2,20
+Burundi,Teza_ or BY05,-3.2153,29.5625,2,22
+Burundi,Timbura_Rutana,-4.0322,29.9508,2,20
+Burundi,Titi_Bubanza,-3.0822,29.4336,2,22
+Burundi,Titi_Ruyigi,-3.6575,30.1492,2,20
+Burundi,Tongwe_Bururi,-3.9956,29.5683,2,21
+Burundi,Tora_Bururi,-3.6875,29.5611,2,21
+Burundi,Tribunal Kayanza_Kayanza,-2.9353,29.6283,2,22
+Burundi,Tribunal Mabanda_Makamba,-4.2733,29.7789,2,21
+Burundi,Tribunal Ndego_Kayanza,-3.1025,29.6719,2,22
+Burundi,Tribunal Rutovu_Bururi,-3.8836,29.8575,2,21
+Burundi,Tribunaux Kayokwe_ or BY05,-3.5125,29.7269,2,21
+Burundi,Tubiri_Ngozi,-2.8522,29.6525,2,22
+Burundi,Tukitse_Cibitoke,-2.8489,29.4347,2,22
+Burundi,Tura_Muyinga,-2.4069,30.4894,2,21
+Burundi,Twe_ or BY05,-3.5453,29.6208,2,21
+Burundi,Twinkwavu_Cankuzo,-3.2858,30.6583,2,20
+Burundi,Twinyambo_Karuzi,-3.1211,30.1922,2,21
+Burundi,Twinyoni_Cibitoke,-2.6786,29.3258,2,23
+Burundi,Tyazo_Ngozi,-2.7903,29.7692,2,22
+Burundi,Ubuyumbu,-2.8333,29.3833,2,22
+Burundi,Umwogere,-2.8000,29.6000,2,22
+Burundi,Universite Bujumbura_Bujumbura,-3.3789,29.3803,2,22
+Burundi,Urundi,-3.5000,30.0000,2,21
+Burundi,Urwagongwe_Karuzi,-3.3622,30.0461,2,21
+Burundi,Usine Theicole Teza_ or BY05,-3.2164,29.5642,2,22
+Burundi,Usugi_Bujumbura,-3.4556,29.4208,2,22
+Burundi,Usumbura_Bujumbura,-3.3333,29.2569,2,22
+Burundi,Uwibiti_Bururi,-3.5978,29.5994,2,21
+Burundi,Uwimpene_Bururi,-3.8472,29.6475,2,21
+Burundi,Uwimpfizi_ or BY05,-3.6089,29.7856,2,21
+Burundi,Uwinryame_Bururi,-3.6142,29.5589,2,21
+Burundi,Uwinzovu_Bururi,-3.6700,29.6078,2,21
+Burundi,Uwiteme_ or BY05,-3.3439,29.6014,2,22
+Burundi,Uwuruganda_ or BY05,-3.3828,29.5583,2,22
+Burundi,Uwurugo_Bururi,-3.6061,29.5608,2,22
+Burundi,Vubi_Ruyigi,-3.5864,30.2419,2,20
+Burundi,Vugizo_Makamba,-4.1714,29.7100,2,21
+Burundi,Vugizo_Kayanza,-3.1119,29.7644,2,21
+Burundi,Vugizo_Bujumbura,-3.3878,29.3867,2,22
+Burundi,Vuma_Bujumbura,-3.3225,29.5158,2,22
+Burundi,Vumasi_Muyinga,-2.4183,30.4131,2,21
+Burundi,Vumbaganya_Bururi,-3.8253,29.3633,2,22
+Burundi,Vumbi_Kirundo,-2.4311,29.9847,2,22
+Burundi,Vumbi-Bukuba_Kirundo,-2.6978,30.1042,2,21
+Burundi,Vumbiro_Bujumbura,-3.5125,29.4525,2,22
+Burundi,Vumwe_Ruyigi,-3.6250,30.3167,2,20
+Burundi,Vuna_Muyinga,-2.7397,30.1758,2,21
+Burundi,Vungu_Makamba,-4.2681,29.7392,2,21
+Burundi,Vyambo,-3.3078,29.5267,2,22
+Burundi,Vyampa_Cankuzo,-3.3228,30.5817,2,20
+Burundi,Vyanda_Bururi,-4.1031,29.6056,2,21
+Burundi,Vyanzo_Kirundo,-2.4222,30.2417,2,21
+Burundi,Vyero_Ngozi,-2.9606,30.0083,2,21
+Burundi,Vyerwa_Karuzi,-3.0722,30.1633,2,21
+Burundi,Vyiniro_Karuzi,-2.9872,30.1753,2,21
+Burundi,Vyinkona_Muyinga,-2.7819,30.0842,2,21
+Burundi,Vyinkona_Gitega,-3.4503,29.9425,2,21
+Burundi,Vyinkora_Cankuzo,-3.2017,30.6044,2,20
+Burundi,Vyintare_Karuzi,-2.9872,30.2150,2,21
+Burundi,Vyirongoza_Muyinga,-3.1439,30.3314,2,20
+Burundi,Vyoga_Gitega,-3.5211,29.8564,2,21
+Burundi,Vyondo_Muyinga,-2.9489,30.3561,2,20
+Burundi,Vyugazo_Ngozi,-2.7867,29.8239,2,22
+Burundi,Vyuma_ or BY05,-3.4592,29.7231,2,21
+Burundi,Vyuma_Karuzi,-2.9728,30.1869,2,21
+Burundi,Vyuma_Rutana,-3.8072,30.0256,2,20
+Burundi,Vyuma_Muyinga,-2.4828,30.4453,2,21
+Burundi,Vyuya_Bururi,-3.6781,29.6556,2,21
+Burundi,Wabitega_Cibitoke,-2.9975,29.3128,2,22
+Burundi,Wabivumu_Gitega,-3.7283,29.8103,2,21
+Burundi,Waga,-3.5236,29.8097,2,21
+Burundi,Wambogo_Ruyigi,-3.5417,30.3392,2,20
+Burundi,Wangoma_Cankuzo,-3.0794,30.5114,2,20
+Burundi,Warukera,-2.8042,29.4306,2,22
+Burundi,Warukwega_Kayanza,-3.0272,29.6969,2,22
+Burundi,Wingoma_Muyinga,-2.6750,30.3675,2,21
+Burundi,Yaba_Rutana,-4.0450,29.8978,2,21
+Burundi,Yabuhaga_Muyinga,-2.7417,30.2928,2,21
+Burundi,Yagizo_Karuzi,-3.2006,30.2028,2,21
+Burundi,Yamuremye_ or BY05,-3.2069,29.8053,2,21
+Burundi,Yandaro_Kayanza,-2.8469,29.5806,2,22
+Burundi,Yanza_ or BY05,-3.3928,29.6089,2,22
+Burundi,Yanza_Kayanza,-2.9300,29.5769,2,22
+Burundi,Yanza_Kirundo,-2.4217,30.2233,2,21
+Burundi,Yaranda_Kirundo,-2.5217,30.0983,2,21
+Burundi,Yatsinda_Ruyigi,-3.4556,30.2611,2,20
+Burundi,Yenda_Rutana,-3.7144,30.1086,2,20
+Burundi,Yengero_Bururi,-3.8225,29.6956,2,21
+Burundi,Yoga_Ngozi,-2.6958,29.9889,2,21
+Burundi,Yonga_Muyinga,-2.4194,30.4722,2,21
+Burundi,Yove_Bururi,-3.8931,29.4789,2,21
+Burundi,Yove_Rutana,-3.6756,30.1006,2,20
+Burundi,Zaga_Muyinga,-2.7694,30.2181,2,21
+Burundi,Zanandore_Karuzi,-3.2553,30.1081,2,21
+Burundi,Zina_Muyinga,-2.6300,30.4044,2,21
+Burundi,Zina_Bubanza,-3.0417,29.3050,2,22
+Burundi,Zina,-3.0681,29.2969,2,22
+Burundi,Zingati_Bururi,-3.6583,29.6572,2,21
+Burundi,Zingure_Makamba,-4.2906,29.6383,2,21
+Burundi,Zorya_Bubanza,-3.1589,29.4364,2,22

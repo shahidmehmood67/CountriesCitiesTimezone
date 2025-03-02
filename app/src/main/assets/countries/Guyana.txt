@@ -1,0 +1,48 @@
+Guyana,Anna Regina_Pomeroon-Supenaam,7.2764,-58.4903,-4,0
+Guyana,Felicity_Mahaica-Berbice,6.5435,-57.7898,-4,0
+Guyana,Fellowship_Mahaica-Berbice,6.5769,-57.7731,-4,0
+Guyana,Fortitude_Mahaica-Berbice,6.5602,-57.7898,-4,0
+Guyana,Georgetown_Demerara-Mahaica,6.8103,-58.1564,-4,0
+Guyana,Georgetown Rock_Upper Demerara-Berbice,6.4436,-58.6064,-4,0
+Guyana,Guyana,5.0103,-58.9897,-4,0
+Guyana,Hague_Essequibo Islands-West Demerara,6.8604,-58.2563,-4,0
+Guyana,Linden_Upper Demerara-Berbice,6.0108,-58.2892,-4,0
+Guyana,Met en Meerzorg_Essequibo Islands-West Demerara,6.8776,-58.3224,-4,0
+Guyana,Port Mourant_East Berbice-Corentyne,6.2612,-57.3221,-4,0
+Guyana,Quakers Hall_Demerara-Mahaica,6.6446,-57.8387,-4,0
+Guyana,Quartzstone River_Cuyuni-Mazaruni,6.7613,-59.172,-4,0
+Guyana,Quata River_Upper Takutu-Upper Essequibo,2.0613,-59.072,-4,0
+Guyana,Questina_Cuyuni-Mazaruni,6.2446,-58.572,-4,0
+Guyana,Quineballi_Demerara-Mahaica,6.3946,-58.1054,-4,0
+Guyana,Quintelle Creek_Potaro-Siparuni,5.2946,-59.0887,-4,0
+Guyana,Vaial Creek_Pomeroon-Supenaam,7.3451,-58.6382,-4,0
+Guyana,Velami Outstation_Upper Takutu-Upper Essequibo,3.8618,-59.5049,-4,0
+Guyana,Velgrad_Potaro-Siparuni,4.8785,-59.7882,-4,0
+Guyana,Vereeniging_Demerara-Mahaica,6.6785,-57.9382,-4,0
+Guyana,Vergenoegen_Essequibo Islands-West Demerara,6.8785,-58.3382,-4,0
+Guyana,Vertrouwen_Essequibo Islands-West Demerara,6.9451,-58.4049,-4,0
+Guyana,Vevay_Mahaica-Berbice,6.6785,-57.9049,-4,0
+Guyana,Vigilance_Demerara-Mahaica,6.7785,-58.0049,-4,0
+Guyana,Vigilant Island_Upper Demerara-Berbice,6.3451,-58.5715,-4,0
+Guyana,Village Nappita_Upper Takutu-Upper Essequibo,3.4285,-59.5549,-4,0
+Guyana,Village Shulinab_Upper Takutu-Upper Essequibo,3.0951,-59.7715,-4,0
+Guyana,Virtue Creek_Upper Demerara-Berbice,4.7951,-58.2215,-4,0
+Guyana,Visselvalligheid_Essequibo Islands-West Demerara,6.9285,-58.4215,-4,0
+Guyana,Voorburg_Essequibo Islands-West Demerara,6.6285,-58.2215,-4,0
+Guyana,Vreckenhorst_East Berbice-Corentyne,5.7451,-57.5049,-4,0
+Guyana,Vrede en Vriendschap_East Berbice-Corentyne,6.1785,-57.4215,-4,0
+Guyana,Vredenhoop_Demerara-Mahaica,6.3451,-58.3049,-4,0
+Guyana,Vreen Rust_Demerara-Mahaica,6.4785,-58.3049,-4,0
+Guyana,Vried-en-stein_Essequibo Islands-West Demerara,6.6451,-58.2215,-4,0
+Guyana,Vriendschap_Upper Demerara-Berbice,5.7951,-57.7549,-4,0
+Guyana,Vriesland_Demerara-Mahaica,6.6951,-58.1882,-4,0
+Guyana,Vryburg_East Berbice-Corentyne,6.0285,-57.5882,-4,0
+Guyana,Vryheid_Demerara-Mahaica,6.3118,-58.2549,-4,0
+Guyana,Vryheids Lust_Demerara-Mahaica,6.8118,-58.0882,-4,0
+Guyana,Zaruma Fall_East Berbice-Corentyne,3.2622,-57.5878,-4,0
+Guyana,Zee Zight_Mahaica-Berbice,6.3122,-57.5545,-4,0
+Guyana,Zeeburg_Essequibo Islands-West Demerara,6.8622,-58.3045,-4,0
+Guyana,Zeelandia_Essequibo Islands-West Demerara,7.0289,-58.4211,-4,0
+Guyana,Zombie Creek_East Berbice-Corentyne,5.0122,-57.5711,-4,0
+Guyana,Zorg_East Berbice-Corentyne,6.1955,-57.4045,-4,0
+Guyana,Zuidwyk_Mahaica-Berbice,6.2122,-57.5545,-4,0

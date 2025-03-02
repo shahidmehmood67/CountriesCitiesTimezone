@@ -1,0 +1,116 @@
+Saint Helena,Alarm Cottage,-15.9403,-5.6903,0,0
+Saint Helena,Anchorstock Point,-37.0903,-12.3403,0,0
+Saint Helena,Archway Rock,-40.307,-9.8736,0,0
+Saint Helena,Arnos Vale,-15.957,-5.6736,0,0
+Saint Helena,Ascension,-7.9403,-14.3403,0,0
+Saint Helena,Baltic Bay,-40.2902,-9.9902,0,0
+Saint Helena,Camp Glen,-40.2568,-9.9234,0,0
+Saint Helena,Carlisle Bay,-37.2734,-12.6401,0,0
+Saint Helena,Carlisle Beach,-37.0734,-12.2068,0,0
+Saint Helena,Cavalho Hole,-15.9068,-5.6901,0,0
+Saint Helena,Cave Cove,-40.2568,-9.9568,0,0
+Saint Helena,Cavern Head,-40.3734,-9.8901,0,0
+Saint Helena,Clarence Bay,-7.9068,-14.4068,0,0
+Saint Helena,Coconut Bay,-7.9734,-14.3234,0,0
+Saint Helena,Comer Dale,-40.2568,-9.9401,0,0
+Saint Helena,Cone Islet,-40.2901,-9.9734,0,0
+Saint Helena,Cotar Hill,-7.9568,-14.3901,0,0
+Saint Helena,Crawford Point,-37.1401,-12.3068,0,0
+Saint Helena,Cricket Valley,-7.9401,-14.3234,0,0
+Saint Helena,Deadwood,-15.9233,-5.6733,0,0
+Saint Helena,Deep Glen,-40.2733,-9.9067,0,0
+Saint Helena,Devils Cap,-15.99,-5.74,0,0
+Saint Helena,Dry Gut,-15.94,-5.7567,0,0
+Saint Helena,Eagles Eyrie,-15.9732,-5.7732,0,0
+Saint Helena,East Crater,-7.9066,-14.3566,0,0
+Saint Helena,East Lodge,-15.9399,-5.7066,0,0
+Saint Helena,Edinburgh,-37.0399,-12.2899,0,0
+Saint Helena,Edinburgh Peak,-40.2982,-9.9321,0,0
+Saint Helena,Egg Island,-15.9566,-5.7566,0,0
+Saint Helena,Elephant,-15.9732,-5.6399,0,0
+Saint Helena,Evans Bluff,-7.9399,-14.4066,0,0
+Saint Helena,Expedition Peak,-40.2899,-9.9566,0,0
+Saint Helena,Farmost Point,-37.0398,-12.2398,0,0
+Saint Helena,Fisher Valley,-15.9398,-5.6565,0,0
+Saint Helena,Gannet Bay,-7.9897,-14.373,0,0
+Saint Helena,George Islet,-15.973,-5.623,0,0
+Saint Helena,Georgetown,-7.923,-14.4064,0,0
+Saint Helena,God Be Thanked Tank,-7.923,-14.373,0,0
+Saint Helena,Gough Island,-40.323,-9.9897,0,0
+Saint Helena,Gregorys Battery,-15.923,-5.6564,0,0
+Saint Helena,Guggins Point,-40.323,-9.948,0,0
+Saint Helena,Inaccessible,-37.2728,-12.7395,0,0
+Saint Helena,Island of Ascension,-7.9395,-14.3562,0,0
+Saint Helena,Isolda Rock,-40.2723,-9.9895,0,0
+Saint Helena,Jamestown Valley,-15.9227,-5.7061,0,0
+Saint Helena,Jar,-16.0061,-5.7394,0,0
+Saint Helena,Jews Point,-37.0394,-12.2227,0,0
+Saint Helena,Kern Crag,-40.2893,-9.8893,0,0
+Saint Helena,King and Queen Rocks,-15.9393,-5.6226,0,0
+Saint Helena,Knotty Ridge,-15.906,-5.656,0,0
+Saint Helena,Long Ledge,-15.9392,-5.7392,0,0
+Saint Helena,Longwood Farm,-15.9392,-5.6725,0,0
+Saint Helena,Lots Wife Ponds,-16.0059,-5.7225,0,0
+Saint Helena,Luff Islet,-40.3559,-9.8725,0,0
+Saint Helena,Luff Point,-40.3225,-9.8559,0,0
+Saint Helena,Lyon Point,-37.1059,-12.2225,0,0
+Saint Helena,Manati Bay,-15.9891,-5.7558,0,0
+Saint Helena,McArthur Point,-7.9558,-14.4058,0,0
+Saint Helena,Middle Fell,-40.2891,-9.9058,0,0
+Saint Helena,Mount Ross,-15.9558,-5.7224,0,0
+Saint Helena,Mount Rowett,-40.3391,-9.9391,0,0
+Saint Helena,Mount Vesey,-15.9724,-5.7224,0,0
+Saint Helena,Needles Tank,-7.9223,-14.389,0,0
+Saint Helena,Newfoundland,-15.9557,-5.689,0,0
+Saint Helena,Noisy Beach,-37.1223,-12.2223,0,0
+Saint Helena,North East Reef,-40.289,-9.939,0,0
+Saint Helena,North Rowett,-40.3057,-9.9057,0,0
+Saint Helena,Nullah,-7.889,-14.339,0,0
+Saint Helena,Old Joan Point,-15.9889,-5.7722,0,0
+Saint Helena,Peaked Island,-15.9555,-5.7721,0,0
+Saint Helena,Pig Bite,-37.0388,-12.2721,0,0
+Saint Helena,Pillar Bay,-7.9721,-14.3388,0,0
+Saint Helena,Porches Gate,-15.9555,-5.6221,0,0
+Saint Helena,Potatoe Bay,-15.9888,-5.7055,0,0
+Saint Helena,Powells Gut,-15.9888,-5.6888,0,0
+Saint Helena,Prospect,-15.9721,-5.7388,0,0
+Saint Helena,Prosperous Bay,-15.9221,-5.6388,0,0
+Saint Helena,Pummel Crag,-40.3555,-9.9055,0,0
+Saint Helena,Pyramid Rock,-7.9055,-14.3888,0,0
+Saint Helena,Queen Mary s Peak,-37.0887,-12.272,0,0
+Saint Helena,Ragged Hill,-7.9553,-14.3386,0,0
+Saint Helena,Redhole,-37.0553,-12.3053,0,0
+Saint Helena,Redpole Monument,-7.9144,-14.3961,0,0
+Saint Helena,Reef Point,-40.3053,-9.9219,0,0
+Saint Helena,Repetto Bay,-40.3386,-9.9053,0,0
+Saint Helena,Repulse Point,-15.8886,-5.6886,0,0
+Saint Helena,Richmond Hill,-40.3386,-9.8719,0,0
+Saint Helena,Riding Stones,-15.9719,-5.7053,0,0
+Saint Helena,Rockhopper Point,-40.3553,-9.9219,0,0
+Saint Helena,Rofe Rock,-15.9719,-5.6553,0,0
+Saint Helena,Rose Bower,-15.9553,-5.7053,0,0
+Saint Helena,Rosemary Hall,-15.9386,-5.7219,0,0
+Saint Helena,Royalist Point,-40.3053,-9.9886,0,0
+Saint Helena,Rupert Bay,-15.9053,-5.7053,0,0
+Saint Helena,Sharks Valley,-15.9552,-5.6552,0,0
+Saint Helena,The Buoys,-15.9884,-5.6717,0,0
+Saint Helena,The Glen,-40.3051,-9.8884,0,0
+Saint Helena,Thistle Hill,-7.9217,-14.3551,0,0
+Saint Helena,Thompsons Valley,-15.9717,-5.7551,0,0
+Saint Helena,Tipleys Ridge,-15.9717,-5.6884,0,0
+Saint Helena,Triple Peak,-40.2717,-9.9551,0,0
+Saint Helena,Tripot Bay,-37.1384,-12.2384,0,0
+Saint Helena,Tristan,-37.0717,-12.2717,0,0
+Saint Helena,Tristan da Cunha,-37.2384,-12.4884,0,0
+Saint Helena,Trypot Penguin Rookery,-37.1217,-12.2384,0,0
+Saint Helena,Two Gun Saddle,-15.9217,-5.6884,0,0
+Saint Helena,Unicorn Point,-7.955,-14.305,0,0
+Saint Helena,Upper Valley Crater,-7.9216,-14.3383,0,0
+Saint Helena,Whale Point,-7.9381,-14.2881,0,0
+Saint Helena,Wideawake Airfield,-7.9631,-14.3798,0,0
+Saint Helena,Wideawake Fair,-7.9548,-14.3714,0,0
+Saint Helena,Wig Hill,-7.9381,-14.3048,0,0
+Saint Helena,Wild Cattle Pound,-16.9714,-5.7548,0,0
+Saint Helena,Woodlands,-15.9548,-5.7381,0,0
+Saint Helena,Woody Point,-15.9048,-5.6714,0,0
+Saint Helena,Youngs Valley,-15.9212,-5.7212,0,0

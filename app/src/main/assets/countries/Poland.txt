@@ -1,0 +1,169 @@
+Poland,Akacja_PL34,51.5264,18.1764,1,0
+Poland,Aksmanice_PL54,49.6764,22.7597,1,0
+Poland,Akwizgran_PL36,50.943,20.393,1,0
+Poland,Awecken_PL30,53.9597,19.693,1,0
+Poland,Aweyden_PL47,53.7264,21.3264,1,0
+Poland,Awnahof_PL48,50.5597,17.6264,1,0
+Poland,Bedzin_PL35,50.3431,19.1598,1,0
+Poland,Bialystok_Podlaskie,53.1431,23.1598,1,0
+Poland,Bialystok Fabryczny_PL24,53.1431,23.1765,1,0
+Poland,Bialystok Starosielce_PL24,53.1431,23.0931,1,0
+Poland,Bielsko-Biala_PL25,49.8265,19.0431,1,0
+Poland,Bydgoszcz_Kujawsko-Pomorskie,53.1598,18.0098,1,0
+Poland,Bydgoszcz Wschodni_PL26,53.1431,18.0931,1,0
+Poland,Bytom_PL35,50.3598,18.9765,1,0
+Poland,Chabielice_PL51,51.2766,19.1266,1,0
+Poland,Chelm_PL27,51.1432,23.5099,1,0
+Poland,Chojnice_PL26,53.7099,17.5766,1,0
+Poland,Czestochowa_PL29,50.8099,19.1266,1,0
+Poland,Dziaduszyce_PL36,50.3933,20.2767,1,0
+Poland,Gdansk_Pomorskie,54.3603,18.677,1,0
+Poland,Gdansk Glowny_PL31,54.3603,18.6436,1,0
+Poland,Gdansk Nowy Port_PL31,54.4103,18.677,1,0
+Poland,Gdansk Orunia_PL31,54.3436,18.6436,1,0
+Poland,Gdansk Uniemin_PL31,54.4103,18.6436,1,0
+Poland,Gdansk Warzywod_PL31,54.427,18.677,1,0
+Poland,Gdanskie Zulawy_PL31,54.2603,18.8436,1,0
+Poland,GdanskZechowo_PL31,54.3936,18.477,1,0
+Poland,Gdynia_PL31,54.5936,18.527,1,0
+Poland,Gliwice_PL35,50.277,18.677,1,0
+Poland,Gorzow Wielkopolski_PL32,52.7436,15.2436,1,0
+Poland,Iwierzyce_PL56,50.0438,21.7772,1,0
+Poland,Jarocin_PL34,51.9773,17.5273,1,0
+Poland,Jastrzebie Zdroj_PL35,49.9606,18.5939,1,0
+Poland,Kalisz_PL28,52.9607,20.6607,1,0
+Poland,Kalisz_PL34,51.7607,18.094,1,0
+Poland,Katowice_PL35,50.244,19.044,1,0
+Poland,Katowice_Slaskie,50.2774,19.0274,1,0
+Poland,Katowice Ligota_PL35,50.244,18.994,1,0
+Poland,Katowice-Bogucice_PL35,50.2774,19.0607,1,0
+Poland,Katowice-Brynow_PL35,50.244,19.0107,1,0
+Poland,Katowice-Dab_PL35,50.2774,19.0107,1,0
+Poland,Katowice-Zaleze_PL35,50.2774,18.994,1,0
+Poland,Kielce_Swietokrzyskie,50.844,20.6774,1,0
+Poland,Kobylka_PL67,52.344,21.194,1,0
+Poland,Kolobrzeg_Zachodniopomorskie,54.194,15.594,1,0
+Poland,Koscian_PL42,52.1107,16.644,1,0
+Poland,Koszalin_Zachodniopomorskie,54.2107,16.194,1,0
+Poland,Krakow_PL58,51.744,18.5274,1,0
+Poland,Krakow_Malopolskie,50.094,19.9274,1,0
+Poland,Krakowa_Zachodniopomorskie,54.0274,15.794,1,0
+Poland,Krakowek_PL26,53.5107,18.3107,1,0
+Poland,Krakowiany_PL67,52.0274,20.794,1,0
+Poland,Krakowko_Zachodniopomorskie,53.6107,14.6107,1,0
+Poland,Krakowkowice_PL48,50.4274,17.1774,1,0
+Poland,Ligota_PL48,50.4608,18.0108,1,0
+Poland,Lodz_Lodzkie,51.7608,19.4775,1,0
+Poland,Lodz_PL53,52.2775,16.7608,1,0
+Poland,Lodz Fabryczna_PL43,51.7941,19.4941,1,0
+Poland,Lodz Kaliska_PL43,51.7775,19.4441,1,0
+Poland,Lodz Lublinek_PL43,51.7275,19.4108,1,0
+Poland,Lodz Widzew_PL43,51.7775,19.5608,1,0
+Poland,Lublin_Lubelskie,51.2608,22.5775,1,0
+Poland,Lublin Swidnik_PL45,51.2441,22.6941,1,0
+Poland,Lubliniec Nowy_PL54,50.2941,23.1108,1,0
+Poland,Miedzychod_PL32,52.6109,15.9109,1,0
+Poland,Nowa Sol_PL71,51.811,15.7277,1,0
+Poland,Olsztyn_PL29,50.7611,19.2778,1,0
+Poland,Olsztyn_PL47,53.7778,20.4278,1,0
+Poland,Olsztyn_Warminsko-Mazurskie,53.7944,20.4944,1,0
+Poland,Opole_Opolskie,50.6778,17.9611,1,0
+Poland,Opole_PL43,52.0111,19.1944,1,0
+Poland,Ostrowiec Swietokrzyski_PL36,50.9444,21.4111,1,0
+Poland,Oswiecim_PL25,50.0444,19.2444,1,0
+Poland,Pabianice_PL29,50.7279,19.3945,1,0
+Poland,Pabianice_PL43,51.6779,19.3779,1,0
+Poland,Poznan_PL57,51.6945,22.3279,1,0
+Poland,Poznan_Wielkopolskie,52.4279,16.9779,1,0
+Poland,Poznan Krzesiny_PL53,52.3445,16.9779,1,0
+Poland,Poznan Wschod_PL53,52.4279,16.9945,1,0
+Poland,Pustkow_PL64,50.1612,21.5112,1,0
+Poland,Quadendorf_PL31,54.3446,18.7613,1,0
+Poland,Queetz_PL47,53.9613,20.328,1,0
+Poland,Quehnen_PL47,54.3827,20.403,1,0
+Poland,Queiss_PL71,51.578,15.4113,1,0
+Poland,Quellengrund_PL48,50.5113,18.428,1,0
+Poland,Quetzin_Zachodniopomorskie,54.178,15.778,1,0
+Poland,Quidlitz_PL47,53.778,20.6446,1,0
+Poland,Quika_PL61,53.7446,21.8446,1,0
+Poland,Quiram_Zachodniopomorskie,53.2446,16.478,1,0
+Poland,Quirren_PL47,53.678,19.6446,1,0
+Poland,Quittainen_PL30,54.0446,19.8113,1,0
+Poland,Radom_PL55,51.4281,21.1614,1,0
+Poland,Rgielsko_PL50,52.8281,17.2614,1,0
+Poland,Rgilew_PL37,52.2447,18.9781,1,0
+Poland,Rzeszow_Podkarpackie,50.0614,22.0114,1,0
+Poland,Siemianowice Slaskie_PL35,50.3115,19.0448,1,0
+Poland,Skoczow_PL25,49.8115,18.8115,1,0
+Poland,Sopot_PL31,54.4615,18.5782,1,0
+Poland,Sosnowiec_PL48,50.6615,17.6948,1,0
+Poland,Szczecin_Zachodniopomorskie,53.3948,14.6448,1,0
+Poland,Szczecin_PL63,50.8282,21.9948,1,0
+Poland,Szczecin_PL59,51.9282,19.7282,1,0
+Poland,Szczecin Dabie_Zachodniopomorskie,53.4115,14.6782,1,0
+Poland,Szczecin Pomorzany_Zachodniopomorskie,53.3948,14.5282,1,0
+Poland,Szczyrk_PL25,49.7282,19.0448,1,0
+Poland,Torun_PL28,52.5283,20.7283,1,0
+Poland,Torun_PL27,51.1116,23.1449,1,0
+Poland,Torun_PL65,53.0449,18.6116,1,0
+Poland,Valenzinnen_PL61,53.7118,22.0118,1,0
+Poland,Vangerow_Zachodniopomorskie,54.1951,16.3618,1,0
+Poland,Velky Cantoryje,49.6951,18.8118,1,0
+Poland,Velky Sisak,50.7951,15.5951,1,0
+Poland,Venedien_PL47,53.8785,19.8618,1,0
+Poland,Vengaruva_PL57,52.4118,22.0285,1,0
+Poland,Veykherovo_PL31,54.6118,18.2451,1,0
+Poland,Vidnavka,50.4618,17.2451,1,0
+Poland,Vierbrucken_PL61,53.7951,22.5785,1,0
+Poland,Vierzehnhuben_PL30,54.2618,19.0285,1,0
+Poland,Vierzighuben_PL30,54.2951,19.6785,1,0
+Poland,Vierzighufen_PL47,53.4951,19.9951,1,0
+Poland,Vietzig_PL60,54.6785,17.6285,1,0
+Poland,Vietzig_Zachodniopomorskie,53.9118,14.4618,1,0
+Poland,Vietzkerstrand_Zachodniopomorskie,54.5618,16.6118,1,0
+Poland,Vilmsee_Zachodniopomorskie,53.7618,16.7618,1,0
+Poland,Virchow_Zachodniopomorskie,53.4618,16.1118,1,0
+Poland,Virchowsee_Zachodniopomorskie,53.8618,16.6618,1,0
+Poland,Vishnya,49.9451,22.8785,1,0
+Poland,Vislinskij Zaliv,54.459,19.7632,1,0
+Poland,Vistule,54.3618,18.9618,1,0
+Poland,Vitter See_Zachodniopomorskie,54.4785,16.4618,1,0
+Poland,Vlaszowice_PL40,49.7618,21.4951,1,0
+Poland,Vlodavka_PL27,51.5451,23.5785,1,0
+Poland,Vogelsang_PL30,54.3618,19.9785,1,0
+Poland,Vogelstein,50.7785,15.6451,1,0
+Poland,Voigtsdorf_PL47,54.0285,20.9618,1,0
+Poland,Vordamm_PL32,52.8785,15.8285,1,0
+Poland,Vosswalde_PL48,50.6785,18.3785,1,0
+Poland,Vratzig_PL50,52.8618,16.0451,1,0
+Poland,Vrchmezi,50.3618,16.3618,1,0
+Poland,Vyar,49.8118,22.8451,1,0
+Poland,Vysokie Skalky,49.4118,20.5785,1,0
+Poland,Vysoky Grun,49.2285,22.1451,1,0
+Poland,Wachau_PL47,53.9786,21.4452,1,0
+Poland,Warsaw_PL67,52.2619,21.0119,1,0
+Poland,Warsaw Main Station_PL67,52.2452,21.0119,1,0
+Poland,Warsaw-Gdanska Station_PL67,52.2786,21.0119,1,0
+Poland,Warsaw-West Passenger Station_PL67,52.2452,20.9952,1,0
+Poland,Warsow_Zachodniopomorskie,53.4952,14.5619,1,0
+Poland,Warszawa Wschodnia_PL67,52.2619,21.0619,1,0
+Poland,Wkra_PL28,52.5952,20.5952,1,0
+Poland,Wkra,52.4619,20.7619,1,0
+Poland,Wloclawek_PL68,52.6619,19.0452,1,0
+Poland,Wodzislaw Slaski_PL35,50.0119,18.4786,1,0
+Poland,Wroclaw_Dolnoslaskie,51.1119,17.0452,1,0
+Poland,Wroclaw Bartoszewice_PL69,51.1119,17.1286,1,0
+Poland,Wroclaw Pracze_PL69,51.1786,16.9286,1,0
+Poland,Wroclaw Solltysowice_PL69,51.1619,17.0952,1,0
+Poland,Wroclaw Strachowice_PL69,51.1119,16.8952,1,0
+Poland,Wroclaw-Karlowice_PL69,51.1452,17.0952,1,0
+Poland,Wroclaw-Popowice_PL69,51.1452,17.0119,1,0
+Poland,Wroclaw-Psie Pole_PL69,51.1619,17.1119,1,0
+Poland,Yaroslav_PL54,50.0288,22.6954,1,0
+Poland,Yaslo_PL40,49.7621,21.4788,1,0
+Poland,Yendzheyev_PL36,50.6454,20.3121,1,0
+Poland,Yurechkova_PL40,49.5454,22.6121,1,0
+Poland,Zabrze_PL35,50.3289,18.7955,1,0
+Poland,Zagan_PL71,51.6289,15.3289,1,0
+Poland,Zakopane_PL46,49.3122,19.9789,1,0
+Poland,Zielona Gora_PL71,51.9789,15.4622,1,0

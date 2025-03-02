@@ -1,0 +1,183 @@
+South Korea,An-san_Kangwon-do,38.1558,128.3333,9,0
+South Korea,An-san_Kyongsang-namdo,34.8519,128.4219,9,0
+South Korea,An-san_Soul-t ukpyolsi,37.5764,126.9597,9,0
+South Korea,An-san_Kyonggi-do,37.1186,126.3939,9,0
+South Korea,Ansan,35.4764,126.543,9,0
+South Korea,Ansan_Kyonggi-do,37.3333,126.8316,9,0
+South Korea,Ansan-yok_Kyonggi-do,37.3369,126.7989,9,0
+South Korea,Asan_Ch ungch ong-namdo,36.3597,126.9264,9,0
+South Korea,Boryeong gun_Ch ungch ong-namdo,36.3431,126.5098,9,0
+South Korea,Bucheon_Kyonggi-do,37.5087,126.7929,9,0
+South Korea,Carles Island_Cholla-namdo,34.5616,126.0785,9,0
+South Korea,Ch onan-yok_Ch ungch ong-namdo,36.8202,127.1574,9,0
+South Korea,Changwon_Cholla-bukto,35.9346,126.6399,9,0
+South Korea,Changwon_Kyongsang-namdo,35.2671,128.6168,9,0
+South Korea,Cheonan,36.8432,127.1599,9,0
+South Korea,Cheonan_Ch ungch ong-namdo,36.8163,127.1621,9,0
+South Korea,Cheonan gun,36.8432,127.2599,9,0
+South Korea,Cheongju_Ch ungch ong-bukto,36.6471,127.4996,9,0
+South Korea,Chungbuk_Kyongsang-bukto,36.2766,128.5766,9,0
+South Korea,Coray,37.0099,127.5099,9,0
+South Korea,Dae Gu-eulbi Do_Kyongsang-namdo,34.5886,128.5606,9,0
+South Korea,Daegu_Taegu-gwangyoksi,35.81,128.56,9,0
+South Korea,Daejeon_Taejon-gwangyoksi,36.3433,127.4267,9,0
+South Korea,Dong Cheon_Cholla-namdo,34.9689,127.6111,9,0
+South Korea,Faa To_Cholla-namdo,34.961,126.1721,9,0
+South Korea,Frederick Rock_Kyongsang-namdo,35.1163,128.6902,9,0
+South Korea,Fuan_Cholla-bukto,35.7383,126.7421,9,0
+South Korea,Fuhyo-ri_Kangwon-do,38.0102,128.1269,9,0
+South Korea,Fuji-to_Cholla-namdo,34.3838,127.2099,9,0
+South Korea,Fuken-zan_Kyongsang-bukto,36.1708,128.9821,9,0
+South Korea,Fukitsu-ri_Cholla-namdo,34.4769,126.5102,9,0
+South Korea,Fuko-ri_Ch ungch ong-bukto,36.5435,127.3769,9,0
+South Korea,Fuko-to_Cholla-namdo,34.5435,126.5269,9,0
+South Korea,Fukoku-san_Cholla-namdo,34.5024,126.8716,9,0
+South Korea,Fuku-seki_Cheju-do,33.4269,126.2269,9,0
+South Korea,Fukugan,35.0602,127.0935,9,0
+South Korea,Fukuhyo-ri_Cholla-namdo,34.5858,126.5633,9,0
+South Korea,Fumuki-to_Cholla-namdo,34.7677,126.2349,9,0
+South Korea,Fundo-ri_Cholla-namdo,34.5269,126.2935,9,0
+South Korea,Fungo-wan_Kyonggi-do,37.0269,126.8435,9,0
+South Korea,Funhai_Kyongsang-bukto,36.1227,129.3624,9,0
+South Korea,Funsen-ri_Kyongsang-bukto,36.9435,129.0602,9,0
+South Korea,Funyan_Cholla-namdo,34.6196,127.296,9,0
+South Korea,Furumu Somu_Ch ungch ong-namdo,36.316,126.3596,9,0
+South Korea,Fusshi To_Inch on-gwangyoksi,37.5083,126.5994,9,0
+South Korea,Futo-suido_Kyongsang-namdo,35.1041,128.6444,9,0
+South Korea,Futozan,35.1346,127.0194,9,0
+South Korea,Fuyo-san_Cholla-namdo,34.6035,126.8841,9,0
+South Korea,Ganggyeong_Ch ungch ong-namdo,36.1689,127.0267,9,0
+South Korea,Gangneung_Kangwon-do,37.7603,128.9103,9,0
+South Korea,Geoje Do_Kyongsang-namdo,34.865,128.6495,9,0
+South Korea,Geoje gun,34.8436,128.677,9,0
+South Korea,Gimcheon,36.127,128.1103,9,0
+South Korea,Gimhae gun,35.2603,128.877,9,0
+South Korea,Gochang gun,35.427,126.5936,9,0
+South Korea,Gwangju_Kwangju-gwangyoksi,35.177,126.927,9,0
+South Korea,Gyeongju,35.8436,129.2603,9,0
+South Korea,Gyeongju_Kyongsang-bukto,35.8531,129.222,9,0
+South Korea,Gyeongsan_Kyongsang-bukto,35.8336,128.7481,9,0
+South Korea,Gyeongsang Bugdo_Kyongsang-bukto,36.3436,128.7603,9,0
+South Korea,Inch on,35.0772,126.7105,9,0
+South Korea,Incheon_Inch on-gwangyoksi,37.4605,126.4266,9,0
+South Korea,Incheon Hang_Inch on-gwangyoksi,37.4263,126.5791,9,0
+South Korea,Iubu Somu_Ch ungch ong-namdo,36.0044,126.6141,9,0
+South Korea,Ium-ni,34.9772,127.2938,9,0
+South Korea,Ium-ni_Cholla-namdo,34.9816,127.2719,9,0
+South Korea,Iun-dong_Kangwon-do,37.3672,127.7955,9,0
+South Korea,Jeju_Cheju-do,33.5203,126.5325,9,0
+South Korea,Jeju Do_Cheju-do,33.4273,126.5106,9,0
+South Korea,Jeju Island_Cheju-do,33.4123,126.5567,9,0
+South Korea,Jeju Si_Cheju-do,33.4773,126.5439,9,0
+South Korea,Jeju Strait,33.6812,126.5081,9,0
+South Korea,Jeonju,35.8439,127.1606,9,0
+South Korea,Jeonju_Cholla-bukto,35.8325,127.1595,9,0
+South Korea,Jinju_Kyongsang-namdo,35.2034,128.0953,9,0
+South Korea,Jinju,35.1939,128.0939,9,0
+South Korea,Jinju Man_Kyongsang-namdo,34.9537,127.9703,9,0
+South Korea,Jinyang gun,35.2106,128.1773,9,0
+South Korea,Kimhae_Kyongsang-namdo,35.2449,128.8918,9,0
+South Korea,Kimpo,37.6774,126.6774,9,0
+South Korea,Kkokkal-som_Cholla-namdo,34.5826,125.8971,9,0
+South Korea,Kumi_Kyongsang-bukto,36.5357,128.7779,9,0
+South Korea,Kumi-si,36.144,128.344,9,0
+South Korea,Kwangju_Kyonggi-do,37.4199,127.2699,9,0
+South Korea,Kwangju,35.1774,126.7607,9,0
+South Korea,Lagraviore Peak_Cholla-namdo,34.4014,126.2405,9,0
+South Korea,lcty o_Cholla-namdo,35.0252,126.5533,9,0
+South Korea,Liancourt Rocks,37.2608,131.8775,9,0
+South Korea,Lindsay Island_Ch ungch ong-namdo,36.5091,126.3677,9,0
+South Korea,Lodol_Kangwon-do,37.2775,127.8441,9,0
+South Korea,Loney bluff_Cheju-do,33.2097,126.3016,9,0
+South Korea,Lptong-ni_Ch ungch ong-namdo,36.5108,126.9608,9,0
+South Korea,Lyne Sound_Cholla-namdo,34.5608,126.1775,9,0
+South Korea,Masan_Cholla-namdo,34.7901,127.6081,9,0
+South Korea,Masan_Kyongsang-namdo,35.219,128.5834,9,0
+South Korea,Masan_Kyonggi-do,37.9609,127.3276,9,0
+South Korea,Masan_Ch ungch ong-namdo,36.1276,127.1276,9,0
+South Korea,Masan_Kwangju-gwangyoksi,35.2351,126.9134,9,0
+South Korea,Masan_Kyongsang-bukto,36.5776,128.3442,9,0
+South Korea,Masan_Kangwon-do,38.0942,128.0276,9,0
+South Korea,Masan,34.9776,127.5776,9,0
+South Korea,Masan-hang_Kyongsang-namdo,35.1723,128.6062,9,0
+South Korea,Masan-si,35.2109,128.5776,9,0
+South Korea,Masang-dong_Cholla-namdo,34.4378,126.1951,9,0
+South Korea,Masanp o_Kyonggi-do,37.2492,126.6803,9,0
+South Korea,Ok-p o_Kyongsang-namdo,34.8953,128.7178,9,0
+South Korea,Okp o-dong_Kyongsang-namdo,34.8986,128.7111,9,0
+South Korea,Ooejang_Kyongsang-namdo,35.4944,127.8444,9,0
+South Korea,Osan,34.9778,127.0278,9,0
+South Korea,Osan_Kyongsang-namdo,35.2864,128.0011,9,0
+South Korea,Osan_Cholla-namdo,34.6444,126.8111,9,0
+South Korea,Osan_Ch ungch ong-bukto,36.6714,127.3889,9,0
+South Korea,Osan_Kangwon-do,37.3683,128.7964,9,0
+South Korea,Osan_Kyonggi-do,37.1561,127.0805,9,0
+South Korea,Osan_Kyongsang-bukto,36.8942,129.4272,9,0
+South Korea,Oye-ch on,35.2778,126.9611,9,0
+South Korea,Pohang,36.0945,129.3779,9,0
+South Korea,Pusan_Pusan-gwangyoksi,35.114,129.0515,9,0
+South Korea,Pusan_Kyongsang-namdo,35.7112,128.0445,9,0
+South Korea,Pusan-daegyo_Pusan-gwangyoksi,35.1076,129.0501,9,0
+South Korea,Pusan-hang_Pusan-gwangyoksi,35.1204,129.0718,9,0
+South Korea,Pusan-man_Pusan-gwangyoksi,35.0904,129.1193,9,0
+South Korea,Pusan-ni_Ch ungch ong-namdo,36.8112,126.4945,9,0
+South Korea,Pusan-si_Pusan-gwangyoksi,35.1445,129.0612,9,0
+South Korea,Pusan-yok_Pusan-gwangyoksi,35.127,129.052,9,0
+South Korea,Pusang_Cholla-namdo,34.1409,126.6748,9,0
+South Korea,Pusang-dong_Kyongsang-bukto,36.0804,128.2767,9,0
+South Korea,Pusanjin-gu,35.1779,129.0945,9,0
+South Korea,Pusansiso-gu,35.0956,129.0248,9,0
+South Korea,Quoti To_Ch ungch ong-namdo,36.3941,126.3738,9,0
+South Korea,Ro-sho_Cholla-namdo,34.1281,126.6447,9,0
+South Korea,Rokichi-ri,35.7947,126.7281,9,0
+South Korea,Rosho-ri_Cholla-namdo,34.6281,126.5281,9,0
+South Korea,Seoul_Soul-t ukpyolsi,37.5779,127.0112,9,0
+South Korea,Seoul City_Soul-t ukpyolsi,37.5948,127.0115,9,0
+South Korea,Seoul River,37.7607,126.1946,9,0
+South Korea,Sindorim_Soul-t ukpyolsi,37.5237,126.9109,9,0
+South Korea,Suwon_Cheju-do,33.4379,126.2776,9,0
+South Korea,Suwon_Kyonggi-do,37.2957,127.0307,9,0
+South Korea,Suwon_Ch ungch ong-namdo,36.4615,127.1448,9,0
+South Korea,Suwon-gun,37.2615,126.9282,9,0
+South Korea,Suwon-san_Kyonggi-do,37.8623,127.2704,9,0
+South Korea,Suwon-si,37.3448,127.0115,9,0
+South Korea,Suwon-yok_Kyonggi-do,37.2804,127.0087,9,0
+South Korea,Taegu_Kyongsang-namdo,34.9005,128.0844,9,0
+South Korea,Taejon_Cholla-namdo,34.7216,127.2785,9,0
+South Korea,Taejon_Kyongsang-bukto,36.3549,129.0741,9,0
+South Korea,Taejon,34.9949,127.1616,9,0
+South Korea,Taejon_Kyongsang-namdo,35.5183,128.736,9,0
+South Korea,Taejon_Taejon-gwangyoksi,36.333,127.4313,9,0
+South Korea,Taejon-ch on_Taejon-gwangyoksi,36.3852,127.4119,9,0
+South Korea,Taejon-dong_Kyonggi-do,37.2541,126.8441,9,0
+South Korea,Taejon-dong_Kangwon-do,37.1922,128.7202,9,0
+South Korea,Taejon-ni_Cholla-namdo,35.2949,126.4116,9,0
+South Korea,Taejon-ni_Kyonggi-do,38.0222,127.0949,9,0
+South Korea,Taejon-ni_Ch ungch ong-namdo,36.7949,126.7616,9,0
+South Korea,Taejon-ni_Kyongsang-bukto,36.4949,128.0449,9,0
+South Korea,Taejon-ni,37.1449,128.3449,9,0
+South Korea,Taejon-yok_Taejon-gwangyoksi,36.3447,127.4441,9,0
+South Korea,Taejong_Cheju-do,33.2366,126.2627,9,0
+South Korea,Taejong-ni_Kyongsang-namdo,35.136,128.3852,9,0
+South Korea,Taejong-ni_Cholla-namdo,34.4949,126.6116,9,0
+South Korea,Taejong-ni_Inch on-gwangyoksi,37.5066,126.7485,9,0
+South Korea,Taejong-ni_Cholla-bukto,35.4302,127.6358,9,0
+South Korea,Taejong-ni_Ch ungch ong-namdo,36.7783,126.8616,9,0
+South Korea,Taejong-san_Kyongsang-bukto,36.2116,128.9449,9,0
+South Korea,Taejongwon-do_Cholla-namdo,34.2769,126.4385,9,0
+South Korea,Tjyen-la_Cholla-namdo,34.7616,127.0116,9,0
+South Korea,Tongyeong gun_Kyongsang-namdo,34.7616,128.3449,9,0
+South Korea,Ulsan_Ulsan-gwangyoksi,35.5489,129.3284,9,0
+South Korea,Ulsan-gwangyoksi,35.5784,129.2784,9,0
+South Korea,Vashon Cape_Pusan-gwangyoksi,35.0704,129.1082,9,0
+South Korea,Vashon Rock_Pusan-gwangyoksi,35.049,129.1046,9,0
+South Korea,Venancourt Rock_Cholla-namdo,34.5321,125.3557,9,0
+South Korea,Vijongbu_Kyonggi-do,37.7604,127.0507,9,0
+South Korea,Vimiri_Cheju-do,33.2876,126.6729,9,0
+South Korea,Visong_Kyongsang-bukto,36.3624,128.7115,9,0
+South Korea,Yesan-gun,36.6788,126.7621,9,0
+South Korea,Zenbonsan_Ch ungch ong-namdo,36.0197,126.6764,9,0
+South Korea,Zenra_Cholla-bukto,35.7622,127.2622,9,0
+South Korea,Ziga-kai_Cholla-namdo,34.7122,126.2289,9,0
+South Korea,Zuiki-san_Cholla-namdo,34.6455,126.7122,9,0
+South Korea,Zyo-ba To_Cholla-namdo,34.4678,126.4314,9,0

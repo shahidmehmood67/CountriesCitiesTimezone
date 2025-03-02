@@ -1,0 +1,70 @@
+Bolivia,25 de Julio_Santa Cruz,-19.7500,-58.2500,-4,72
+Bolivia,318 Cachuela,-9.7000,-65.4000,-4,70
+Bolivia,6 de Abril_Santa Cruz,-16.8667,-59.9833,-4,72
+Bolivia,6 de Agosto_Pando,-10.9333,-67.1500,-4,71
+Bolivia,6 de Agosto_Santa Cruz,-14.8167,-61.7667,-4,72
+Bolivia,Cochabamba,-17.3833,-66.1500,-4,73
+Bolivia,La Paz,-16.5000,-68.1500,-4,73
+Bolivia,La Paz_El Beni,-13.9667,-66.2003,-4,72
+Bolivia,Oruro,-17.9833,-67.1500,-4,74
+Bolivia,Potosi,-19.5333,-65.7167,-4,74
+Bolivia,Potosi Okko_Potosi,-19.6333,-65.0667,-4,74
+Bolivia,Potosikkollu Loma_Oruro,-18.4336,-68.7425,-4,74
+Bolivia,Santa Cruz,-17.5000,-61.5000,-4,72
+Bolivia,Santa Cruz_Pando,-11.0333,-68.9000,-4,71
+Bolivia,Santa Cruz_Tarija,-21.7500,-65.3167,-4,75
+Bolivia,Santa Cruz_El Beni,-13.2500,-62.1667,-4,71
+Bolivia,Santa Cruz_La Paz,-14.6500,-68.5833,-4,72
+Bolivia,Santa Cruz de la Sierra_Santa Cruz,-17.8000,-63.1667,-4,73
+Bolivia,Santa Cruz de Llicona_Cochabamba,-16.7167,-66.8167,-4,73
+Bolivia,Santa Cruz y Surutu_Santa Cruz,-17.7833,-63.6333,-4,73
+Bolivia,Sucre_Potosi,-21.6167,-66.1333,-4,75
+Bolivia,Sucre_Chuquisaca,-19.0431,-65.2592,-4,74
+Bolivia,Warisata_La Paz,-15.9667,-68.7167,-4,73
+Bolivia,Waykho_Potosi,-21.6000,-67.4167,-4,75
+Bolivia,Wichu Mundunata Pampa_Oruro,-18.6811,-68.6772,-4,74
+Bolivia,Wichukkollu Pampa_Oruro,-18.8333,-68.1167,-4,74
+Bolivia,Wichuraya_La Paz,-16.8333,-68.2333,-4,73
+Bolivia,Wila Callo Loma_Oruro,-18.2744,-68.7939,-4,74
+Bolivia,Wila Khanuta_La Paz,-17.4167,-68.4667,-4,74
+Bolivia,Wila Kkollu_La Paz,-17.1833,-67.6167,-4,73
+Bolivia,Wila Kkollu_Oruro,-18.1333,-69.0667,-4,74
+Bolivia,Wila Kkollu Pampa_Oruro,-18.5533,-68.5519,-4,74
+Bolivia,Wila Pampa_Potosi,-20.2667,-68.5000,-4,75
+Bolivia,Wilaque_Oruro,-18.2000,-66.9667,-4,74
+Bolivia,Willkhi Pampa_La Paz,-17.4333,-68.5333,-4,74
+Bolivia,Willki_La Paz,-17.1000,-68.8333,-4,74
+Bolivia,Willki_Oruro,-18.6167,-66.8333,-4,74
+Bolivia,Wintu_La Paz,-16.9000,-68.8500,-4,73
+Bolivia,Wira Wirani Pampa_Potosi,-20.4167,-68.6333,-4,75
+Bolivia,Wuinaimarca,-16.3333,-68.9167,-4,73
+Bolivia,Zacari_Potosi,-21.7667,-65.8000,-4,75
+Bolivia,Zacarlas_Pando,-11.1167,-68.2667,-4,71
+Bolivia,Zanja Honda_Tarija,-21.9167,-63.3500,-4,74
+Bolivia,Zanja Negra_Tarija,-21.8667,-62.9167,-4,74
+Bolivia,Zapallaca_Santa Cruz,-17.7000,-60.2667,-4,72
+Bolivia,Zapana_La Paz,-16.5833,-68.9500,-4,73
+Bolivia,Zapatera_Tarija,-21.1667,-63.8167,-4,74
+Bolivia,Zapateriyoc_Potosi,-21.6333,-66.2167,-4,75
+Bolivia,Zapato Kara_Chuquisaca,-20.9500,-64.7667,-4,74
+Bolivia,Zapoco_Santa Cruz,-16.5667,-61.5833,-4,72
+Bolivia,Zapocoz_Santa Cruz,-15.8000,-63.0667,-4,72
+Bolivia,Zappalero_Chuquisaca,-20.7000,-64.1667,-4,74
+Bolivia,Zaremota_Tarija,-21.2000,-63.7667,-4,74
+Bolivia,Zavala_Pando,-11.3333,-67.7833,-4,71
+Bolivia,Zempeya_La Paz,-16.1000,-69.1000,-4,73
+Bolivia,Zenteno_Santa Cruz,-17.7333,-62.7500,-4,73
+Bolivia,Zepita Pampa_Oruro,-18.9833,-67.6167,-4,74
+Bolivia,Zocorro Este_El Beni,-13.4217,-66.6258,-4,72
+Bolivia,Zocorro Norte_El Beni,-13.4014,-66.6617,-4,72
+Bolivia,Zocorro Sur_El Beni,-13.4133,-66.6569,-4,72
+Bolivia,Zongo_La Paz,-16.1167,-68.0333,-4,73
+Bolivia,Zongochoro_La Paz,-15.7000,-67.6833,-4,73
+Bolivia,Zorcota_La Paz,-17.4167,-69.4000,-4,74
+Bolivia,Zorrinos_Potosi,-21.6167,-65.5833,-4,75
+Bolivia,Zorro Chata_Oruro,-18.0236,-68.7042,-4,74
+Bolivia,Zorro Unu Pampa_Potosi,-20.9833,-67.6167,-4,75
+Bolivia,Zouponte_La Paz,-15.3667,-67.9333,-4,73
+Bolivia,Zozobra_Santa Cruz,-17.7667,-64.0333,-4,73
+Bolivia,Zudanez_Chuquisaca,-19.1167,-64.7000,-4,73
+Bolivia,Zurima_Chuquisaca,-18.7500,-65.0833,-4,73

@@ -1,0 +1,132 @@
+Iraq,Abul-Khasib Qadha_Al Basrah,30.2597,48.1097,3,0
+Iraq,Ad Dawrah_Al Basrah,30.1591,48.3766,3,0
+Iraq,Ad Dawrah_Baghdad,33.2611,44.4016,3,0
+Iraq,Al Qa im_Al Anbar,34.3766,41.1486,3,0
+Iraq,Alasian_As Sulaymaniyah,35.6078,45.5653,3,0
+Iraq,An Najaf,32.0019,44.3611,3,0
+Iraq,Anah_Al Anbar,34.3597,41.5097,3,0
+Iraq,Anbar_Baghdad,33.3764,43.7264,3,0
+Iraq,Aqrah_Ninawa,36.7689,43.9036,3,0
+Iraq,Arbil,36.1997,44.0186,3,0
+Iraq,Arbil Qadha_Arbil,36.1097,44.0097,3,0
+Iraq,Ba Faraj_Diyala,33.4598,45.2931,3,0
+Iraq,Ba quba_Diyala,33.7598,44.6509,3,0
+Iraq,Babylon_Babil,32.5506,44.434,3,0
+Iraq,Baghdad,33.3484,44.4037,3,0
+Iraq,Baghdad al Qadimah_Salah ad Din,34.3262,43.8431,3,0
+Iraq,Baghdadi_Dhi Qar,31.3026,46.1115,3,0
+Iraq,Baghdadie_Wasit,32.9765,44.8765,3,0
+Iraq,Baiji_Salah ad Din,34.9431,43.4265,3,0
+Iraq,Balad_Salah ad Din,34.0262,44.1562,3,0
+Iraq,Balad Ruz_Diyala,33.712,45.0873,3,0
+Iraq,Basra_Al Basrah,30.5098,47.8598,3,0
+Iraq,Basrah_As Sulaymaniyah,36.1092,44.8342,3,0
+Iraq,Basrah Canal_Al Basrah,30.3937,47.7981,3,0
+Iraq,Ceedan_As Sulaymaniyah,35.5924,44.738,3,0
+Iraq,Ceedan_At Ta mim,35.5957,44.7485,3,0
+Iraq,Dibis,35.71,44.11,3,0
+Iraq,Diyala,35.0767,45.7767,3,0
+Iraq,Dohuk_Diyala,36.8758,43.0097,3,0
+Iraq,Dohuk Qadha_Dahuk,36.96,43.01,3,0
+Iraq,Dour as Shirka_Baghdad,32.9475,44.4806,3,0
+Iraq,Duhok_Dahuk,37.1142,43.8408,3,0
+Iraq,Duhok Governorate_Dahuk,37.01,43.26,3,0
+Iraq,Ebdaiwi as-Salih_Diyala,33.9832,44.4254,3,0
+Iraq,Edilbi_Arbil,37.0498,44.174,3,0
+Iraq,Ehl Ghadhab_Salah ad Din,34.0768,44.0268,3,0
+Iraq,El Ashali_Al Muthanna,30.8401,45.5495,3,0
+Iraq,El Batin,30.4268,47.5934,3,0
+Iraq,El Gara,34.5934,41.0934,3,0
+Iraq,El Huir_Al Basrah,30.9904,47.3262,3,0
+Iraq,El Jazire,35.1768,42.0101,3,0
+Iraq,El Khudr_Al Muthanna,31.217,45.5593,3,0
+Iraq,El Kuwain_Ninawa,36.1001,42.8595,3,0
+Iraq,El Quseir_Al Muthanna,30.6601,45.8434,3,0
+Iraq,El Zubair_Al Basrah,30.3993,47.7182,3,0
+Iraq,Elanjagh_Arbil,35.9718,44.5218,3,0
+Iraq,Elanjagh Gawrah_Arbil,35.9651,44.5215,3,0
+Iraq,Ena_Arbil,36.6176,44.967,3,0
+Iraq,Endezah_As Sulaymaniyah,36.4484,44.9101,3,0
+Iraq,Erbil_Arbil,36.1768,44.0101,3,0
+Iraq,Erech_Al Muthanna,31.3268,45.6601,3,0
+Iraq,Eridu_Al Muthanna,30.8076,45.9879,3,0
+Iraq,Esaiwid_Diyala,34.064,44.9434,3,0
+Iraq,Eski Kalak_At Ta mim,36.2737,43.6582,3,0
+Iraq,Eski Kifri_Diyala,34.6434,44.9101,3,0
+Iraq,Eski Koi_Arbil,36.0643,44.6932,3,0
+Iraq,Eski Kupri_Diyala,34.3812,44.8987,3,0
+Iraq,Etwab_Al Basrah,30.4834,47.5018,3,0
+Iraq,Eufrate,31.0101,47.4268,3,0
+Iraq,Euphrat,33.0934,43.4934,3,0
+Iraq,Fallujah_Al Anbar,33.3663,43.793,3,0
+Iraq,Habbaniya_Al Anbar,33.3923,43.5876,3,0
+Iraq,Habbaniyah_Al Anbar,33.2937,43.4937,3,0
+Iraq,Haditha_Al Anbar,34.1501,42.3885,3,0
+Iraq,Hilla_Babil,32.6771,44.5937,3,0
+Iraq,Hit_Al Anbar,33.6471,42.8329,3,0
+Iraq,Hityam_Dahuk,37.1271,42.5104,3,0
+Iraq,Iraq,33.0105,44.0105,3,0
+Iraq,Ishaqi_Salah ad Din,34.2938,43.7772,3,0
+Iraq,Iskandariya_Babil,32.9038,44.3622,3,0
+Iraq,Kalar_As Sulaymaniyah,34.6365,45.3193,3,0
+Iraq,Karbala,32.2607,43.1274,3,0
+Iraq,Kerbala_Karbala,32.6085,44.0268,3,0
+Iraq,Khalis_Diyala,33.829,44.5351,3,0
+Iraq,Kirkuk_At Ta mim,35.4788,44.4029,3,0
+Iraq,Kirkuk Qadha_At Ta mim,35.5107,44.3107,3,0
+Iraq,Krabilah_Al Anbar,34.371,40.9779,3,0
+Iraq,Kubaisa_Al Anbar,33.6024,42.6279,3,0
+Iraq,Kufa_An Najaf,32.0454,44.414,3,0
+Iraq,Kut_Wasit,32.7607,45.4274,3,0
+Iraq,Mosul_Ninawa,36.3459,43.1298,3,0
+Iraq,Najaf_An Najaf,31.9943,44.3443,3,0
+Iraq,Nasiriyah_Dhi Qar,31.0652,46.2704,3,0
+Iraq,Nasiriyah Canal_Babil,32.7777,44.2943,3,0
+Iraq,Oamushiyah_Ninawa,36.2019,42.2794,3,0
+Iraq,Oarah Tappah_Ninawa,36.3425,42.4658,3,0
+Iraq,Oasirka_Dahuk,37.2294,43.8605,3,0
+Iraq,Obara Chay_As Sulaymaniyah,35.5111,45.3944,3,0
+Iraq,Olani_Diyala,34.4944,45.2611,3,0
+Iraq,Omar Agha_Dahuk,37.1614,42.7955,3,0
+Iraq,Omarasur_Arbil,36.0469,44.1828,3,0
+Iraq,Omarmil_As Sulaymaniyah,34.8922,45.0628,3,0
+Iraq,Omarsinan_Ninawa,36.6592,43.6986,3,0
+Iraq,Omolgasr_Al Basrah,30.0453,47.9405,3,0
+Iraq,Oopi Tira_Arbil,36.5197,44.938,3,0
+Iraq,Opis_Salah ad Din,33.9611,44.3111,3,0
+Iraq,Ora_Dahuk,37.2903,43.368,3,0
+Iraq,Orman_Dahuk,37.2308,43.3878,3,0
+Iraq,Orman Dauda_Dahuk,37.2347,43.4125,3,0
+Iraq,Orta Kharab_Ninawa,36.4319,43.2428,3,0
+Iraq,Ouadi el Morr,37.0444,42.5778,3,0
+Iraq,Ouadi Kunezir,36.8947,42.3269,3,0
+Iraq,Ourailu_Diyala,34.6178,45.5033,3,0
+Iraq,Owja_Salah ad Din,34.5444,43.7444,3,0
+Iraq,Ozier_Maysan,31.3464,47.4325,3,0
+Iraq,Ozmana_Dahuk,37.0697,42.9558,3,0
+Iraq,Ramadi_Al Anbar,33.4353,43.3139,3,0
+Iraq,Rawa_Al Anbar,34.48,41.9283,3,0
+Iraq,Rutba_Al Anbar,33.0495,40.2958,3,0
+Iraq,Saimarreh_Salah ad Din,34.2073,43.8873,3,0
+Iraq,Samarra_Salah ad Din,34.1782,43.8448,3,0
+Iraq,Samarra Qadha_Salah ad Din,34.2115,43.9115,3,0
+Iraq,Sharqat_Ninawa,35.5287,43.2396,3,0
+Iraq,Shatra_Dhi Qar,31.429,46.1887,3,0
+Iraq,Shatrat al Luqayt_Dhi Qar,30.7446,46.8601,3,0
+Iraq,Siniyah_Al Anbar,33.8204,42.7312,3,0
+Iraq,Sulaimani_As Sulaymaniyah,35.6782,45.5115,3,0
+Iraq,Sulaymanah Dul_As Sulaymaniyah,35.7023,45.8223,3,0
+Iraq,Sulaymani_Diyala,34.0448,44.8282,3,0
+Iraq,Sulaymaniyah_Babil,32.5948,44.1115,3,0
+Iraq,Sulaymaniyah_Al Anbar,34.1612,42.3934,3,0
+Iraq,Sulaymaniyah_Al Basrah,30.7796,47.6698,3,0
+Iraq,Sulaymaniyah_As Sulaymaniyah,35.5732,45.4523,3,0
+Iraq,Taji_Salah ad Din,33.541,44.2891,3,0
+Iraq,Tal `Afar_Ninawa,36.3872,42.4613,3,0
+Iraq,Thi Qar_Al Muthanna,31.476,45.1141,3,0
+Iraq,Tikrit_Salah ad Din,34.6083,43.6885,3,0
+Iraq,Varagoz Deresi,37.2285,44.1118,3,0
+Iraq,Varzanan_Wasit,33.4785,46.0118,3,0
+Iraq,Vasirki_Arbil,37.1974,43.5829,3,0
+Iraq,Veneh_As Sulaymaniyah,35.8132,46.0474,3,0
+Iraq,Zakho_Dahuk,37.1564,42.6994,3,0

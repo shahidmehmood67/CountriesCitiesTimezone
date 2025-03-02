@@ -1,0 +1,90 @@
+Ethiopia,Addis Ababa,9.0333,38.7000,3GMT,5
+Ethiopia,Agarfa,7.2833,39.8167,3GMT,0.1339
+Ethiopia,Awasa,7.0500,38.4667,3GMT,5
+Ethiopia,Aweday,9.3500,42.0500,3GMT,351
+Ethiopia,Babile_ET07,9.2000,41.0000,3GMT,355
+Ethiopia,Babile_ET10,10.7500,39.8333,3GMT,0.0933
+Ethiopia,Bahir Dar,11.6000,37.3833,3GMT,13
+Ethiopia,Bedele,8.4500,36.3500,3GMT,14
+Ethiopia,Butajera,8.1167,38.3667,3GMT,6
+Ethiopia,Dessye,11.1333,39.6333,3GMT,1
+Ethiopia,Dire Dawa,9.5833,41.8667,3GMT,351
+Ethiopia,Dire Dawa and Gurgura,10.2500,42.1667,3GMT,349
+Ethiopia,Dire Dawa Astedader,9.5000,42.0000,3GMT,351
+Ethiopia,Gode,5.9500,43.4500,3GMT,348
+Ethiopia,Gondar,12.5000,37.0000,3GMT,17
+Ethiopia,Hamaresa YeT or Sefer,9.3333,42.1000,3GMT,150
+Ethiopia,Harar,9.5000,41.5000,3GMT,353
+Ethiopia,Harar Zuria,9.0000,42.1667,3GMT,350
+Ethiopia,Harardighet,7.7333,44.4333,3GMT,343
+Ethiopia,Hararte,12.1142,42.1233,3GMT,347
+Ethiopia,Hararu Terara,12.1694,40.8125,3GMT,355
+Ethiopia,Jigjiga,9.3500,42.8000,3GMT,347
+Ethiopia,Jijiga,9.6667,38.7500,3GMT,5
+Ethiopia,Jimma_ET09,7.6667,36.8333,3GMT,12
+Ethiopia,Jimma_ET10,9.4667,38.6000,3GMT,6
+Ethiopia,Mek ele,13.4967,39.4753,3GMT,3
+Ethiopia,Mek ele Bete Mengist,13.5000,39.4667,3GMT,3
+Ethiopia,Nazret,8.5500,39.2667,3GMT,2
+Ethiopia,Qa Dibayu,3.5833,39.1667,3GMT,2
+Ethiopia,Qa Kobo,3.5333,39.1000,3GMT,2
+Ethiopia,Qabanawa,3.4833,39.5333,3GMT,1
+Ethiopia,Qabradahare,6.7333,44.2833,3GMT,344
+Ethiopia,Qabtya,13.9000,37.1167,3GMT,19
+Ethiopia,Qadaduma,3.4500,39.5667,3GMT,1
+Ethiopia,Qalat Luban,13.6500,36.4167,3GMT,22
+Ethiopia,Qalqalcha,3.5500,39.4667,3GMT,1
+Ethiopia,Qal`at az Zaraf,13.9667,36.4667,3GMT,23
+Ethiopia,Qal`at Hamadi,13.9000,36.4667,3GMT,23
+Ethiopia,Qal`at Hameg,13.8833,36.6667,3GMT,21
+Ethiopia,Qal`at Uod Absciar,13.8333,36.7000,3GMT,21
+Ethiopia,Qarsa_ET01,8.3833,39.7333,3GMT,0.4889
+Ethiopia,Qarsa_ET07,9.4500,41.8667,3GMT,351
+Ethiopia,Qarsa Sukela,3.5167,39.5167,3GMT,1
+Ethiopia,Qeissan,10.7333,34.7833,3GMT,24
+Ethiopia,Qellafo,5.6167,44.1333,3GMT,346
+Ethiopia,Qito,9.0500,37.1167,3GMT,12
+Ethiopia,Qoljeit,10.0833,43.0000,3GMT,346
+Ethiopia,Qorahe,6.6167,44.3000,3GMT,344
+Ethiopia,Quamnum,8.3000,33.8333,3GMT,23
+Ethiopia,Quara,12.3000,36.2167,3GMT,20
+Ethiopia,Quarib,11.0667,37.8000,3GMT,10
+Ethiopia,Quf Tika,3.5167,39.6000,3GMT,1
+Ethiopia,Qulubi,9.4333,41.6833,3GMT,352
+Ethiopia,Quni,9.0000,40.8833,3GMT,356
+Ethiopia,Quoram,12.5058,39.5228,3GMT,2
+Ethiopia,Quorcu,14.7500,37.7167,3GMT,17
+Ethiopia,Quorta,11.7333,37.4500,3GMT,13
+Ethiopia,Quosquam,10.8333,37.0833,3GMT,14
+Ethiopia,Qus Biyaad,8.4000,44.5167,3GMT,342
+Ethiopia,Vacille Wells,4.5333,39.0667,3GMT,3
+Ethiopia,Vagia,12.5167,39.9667,3GMT,359
+Ethiopia,Vaideddo,13.8167,40.2500,3GMT,357
+Ethiopia,Vaito,11.5817,41.6286,3GMT,351
+Ethiopia,Valico Sasso Daba,13.2167,40.0500,3GMT,359
+Ethiopia,Valle di Dol,12.3167,41.5500,3GMT,350
+Ethiopia,Valle Gogheita,9.7167,42.7667,3GMT,347
+Ethiopia,Valle Gumma,12.0667,41.8000,3GMT,349
+Ethiopia,Valle Haraua,9.9167,42.5833,3GMT,348
+Ethiopia,Valledo,12.9333,41.3833,3GMT,351
+Ethiopia,Vato,9.0500,34.9833,3GMT,20
+Ethiopia,Veima,12.2500,42.3000,3GMT,346
+Ethiopia,Vennio,7.4167,36.7500,3GMT,12
+Ethiopia,Verme Falls,5.4500,40.2833,3GMT,359
+Ethiopia,Vertaddaba,13.7167,41.1667,3GMT,351
+Ethiopia,Vit'a,10.4000,39.2000,3GMT,3
+Ethiopia,Vogga,7.5000,36.3000,3GMT,13
+Ethiopia,Vogheri,11.8000,35.7000,3GMT,22
+Ethiopia,Voltu,7.0667,35.8833,3GMT,15
+Ethiopia,Vuca,7.5500,35.8333,3GMT,15
+Ethiopia,Vuddita,7.5167,35.7667,3GMT,15
+Ethiopia,Vulcano Borele Ale,13.7931,40.5528,3GMT,355
+Ethiopia,Vulcano Chebrit Ale,13.9667,40.1333,3GMT,358
+Ethiopia,Vulcano Ertale,13.6014,40.6611,3GMT,355
+Ethiopia,Vulcano Gabuli,13.6667,40.2667,3GMT,357
+Ethiopia,Vulcano Ummuna,13.5111,40.6322,3GMT,355
+Ethiopia,Vulu,9.8167,38.9833,3GMT,4
+Ethiopia,Vumbaro,6.6500,35.8500,3GMT,14
+Ethiopia,Vungalat,3.9333,38.1500,3GMT,5
+Ethiopia,Vusciule,7.3333,37.5167,3GMT,9
+Ethiopia,Werabie,8.7000,37.8833,3GMT,8

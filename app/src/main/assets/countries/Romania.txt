@@ -1,0 +1,54 @@
+Romania,1 Prim Decembrie,44.2957,26.063,2,0
+Romania,16 Februarie,44.4716,26.0382,2,0
+Romania,23 Comuna August,43.9217,28.5883,2,0
+Romania,23 Mila,45.1883,29.405,2,0
+Romania,30 Comuna Decembrie,44.2884,26.0551,2,0
+Romania,6 Martie,44.7721,28.8887,2,0
+Romania,Arad,46.193,21.3264,2,0
+Romania,Bacau,46.5765,26.9098,2,0
+Romania,Bistrita,47.0765,24.4265,2,0
+Romania,Bistrita_Mehedinti,44.5954,22.8026,2,0
+Romania,Bistrita_Bistrita-Nasaud,47.1431,24.4931,2,0
+Romania,Botosani,47.7598,26.6765,2,0
+Romania,Braila,45.2765,27.9931,2,0
+Romania,Brasov,45.6431,25.5931,2,0
+Romania,Brasov Suburbie,45.6598,25.5931,2,0
+Romania,Buc,47.2098,22.8431,2,0
+Romania,Bucharest_Bucuresti,44.4431,26.1098,2,0
+Romania,Bucuresti,46.0598,27.5931,2,0
+Romania,Cluj,46.7599,23.5932,2,0
+Romania,Cluj-Napoca_Cluj,46.7766,23.6099,2,0
+Romania,Constanta_Timis,45.8913,20.5957,2,0
+Romania,Constanta,44.1932,28.6599,2,0
+Romania,Craiova_Dolj,44.3266,23.8099,2,0
+Romania,Craiova,46.5932,21.9766,2,0
+Romania,Dorohoi,47.96,26.41,2,0
+Romania,Focsani_Vrancea,45.7102,27.1935,2,0
+Romania,Galati,45.527,23.077,2,0
+Romania,Galatii Bistritei,46.9936,24.4103,2,0
+Romania,Ialomita,44.7105,27.8605,2,0
+Romania,Iasi,47.1772,27.6105,2,0
+Romania,Macin,45.2609,28.1609,2,0
+Romania,Mangalla,43.8109,28.5942,2,0
+Romania,Medias,46.1776,24.3609,2,0
+Romania,Mures,46.6776,24.5942,2,0
+Romania,Neamt,47.261,26.5777,2,0
+Romania,Oltenita,44.0944,26.6444,2,0
+Romania,Oradea_Bihor,47.0778,21.9444,2,0
+Romania,Piatra Neamt_Neamt,46.9279,26.3445,2,0
+Romania,Pitesti_Arges,44.8612,24.8779,2,0
+Romania,Ploiesti_Prahova,44.9612,26.0279,2,0
+Romania,Ploiesti Sud_Prahova,44.9412,26.0543,2,0
+Romania,Reghin,46.7781,24.7114,2,0
+Romania,Sibiu,45.8115,24.1615,2,0
+Romania,Simeria,45.8615,23.0282,2,0
+Romania,Slobozia,45.0448,23.2448,2,0
+Romania,Suceava,47.5448,26.5448,2,0
+Romania,Timisoara_Timis,45.761,21.2388,2,0
+Romania,Tirgu Mures_Mures,46.5616,24.5783,2,0
+Romania,Tulcea,45.1783,28.8116,2,0
+Romania,Valcea,45.1951,24.5118,2,0
+Romania,Waldau,45.4641,21.5325,2,0
+Romania,Yeni sala,44.8954,28.8288,2,0
+Romania,Yuzlin,45.0788,29.2454,2,0
+Romania,Zarnesti,45.5622,25.3122,2,0

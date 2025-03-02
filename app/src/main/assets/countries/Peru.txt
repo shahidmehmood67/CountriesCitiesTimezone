@@ -1,0 +1,83 @@
+Peru,3 De Octubre_Ancash,-9.1116,-78.5449,-5,0
+Peru,Arequipa,-16.3892,-71.5253,-5,0
+Peru,Arequipa_Tacna,-17.3139,-70.3231,-5,0
+Peru,Callao,-12.0568,-77.1401,-5,0
+Peru,Callao_Loreto,-5.3401,-73.7568,-5,0
+Peru,Chiclayo_Lambayeque,-6.7734,-79.8234,-5,0
+Peru,Chiclayo_San Martin,-7.8901,-77.2734,-5,0
+Peru,Chiclayo_Ayacucho,-13.8773,-73.7182,-5,0
+Peru,Chiclayo_Loreto,-5.5234,-73.7568,-5,0
+Peru,Chiclayo_Madre de Dios,-11.3401,-69.7734,-5,0
+Peru,Chiclayo_La Libertad,-6.7568,-79.8401,-5,0
+Peru,Cuzco_San Martin,-6.9734,-76.4568,-5,0
+Peru,Cuzco_Cusco,-13.4901,-71.9901,-5,0
+Peru,Cuzco Puquio_Arequipa,-15.1676,-71.7495,-5,0
+Peru,Huancayo_Apurimac,-13.4821,-73.534,-5,0
+Peru,Huancayo_Junin,-12.0563,-75.2229,-5,0
+Peru,Iquitos_Loreto,-3.7376,-73.2367,-5,0
+Peru,Kahuis_Ancash,-9.706,-77.1726,-5,0
+Peru,Kakencolla_Arequipa,-15.1901,-71.541,-5,0
+Peru,Kalajahuira_Puno,-16.6726,-69.7726,-5,0
+Peru,Kamish_Cajamarca,-7.2393,-77.9726,-5,0
+Peru,Kane_Puno,-16.756,-69.6893,-5,0
+Peru,Kanzel_Cajamarca,-7.4726,-78.3726,-5,0
+Peru,Kasani_Puno,-16.206,-69.0726,-5,0
+Peru,Kauta_Puno,-15.2893,-69.8893,-5,0
+Peru,Kcaira-Pampa_Arequipa,-15.3485,-72.6679,-5,0
+Peru,Kcanahuayoc-Pampa_Arequipa,-15.4835,-72.521,-5,0
+Peru,Kechaya_Puno,-15.2226,-69.7893,-5,0
+Peru,Kenco Ccasa_Apurimac,-14.1393,-72.306,-5,0
+Peru,Kenjollo_Arequipa,-16.156,-71.0226,-5,0
+Peru,Kerguer_Lambayeque,-6.1732,-79.4996,-5,0
+Peru,Ketekete_Puno,-15.306,-69.906,-5,0
+Peru,Kiatari_Junin,-11.4393,-74.456,-5,0
+Peru,Killocona_Arequipa,-16.406,-71.356,-5,0
+Peru,Kilometro 30_Piura,-4.2643,-81.1799,-5,0
+Peru,Kimpitirique_Ayacucho,-12.2393,-73.856,-5,0
+Peru,Kisamojo_Puno,-15.3393,-69.9226,-5,0
+Peru,Kishuara_Apurimac,-13.6893,-73.0893,-5,0
+Peru,Kita_Lima,-11.8832,-76.4246,-5,0
+Peru,Kitiriaro_Junin,-10.5404,-74.886,-5,0
+Peru,Koribeni_Cusco,-12.6726,-72.956,-5,0
+Peru,Kucuaza_Amazonas,-3.3276,-77.871,-5,0
+Peru,Lima_Cajamarca,-5.6959,-79.2686,-5,0
+Peru,Lima_Loreto,-5.8725,-76.1392,-5,0
+Peru,Lima_Arequipa,-15.3706,-71.4634,-5,0
+Peru,Lima_Puno,-15.9725,-69.5059,-5,0
+Peru,Lima,-12.0725,-77.0725,-5,0
+Peru,Lima Cota_Arequipa,-15.6825,-71.5948,-5,0
+Peru,Lima Huire_Arequipa,-15.0456,-71.9789,-5,0
+Peru,Lima Lima_Junin,-11.2253,-75.6767,-5,0
+Peru,Lima Pampa_Cusco,-14.0778,-71.3264,-5,0
+Peru,Lima Vieja_Ica,-13.7059,-75.9392,-5,0
+Peru,Limabamba_Amazonas,-6.4559,-77.4559,-5,0
+Peru,Limache_Puno,-16.6892,-69.2392,-5,0
+Peru,Limacota_Arequipa,-15.2636,-71.3131,-5,0
+Peru,Limactambo_Lima,-11.9823,-76.0981,-5,0
+Peru,Limacucho_Huanuco,-10.2881,-76.3561,-5,0
+Peru,Limahuiri_Arequipa,-15.1481,-71.7245,-5,0
+Peru,Limaipuquio_Junin,-11.3475,-75.7925,-5,0
+Peru,Limapampa_Arequipa,-15.0611,-71.9011,-5,0
+Peru,Limapampa_Cajamarca,-7.2725,-78.1559,-5,0
+Peru,Limapampa_Puno,-13.3559,-70.3392,-5,0
+Peru,Limapata_Cusco,-15.0859,-71.092,-5,0
+Peru,Limaspampa_Moquegua,-17.1064,-70.822,-5,0
+Peru,Limatambo_Cusco,-13.4623,-72.4223,-5,0
+Peru,Limatambo Hacienda_Lima,-12.0892,-77.0225,-5,0
+Peru,Limay_Ica,-13.2225,-75.8059,-5,0
+Peru,Piura_Ancash,-9.4388,-78.3555,-5,0
+Peru,Piura,-5.4888,-80.5721,-5,0
+Peru,Piura_Loreto,-5.3888,-73.7888,-5,0
+Peru,Tacna,-18.0384,-70.2717,-5,0
+Peru,Tacna_Madre de Dios,-10.9384,-69.5717,-5,0
+Peru,Tacna Libre_Tumbes,-3.9409,-80.6478,-5,0
+Peru,Trujillo_Piura,-5.5551,-73.7551,-5,0
+Peru,Trujillo_La Libertad,-8.1051,-79.0217,-5,0
+Peru,Trujillo_San Martin,-7.4759,-76.4242,-5,0
+Peru,Wadington_Lambayeque,-6.687,-79.4398,-5,0
+Peru,Washa_Lima,-12.7881,-75.8048,-5,0
+Peru,Western Ranges,-13.9881,-73.9881,-5,0
+Peru,Wichancalle_Puno,-16.3881,-69.2714,-5,0
+Peru,Windon_Piura,-5.1087,-79.7195,-5,0
+Peru,Wiscachanayoc_Ayacucho,-14.6714,-74.3048,-5,0
+Peru,Wito_Apurimac,-14.3314,-73.5064,-5,0

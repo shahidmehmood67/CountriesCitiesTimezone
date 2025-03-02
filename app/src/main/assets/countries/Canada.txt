@@ -1,0 +1,1391 @@
+Canada,Abbey_SK,50.7158,-108.7509,-6,30
+Canada,Abbotsford_BC,49.0817,-122.3694,-8,17
+Canada,Abbotsford_QC,45.4339,-72.8829,-5,59
+Canada,Abee_AB,54.2365,-113.0286,-7,26
+Canada,Abercorn_QC,45.0324,-72.6665,-5,59
+Canada,Acadia Valley_AB,51.1589,-110.2066,-7,29
+Canada,Acadieville_NB,46.7321,-65.2702,-4,65
+Canada,Acme_AB,51.4996,-113.4994,-7,26
+Canada,Acton Vale_QC,45.6493,-72.5661,-5,59
+Canada,Adams Gulch_NB,47.6496,-67.3494,-4,63
+Canada,Adamsville_NB,46.3333,-65.0009,-4,65
+Canada,Aden_AB,49.3227,-111.1207,-7,28
+Canada,Advocate Harbour_NS,45.3330,-64.7838,-4,65
+Canada,Aetna_AB,49.1325,-113.2494,-7,26
+Canada,Agassiz_BC,49.2288,-121.7902,-8,18
+Canada,Aguanish_QC,50.2161,-62.0834,-4,67
+Canada,Aguathuna_NL,48.5567,-58.6901,-3.5,69
+Canada,Ahousat_BC,49.2852,-126.0786,-8,14
+Canada,Ainsworth Hot Springs_BC,49.8760,-116.9070,-8,23
+Canada,Air Ronge_SK,55.0881,-105.3415,-6,33
+Canada,Airdrie_AB,51.2970,-114.0218,-7,25
+Canada,Aiyansh_BC,55.2834,-129.0503,-8,11
+Canada,Ajax_ON,43.8573,-79.0125,-5,55
+Canada,Aklavik_NT,68.2242,-135.0000,-7,5
+Canada,Akulivik_QC,52.2503,-78.5004,-5,55
+Canada,Albanel_QC,48.8328,-72.5827,-5,60
+Canada,Albert Bridge_NC,46.0200,-60.0700,-4,68
+Canada,Alberta Beach_AB,53.6675,-114.3500,-7,25
+Canada,Albertville_QC,48.3333,-67.3657,-5,63
+Canada,Alcida_NB,47.7795,-65.7191,-4,64
+Canada,Alcomdale_AB,53.7090,-114.1935,-7,25
+Canada,Alcove_QC,45.6842,-75.9328,-5,57
+Canada,Alder Flats_AB,52.9348,-114.9585,-7,24
+Canada,Aldergrove_BC,49.1514,-122.5397,-8,17
+Canada,Aldersyde_AB,50.6735,-113.8825,-7,25
+Canada,Alderwood_NB,47.5695,-64.9281,-4,65
+Canada,Aldouane_NB,46.6501,-64.7505,-4,65
+Canada,Alert Bay_BC,48.7862,-123.2839,-8,17
+Canada,Alexis Creek_BC,52.0848,-123.2813,-8,16
+Canada,Alhambra_AB,52.2904,-114.6655,-7,24
+Canada,Alix_AB,52.3993,-113.1902,-7,26
+Canada,Alkali Lake_BC,51.7894,-122.2333,-8,17
+Canada,Allainville_NB,47.2500,-65.0801,-4,65
+Canada,Allardville_NB,47.4662,-65.4828,-4,65
+Canada,Allenford_ON,44.5493,-81.1670,-5,53
+Canada,Alliance_AB,52.4357,-111.7848,-7,27
+Canada,Allison_NB,46.0700,-64.9200,-4,65
+Canada,Alliston_ON,44.1492,-79.8658,-5,54
+Canada,Alma_NB,45.9300,-64.6502,-4,54
+Canada,Alma_QC,48.5225,-71.6612,-5,60
+Canada,Alouette_QC,48.5574,-71.3263,-5,60
+Canada,Alsike_AB,53.1622,-114.5643,-7,24
+Canada,Altario_AB,51.9174,-110.1507,-7,29
+Canada,Altona_BC,56.9000,-120.9000,-7,18
+Canada,Amherst_NS,45.8158,-64.2341,-4,65
+Canada,Amherst_QC,46.0165,-74.7657,-5,58
+Canada,Amisk_AB,52.5610,-111.0616,-7,28
+Canada,Ammon_NB,46.1707,-64.8494,-4,65
+Canada,Amos_QC,48.5842,-78.1173,-5,55
+Canada,Amqui_QC,48.4658,-67.4338,-5,63
+Canada,Anagance_NB,45.7985,-65.1212,-4,65
+Canada,Anahim Lake_BC,52.4664,-125.3001,-8,14
+Canada,Ancaster_ON,43.1822,-79.9995,-5,54
+Canada,Anchor Point_NL,51.2329,-56.7998,-3.5,71
+Canada,Andersonville_NB,45.3207,-67.0808,-4,63
+Canada,Andrew_AB,53.8842,-112.3500,-7,26
+Canada,Anfield_NB,46.9800,-67.6008,-4,63
+Canada,Ange-Gardien_QC,45.1992,-72.3501,-5,60
+Canada,Anglemont_BC,50.9711,-119.1716,-8,20
+Canada,Angliers_QC,47.5500,-79.2332,-5,55
+Canada,Angus_ON,44.3158,-79.8830,-5,54
+Canada,Anjou_QC,45.5894,-73.5527,-5,59
+Canada,Anmore_BC,49.2967,-122.8457,-8,17
+Canada,Anse-Bleue_NB,47.6116,-65.6508,-4,64
+Canada,Antigonish_NS,45.5829,-61.9162,-4,67
+Canada,Anzac_AB,56.4529,-111.0565,-7,27
+Canada,Apohaqui_NB,45.7200,-65.7522,-4,64
+Canada,Apsley_ON,44.7497,-78.1008,-5,56
+Canada,Aquaforte_NL,47.0004,-52.9669,-3.5,73
+Canada,Ardmore_AB,54.3338,-110.4799,-7,28
+Canada,Ardrossan_AB,53.4877,-113.0225,-7,26
+Canada,Argenta_BC,50.0827,-116.8772,-8,23
+Canada,Armagh_QC,46.7500,-70.5835,-5,61
+Canada,Armena_AB,53.1217,-112.9497,-7,26
+Canada,Armond_NB,46.5490,-67.2208,-4,63
+Canada,Armstrong_BC,50.4431,-119.1962,-8,20
+Canada,Arnolds Cove_NL,47.7758,-53.9799,-3.5,73
+Canada,Arntfield_QC,48.2008,-79.2508,-5,55
+Canada,Aroostook_NB,46.7499,-67.7002,-4,63
+Canada,Arras_BC,55.7523,-120.5360,-7,19
+Canada,Arrowwood_AB,50.7327,-113.1503,-7,26
+Canada,Arthurette_NB,46.7499,-67.7002,-4,63
+Canada,Artic Bay_NU,73.0652,-85.1650,-5,51
+Canada,Arundel_QC,45.9661,-74.6163,-5,58
+Canada,Arviat_NU,61.1175,-94.0697,-6,42
+Canada,Asbestos_QC,45.7673,-71.9503,-5,60
+Canada,Ascot_QC,45.2569,-71.8523,-5,60
+Canada,Ascot Corner_QC,45.4496,-71.7665,-5,60
+Canada,Ashcroft_BC,50.7208,-121.3124,-8,18
+Canada,Ashland_NB,46.3007,-67.5334,-4,63
+Canada,Ashmont_AB,54.1289,-111.5689,-7,27
+Canada,Ashton_ON,45.1495,-76.0335,-5,57
+Canada,Aspen_NS,45.2993,-62.0509,-4,67
+Canada,Aspen Cove_NL,49.4658,-54.1175,-3.5,73
+Canada,Asquith_SK,52.1334,-107.2289,-6,31
+Canada,Astle_NB,46.4501,-66.4168,-4,64
+Canada,Aston-Jonction_QC,46.1649,-72.2253,-5,60
+Canada,Athabasca_AB,54.7161,-113.2827,-7,25
+Canada,Athalmer_BC,50.5856,-116.0429,-7,23
+Canada,Athelstan_QC,45.0832,-74.1668,-5,58
+Canada,Atholville_NB,48.0007,-66.6674,-4,64
+Canada,Atikameg_AB,55.9209,-115.6484,-7,23
+Canada,Atlin_BC,59.5838,-133.6997,-8,6
+Canada,Atmore_AB,54.8515,-112.3387,-7,26
+Canada,Attawapiskat_ON,52.9165,-82.4337,-5,52
+Canada,Atwood_ON,43.6664,-81.0169,-5,53
+Canada,Aubert-Gallion_QC,46.1136,-70.6343,-5,61
+Canada,Auclair_QC,47.7325,-68.6499,-5,62
+Canada,Audet_QC,45.6504,-70.7339,-5,61
+Canada,Aulac_NB,45.8999,-64.3659,-4,65
+Canada,Aupaluk_QC,56.5483,-76.5513,-5,57
+Canada,Aurora_ON,44.0140,-79.4378,-5,55
+Canada,Austin_QC,45.2674,-72.1508,-5,60
+Canada,Authier_QC,48.7583,-79.0002,-5,55
+Canada,Avola_BC,51.8949,-119.2863,-8,20
+Canada,Avondale_NB,45.6204,-65.3511,-4,64
+Canada,Avondale_NL,47.4166,-53.2000,-3.5,73
+Canada,Avonlea_SK,50.0172,-105.0653,-6,33
+Canada,Ayer s Cliff_QC,45.1669,-72.0493,-5,60
+Canada,Aylmer_QC,45.4252,-75.8441,-5,57
+Canada,Ayr_ON,43.2839,-80.4496,-5,54
+Canada,Azilda_ON,46.5513,-81.1175,-5,53
+Canada,�vain_QC,48.2286,-79.1370,-5,55
+Canada,�le des Ch�nes_MB,49.7129,-96.9876,-6,40
+Canada,�le-aux-Noix_QC,45.0455,-73.5873,-5,59
+Canada,�le-�-la-Crosse_SK,55.4667,-107.9204,-6,30
+Canada,�le-Perrot-Sud_QC,45.2964,-74.0546,-5,58
+Canada,Badger_NL,48.9824,-56.0340,-3.5,71
+Canada,Badgers Quay_NL,49.1490,-53.5696,-3.5,73
+Canada,Baie-Comeau_QC,49.1916,-68.2745,-5,63
+Canada,Baie-d Urf�_QC,45.4122,-73.9323,-5,58
+Canada,Baie-des-Sables_QC,48.7175,-67.8492,-5,63
+Canada,Baie-du-Febvre_QC,46.1432,-72.7158,-5,59
+Canada,Baie-Johan-Beetz_QC,50.2826,-62.7997,-4,67
+Canada,Baie-Saint-Paul_QC,47.4494,-70.4995,-5,61
+Canada,Baie-Sainte-Anne_NB,47.0481,-64.9524,-4,65
+Canada,Baie-Sainte-Catherine_QC,48.0995,-69.7324,-5,62
+Canada,Baie-Trinit�_QC,49.4160,-67.3006,-5,63
+Canada,Baillie_NB,45.3207,-67.0808,-4,63
+Canada,Bairdsville_NB,46.7499,-67.7002,-4,63
+Canada,Baker Lake_NU,64.3194,-96.0311,-6,41
+Canada,Baldonnel_BC,56.2235,-120.7097,-7,18
+Canada,Balfour_BC,49.6244,-116.9580,-8,23
+Canada,Balmoral_NB,47.9667,-66.4496,-4,64
+Canada,Baltimore_NB,45.9300,-64.6502,-4,65
+Canada,Balzac_AB,51.2748,-114.0111,-7,25
+Canada,Bamfield_BC,48.8301,-125.1350,-8,15
+Canada,Bancroft_ON,45.0509,-77.8497,-5,56
+Canada,Banff_AB,51.1754,-115.5503,-7,24
+Canada,Bannon_NB,46.5490,-67.2208,-4,63
+Canada,Barachois_QC,48.6191,-64.2752,-5,66
+Canada,Barford_QC,45.1324,-71.8084,-5,60
+Canada,Barkerville_BC,53.1053,-121.5751,-8,18
+Canada,Barnaby_NB,47.0204,-65.4772,-4,65
+Canada,Barnesville_NB,45.4998,-65.9667,-4,64
+Canada,Barnettville_NB,46.7308,-65.8303,-4,64
+Canada,Barnston_QC,45.1333,-71.7995,-5,60
+Canada,Barony_NB,45.9667,-67.1306,-4,63
+Canada,Barraute_QC,48.4341,-77.6341,-5,56
+Canada,Barr�_QC,46.8327,-71.0159,-5,61
+Canada,Barrie_ON,44.3708,-79.6856,-5,54
+Canada,Barriere_BC,51.1886,-120.1339,-8,19
+Canada,Barryville_NB,47.2500,-65.0801,-4,65
+Canada,Bartholomew_NB,46.7308,-65.8303,-4,64
+Canada,Bartibog_NB,47.0052,-65.5796,-4,64
+Canada,Bas-Cap-Pele_NB,46.2201,-64.2708,-4,65
+Canada,Bas-Caraquet_NB,47.7581,-64.9426,-4,65
+Canada,Bas-Paquetville_NB,47.6625,-65.1259,-4,65
+Canada,Bashaw_AB,52.5862,-112.9744,-7,26
+Canada,Bassano_AB,50.7896,-112.4634,-7,27
+Canada,Bassin_QC,47.2225,-61.9387,-4,67
+Canada,Bath_NB,46.5701,-67.5505,-4,63
+Canada,Bath_ON,44.1833,-76.7833,-5,56
+Canada,Bathurst_NB,47.5993,-65.6506,-4,64
+Canada,Batiscan_QC,46.5003,-72.2508,-5,60
+Canada,Bawlf_AB,52.9207,-112.4663,-7,26
+Canada,Bay Chimo_NU,67.7000,-107.9500,-7,30
+Canada,Bay de Verde_NL,48.0830,-52.9006,-3.5,73
+Canada,Bay l Argent_NL,47.5500,-54.9007,-3.5,72
+Canada,Bayfield_NB,46.0202,-64.1006,-4,65
+Canada,Bayside_NB,45.0790,-67.0501,-4,63
+Canada,Bayswater_NB,45.4493,-66.0006,-4,64
+Canada,Baytona_NL,49.3600,-54.7254,-3.5,72
+Canada,B�arn_QC,47.2830,-79.3332,-5,54
+Canada,B�cancour_QC,46.3297,-72.4303,-5,60
+Canada,B�gin_QC,48.5574,-71.3263,-5,60
+Canada,Beachville_ON,43.0824,-80.8174,-5,54
+Canada,Beaconsfield_NB,46.7499,-67.7002,-4,63
+Canada,Beaconsfield_QC,45.4264,-73.8908,-5,59
+Canada,Bear Lake_BC,56.1840,-126.8495,-8,13
+Canada,Beardsley_NB,46.1501,-67.5796,-4,63
+Canada,Beaucanton_QC,49.0342,-79.2503,-5,55
+Canada,Beauceville_QC,46.1994,-70.7790,-5,61
+Canada,Beaudry_QC,48.1171,-79.1497,-5,55
+Canada,Beauharnois_QC,45.3165,-73.8672,-5,59
+Canada,Beaulac_QC,45.8329,-71.3830,-5,60
+Canada,Beaumont_AB,53.3511,-113.4206,-7,25
+Canada,Beaumont_NL,49.5669,-55.5997,-3.5,72
+Canada,Beaumont_QC,46.8327,-71.0159,-5,61
+Canada,Beauport_QC,46.8549,-71.1931,-5,60
+Canada,Beaupr�_QC,47.0507,-70.9006,-5,61
+Canada,Beaux-Rivages_QC,46.5658,-75.3661,-5,57
+Canada,Beaverdell_BC,49.4413,-119.0949,-8,21
+Canada,Beaverlodge_AB,55.2116,-119.4174,-7,20
+Canada,Bedford_NS,44.7203,-63.7153,-4,66
+Canada,Bedford_QC,45.1158,-72.9824,-5,59
+Canada,Beechwood_NB,46.5701,-67.5505,-4,63
+Canada,Beersville_NB,46.3333,-65.0009,-4,65
+Canada,Beiseker_AB,51.3826,-113.5420,-7,25
+Canada,Belcarra_BC,49.2967,-122.8457,-8,17
+Canada,Belcourt_QC,48.3839,-77.2509,-5,56
+Canada,Bell Island_NL,47.6421,-52.9436,-3.5,73
+Canada,Bell Island Front_NL,47.6117,-52.9432,-3.5,73
+Canada,Bella Bella_BC,52.3472,-126.9816,-8,13
+Canada,Bella Coola_BC,52.3601,-126.8171,-8,13
+Canada,Bellburns_NL,50.3334,-57.5339,-3.5,71
+Canada,Belle River_ON,42.2991,-82.7174,-5,52
+Canada,Bellecombe_QC,48.2407,-79.0246,-5,55
+Canada,Belledune_NB,47.8802,-66.1299,-4,64
+Canada,Bellefeuille_QC,45.7829,-74.0826,-5,58
+Canada,Bellefond_NB,47.0052,-65.5796,-4,64
+Canada,Belleoram_NL,47.5162,-55.4165,-3.5,72
+Canada,Belleterre_QC,47.3833,-78.7008,-5,55
+Canada,Belleville_NB,46.1501,-67.5796,-4,63
+Canada,Belleville_ON,44.1436,-77.4023,-5,56
+Canada,Bellevue_AB,49.5729,-114.3588,-7,25
+Canada,Bellevue_NL,47.6327,-53.7327,-3.5,73
+Canada,Bellis_AB,54.1427,-112.1492,-7,26
+Canada,Beloeil_QC,45.5582,-73.1990,-5,59
+Canada,Benalto_AB,52.3179,-114.2816,-7,25
+Canada,Benoits Cove_NL,49.0073,-58.1253,-3.5,70
+Canada,Bentley_AB,52.4655,-114.0472,-7,25
+Canada,Benton_NB,46.1808,-67.4991,-4,63
+Canada,Benton_NL,48.8995,-54.4158,-3.5,73
+Canada,Beresford_NB,47.6667,-65.7001,-4,64
+Canada,Bernierville_QC,46.1076,-71.5785,-5,60
+Canada,Berry_QC,48.5770,-78.1183,-5,55
+Canada,Berryton_NB,46.0145,-64.7998,-4,65
+Canada,Berthier-sur-Mer_QC,46.9172,-70.7330,-5,61
+Canada,Berthierville_QC,46.0825,-73.1672,-5,59
+Canada,Bertrand_NB,47.7581,-64.9426,-4,65
+Canada,Berwick_NB,45.7200,-65.7522,-4,64
+Canada,Berwyn_AB,56.1468,-117.7356,-7,21
+Canada,Bethel_NB,45.1496,-66.7708,-4,63
+Canada,Betsiamites_QC,49.1163,-68.4001,-5,63
+Canada,Bettsburg_NB,46.5496,-66.1300,-4,64
+Canada,Bezanson_AB,55.2286,-118.3733,-7,21
+Canada,Bide Arm_NL,50.8163,-56.1002,-3.5,72
+Canada,Biencourt_QC,47.9331,-68.6002,-5,62
+Canada,Big Lake Ranch_BC,52.3920,-121.8695,-8,18
+Canada,Big Stone_AB,51.0041,-110.7263,-7,28
+Canada,Big Valley_AB,52.0340,-112.7525,-7,26
+Canada,Bindloss_AB,50.7336,-110.1891,-7,29
+Canada,Birchcliff_AB,52.3619,-114.1177,-7,25
+Canada,Birchy Bay_NL,49.3501,-54.7336,-3.5,72
+Canada,Birchy Head_NL,49.4493,-57.9004,-3.5,70
+Canada,Bird Cove_NL,51.0495,-56.9342,-3.5,71
+Canada,Birdton_NB,45.9688,-66.6295,-4,64
+Canada,Bishops Falls_NL,48.9261,-55.6586,-3.5,72
+Canada,Bishopton_QC,45.5832,-71.5836,-5,60
+Canada,Bittern Lake_AB,53.0017,-113.0414,-7,26
+Canada,Black Cape_QC,48.0499,-65.4827,-5,65
+Canada,Black Creek_BC,49.9805,-125.2243,-8,15
+Canada,Black Creek Village_ON,43.7723,-79.5193,-5,55
+Canada,Black Diamond_AB,50.6846,-114.2389,-7,25
+Canada,Black Duck Cove_NL,51.2001,-56.8008,-3.5,71
+Canada,Black Duck Siding_NL,48.5002,-58.4317,-3.5,70
+Canada,Black Lake_QC,46.0492,-71.3494,-5,60
+Canada,Black Rock_NS,46.3000,-60.3800,-4,68
+Canada,Black Tickle_NL,53.4672,-55.7501,-4,73
+Canada,Blackfalds_AB,52.3802,-113.7929,-7,25
+Canada,Blackfoot_AB,53.2895,-110.1711,-7,28
+Canada,Blackie_AB,50.6068,-113.6251,-7,25
+Canada,Blackville_NB,46.7308,-65.8303,-4,64
+Canada,Blainville_QC,45.6844,-73.8865,-5,59
+Canada,Blairmore_AB,49.6036,-114.4335,-7,25
+Canada,Blaketown_NL,47.4835,-53.5666,-3.5,73
+Canada,Blanc-Sablon_QC,51.4174,-57.1165,-4,71
+Canada,Blind Bay_BC,50.9012,-119.3770,-8,20
+Canada,Blind Channel_BC,50.4152,-125.5036,-8,14
+Canada,Blissfield_NB,46.5496,-66.1300,-4,64
+Canada,Bloomfield_NL,48.3834,-53.9007,-3.5,73
+Canada,Bloomsbury_AB,54.2101,-114.4833,-7,24
+Canada,Blubber Bay_BC,48.7862,-123.2839,-8,17
+Canada,Blue Ridge_AB,54.1281,-115.3746,-7,24
+Canada,Blue River_BC,52.1017,-119.3021,-8,20
+Canada,Blue Sea_QC,46.1830,-76.0664,-5,57
+Canada,Blueberry Mountain_AB,55.8605,-119.3499,-7,20
+Canada,Bluesky_AB,56.0754,-118.2410,-7,21
+Canada,Bluffton_AB,52.7005,-114.2998,-7,25
+Canada,Boat Harbour West_NL,47.4335,-54.8331,-3.5,72
+Canada,Bocabec_NB,45.0790,-67.0501,-4,63
+Canada,Bodo_AB,52.1539,-110.0800,-7,29
+Canada,Boiestown_NB,46.4501,-66.4168,-4,64
+Canada,Bois-des-Filion_QC,45.6676,-73.7809,-5,59
+Canada,Bois-Gagnon_NB,47.5734,-65.0639,-4,65
+Canada,Boisbriand_QC,45.6102,-73.8459,-5,59
+Canada,Boischatel_QC,46.8994,-71.1342,-5,61
+Canada,Bolton Centre_QC,45.1992,-72.3501,-5,60
+Canada,Bon Accord_AB,53.8395,-113.4002,-7,25
+Canada,Bon-Conseil_QC,46.0016,-72.3431,-5,60
+Canada,Bonanza_AB,55.8624,-119.7290,-7,19
+Canada,Bonaventure_QC,48.0499,-65.4827,-5,65
+Canada,Bonavista_NL,48.6499,-53.1157,-3.5,73
+Canada,Bonne Bay_NL,49.5020,-57.9186,-3.5,70
+Canada,Bonnyville_AB,54.2729,-110.7399,-7,28
+Canada,Bonsecours_QC,45.4166,-72.2837,-5,60
+Canada,Boston Bar_BC,49.8319,-121.4285,-8,18
+Canada,Boswell_BC,49.4645,-116.7563,-7,23
+Canada,Botha_AB,52.3071,-112.5235,-7,26
+Canada,Botwood_NL,49.1497,-55.3491,-3.5,72
+Canada,Boucherville_QC,45.5772,-73.4114,-5,59
+Canada,Bouchette_QC,46.2160,-75.9673,-5,57
+Canada,Bouctouche_NB,46.4700,-64.7202,-4,65
+Canada,Boudreau-Ouest_NB,46.2208,-64.5304,-4,65
+Canada,Boulanger_QC,48.8835,-72.2333,-5,60
+Canada,Bow Island_AB,49.8717,-111.3825,-7,28
+Canada,Bowden_AB,51.9298,-114.0324,-7,25
+Canada,Bowen Island_BC,48.7862,-123.2839,-8,17
+Canada,Bowmanville_ON,43.9179,-78.6855,-5,55
+Canada,Bowser_BC,49.4163,-124.6549,-8,15
+Canada,Boyds Cove_NL,49.4396,-54.5927,-3.5,73
+Canada,Boyle_AB,54.7319,-112.5346,-7,26
+Canada,Boyne Lake_AB,54.3545,-111.7138,-7,27
+Canada,Brackendale_BC,48.7862,-123.2839,-8,17
+Canada,Bradford_ON,44.1169,-79.5671,-5,54
+Canada,Brador_QC,51.4727,-57.2220,-4,71
+Canada,Bragg Creek_AB,50.9501,-114.5769,-7,25
+Canada,Brampton_ON,43.7386,-79.8437,-5,54
+Canada,Branch_NL,46.8829,-53.9494,-3.5,72
+Canada,Brandon_MB,49.8413,-99.9634,-6,38
+Canada,Brant_AB,50.6067,-113.6194,-7,25
+Canada,Brantford_ON,43.1581,-80.2826,-5,54
+Canada,Brantville_NB,47.3333,-65.0202,-4,65
+Canada,Br�beuf_QC,46.0674,-74.6669,-5,58
+Canada,Breadalbane_NB,45.1496,-66.7708,-4,63
+Canada,Brechin_ON,44.5338,-79.1670,-5,55
+Canada,Brents Cove_NL,49.9239,-55.7163,-3.5,72
+Canada,Brentwood Bay_BC,48.5871,-123.4321,-8,16
+Canada,Breton_AB,53.1136,-114.4716,-7,24
+Canada,Breynat_AB,55.0939,-112.5082,-7,26
+Canada,Bridesville_BC,49.0580,-118.9917,-8,21
+Canada,Bridge Lake_BC,51.5284,-120.8813,-8,19
+Canada,Bridgeport_NL,49.5493,-54.8660,-3.5,72
+Canada,Brigham_QC,45.1995,-72.7496,-5,59
+Canada,Brighton_NL,49.5501,-55.6324,-3.5,72
+Canada,Brigus_NL,47.5335,-53.2167,-3.5,73
+Canada,Brigus Junction_NL,47.4254,-53.1772,-3.5,73
+Canada,Brisco_BC,50.9037,-116.3621,-7,23
+Canada,Bristol_NB,46.5490,-67.2208,-4,63
+Canada,Bristol_QC,45.6009,-76.4799,-5,57
+Canada,Britannia Beach_BC,48.7862,-123.2839,-8,17
+Canada,Broad Cove Bdv_NL,47.8842,-53.0833,-3.5,73
+Canada,Brocket_AB,49.5465,-113.7593,-7,25
+Canada,Brockville_ON,44.5908,-75.6805,-5,57
+Canada,Brockway_NB,45.7307,-67.0012,-4,63
+Canada,Brome_QC,45.2000,-72.5665,-5,59
+Canada,Bromont_QC,45.3285,-72.6456,-5,59
+Canada,Bromptonville_QC,45.4658,-71.9496,-5,60
+Canada,Brookfield_NL,49.1490,-53.5696,-3.5,73
+Canada,Brooks_AB,50.5813,-111.8809,-7,27
+Canada,Brookville_NB,45.6204,-65.3511,-4,64
+Canada,Brossard_QC,45.4650,-73.4460,-5,59
+Canada,Brosseau_AB,53.7923,-111.6846,-7,27
+Canada,Brownfield_AB,52.2404,-111.5851,-7,27
+Canada,Brownsburg_QC,45.4692,-74.0853,-5,58
+Canada,Brownsdale_NL,48.0334,-53.1163,-3.5,73
+Canada,Brownvale_AB,56.1303,-117.8924,-7,21
+Canada,Bruce_AB,53.1751,-112.0393,-7,27
+Canada,Bruderheim_AB,53.7994,-112.9232,-7,26
+Canada,Brule_AB,53.2802,-117.8675,-7,21
+Canada,Brunswick Mines_NB,47.5993,-65.6506,-4,64
+Canada,Bryenton_NB,47.0052,-65.5796,-4,64
+Canada,Bryson_QC,45.6501,-74.6497,-5,58
+Canada,Bubartown_NB,46.3007,-67.5334,-4,63
+Canada,Buchans_NL,48.8170,-56.8658,-3.5,71
+Canada,Buchans Junction_NL,48.8501,-56.4674,-3.5,71
+Canada,Buck Creek_AB,53.1410,-114.8840,-7,24
+Canada,Buck Lake_AB,52.9604,-114.8468,-7,24
+Canada,Buckingham_QC,45.5775,-75.4086,-5,57
+Canada,Buckland_QC,46.4664,-70.8168,-5,61
+Canada,Buffalo_AB,50.7832,-111.1879,-7,28
+Canada,Buffalo Creek_BC,51.6818,-121.2145,-8,18
+Canada,Buffalo Head Prairie_AB,55.0691,-117.2779,-7,22
+Canada,Buffalo Point_MB,49.7673,-96.4173,-6,41
+Canada,Buick_BC,56.7039,-121.0876,-7,18
+Canada,Bull Arm_NL,47.9668,-53.3335,-3.5,73
+Canada,Bunyans Cove_NL,48.4089,-53.8891,-3.5,73
+Canada,Burdett_AB,49.8327,-111.5238,-7,27
+Canada,Burgeo_NL,47.6157,-57.6170,-3.5,70
+Canada,Burgoynes Cove_NL,48.2009,-53.7966,-3.5,73
+Canada,Burin_NL,47.0329,-55.1674,-3.5,72
+Canada,Burin Bay Arm_NL,47.0610,-55.1769,-3.5,72
+Canada,Burlington_NL,49.7507,-56.0335,-3.5,72
+Canada,Burlington_ON,43.3834,-79.7360,-5,54
+Canada,Burnaby_BC,49.2182,-123.0411,-8,17
+Canada,Burns Cove_NL,47.2847,-52.8357,-3.5,73
+Canada,Burns Lake_BC,54.2295,-125.7581,-8,14
+Canada,Burnside_NL,48.7157,-53.8003,-3.5,73
+Canada,Burnsville_NB,47.6995,-65.1675,-4,65
+Canada,Burnt Islands Blp_NL,47.5780,-59.1328,-3.5,69
+Canada,Burnt Point Bdv_NL,48.0002,-52.9826,-3.5,73
+Canada,Burpee_NB,45.9688,-66.6295,-4,64
+Canada,Burton_BC,49.9826,-117.9004,-8,22
+Canada,Burton_NB,45.8507,-66.4832,-4,64
+Canada,Bury_QC,45.4666,-71.4992,-5,60
+Canada,Busby_AB,53.7090,-114.1935,-7,25
+Canada,Byemoor_AB,51.9797,-112.2859,-7,27
+Canada,Cabano_QC,47.6840,-68.8829,-5,62
+Canada,Cache Bay_ON,46.3668,-79.9833,-5,54
+Canada,Cache Creek_BC,50.8125,-121.3254,-8,18
+Canada,Cacouna_QC,48.0155,-69.3242,-5,62
+Canada,Cadillac_QC,48.2327,-78.3830,-5,55
+Canada,Cadogan_AB,52.3191,-110.4497,-7,28
+Canada,Cadomin_AB,53.0292,-117.3273,-7,22
+Canada,Cadotte Lake_AB,55.0679,-117.2766,-7,22
+Canada,Caithness_NB,45.1496,-66.7708,-4,63
+Canada,Calahoo_AB,53.7391,-113.9947,-7,25
+Canada,Calais_AB,55.0679,-117.2766,-7,22
+Canada,Calgary_AB,51.1500,-114.0622,-7,25
+Canada,Calhoun_NB,46.1143,-64.6158,-4,65
+Canada,Calixa-Lavall�e_QC,45.7496,-73.2831,-5,59
+Canada,Callander_ON,46.2164,-79.3832,-5,54
+Canada,Calling Lake_AB,55.2501,-113.1999,-7,25
+Canada,Calmar_AB,53.2591,-113.8090,-7,25
+Canada,Calumet_QC,45.4692,-74.0853,-5,58
+Canada,Calvert_NL,47.0494,-52.9172,-3.5,73
+Canada,Cambridge_ON,43.3988,-80.3716,-5,54
+Canada,Cambridge Bay_NU,69.1158,-105.1206,-7,32
+Canada,Cambridge-Narrows_NB,45.8308,-65.9493,-4,64
+Canada,Camp Creek_AB,54.2544,-114.5941,-7,24
+Canada,Campbell River_BC,49.9889,-125.2368,-8,15
+Canada,Campbell s Bay_QC,45.7327,-76.5994,-5,57
+Canada,Campbellton_NB,48.0007,-66.6674,-4,64
+Canada,Campbellton_NL,49.2840,-54.9341,-3.5,72
+Canada,Camrose_AB,53.0220,-112.8306,-7,26
+Canada,Canaan_NB,46.3333,-65.0009,-4,65
+Canada,Canal_NB,45.1496,-66.7708,-4,63
+Canada,Canal Flats_BC,50.1495,-115.8009,-7,24
+Canada,Candiac_QC,45.3987,-73.5030,-5,59
+Canada,Canim Lake_BC,51.7702,-120.8976,-8,19
+Canada,Canisto_NB,47.6796,-65.8000,-4,64
+Canada,Canmore_AB,51.0912,-115.3513,-7,24
+Canada,Cannings Cove_NL,48.4501,-53.8494,-3.5,73
+Canada,Canobie_NB,47.5993,-65.6506,-4,64
+Canada,Canoe_BC,50.6488,-119.1966,-8,20
+Canada,Canoose_NB,45.3207,-67.0808,-4,63
+Canada,Canterbury_NB,46.1647,-67.5597,-4,63
+Canada,Cantley_QC,45.4925,-75.7557,-5,57
+Canada,Canton-de-Granby_QC,45.3964,-72.7541,-5,59
+Canada,Canyon_BC,49.0829,-116.4513,-7,23
+Canada,Canyon Creek_AB,55.3706,-115.0910,-7,24
+Canada,Cap-Bateau_NB,47.8709,-64.5946,-4,65
+Canada,Cape Broyle_NL,47.0995,-52.9509,-3.5,73
+Canada,Cape Dorset_NU,64.2200,-76.5300,-5,58
+Canada,Cape Freels North_NL,49.3168,-53.6102,-3.5,73
+Canada,Cape Ray_NL,47.6324,-59.2838,-3.5,69
+Canada,Cape St George_NL,48.4991,-59.0996,-3.5,69
+Canada,Caplin Cove Bdv_NL,46.9679,-52.9589,-3.5,73
+Canada,Cappahayden_NL,46.9679,-52.9589,-3.5,73
+Canada,Caraquet_NB,47.7581,-64.9426,-4,65
+Canada,Carbon_AB,51.4834,-113.1499,-7,26
+Canada,Carbonear_NL,47.7217,-53.2238,-3.5,73
+Canada,Carcajou_AB,57.7644,-117.0280,-7,22
+Canada,Cardigan_NB,46.2827,-66.7337,-4,64
+Canada,Cardston_AB,49.2005,-113.3000,-7,26
+Canada,Carleton Place_ON,45.1328,-76.1498,-5,57
+Canada,Carlingford_NB,46.7499,-67.7002,-4,63
+Canada,Carlisle_NB,46.3007,-67.5334,-4,63
+Canada,Carlow_NB,46.5490,-67.2208,-4,63
+Canada,Carmangay_AB,50.1269,-113.1091,-7,26
+Canada,Carmanville_NL,49.4003,-54.2841,-3.5,73
+Canada,Carnwood_AB,53.2783,-114.5035,-7,24
+Canada,Caroline_AB,52.0833,-114.7508,-7,24
+Canada,Carrot Creek_AB,53.6106,-115.8578,-7,23
+Canada,Carseland_AB,50.8519,-113.4664,-7,26
+Canada,Carsonville_NB,45.7169,-65.5160,-4,64
+Canada,Carstairs_AB,51.5657,-114.1004,-7,25
+Canada,Carters Cove_NL,49.4915,-54.9139,-3.5,72
+Canada,Cartwright_NL,53.7107,-57.0141,-4,72
+Canada,Cartyville_NL,48.2339,-58.8327,-3.5,69
+Canada,Carvel_AB,53.5305,-114.0101,-7,25
+Canada,Caslan_AB,54.6294,-112.5146,-7,26
+Canada,Cassidy_BC,49.0704,-123.8571,-8,16
+Canada,Cassillis_NB,46.9212,-65.8243,-4,64
+Canada,Castlegar_BC,49.3167,-117.6696,-8,22
+Canada,Castor_AB,52.2242,-111.9066,-7,27
+Canada,Castors River_NL,50.9174,-56.9491,-3.5,71
+Canada,Catalina_NL,48.5158,-53.0828,-3.5,73
+Canada,Cavendish_NL,47.7171,-53.4841,-3.5,73
+Canada,Cawston_BC,49.1838,-119.7507,-8,20
+Canada,Cayley_AB,50.4500,-113.8497,-7,25
+Canada,Cayuga_ON,42.9330,-79.8499,-5,54
+Canada,C�te Saint-Luc_QC,45.4874,-73.6496,-5,59
+Canada,Cecil Lake_BC,56.7740,-120.4984,-7,19
+Canada,Cedar_BC,49.1082,-123.8530,-8,16
+Canada,Cedarvale_BC,55.2394,-127.7287,-8,12
+Canada,Celista_BC,50.9495,-119.3494,-8,20
+Canada,Centreville_NB,45.6204,-65.3511,-4,64
+Canada,Cereal_AB,51.4161,-110.8001,-7,28
+Canada,Cessford_AB,50.9978,-111.5525,-7,27
+Canada,Ceylon_SK,49.4670,-104.5995,-6,34
+Canada,Chalk River_ON,46.0175,-77.4494,-5,56
+Canada,Chamberlain Settlement_NB,47.5993,-65.6506,-4,64
+Canada,Champion_AB,50.2336,-113.1495,-7,26
+Canada,Chance Cove_NL,47.6832,-53.8327,-3.5,73
+Canada,Change Islands_NL,49.6664,-54.4158,-3.5,73
+Canada,Channel-Port-aux-Basques_NL,47.5780,-59.1328,-3.5,69
+Canada,Chapais_QC,49.7825,-74.8503,-5,58
+Canada,Chapeau_QC,45.9161,-77.0661,-5,56
+Canada,Chapel Arm_NL,47.5164,-53.6663,-3.5,73
+Canada,Chapel Cove_NL,47.4334,-53.1342,-3.5,73
+Canada,Chard_AB,57.2140,-110.9999,-7,27
+Canada,Charette_QC,46.4499,-72.9331,-5,59
+Canada,Charlemagne_QC,45.7735,-73.5077,-5,59
+Canada,Charlesbourg_QC,46.8648,-71.2662,-5,60
+Canada,Charleston_NL,48.3838,-53.6661,-3.5,73
+Canada,Charlie Lake_BC,56.2659,-120.9502,-7,18
+Canada,Charlottetown_NL,48.4273,-54.0135,-3.5,73
+Canada,Charlottetown_PE,46.2379,-63.1282,-4,66
+Canada,Charlottetown LAB_NL,52.3120,-55.8396,-4,72
+Canada,Charny_QC,46.7261,-71.2696,-5,60
+Canada,Chartierville_QC,45.2991,-71.2002,-5,60
+Canada,Chase_BC,50.8203,-119.6801,-8,20
+Canada,Chateh_AB,58.7562,-118.7458,-7,20
+Canada,Chatfield_MB,50.6335,-96.9867,-6,40
+Canada,Chatham_ON,42.3835,-82.1762,-5,53
+Canada,Chatham_QC,45.6341,-74.3324,-5,58
+Canada,Chauvin_AB,52.6919,-110.1481,-7,28
+Canada,Chazel_QC,48.7583,-79.0002,-5,55
+Canada,Ch�teau-Richer_QC,46.9667,-71.0166,-5,61
+Canada,Ch�teauguay_QC,45.3635,-73.7125,-5,59
+Canada,Chelsea_QC,46.5001,-75.9840,-5,57
+Canada,Chemainus_BC,48.9138,-123.7065,-8,16
+Canada,Cherhill_AB,53.8182,-114.6774,-7,24
+Canada,Cherry Brook_NS,44.7188,-63.5181,-4,66
+Canada,Cherry Grove_AB,54.2020,-110.3074,-7,28
+Canada,Cherry Point_AB,56.1953,-119.8205,-7,19
+Canada,Chertsey_QC,46.0497,-73.7336,-5,59
+Canada,Chesterfield Inlet_NU,63.3498,-90.7028,-6,45
+Canada,Chestermere_AB,51.0014,-113.7488,-7,25
+Canada,Chesterville_QC,45.9674,-71.8160,-5,60
+Canada,Cheticamp_NS,46.3012,-60.9059,-4,68
+Canada,Chetwynd_BC,55.6936,-121.5960,-7,18
+Canada,Cheverie_NS,45.1501,-64.1665,-4,65
+Canada,Chevery_QC,50.5002,-59.6286,-4,69
+Canada,Chiasson Office_NB,47.6116,-65.6508,-4,64
+Canada,Chibougamau_QC,49.9160,-74.3662,-5,58
+Canada,Chicoutimi_QC,48.3614,-71.1083,-5,61
+Canada,Chilanko Forks_BC,52.1150,-124.0711,-8,16
+Canada,Chilliwack_BC,49.1716,-121.9511,-8,18
+Canada,Chinook_AB,51.5349,-111.1984,-7,28
+Canada,Chipman_AB,53.6995,-112.6417,-7,26
+Canada,Chisasibi_QC,53.7499,-78.8862,-5,55
+Canada,Chisholm Mills_AB,54.9101,-114.1720,-7,25
+Canada,Choiceland_SK,53.4919,-104.4862,-6,33
+Canada,Chomedey_QC,45.5776,-73.7279,-5,59
+Canada,Christina Lake_BC,49.0529,-118.2067,-8,21
+Canada,Churchill Falls_NL,53.5496,-64.0169,-4,66
+Canada,Chute-aux-Outardes_QC,49.1163,-68.4001,-5,63
+Canada,Chute-Saint-Philippe_QC,46.6506,-75.2327,-5,58
+Canada,Clair_SK,52.0189,-104.0752,-6,34
+Canada,Clairmont_AB,55.2591,-118.7919,-7,20
+Canada,Clam Point_NS,43.4827,-65.5664,-4,64
+Canada,Clandeboye_MB,50.6335,-96.9867,-6,40
+Canada,Clandonald_AB,53.5714,-110.7162,-7,28
+Canada,Clanwilliam_MB,50.3673,-99.8168,-6,38
+Canada,Clarenceville_QC,45.0675,-73.2507,-5,59
+Canada,Clarenville_NL,48.1666,-53.9657,-3.5,73
+Canada,Claresholm_AB,50.0248,-113.5753,-7,26
+Canada,Clarke City_QC,50.1994,-66.6340,-5,64
+Canada,Clarkes Beach_NL,47.5816,-53.2728,-3.5,73
+Canada,Clavet_SK,51.9958,-106.3736,-6,32
+Canada,Clayhurst_BC,56.1869,-120.0595,-7,19
+Canada,Cl�ricy_QC,48.3666,-78.8659,-5,55
+Canada,Cleardale_AB,56.1962,-119.8202,-7,19
+Canada,Clearwater_BC,51.6131,-120.1159,-8,19
+Canada,Clearwater_MB,49.1325,-99.0162,-6,39
+Canada,Clermont_QC,47.6826,-70.2334,-5,61
+Canada,Clerval_QC,48.8308,-79.3587,-5,54
+Canada,Clinton_BC,51.0937,-121.5821,-8,18
+Canada,Clive_AB,52.4671,-113.4503,-7,25
+Canada,Cloridorme_QC,49.1837,-64.8340,-5,65
+Canada,Cloutier_QC,48.2407,48.2407,-5,55
+Canada,Clova_QC,48.1171,-75.3667,-5,57
+Canada,Cluny_AB,50.8382,-112.8674,-7,26
+Canada,Clyde_AB,54.1496,-113.6492,-7,25
+Canada,Clyde River_NS,43.6326,-65.4839,-4,64
+Canada,Clyde River_NU,70.1200,-68.5025,-5,66
+Canada,Coachmans Cove_NL,50.1241,-56.1288,-3.5,72
+Canada,Coal Harbour_BC,48.7862,-123.2839,-8,17
+Canada,Coaldale_AB,49.7194,-112.6206,-7,27
+Canada,Coalhurst_AB,49.7459,-112.9254,-7,26
+Canada,Coalmont_BC,49.5469,-120.7499,-8,19
+Canada,Coaticook_QC,45.1333,-71.7995,-5,60
+Canada,Cobble Hill_BC,48.6834,-123.6005,-8,16
+Canada,Cobourg_ON,43.9668,-78.1668,-5,55
+Canada,Cochrane_AB,51.1819,-114.4692,-7,25
+Canada,Codroy_NL,47.8831,-59.3996,-3.5,69
+Canada,Cold Lake_AB,54.4588,-110.1705,-7,28
+Canada,Coldstream_BC,50.2167,-119.2002,-8,20
+Canada,Coleman_AB,49.6326,-114.5004,-7,25
+Canada,Coleys Point South_NL,47.5816,-53.2728,-3.5,73
+Canada,Colinton_AB,54.6173,-113.2501,-7,25
+Canada,College Heights_AB,52.4684,-113.7361,-7,25
+Canada,Colombourg_QC,48.8001,-79.2004,-5,55
+Canada,Come by Chance_NL,47.8492,-53.9673,-3.5,73
+Canada,Comox_BC,49.6844,-124.9303,-8,15
+Canada,Compeer_AB,51.9216,-110.3129,-7,28
+Canada,Compton_QC,45.2336,-71.8169,-5,60
+Canada,Concord_ON,43.8176,-79.4921,-5,55
+Canada,Condor_AB,52.3856,-114.5243,-7,24
+Canada,Conklin_AB,55.6318,-111.0823,-7,27
+Canada,Conne River_NL,47.8660,-55.7501,-3.5,71
+Canada,Consecon_ON,44.0006,-77.5173,-5,56
+Canada,Consort_AB,52.0091,-110.7769,-7,28
+Canada,Contrecoeur_QC,45.8504,-73.2331,-5,59
+Canada,Cooking Lake_AB,53.4761,-113.0811,-7,26
+Canada,Cookshire_QC,45.4168,-71.6326,-5,60
+Canada,Coombs_BC,49.2936,-124.4455,-8,15
+Canada,Coquitlam_BC,49.2394,-122.8532,-8,17
+Canada,Coral Harbour_NU,64.2000,-83.3700,-5,52
+Canada,Corner Brook_NL,48.9501,-57.9491,-3.5,70
+Canada,Cornwall_ON,45.0418,-74.7406,-5,58
+Canada,Cornwall_PE,46.2079,-62.8216,-4,66
+Canada,Coronation_AB,52.0833,-111.4491,-7,27
+Canada,Coteau-du-Lac_QC,45.3003,-74.1840,-5,58
+Canada,Courcelette_QC,46.8864,-71.5167,-5,60
+Canada,Courcelles_QC,45.8670,-70.9838,-5,61
+Canada,Courtenay_BC,49.6805,-124.9792,-8,15
+Canada,Coutts_AB,49.0003,-111.9498,-7,27
+Canada,Cow Head_NL,49.9168,-57.8004,-3.5,70
+Canada,Cowansville_QC,45.1995,-72.7496,-5,59
+Canada,Cowichan Bay_BC,48.7395,-123.6157,-8,16
+Canada,Cowley_AB,49.5699,-114.0750,-7,25
+Canada,Coxs Cove_NL,49.0756,-58.1162,-3.5,70
+Canada,Crabtree_QC,45.9672,-73.4660,-5,59
+Canada,Craigmyle_AB,51.6659,-112.2492,-7,27
+Canada,Cranbrook_BC,49.5006,-115.7667,-7,24
+Canada,Cranford_AB,49.7662,-112.1873,-7,27
+Canada,Crawford Bay_BC,49.7009,-116.8003,-7,23
+Canada,Creighton_SK,54.7500,-101.8997,-6,36
+Canada,Cremona_AB,51.5442,-114.4857,-7,25
+Canada,Crescent Spur_BC,56.1840,-126.8495,-8,13
+Canada,Crescent Valley_BC,49.4576,-117.5243,-8,22
+Canada,Creston_BC,49.0986,-116.5104,-7,23
+Canada,Creston North_NL,47.1690,-55.1513,-3.5,72
+Canada,Crofton_BC,48.8738,-123.6575,-8,16
+Canada,Crooked Creek_AB,55.1708,-117.8727,-7,21
+Canada,Crossfield_AB,51.4313,-114.0300,-7,25
+Canada,Cultus Lake_BC,49.1717,-121.9512,-8,18
+Canada,Cumberland_BC,49.6218,-125.0370,-8,15
+Canada,Cupids_NL,47.5497,-53.2334,-3.5,73
+Canada,Cynthia_AB,53.1356,-115.1446,-7,24
+Canada,Czar_AB,52.4545,-110.8257,-7,28
+Canada,D Arcy_BC,48.7862,-123.2839,-8,17
+Canada,Dalemead_AB,50.8732,-113.6337,-7,25
+Canada,Dalhousie_NB,48.0658,-66.3833,-4,64
+Canada,Dalhousie_QC,45.3003,-74.4509,-5,58
+Canada,Dallas_MB,50.6335,-96.9867,-6,40
+Canada,Dalmas_QC,48.5474,-71.6531,-5,60
+Canada,Danford Lake_QC,45.9166,-76.1667,-5,60
+Canada,Daniels Harbour_NL,50.2338,-57.5953,-3.5,71
+Canada,Danville_QC,45.7842,-72.0165,-5,60
+Canada,Dapp_AB,54.3431,-113.9152,-7,25
+Canada,Darfield_BC,50.1668,-120.2009,-8,19
+Canada,Dartmouth_NS,44.7047,-63.6085,-4,66
+Canada,Darwell_AB,53.6789,-114.3501,-7,25
+Canada,Daveluyville_QC,46.1992,-72.1332,-5,60
+Canada,Davidson_QC,45.8504,-76.7326,-5,56
+Canada,Dawson Creek_BC,55.7667,-120.2333,-7,19
+Canada,Dawsons Landing_BC,48.7862,-123.2839,-8,17
+Canada,Daysland_AB,52.8667,-112.2502,-7,27
+Canada,D�gelis_QC,47.5502,-68.6496,-5,62
+Canada,De Winton_AB,50.8209,-114.0157,-7,25
+Canada,Dead Man s Flats_AB,51.0912,-115.3513,-7,24
+Canada,Deadmans Bay_NL,49.3168,-53.6102,-3.5,73
+Canada,Deadwood_AB,56.7577,-117.4157,-7,21
+Canada,Dease Lake_BC,58.4263,-130.0285,-8,10
+Canada,Deauville_QC,45.3190,-72.0210,-5,60
+Canada,Debolt_AB,55.2206,-118.0210,-7,21
+Canada,Deep Bay_NL,49.6670,-54.2997,-3.5,73
+Canada,Deer Lake_NL,49.1657,-57.4331,-3.5,71
+Canada,Del Bonita_AB,49.4275,-112.8690,-7,26
+Canada,Delacour_AB,51.1482,-113.7501,-7,25
+Canada,Del�age_QC,46.3831,-75.9673,-5,57
+Canada,Delburne_AB,52.1972,-113.2332,-7,26
+Canada,Delhi_ON,42.8492,-80.4992,-5,54
+Canada,Delia_AB,51.6325,-112.3722,-7,27
+Canada,Delisle_QC,48.5474,-71.6531,-5,60
+Canada,Delson_QC,45.3666,-73.5502,-5,59
+Canada,Delta_BC,49.0249,-123.0834,-8,17
+Canada,Demmitt_AB,55.4341,-119.9000,-7,19
+Canada,Denholm_QC,45.8002,-75.9491,-5,57
+Canada,Denman Island_BC,49.5249,-124.7658,-8,15
+Canada,Denwood_AB,52.8275,-110.8849,-7,28
+Canada,Deroche_BC,49.2365,-122.0490,-8,18
+Canada,Derwent_AB,53.6558,-110.9622,-7,28
+Canada,Des Ruisseaux_QC,46.5530,-75.5092,-5,57
+Canada,Desbiens_QC,48.4166,-71.9508,-5,60
+Canada,Deschaillons-sur-Saint-Laurent_QC,46.5336,-72.1160,-5,60
+Canada,Deschambault_QC,46.6500,-71.9341,-5,60
+Canada,Desmarais_AB,55.9456,-113.8009,-7,25
+Canada,Desmaraisville_QC,49.6925,-75.9745,-5,57
+Canada,Desmeloizes_QC,48.5007,-79.2326,-5,55
+Canada,Deux-Montagnes_QC,45.5585,-73.9151,-5,58
+Canada,Devon_AB,53.3707,-113.7294,-7,25
+Canada,Dewberry_AB,53.5834,-110.5228,-7,28
+Canada,Dewdney_BC,49.1638,-122.2366,-8,18
+Canada,Dewittville_QC,45.1158,-74.0828,-5,58
+Canada,Diamond City_AB,49.7963,-112.8405,-7,26
+Canada,Didsbury_AB,51.6572,-114.1375,-7,25
+Canada,Digby_NS,44.6170,-65.7840,-4,64
+Canada,Dildo_NL,47.5660,-53.5496,-3.5,73
+Canada,Dildo South_NL,47.5753,-53.5460,-3.5,73
+Canada,Dixonville_AB,56.5369,-117.6730,-7,21
+Canada,Dog Creek_BC,52.3341,-121.3998,-8,18
+Canada,Dollard-des-Ormeaux_QC,45.5010,-73.8059,-5,59
+Canada,Dome Creek_BC,53.6999,-120.8273,-8,19
+Canada,Donalda_AB,52.5848,-112.5752,-7,26
+Canada,Donnelly_AB,55.7332,-117.1003,-7,22
+Canada,Dorothy_AB,51.2483,-112.0258,-7,27
+Canada,Dorval_QC,45.4491,-73.7900,-5,59
+Canada,Douglas Lake_BC,50.1668,-120.2009,-8,19
+Canada,Drayton Valley_AB,52.2180,-114.9830,-7,24
+Canada,Dresden_ON,42.5834,-82.1826,-5,53
+Canada,Driftpile_AB,55.3562,-115.7902,-7,23
+Canada,Drumheller_AB,51.4658,-112.7000,-7,26
+Canada,Drummondville_QC,45.9232,-72.5114,-5,59
+Canada,Duchess_AB,50.7321,-111.9050,-7,27
+Canada,Duffield_AB,53.5305,-114.0101,-7,25
+Canada,Duncan_BC,48.7833,-123.6997,-8,16
+Canada,Dundas_ON,43.2752,-79.9656,-5,54
+Canada,Dunmore_AB,49.9708,-110.5856,-7,28
+Canada,Dunrea_MB,49.4158,-99.7334,-6,38
+Canada,Dunster_BC,53.0805,-119.6938,-8,20
+Canada,Duntara_NL,48.6004,-53.3662,-3.5,73
+Canada,Dunville_NL,47.2670,-53.9000,-3.5,73
+Canada,Durrell_NL,49.6663,-54.7333,-3.5,73
+Canada,Eagle Bay_BC,50.9346,-119.2252,-8,20
+Canada,Eagle Creek_BC,52.0745,-120.8389,-8,19
+Canada,Eaglesham_AB,55.7878,-117.8854,-7,21
+Canada,East Coulee_AB,51.3415,-112.4986,-7,26
+Canada,East York_ON,43.6788,-79.3551,-5,55
+Canada,Eckville_AB,52.3183,-114.3826,-7,25
+Canada,Edberg_AB,52.7861,-112.7832,-7,26
+Canada,Eddies Cove_NL,51.3841,-56.5826,-3.5,72
+Canada,Eddies Cove West_NL,50.7332,-56.1001,-3.5,72
+Canada,Edgerton_AB,52.7504,-110.4500,-7,28
+Canada,Edgewater_BC,50.6964,-116.1318,-7,23
+Canada,Edgewood_BC,49.8996,-118.2493,-8,21
+Canada,Edmonton_AB,53.3952,-113.3802,-7,25
+Canada,Edson_AB,53.5805,-116.4294,-7,23
+Canada,Edwardsville_NS,46.1700,-60.2300,-4,68
+Canada,Egmont_BC,48.7862,-123.2839,-8,17
+Canada,Egremont_AB,53.9914,-113.2207,-7,26
+Canada,Elk Point_AB,53.8993,-110.9002,-7,28
+Canada,Elkford_BC,50.0156,-114.9195,-7,24
+Canada,Elko_BC,49.2269,-115.2138,-7,24
+Canada,Elkwater_AB,49.8221,-110.4783,-7,28
+Canada,Ellscott_AB,54.5045,-112.9000,-7,26
+Canada,Elmworth_AB,55.0546,-119.6167,-7,20
+Canada,Elnora_AB,51.9828,-113.1999,-7,26
+Canada,Embree_NL,49.2996,-55.0342,-3.5,72
+Canada,Empress_AB,50.9499,-109.9993,-7,29
+Canada,Endako_BC,54.0664,-124.5508,-8,15
+Canada,Enderby_BC,50.5009,-119.5501,-8,20
+Canada,English Harbour East_NL,47.6330,-54.8998,-3.5,72
+Canada,Erickson_BC,49.1007,-116.4742,-7,23
+Canada,Erickson_ MB,50.5005,-99.9162,-6,38
+Canada,Errington_BC,49.3249,-124.4076,-8,15
+Canada,Etobicoke_ON,43.7160,-79.5743,-5,54
+Canada,Eureka_NU,79.9890,-85.9300,-6,52
+Canada,Fairmont Hot Springs_BC,50.3346,-115.8521,-7,23
+Canada,Fairview_AB,56.0686,-118.3950,-7,21
+Canada,Falkland_BC,50.5009,-119.5501,-8,20
+Canada,Falmouth_NS,45.0009,-64.1673,-4,65
+Canada,Fanny Bay_BC,49.4774,-124.8254,-8,15
+Canada,Farmington_BC,55.8884,-120.8673,-7,18
+Canada,Fauquier_BC,49.9893,-117.8779,-8,22
+Canada,Fergus_ON,43.6998,-80.3674,-5,54
+Canada,Fermeuse_NL,46.9833,-52.9658,-3.5,73
+Canada,Fermont_QC,52.7831,-67.0834,-5,64
+Canada,Fernie_BC,49.4993,-115.0491,-7,24
+Canada,Ferryland_NL,47.0328,-52.8828,-3.5,73
+Canada,Field_BC,51.3352,-116.9452,-7,22
+Canada,Fishermans Harbour_NS,44.7507,-63.2947,-4,66
+Canada,Flatrock_NL,47.6663,-52.7332,-3.5,73
+Canada,Fleur de Lys_NL,50.1162,-56.1330,-3.5,72
+Canada,Florence_NS,46.2700,-60.2700,-4,68
+Canada,Fogo_NL,49.7166,-54.2824,-3.5,73
+Canada,Forest Grove_BC,51.7671,-121.1009,-8,18
+Canada,Fort Erie_ON,42.9006,-78.9332,-5,55
+Canada,Fort Fraser_BC,54.0664,-124.5508,-8,15
+Canada,Fort McMurray_AB,56.7431,-111.4536,-7,27
+Canada,Fort McPherson_NT,67.4348,-134.8629,-7,5
+Canada,Fort Nelson_BC,58.8167,-122.6501,-8,17
+Canada,Fort Providence_NT,61.3045,-117.4470,-7,21
+Canada,Fort Simpson_NT,61.7500,-121.2300,-7,18
+Canada,Fort Smith_NT,60.0200,-111.9500,-7,26
+Canada,Fort St James_BC,54.4333,-124.2505,-8,15
+Canada,Fort St John_BC,56.2507,-120.8494,-7,18
+Canada,Fort Steele_BC,49.6139,-115.6313,-7,24
+Canada,Fortress of Louisbourg_NS,45.9000,-60.0000,-4,68
+Canada,Fortune_NL,47.0657,-55.8330,-3.5,71
+Canada,Fox Harbour PB_NL,47.3182,-53.9133,-3.5,73
+Canada,Foxtrap_NL,47.5169,-52.9833,-3.5,73
+Canada,Foxwarren_MB,50.5159,-101.1499,-6,37
+Canada,Francois_NL,47.5841,-56.7498,-3.5,71
+Canada,Francois Lake_BC,54.0084,-125.9548,-8,14
+Canada,Fraser Lake_BC,54.0665,-124.8494,-8,15
+Canada,Frederickton_NL,49.4325,-54.3672,-3.5,73
+Canada,Fredericton_NB,45.9573,-66.6556,-4,64
+Canada,Fredericton Junction_NB,45.5791,-66.5501,-4,64
+Canada,Freshwater PB_NL,47.2598,-53.9843,-3.5,73
+Canada,Fruitvale_BC,49.1166,-117.5494,-8,22
+Canada,Gabriola_BC,49.1866,-123.8406,-8,16
+Canada,Galiano_BC,48.7862,-123.2839,-8,17
+Canada,Gallants_NL,49.1007,-58.3841,-3.5,70
+Canada,Galloway_BC,49.4007,-115.2799,-7,24
+Canada,Gambo South_NL,48.7740,-54.2144,-3.5,73
+Canada,Gander_NL,48.9493,-54.6168,-3.5,72
+Canada,Gander Bay_NL,49.3006,-54.4841,-3.5,73
+Canada,Gander Bay South_NL,49.2825,-54.4829,-3.5,73
+Canada,Gang Ranch_BC,51.9629,-122.5210,-8,17
+Canada,Garden Bay_BC,48.7862,-123.2839,-8,17
+Canada,Garden Cove PB_NL,47.8491,-54.1543,-3.5,73
+Canada,Garibaldi Highlands_BC,48.7862,-123.2839,-8,17
+Canada,Garnish_NL,47.2326,-55.3665,-3.5,72
+Canada,Gasp�_QC,49.2174,-68.1668,-5,63
+Canada,Gatineau_QC,45.4925,-75.7557,-5,57
+Canada,Genelle_BC,49.2002,-117.6996,-8,22
+Canada,Georges River_NS,46.2000,-60.3300,-4,68
+Canada,Georgetown_ON,43.6501,-79.9175,-5,54
+Canada,Germansen Landing_BC,55.1569,-124.3202,-8,15
+Canada,Gibsons_BC,48.7862,-123.2839,-8,17
+Canada,Gillies Bay_BC,48.7862,-123.2839,-8,17
+Canada,Gitwinksihlkw_BC,55.1954,-129.2263,-8,11
+Canada,Gjoa Haven_NU,68.6300,-95.8500,-7,41
+Canada,Gloucester_ON,45.3212,-75.6840,-5,57
+Canada,Glovertown South_NL,48.6734,-54.0322,-3.5,73
+Canada,Goderich_ON,43.7500,-81.7157,-5,53
+Canada,Gold Bridge_BC,50.8437,-122.9012,-8,17
+Canada,Gold River_BC,49.7795,-126.0477,-8,14
+Canada,Golden_BC,51.2934,-116.9615,-7,22
+Canada,Good Hope Lake_BC,59.1848,-129.2254,-8,10
+Canada,Goodlow_BC,56.1869,-120.0595,-7,19
+Canada,Gooseberry Cove_NL,48.0331,-53.6334,-3.5,73
+Canada,Granby_QC,45.3964,-72.7541,-5,59
+Canada,Grand Bay East_NL,47.5780,-59.1328,-3.5,69
+Canada,Grand Falls-Windsor_NL,48.9491,-55.6679,-3.5,72
+Canada,Grand Forks_BC,49.0529,-118.2067,-8,21
+Canada,Grande Cache_AB,53.8814,-119.1317,-7,20
+Canada,Grande Prairie_AB,55.1729,-118.7956,-7,20
+Canada,Granisle_BC,54.8870,-126.2084,-8,13
+Canada,Granthams Landing_BC,48.7862,-123.2839,-8,17
+Canada,Grasmere_BC,49.1012,-115.0869,-7,24
+Canada,Grates Cove_NL,48.1661,-52.9333,-3.5,73
+Canada,Gravenhurst_ON,44.9157,-79.3662,-5,55
+Canada,Gray Creek_BC,49.4645,-116.7563,-7,23
+Canada,Great Village_NS,45.4169,-63.5994,-4,66
+Canada,Green Island Brook_NL,51.3997,-56.5338,-3.5,72
+Canada,Greens Harbour_NL,47.5753,-53.5460,-3.5,73
+Canada,Greenville_BC,55.0428,-129.5447,-8,10
+Canada,Greenwood_BC,49.0923,-118.6787,-8,21
+Canada,Greenwood_NS,44.9663,-64.9324,-4,65
+Canada,Grey River_NL,47.5838,-57.1004,-3.5,70
+Canada,Grindrod_BC,50.6280,-119.1234,-8,20
+Canada,Grise Fiord_NU,76.4290,-82.9570,-5,54
+Canada,Groundbirch_BC,55.7800,-120.7188,-7,18
+Canada,Guelph_ON,43.5477,-80.2209,-5,54
+Canada,Hagensborg_BC,52.3828,-126.5500,-8,13
+Canada,Haisla_BC,54.0329,-132.1497,-8,8
+Canada,Halfmoon Bay_BC,48.7862,-123.2839,-8,17
+Canada,Halifax_NS,44.6633,-63.6096,-4,66
+Canada,Hall Beach_NU,68.6800,-81.2500,-5,54
+Canada,Hamilton_ON,43.2414,-79.8360,-5,54
+Canada,Hampden_NL,49.5500,-56.8496,-3.5,71
+Canada,Hanceville_BC,52.3341,-121.3998,-8,18
+Canada,Hants Harbour_NL,48.0231,-53.2179,-3.5,73
+Canada,Happy Valley-Goose Bay_NL,53.3413,-60.3903,-4,69
+Canada,Harbour Breton_NL,47.4827,-55.8004,-3.5,71
+Canada,Harbour Deep_NL,50.3664,-56.5158,-3.5,71
+Canada,Harbour Grace_NL,47.7003,-53.2163,-3.5,73
+Canada,Harbour Mille_NL,47.5828,-54.7159,-3.5,72
+Canada,Harbour Round_NL,49.9175,-55.7337,-3.5,72
+Canada,Hare Bay BB_NL,48.8559,-54.0075,-3.5,73
+Canada,Harrison Hot Springs_BC,49.7748,-122.2216,-8,18
+Canada,Harrison Mills_BC,49.2324,-121.9501,-8,18
+Canada,Harrogate_BC,51.0702,-116.6369,-7,23
+Canada,Hartley Bay_BC,53.4166,-129.2499,-8,11
+Canada,Hazelton_BC,55.2525,-127.6788,-8,12
+Canada,Head Bay d Espoir_NL,47.9074,-55.7666,-3.5,71
+Canada,Head of Chezzetcook_NS,44.7508,-63.2500,-4,66
+Canada,Headingley_MB,49.8445,-97.4419,-6,40
+Canada,Hearts Content_NL,47.8943,-53.3739,-3.5,73
+Canada,Hearts Desire_NL,47.7684,-53.4753,-3.5,73
+Canada,Heatherton_NL,48.2832,-58.7494,-3.5,69
+Canada,Heatherton_NS,45.5829,-61.7838,-4,67
+Canada,Hebron_NS,43.8835,-66.0831,-4,64
+Canada,Hedley_BC,49.4355,-119.9498,-8,20
+Canada,Heffley Creek_BC,50.8380,-120.2767,-8,19
+Canada,Heriot Bay_BC,50.1516,-125.2619,-8,15
+Canada,Hermitage_NL,47.5508,-55.9342,-3.5,71
+Canada,Herring Neck_NL,49.5778,-54.6975,-3.5,73
+Canada,High Level_AB,58.5127,-117.1457,-7,22
+Canada,High Prairie_AB,55.4319,-116.4865,-7,22
+Canada,Highlands_NL,48.1672,-58.9327,-3.5,69
+Canada,Hinton_AB,53.4012,-117.5802,-7,22
+Canada,Hixon_BC,53.4503,-122.6000,-8,17
+Canada,Holberg_BC,48.7862,-123.2839,-8,17
+Canada,Honeymoon Bay_BC,48.8149,-124.1759,-8,16
+Canada,Hope_BC,49.3902,-121.4405,-8,18
+Canada,Hornby Island_BC,49.5168,-124.7000,-8,15
+Canada,Horsefly_BC,52.3341,-121.3998,-8,18
+Canada,Houston_BC,54.3968,-126.6452,-8,13
+Canada,Hudson s Hope_BC,56.0157,-121.9003,-7,17
+Canada,Hull_QC,45.4335,-75.7174,-5,57
+Canada,Hunter River_PE,46.2079,-62.8216,-4,66
+Canada,Iberville_QC,45.3086,-73.2381,-5,59
+Canada,Iddesleigh_AB,50.7832,-111.1879,-7,28
+Canada,Igloolik_NU,69.3700,-81.8200,-5,54
+Canada,Ignace_ON,49.4163,-91.6665,-6,45
+Canada,Ilderton_ON,43.0664,-81.4004,-5,53
+Canada,Ilford_MB,56.0658,-95.5832,-6,41
+Canada,Immigrant Road_NB,46.0303,-65.8694,-4,64
+Canada,Imperial_SK,51.3660,-105.4497,-6,33
+Canada,Indian Bay BB_NL,49.0096,-53.8927,-3.5,73
+Canada,Indian Head_SK,50.5397,-103.6701,-6,34
+Canada,Indian Island_NB,46.6501,-64.7505,-4,65
+Canada,Indian Mountain_NB,46.1690,-64.9308,-4,65
+Canada,Indian River_ON,44.3081,-78.3256,-5,55
+Canada,Ingersoll_ON,43.0325,-80.8824,-5,54
+Canada,Ingleside_ON,45.0003,-75.0000,-5,58
+Canada,Inglewood_ON,43.7840,-79.9341,-5,54
+Canada,Inglis_MB,50.9491,-101.2507,-6,36
+Canada,Ingolf_ON,49.7159,-94.8103,-6,42
+Canada,Ingomar_NS,43.5664,-65.3675,-4,64
+Canada,Ingonish_NS,46.7631,-60.4548,-4,68
+Canada,Ingonish Beach_NS,46.7631,-60.4548,-4,68
+Canada,Inkerman_NB,47.6631,-64.8326,-4,65
+Canada,Inkerman_ON,45.0340,-75.4008,-5,57
+Canada,Inkerman Ferry_NB,47.6631,-64.8326,-4,65
+Canada,Innerkip_ON,43.2162,-80.7000,-5,54
+Canada,Innisfail_AB,52.0325,-113.9505,-7,25
+Canada,Innisfil_ON,44.2506,-79.6522,-5,54
+Canada,Innisfree_AB,53.3968,-111.7264,-7,27
+Canada,Insinger_SK,51.8008,-103.1505,-6,35
+Canada,Intervale_NB,45.7985,-65.1212,-4,65
+Canada,Inukjuak_QC,51.4651,-78.7980,-5,55
+Canada,Inuvik_NT,68.3002,-133.4800,-7,6
+Canada,Inverary_ON,44.3837,-76.4663,-5,57
+Canada,Invermay_SK,51.8008,-103.1505,-6,35
+Canada,Invermere_BC,50.5152,-116.0344,-7,23
+Canada,Inverness_NS,46.3012,-60.9059,-4,68
+Canada,Inverness_QC,46.2500,-71.5161,-5,60
+Canada,Inwood_MB,50.6335,-96.9867,-6,40
+Canada,Inwood_ON,42.8163,-81.9833,-5,53
+Canada,Iona_NS,45.9700,-60.8000,-4,68
+Canada,Iona Station_ON,42.7415,-81.3498,-5,53
+Canada,Iqaluit_NU,63.7590,-68.5184,-5,64
+Canada,Irish Cove_NS,45.8200,-60.6700,-4,68
+Canada,Irish Settlement_NB,46.1501,-67.5796,-4,63
+Canada,Irishtown_NB,46.1143,-64.6158,-4,65
+Canada,Irishvale_NS,45.8500,-60.6500,-4,68
+Canada,Irma_AB,52.9150,-111.2331,-7,27
+Canada,Iron Bound Cove_NB,46.0303,-65.8694,-7,64
+Canada,Iron Bridge_ON,46.2826,-83.2335,-5,52
+Canada,Iron River_AB,54.4426,-110.7618,-7,28
+Canada,Iron Springs_AB,49.9351,-112.6811,-7,26
+Canada,Irondale_ON,44.7758,-78.6484,-5,55
+Canada,Ironville_NS,46.1300,-60.4500,-4,68
+Canada,Iroquois_ON,44.8494,-75.3158,-5,58
+Canada,Iroquois Falls_ON,48.7664,-80.6838,-5,53
+Canada,Iroquois Falls a_ON,48.7651,-80.6759,-5,53
+Canada,Irricana_AB,51.3216,-113.6085,-7,25
+Canada,Irvine_AB,49.9570,-110.2708,-7,29
+Canada,Isaacs Harbour_NS,45.2169,-61.3826,-4,67
+Canada,Isabella_MB,50.2599,-101.0297,-6,37
+Canada,Iskut_BC,57.8495,-129.9991,-8,10
+Canada,Island Harbour_NL,49.6161,-54.3166,-3.5,73
+Canada,Island Lake_AB,54.8496,-113.5588,-7,25
+Canada,Island Lake_MB,53.8841,-94.6333,-6,42
+Canada,Island Lake_SK,55.9763,-107.7347,-6,30
+Canada,Island Lake South_AB,54.8277,-113.5363,-7,25
+Canada,Island View_NB,45.9639,-66.6843,-4,64
+Canada,Islandview_NS,45.9800,-60.5500,-4,68
+Canada,Islay_AB,53.4005,-110.5493,-7,28
+Canada,Isle-aux-Coudres_QC,48.3562,-69.4011,-5,62
+Canada,Isle-aux-Morts_NL,47.5827,-58.9834,-3.5,69
+Canada,Islington_NL,47.7670,-53.4838,-3.5,73
+Canada,Issoudun_QC,46.5335,-71.6338,-5,60
+Canada,Italy Cross_NS,44.3830,-64.5165,-4,65
+Canada,Ituna_SK,51.1674,-103.5008,-6,35
+Canada,Ivujivik_QC,52.9990,-78.8334,-5,55
+Canada,Jackfish Lake_SK,56.4831,-109.4495,-6,29
+Canada,Jackson Falls_NB,46.1501,-67.5796,-4,63
+Canada,Jacksons Arm_NL,49.8650,-56.7765,-3.5,71
+Canada,Jacksons Cove_NL,49.7000,-55.9233,-3.5,72
+Canada,Jacksons Point_ON,44.2989,-79.3599,-5,55
+Canada,Jacksontown_NB,46.1501,-67.5796,-4,63
+Canada,Jacksonville_NB,46.1501,-67.5796,-4,63
+Canada,Jacques-Cartier_QC,46.6657,-71.7500,-5,60
+Canada,Jade City_BC,59.2843,-129.8408,-7,10
+Canada,Jaffray_BC,49.3706,-115.3018,-7,24
+Canada,Jaffray Melick_ON,49.7835,-94.4840,-6,42
+Canada,James River Bridge_AB,52.0849,-114.7420,-7,24
+Canada,Jamesville_NS,45.9500,-60.8500,-4,68
+Canada,Janetville_ON,44.2169,-78.7161,-5,55
+Canada,Janeville_NB,47.5993,-65.6506,-4,64
+Canada,Jansen_SK,51.7868,-104.7139,-6,33
+Canada,Jardineville_NB,46.6501,-64.7505,-4,65
+Canada,Jarvie_AB,54.4553,-113.9871,-7,25
+Canada,Jarvis_ON,42.8837,-80.1004,-5,54
+Canada,Jarvis Bay_AB,52.3372,-114.0743,-7,25
+Canada,Jasper_AB,52.8746,-118.0900,-7,21
+Canada,Jasper_ON,44.8328,-75.9338,-5,57
+Canada,Jean Cote_AB,55.8996,-117.3120,-7,22
+Canada,Jedburgh_SK,51.2989,-103.0020,-6,35
+Canada,Jeddore Oyster Ponds_NS,44.4828,-63.5495,-4,66
+Canada,Jeffreys_NL,47.5780,-59.1328,-3.5,69
+Canada,Jeffries Corner_NB,45.7169,-65.5160,-4,64
+Canada,Jellicoe_ON,49.6916,-87.5197,-5,48
+Canada,Jemseg_NB,45.8308,-65.9493,-4,64
+Canada,Jenner_AB,50.7832,-111.1879,-7,28
+Canada,Jerseyside_NL,47.2663,-53.9674,-3.5,73
+Canada,Jerseyville_ON,43.2260,-79.9760,-5,54
+Canada,Jewetts Mills_NB,46.0500,-66.8705,-4,63
+Canada,Jobs Cove_NL,47.9820,-53.0063,-3.5,73
+Canada,Joe Batts Arm_NL,49.7178,-54.1652,-3.5,73
+Canada,Joggins_NS,45.7007,-64.4502,-4,65
+Canada,Jogues_ON,49.5997,-83.7498,-5,51
+Canada,Johnson Settlement Charlotte C_NB,45.3207,-67.0808,-4,63
+Canada,Johnson Settlement York Co_NB,46.1647,-67.5597,-4,63
+Canada,Johnson s Mills_NB,46.0002,-64.5495,-4,65
+Canada,Johnston Point_NB,46.0202,-64.1006,-4,65
+Canada,Johnville_NB,46.5701,46.5701,-4,63
+Canada,Jolicure_NB,45.8999,-64.3659,-4,65
+Canada,Joliette_QC,46.0160,-73.4499,-5,59
+Canada,Joly_QC,46.5335,-71.6338,-5,60
+Canada,Jonqui�re_QC,48.4014,-71.3002,-5,60
+Canada,Jordan Falls_NS,43.8163,-65.2335,-4,64
+Canada,Jordan Mountain_NB,45.7169,-65.5160,-4,64
+Canada,Jordan River_BC,48.3931,-123.9139,-8,16
+Canada,Jordan Station_ON,43.1569,-79.2486,-5,55
+Canada,Joussard_AB,55.4003,-115.9506,-7,23
+Canada,Joutel_QC,49.4495,-78.2838,-5,55
+Canada,Joyceville_ON,44.2331,-76.5022,-5,57
+Canada,Judique_NS,46.3012,-60.9059,-4,68
+Canada,Juniper_NB,46.5490,-67.2208,-4,63
+Canada,Juniper Island_ON,44.5402,-78.1984,-5,55
+Canada,Juniper Mountain_NS,45.9500,-60.2500,-4,68
+Canada,Juskatla_BC,53.6167,-132.2995,-8,8
+Canada,Justice_MB,49.8480,-99.9437,-6,38
+Canada,Kaleden_BC,49.3875,-119.5984,-8,20
+Canada,Kamloops_BC,50.7175,-120.3061,-8,19
+Canada,Kamploops_BC,50.6697,-120.3253,-8,19
+Canada,Kanata_ON,45.3846,-75.9732,-5,57
+Canada,Kaslo_BC,49.9200,-116.9200,-8,23
+Canada,Kelowna_BC,49.8160,-119.6696,-8,20
+Canada,Kemano_BC,53.5596,-127.9374,-8,12
+Canada,Kensington_PE,46.6587,-63.1142,-4,66
+Canada,Kentville_NS,45.0921,-64.4988,-4,65
+Canada,Keremeos_BC,49.2090,-119.8177,-8,20
+Canada,Kildonan_BC,49.1053,-125.4551,-8,14
+Canada,Kimberley_BC,49.6802,-115.9794,-7,23
+Canada,Kimmirut_NU,62.8500,-68.8833,-5,64
+Canada,Kincardine_ON,44.1830,-81.6326,-5,53
+Canada,Kincolith_BC,55.0007,-129.9504,-8,10
+Canada,Kingcome Inlet_BC,48.7862,-123.2839,-8,17
+Canada,Kingsgate_BC,49.0835,-116.0913,-7,23
+Canada,Kingston_NB,45.4998,-65.9667,-4,64
+Canada,Kingston_ON,44.2516,-76.4717,-5,57
+Canada,Kingsville_ON,42.0331,-82.7506,-5,52
+Canada,Kitchener_BC,49.1564,-116.3375,-7,23
+Canada,Kitchener_ON,43.3871,-80.4334,-5,54
+Canada,Kitimat_BC,54.0497,-128.5507,-8,11
+Canada,Kivitoo_NU,67.9382,-64.8658,-4,68
+Canada,Kugaaruk_NU,68.5300,-89.8200,-6,46
+Canada,Kugluktuk_NU,67.8253,-115.0834,-7,23
+Canada,L Ange-Gardien_QC,45.5775,-75.4086,-5,57
+Canada,La Sarre_QC,48.8138,-79.2047,-5,55
+Canada,Lac du Bonnet_MB,50.2331,-96.0660,-6,41
+Canada,Lac La Biche_AB,54.7670,-111.9868,-7,27
+Canada,Langley_BC,49.1514,-122.5397,-8,17
+Canada,Lasalle_QC,45.4333,-73.6499,-5,59
+Canada,Laval_QC,45.5473,-73.8228,-5,59
+Canada,L�vis_QC,46.7524,-71.2315,-5,60
+Canada,Leamington_ON,42.0493,-82.5999,-5,52
+Canada,Lethbridge_AB,49.6782,-112.8129,-7,26
+Canada,Limehouse_ON,43.6503,-79.9216,-5,54
+Canada,Lindell Beach_BC,49.1717,-121.9512,-8,18
+Canada,Lindsay_ON,44.3508,-78.7331,-5,55
+Canada,Lloydminster_AB,53.2776,-110.0270,-7,28
+Canada,Lloydminster_SK,53.2813,-109.9815,-7,29
+Canada,London_ON,43.0223,-81.1514,-5,53
+Canada,Longueuil_QC,45.4650,-73.4460,-5,59
+Canada,Magog_QC,45.2658,-72.1499,-5,60
+Canada,Maple_ON,43.8793,-79.4970,-5,55
+Canada,Markham_ON,43.8407,-79.2592,-5,55
+Canada,Meadow Lake_SK,54.1411,-108.4407,-6,30
+Canada,Medicine Hat_AB,50.0545,-110.6889,-7,28
+Canada,Midland_ON,44.7497,-79.8831,-5,54
+Canada,Milton_ON,43.5169,-79.8826,-5,54
+Canada,Mississauga_ON,43.5944,-79.6935,-5,54
+Canada,Moncton_NB,46.1115,-64.8409,-4,65
+Canada,Mont-Royal_QC,45.5098,-73.6281,-5,59
+Canada,Mont-Tremblant_QC,46.2162,-74.6008,-5,58
+Canada,Montreal-Est_QC,45.6069,-73.5203,-5,59
+Canada,Montreal-Nord_QC,45.5992,-73.5964,-5,59
+Canada,Montreal-Ouest_QC,45.4568,-73.6408,-5,59
+Canada,Montreal_QC,45.5115,-73.7321,-5,59
+Canada,Montreal Lake_SK,54.0523,-105.7943,-6,32
+Canada,Montreal River Harbour_ON,46.7829,-84.0506,-5,51
+Canada,Moose Jaw_SK,50.3917,-105.5613,-6,33
+Canada,Morden_MB,49.1824,-98.0834,-6,39
+Canada,Nain_NL,56.5500,-61.6833,-4,69
+Canada,Nanaimo_BC,49.1479,-123.9639,-8,16
+Canada,Nanisivik_NU,72.9800,-84.6300,-5,52
+Canada,Napan_NB,47.0204,-65.4772,-4,65
+Canada,Nepean_ON,45.3581,-75.7263,-5,57
+Canada,New Glasgow_NS,45.5841,-62.6493,-4,66
+Canada,New Maryland_NB,45.9469,-66.6603,-4,64
+Canada,New Westminster_BC,49.4870,-122.9251,-8,17
+Canada,Newmarket_ON,44.0505,-79.4428,-5,55
+Canada,Niagara Falls_ON,43.1205,-79.1050,-5,55
+Canada,Niagara on the Lake_ON,43.2491,-79.0666,-5,55
+Canada,Norman Wells_NT,65.2800,-126.8000,-7,13
+Canada,North Augusta_ON,44.7674,-75.7338,-5,57
+Canada,North Bay_ON,46.3252,-79.4439,-5,54
+Canada,North Vancouver_BC,49.3523,-123.1159,-8,17
+Canada,North York_ON,43.7061,-79.5152,-5,55
+Canada,Oakville_ON,43.4039,-79.7179,-5,54
+Canada,Obedjiwan_QC,48.6665,-74.9326,-5,58
+Canada,Omerville_QC,45.2841,-72.1166,-5,60
+Canada,Onaping_ON,46.6426,-81.3870,-5,53
+Canada,Orillia_ON,44.6169,-79.4157,-5,55
+Canada,Orleans_ON,45.4443,-75.5579,-5,57
+Canada,Oshawa_ON,43.8581,-78.9318,-5,55
+Canada,Ottawa_ON,45.3560,-75.7579,-5,57
+Canada,Ottawa Brook_ON,45.9300,-60.9300,-4,68
+Canada,Owen Sound_ON,44.5665,-80.9332,-5,53
+Canada,Pangnirtung_NU,66.1334,-65.5940,-4,67
+Canada,Parkhill_ON,43.1491,-81.6837,-5,53
+Canada,Peace River_AB,56.2493,-117.2792,-7,22
+Canada,Penetanguishene_ON,44.7830,-79.9169,-5,54
+Canada,Penticton_BC,49.4969,-119.5987,-8,20
+Canada,Petawawa_ON,45.8996,-77.2838,-5,56
+Canada,Peterborough_ON,44.3077,-78.3009,-5,55
+Canada,Pickering_ON,43.9349,-79.1458,-5,55
+Canada,Pierrefonds_QC,45.5010,-73.8059,-5,59
+Canada,Pointe-Claire_QC,45.4491,-73.7900,-5,59
+Canada,Polaris_NU,76.9274,-107.5320,-7,31
+Canada,Pond Inlet_NU,72.6700,-78.0000,-5,58
+Canada,Port Coquitlam_BC,49.3157,-122.7447,-8,17
+Canada,Port Elgin_ON,44.4331,-81.4007,-5,53
+Canada,Port Moody_BC,49.2967,-122.8457,-8,17
+Canada,Port Saunders_NL,50.6492,-57.3008,-3.5,71
+Canada,Portage la Prairie_MB,49.9831,-98.2995,-6,39
+Canada,Prince Albert_SK,53.1995,-105.7024,-6,32
+Canada,Prince George_BC,53.8769,-122.8036,-8,17
+Canada,Prince Rupert_BC,54.0497,-128.5507,-8,11
+Canada,Pugwash_NS,45.8509,-63.6664,-4,66
+Canada,Qikiqtarjuaq_NU,67.5415,-64.1391,-5,69
+Canada,Qu Appelle_SK,50.5413,-103.8803,-6,34
+Canada,Quadeville_ON,45.3168,-77.3833,-5,56
+Canada,Quaker Brook_NB,46.7499,-67.7002,-4,63
+Canada,Qualicum Beach_BC,49.3525,-124.4469,-8,15
+Canada,Quaqtaq_QC,52.9990,-78.8334,-5,55
+Canada,Quarryville_NB,46.9212,-65.8243,-4,64
+Canada,Quathiaski Cove_BC,50.0415,-125.2144,-8,15
+Canada,Quatsino_BC,48.7862,-123.2839,-8,17
+Canada,Quebec_QC,46.8392,-71.4029,-5,60
+Canada,Queen Charlotte_BC,53.2538,-132.0821,-8,8
+Canada,Queenston_ON,42.9462,-79.0580,-5,55
+Canada,Queenstown_NB,45.7806,-66.1509,-4,64
+Canada,Queensville_ON,44.1324,-79.4671,-5,55
+Canada,Quesnel_BC,52.9821,-122.5026,-8,17
+Canada,Quilchena_BC,50.9825,-118.1993,-8,21
+Canada,Quill Lake_SK,52.0829,-104.2494,-6,34
+Canada,Quinton_SK,51.3837,-104.3997,-6,34
+Canada,Quispamsis_NB,45.4299,-65.8468,-4,64
+Canada,Quyon_QC,45.5161,-76.2326,-5,57
+Canada,Rankin Inlet_NU,62.8200,-92.1200,-6,44
+Canada,Red Deer_AB,52.2524,-113.8417,-7,25
+Canada,Red Deer County_AB,52.2662,-113.7999,-7,25
+Canada,Redwater_AB,53.9494,-113.1006,-7,26
+Canada,Regina_SK,50.4568,-104.5265,-6,34
+Canada,Repentigny_QC,45.7549,-73.4484,-5,59
+Canada,Repulse Bay_NU,66.5300,-86.2500,-6,49
+Canada,Resolute_NU,74.7200,-94.9800,-6,42
+Canada,Revelstoke_BC,50.9967,-118.1968,-8,21
+Canada,Richmond_BC,49.1456,-123.1765,-8,17
+Canada,Richmond_PE,46.6587,-63.1142,-4,66
+Canada,Richmond Hill_ON,43.8983,-79.4064,-5,55
+Canada,Rimouski_QC,48.4265,-68.5149,-5,60
+Canada,Rouyn-Noranda_QC,48.1871,-79.0017,-5,55
+Canada,Sachs Harbour_NT,71.9989,-125.2333,-7,14
+Canada,Saint John_NB,45.4299,-65.8468,-4,64
+Canada,Saint-Hubert_QC,45.4985,-73.4740,-5,59
+Canada,Saint-Lambert_QC,45.4838,-73.4979,-5,59
+Canada,Saint-Laurent_QC,45.5128,-73.6880,-5,59
+Canada,Saint-L�onard_QC,45.5758,-73.5727,-5,59
+Canada,Sainte-Foy_QC,46.8328,-71.3391,-5,60
+Canada,Sainte-Th�r�se_QC,45.6364,-73.8376,-5,59
+Canada,Salisbury_NB,46.0300,-65.0500,-4,65
+Canada,Salmon Arm_BC,50.0700,-119.0300,-8,21
+Canada,Sanikiluaq_NU,56.5300,-79.2500,-5,55
+Canada,Sarnia_ON,42.9962,-82.3643,-5,53
+Canada,Saskatoon_SK,52.1013,-106.5428,-6,32
+Canada,Sault Ste Marie_ON,46.5288,-84.3671,-5,51
+Canada,Scarborough_ON,43.6791,-79.2932,-5,55
+Canada,Selkirk_MB,50.1403,-96.8874,-6,40
+Canada,Selkirk_ON,42.8174,-79.9328,-5,54
+Canada,Sept-�les_QC,50.2070,-66.3739,-5,64
+Canada,Sherbrooke_QC,45.4172,-71.9642,-5,60
+Canada,Shippagan_NB,47.7418,-64.7166,-4,65
+Canada,Slave Lake_AB,55.2812,-114.7592,-7,24
+Canada,Smithers_BC,54.7847,-127.1793,-8,12
+Canada,Southport_MB,49.9751,-98.2860,-6,39
+Canada,Springhill_NS,45.6504,-64.0493,-4,65
+Canada,St Albert_AB,53.6272,-113.6227,-7,25
+Canada,St Anthony_NL,51.3661,-55.5833,-3.5,72
+Canada,St Catharines_ON,43.1540,-79.2468,-5,55
+Canada,St Georges_NL,48.4218,-58.5001,-3.5,70
+Canada,St Laurent_MB,50.6335,-96.9867,-6,40
+Canada,St Leonard_NB,47.2083,-67.9564,-4,63
+Canada,St Thomas_ON,42.7737,-81.1801,-5,53
+Canada,St. John s_NL,47.5731,-52.7210,-3.5,73
+Canada,Steinbach_MB,49.5275,-96.6806,-6,41
+Canada,Stephenville_NL,48.5494,-58.6326,-3.5,70
+Canada,Stonewall_MB,50.6335,-96.9867,-6,40
+Canada,Stoney Creek_ON,43.1870,-79.7898,-5,54
+Canada,Stratford_ON,43.3697,-80.9748,-5,53
+Canada,Sudbury_ON,46.4508,-80.9198,-5,53
+Canada,Surrey_BC,49.0588,-122.7670,-8,17
+Canada,Swift Current_SK,50.2833,-107.8005,-6,31
+Canada,Sydney_NS,46.1281,-60.2106,-4,68
+Canada,Sydney River_NS,46.1200,-60.2200,-4,68
+Canada,Taloyoak_NU,69.5317,-93.5225,-7,43
+Canada,Terrace_BC,54.0497,-128.5507,-8,11
+Canada,Thompson_MB,55.7499,-97.7500,-6,39
+Canada,Thornhill_ON,43.8171,-79.4309,-5,55
+Canada,Thunder Bay_ON,48.3279,-89.4427,-5,47
+Canada,Tillsonburg_ON,42.8495,-80.7339,-5,54
+Canada,Timmins_ON,48.4936,-81.3805,-5,53
+Canada,Toronto_ON,43.7061,-79.5152,-5,55
+Canada,Trail_BC,49.1002,-117.7000,-8,22
+Canada,Trenton_ON,44.0992,-77.5833,-5,56
+Canada,Trinity BB_NL,49.6501,-54.7658,-3.5,73
+Canada,Trois-Rivi�res_QC,46.3470,-72.5477,-5,59
+Canada,Two Hills_AB,53.7165,-111.7492,-7,27
+Canada,Ucluelet_BC,48.9508,-125.5501,-8,14
+Canada,Udora_ON,44.2494,-79.1828,-5,55
+Canada,Umiujaq_QC,56.5483,-76.5513,-5,57
+Canada,Union_ON,42.7006,-81.2008,-5,53
+Canada,Union Bay_BC,49.5741,-124.8998,-8,15
+Canada,Union Corner_NB,46.1808,-67.4991,-4,63
+Canada,Unionville_ON,43.8376,-79.3405,-5,55
+Canada,Unity_SK,52.4439,-109.1465,-6,29
+Canada,Upham_NB,45.4998,-65.9667,-4,64
+Canada,Upper Blackville_NB,46.7308,-65.8303,-4,64
+Canada,Upper Brighton_NB,46.3007,-67.5334,-4,63
+Canada,Upper Canada Village_ON,44.9001,-75.1838,-5,58
+Canada,Upper Cape_NB,46.0202,-64.1006,-4,65
+Canada,Upper Caverhill_NB,46.1204,-67.1002,-4,63
+Canada,Upper Coverdale_NB,46.0145,-64.7998,-4,65
+Canada,Upper Derby_NB,46.9212,-65.8243,-4,64
+Canada,Upper Dorchester_NB,46.0002,-64.5495,-4,65
+Canada,Upper Fraser_BC,54.1239,-122.0979,-8,17
+Canada,Upper Gagetown_NB,45.7806,-66.1509,-4,64
+Canada,Upper Golden Grove_NB,45.4299,-65.8468,-4,64
+Canada,Upper Grand Mira_NS,45.8000,-60.3000,-4,68
+Canada,Upper Gullies_NL,47.5180,-52.9873,-3.5,73
+Canada,Upper Hainesville_NB,46.1204,-67.1002,-4,63
+Canada,Upper Hampstead_NB,45.7806,-66.1509,-4,64
+Canada,Upper Island Cove_NL,47.6494,-53.2005,-3.5,73
+Canada,Upper Kennetcook_NS,45.1991,-63.6493,-4,66
+Canada,Upper Kent_NB,46.5701,-67.5505,-4,63
+Canada,Upper Keswick_NB,46.0500,-66.8705,-4,63
+Canada,Upper Kingsclear_NB,45.9639,-66.6843,-4,64
+Canada,Upper Kintore_NB,46.7499,-67.7002,-4,63
+Canada,Upper Knoxford_NB,45.6204,-65.3511,-4,64
+Canada,Upper Leitches Creek_NS,46.1300,-60.3800,-4,68
+Canada,Upper Letang_NB,45.1496,-66.7708,-4,63
+Canada,Upper Loch Lomond_NB,45.4299,-65.8468,-4,64
+Canada,Upper Mills_NB,45.2000,-67.2829,-4,63
+Canada,Upper Musquodoboit_NS,45.1335,-62.9493,-4,66
+Canada,Upper North Sydney_NS,46.1800,-60.2700,-4,68
+Canada,Upper Port la Tour_NS,43.7172,-65.9829,-4,64
+Canada,Upper Queensbury_NB,45.9667,-67.1306,-4,63
+Canada,Upper Rawdon_NS,45.0668,-63.7168,-4,66
+Canada,Upper Rexton_NB,46.6501,-64.7505,-4,65
+Canada,Upper Rockport_NB,46.0002,-64.5495,-4,65
+Canada,Upper Sackville_NB,45.8999,-64.3659,-4,65
+Canada,Upper Sackville_NS,44.7910,-63.7505,-4,66
+Canada,Upper Salmon Creek_NB,46.0303,-65.8694,-4,64
+Canada,Upper Stewiacke_NS,45.2163,-62.9994,-4,66
+Canada,Upper Tantallon_NS,44.6962,-63.8284,-4,65
+Canada,Upper Tracy_NB,45.5791,-66.5501,-4,64
+Canada,Upper Washabuck_NS,46.0300,-60.8300,-4,68
+Canada,Upper Woodstock_NB,46.1501,-67.5796,-4,63
+Canada,Upperton_NB,45.4998,-65.9667,-4,64
+Canada,Upsala_ON,49.0512,-90.4743,-5,46
+Canada,Upsalquitch_NB,48.0007,-66.6674,-4,64
+Canada,Upton_QC,45.6502,-72.6833,-5,59
+Canada,Uranium City_SK,59.5673,-108.5997,-6,29
+Canada,Utopia_NB,45.1496,-66.7708,-4,63
+Canada,Utopia_ON,44.3908,-79.6955,-5,54
+Canada,Utterson_ON,45.3260,-79.2273,-5,55
+Canada,Uxbridge_ON,44.0998,-79.1169,-5,55
+Canada,Vancouver_BC,49.2814,-123.1203,-8,17
+Canada,Vanier_ON,45.4436,-75.6847,-5,57
+Canada,Vars_ON,45.3505,-75.3505,-5,57
+Canada,Vaughan_ON,43.8793,-79.4970,-5,55
+Canada,Verdun_QC,45.4424,-73.5890,-5,59
+Canada,Vermilion_AB,53.3518,-110.8421,-7,28
+Canada,Vernon_BC,50.2583,-119.2667,-8,20
+Canada,Vernon Bridge_PE,46.2079,-62.8216,-4,66
+Canada,Victoire_SK,53.4971,-107.0498,-6,31
+Canada,Victoria_BC,48.4803,-123.4974,-8,16
+Canada,Victoria_PE,46.2079,-62.8216,-4,66
+Canada,Victoriaville_QC,46.0417,-72.0210,-5,60
+Canada,Wabasca_AB,55.9478,-113.7606,-7,25
+Canada,Waswanipi_QC,49.6919,-75.9754,-5,57
+Canada,Waterloo_ON,43.5135,-80.5748,-5,54
+Canada,Waterloo_QC,45.3500,-72.5160,-5,59
+Canada,Welland_ON,43.0236,-79.2336,-5,55
+Canada,West Vancouver_BC,49.3416,-123.2622,-8,17
+Canada,Westmount_NS,46.1487,-60.2373,-4,68
+Canada,Westmount_QC,45.4870,-73.5876,-5,59
+Canada,Whale Cove_NU,62.1657,-92.5765,-6,44
+Canada,Whistler_BC,50.1130,-122.9800,-8,17
+Canada,Whitby_ON,43.8581,-78.9318,-5,55
+Canada,White Rock_BC,49.0222,-122.8003,-8,17
+Canada,Whitehorse_YT,60.7189,-135.0634,-8,5
+Canada,Windsor_NB,46.5490,-67.2208,-4,63
+Canada,Windsor_NS,44.9836,-64.1341,-4,65
+Canada,Windsor_ON,42.2901,-82.8676,-5,52
+Canada,Windsor_QC,45.5660,-72.0005,-5,60
+Canada,Windsor Junction_NS,44.8219,-63.6306,-4,66
+Canada,Winnipeg_MB,49.9006,-97.7613,-6,40
+Canada,Winnipeg Beach_MB,50.6335,-96.9867,-6,40
+Canada,Winnipegosis_MB,51.6494,-99.9336,-6,38
+Canada,Wolfville_NS,45.0493,-64.6824,-4,65
+Canada,Woodbridge_ON,43.7890,-79.5743,-5,54
+Canada,Woodstock_ON,43.1217,-80.7223,-5,54
+Canada,Wynyard_SK,51.7685,-104.1696,-6,34
+Canada,Yahk_BC,49.0835,-116.0913,-7,23
+Canada,Yale_BC,49.4878,-121.4245,-8,18
+Canada,Yamachiche_QC,46.2668,-72.8333,-5,59
+Canada,Yamaska_QC,46.0072,-72.9163,-5,59
+Canada,Yarbo_SK,50.6965,-101.9364,-6,36
+Canada,Yarker_ON,44.3825,-76.7668,-5,56
+Canada,Yarmouth_NS,43.8332,-66.1160,-4,64
+Canada,Yellow Creek_SK,52.7508,-105.2495,-6,33
+Canada,Yellow Grass_SK,49.8104,-104.1679,-6,34
+Canada,Yellow Quill_SK,52.3451,-103.5636,-6,34
+Canada,Yellowknife_NT,62.4557,-114.3977,-7,24
+Canada,Ymir_BC,49.2053,-117.2741,-8,22
+Canada,Yoho_NB,45.7307,-67.0012,-4,63
+Canada,York_ON,43.6839,-79.4824,-5,55
+Canada,York_PE,46.2079,-62.8216,-4,66
+Canada,York Harbour_NL,49.0661,-58.3825,-3.5,70
+Canada,York Landing_MB,56.3487,-94.7029,-6,42
+Canada,Yorkton_SK,51.2201,-102.4706,-6,35
+Canada,Youbou_BC,48.8771,-124.2174,-8,16
+Canada,Young_SK,51.7684,-105.7451,-6,32
+Canada,Youngs Cove_NB,45.8308,-65.9493,-4,64
+Canada,Youngs Point_ON,44.5667,-78.2170,-5,55
+Canada,Youngstown_AB,51.5293,-111.2104,-7,28
+Canada,Zama City_AB,55.0691,-117.2779,-7,22
+Canada,Zealand_NB,46.0500,-66.8705,-4,63
+Canada,Zealandia_SK,51.6174,-107.7495,-6,31
+Canada,Zeballos_BC,49.9842,-126.8493,-8,13
+Canada,Zehner_SK,50.5692,-104.4515,-6,34
+Canada,Zenon Park_SK,53.0673,-103.7498,-6,34
+Canada,Zephyr_ON,44.1997,-79.2662,-5,55
+Canada,Zhoda_ MB,49.5340,-96.6838,-6,41
+Canada,Zionville_NB,46.2033,-66.5031,-4,64
+Canada,Zurich_ON,43.4326,-81.6160,-5,53

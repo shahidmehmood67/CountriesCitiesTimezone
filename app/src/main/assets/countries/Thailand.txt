@@ -1,0 +1,152 @@
+Thailand,7z Bukit,5.6888,101.1055,7,0
+Thailand,Amphoe Muang Chiang Rai_Chiang Rai,19.9264,99.9264,7,0
+Thailand,Ayutthaya_Phra Nakhon Si Ayutthaya,14.3597,100.5597,7,0
+Thailand,Ba Cho,6.5287,101.6617,7,0
+Thailand,Bachok_Narathiwat,6.6265,101.6598,7,0
+Thailand,Bang Rak,13.7431,100.5431,7,0
+Thailand,Bangkok,13.7598,100.5265,7,0
+Thailand,Bangkok_Phra Nakhon Si Ayutthaya,14.2931,100.5098,7,0
+Thailand,Bangkok Bar_Samut Prakan,13.4431,100.6098,7,0
+Thailand,Bangkok International Airport,13.9265,100.6265,7,0
+Thailand,Bangkok Noi,13.7598,100.4931,7,0
+Thailand,Bangkok Yai,13.7431,100.4931,7,0
+Thailand,Bankok_Samut Sakhon,13.5931,100.2265,7,0
+Thailand,Buriram,15.0098,103.1265,7,0
+Thailand,Changwat Chiang Mai_Chiang Mai,18.7599,99.0099,7,0
+Thailand,Chiang Mai,18.8049,99.018,7,0
+Thailand,Chon Buri,13.3766,100.9932,7,0
+Thailand,Dusit,13.7933,100.5267,7,0
+Thailand,East Bungo_Phangnga,7.7601,98.6268,7,0
+Thailand,Ek River_Phangnga,9.1768,98.6934,7,0
+Thailand,Enemy Chaser Patch_Pattani,6.9154,101.1112,7,0
+Thailand,Esu River_Kanchanaburi,14.5434,99.4601,7,0
+Thailand,Eye Kwang Swamp_Songkhla,7.7934,100.2268,7,0
+Thailand,Eye Sib Bhad Swamp_Songkhla,7.7934,100.1934,7,0
+Thailand,Faeng_Surin,14.6435,103.7102,7,0
+Thailand,Fak Tha_Uttaradit,17.9935,100.8935,7,0
+Thailand,Fang Toen_Chiang Rai,19.4769,99.7269,7,0
+Thailand,Fayat_Yasothon,15.5435,104.2602,7,0
+Thailand,Fhang_Chiang Mai,19.9269,99.2269,7,0
+Thailand,Fhang Deng_Chumphon,10.4269,99.2769,7,0
+Thailand,Fi Kuk_Chiang Rai,19.9269,100.5102,7,0
+Thailand,Five Devils_Nakhon Si Thammarat,9.2102,99.8935,7,0
+Thailand,Fu Fan,16.8935,104.4102,7,0
+Thailand,Haad Yai_Songkhla,7.0271,100.4771,7,0
+Thailand,Hua Hin_Prachuap Khiri Khan,12.5771,99.9771,7,0
+Thailand,I-Chang_Ratchaburi,13.7105,99.9105,7,0
+Thailand,I-hled_Chumphon,10.3772,99.2438,7,0
+Thailand,I-Loet_Phetchabun,17.0105,101.2605,7,0
+Thailand,I-mang Lang_Chanthaburi,12.4938,102.2938,7,0
+Thailand,I-toeng_Sakon Nakhon,17.0105,103.9272,7,0
+Thailand,Ien_Chiang Mai,18.0413,98.6177,7,0
+Thailand,Ile du Pie_Trat,11.9605,102.4938,7,0
+Thailand,In Buri_Sing Buri,15.0105,100.3438,7,0
+Thailand,Inland Sea,7.5105,100.2605,7,0
+Thailand,Intanon_Chiang Mai,18.5938,98.4938,7,0
+Thailand,Ipan_Surat Thani,8.5272,99.1272,7,0
+Thailand,Ira_Chon Buri,12.6772,100.8438,7,0
+Thailand,Isthmus of Kra,10.3438,99.0105,7,0
+Thailand,Ja Mea_Mae Hong Son,19.1939,97.9939,7,0
+Thailand,Jaha River_Yala,6.1106,101.3106,7,0
+Thailand,Jai Son Hill_Phatthalung,7.4606,100.1439,7,0
+Thailand,Jainadh_Chai Nat,15.1273,100.1106,7,0
+Thailand,Jainat_Chai Nat,15.1939,100.1439,7,0
+Thailand,Jaiya_Surat Thani,9.3939,99.2439,7,0
+Thailand,Jaiyabhum_Chaiyaphum,15.8106,102.0439,7,0
+Thailand,Jana_Songkhla,6.9273,100.7439,7,0
+Thailand,Jang_Chiang Mai,19.1773,98.8773,7,0
+Thailand,Janggeung_Chiang Mai,18.5078,98.3817,7,0
+Thailand,Janglek_Prachuap Khiri Khan,11.0773,99.4106,7,0
+Thailand,Jaum Thaung_Chiang Mai,18.4375,98.6887,7,0
+Thailand,Jaung_Chiang Rai,20.3781,99.9006,7,0
+Thailand,Jeeadab,13.8606,100.8439,7,0
+Thailand,Jeli,5.7439,101.8273,7,0
+Thailand,Jiengrak_Pathum Thani,14.0606,100.6273,7,0
+Thailand,Jiengsen_Chiang Rai,20.2773,100.0939,7,0
+Thailand,Jingo_Narathiwat,6.4109,101.7192,7,0
+Thailand,Jipun River_Nakhon Pathom,14.1773,100.2606,7,0
+Thailand,Joan_Trang,7.1273,99.4439,7,0
+Thailand,Johng Tao_Nakhon Si Thammarat,9.9273,99.9273,7,0
+Thailand,Jombhu_Lampang,18.2503,99.4434,7,0
+Thailand,Jonden_Phetchabun,16.1939,100.8606,7,0
+Thailand,Jubmalai_Kanchanaburi,15.1606,98.3606,7,0
+Thailand,Jumbhorn_Chumphon,10.5106,99.1773,7,0
+Thailand,Jumbor_Chumphon,10.3439,98.8439,7,0
+Thailand,Jumkhihlek_Phitsanulok,16.5606,100.6106,7,0
+Thailand,Junkseylon_Phuket,8.0606,98.3106,7,0
+Thailand,Khon Kaen,16.444,102.844,7,0
+Thailand,Ko Samui_Surat Thani,9.544,99.944,7,0
+Thailand,Koh Samuie_Surat Thani,9.5107,100.0107,7,0
+Thailand,Krabi,8.0774,98.9274,7,0
+Thailand,Mahasarakam_Maha Sarakham,16.2276,103.0276,7,0
+Thailand,Nakaun Rachasima_Nakhon Ratchasima,15.011,102.1777,7,0
+Thailand,Narathiwat,6.4354,101.8346,7,0
+Thailand,Nondaburi_Nonthaburi,13.761,100.511,7,0
+Thailand,Nong Chok,13.861,100.8777,7,0
+Thailand,Nonthaburi,13.8443,100.4943,7,0
+Thailand,O Neang,13.7111,102.6944,7,0
+Thailand,O Pao,14.0444,102.9278,7,0
+Thailand,O Pasi,13.6111,102.6278,7,0
+Thailand,O Traboek_Buriram,14.7611,103.2778,7,0
+Thailand,O-sawai,14.3778,104.1611,7,0
+Thailand,Observatory Island_Trat,12.0278,102.2778,7,0
+Thailand,Observatory Islet_Satun,6.5111,99.2278,7,0
+Thailand,Oeam_Lampang,18.4128,99.4517,7,0
+Thailand,Oem Kloem River_Kanchanaburi,14.5192,99.4811,7,0
+Thailand,Ohn_Nan,19.0278,100.9444,7,0
+Thailand,Oi_Chiang Rai,19.2444,100.3278,7,0
+Thailand,Ok Khai Hill_Songkhla,6.8778,100.5944,7,0
+Thailand,On Chai_Trat,12.6444,102.4944,7,0
+Thailand,Ong Phra Pathom Chedi_Nakhon Pathom,13.8278,100.0778,7,0
+Thailand,Onga-rak_Nakhon Nayok,14.1111,100.9778,7,0
+Thailand,Ongkharak_Nakhon Nayok,14.1339,101.0083,7,0
+Thailand,Oubon_Ubon Ratchathani,15.2442,104.8742,7,0
+Thailand,Outaradit_Uttaradit,17.6422,100.1119,7,0
+Thailand,Ow Aung Krapong_Trat,12.2944,102.2944,7,0
+Thailand,Patani_Pattani,6.7612,100.4279,7,0
+Thailand,Pathum Thani,14.0279,100.5445,7,0
+Thailand,Patong Bay_Phuket,7.9112,98.2945,7,0
+Thailand,Pattani,6.8998,101.2854,7,0
+Thailand,Pattaya_Chon Buri,12.9445,100.8945,7,0
+Thailand,Pattaya Beach_Chon Buri,12.7612,100.8779,7,0
+Thailand,Phuket,7.8945,98.4112,7,0
+Thailand,Phuket Bay_Phangnga,8.2779,98.5612,7,0
+Thailand,Puket_Phuket,8.0112,98.2612,7,0
+Thailand,Rayong,12.6781,101.2947,7,0
+Thailand,Songkhla,7.2115,100.6115,7,0
+Thailand,Suan Lang_Songkhla,6.9948,100.4282,7,0
+Thailand,Tha Sala_Nakhon Si Thammarat,8.6783,99.9449,7,0
+Thailand,Trang,7.5616,99.6116,7,0
+Thailand,U-Tapao_Chon Buri,12.695,101.0284,7,0
+Thailand,Ubol Rat Thani_(TH71,15.2117,104.8784,7,0
+Thailand,Ubolretana Khuan Kan Nam_(TH19,16.7617,102.5117,7,0
+Thailand,Udornthani_(TH19,17.345,102.7617,7,0
+Thailand,Udornthani_Udon Thani,17.4192,102.8048,7,0
+Thailand,Uttaradit Northwest_Uttaradit,17.645,100.095,7,0
+Thailand,Vadhana Nakon_(TH45,13.7618,102.3451,7,0
+Thailand,Vajira_Nonthaburi,13.8118,100.5285,7,0
+Thailand,Van Pa Khaem_Chiang Mai,19.1118,99.0618,7,0
+Thailand,Varindra_Ubon Ratchathani,15.2118,104.8951,7,0
+Thailand,Veng_Roi Et,15.6451,103.5951,7,0
+Thailand,Vesatri Bank_Trat,11.8785,102.4451,7,0
+Thailand,Victory Shoal_Rayong,12.3118,101.3118,7,0
+Thailand,Vieng Pou_Chiang Mai,19.3785,99.2285,7,0
+Thailand,Volant Rock_Rayong,12.6785,101.7785,7,0
+Thailand,Xang Ming_Sakon Nakhon,17.362,103.812,7,0
+Thailand,Xieng Kham_Phayao,19.5359,100.3112,7,0
+Thailand,Xieng Khan_Loei,17.8787,101.612,7,0
+Thailand,Xieng Khong_Chiang Rai,20.2953,100.412,7,0
+Thailand,Xieng Rai_Chiang Rai,19.912,99.8453,7,0
+Thailand,Xum Seng_Nakhon Sawan,15.912,100.3287,7,0
+Thailand,Yage Taung,12.7788,99.2454,7,0
+Thailand,Yaha_Yala,6.4899,101.1471,7,0
+Thailand,Yai Khaw River_Nakhon Ratchasima,14.4621,101.3621,7,0
+Thailand,Yala,6.5549,101.2957,7,0
+Thailand,Yamka_(TH19,17.7643,102.8957,7,0
+Thailand,Yanawa District,13.6954,100.5454,7,0
+Thailand,Yang_Loei,17.5788,101.4288,7,0
+Thailand,Yang_Chiang Mai,18.5324,98.531,7,0
+Thailand,Yang Daeng_Pattani,6.7288,101.1454,7,0
+Thailand,Yothaka_Nakhon Nayok,14.0788,101.2288,7,0
+Thailand,Zai Ngam_Chumphon,10.4622,99.1955,7,0
+Thailand,Zoi Number 32 River,14.2289,100.9289,7,0

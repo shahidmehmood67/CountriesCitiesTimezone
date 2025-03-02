@@ -1,0 +1,125 @@
+Guinea Bissau,Amedalai,12.6264,-14.057,0,73
+Guinea Bissau,Assela_Oio,12.1703,-15.3992,0,72
+Guinea Bissau,Bafata,12.1765,-14.7402,0,72
+Guinea Bissau,Bafata_Oio,12.4726,-15.1905,0,72
+Guinea Bissau,Bafatandim_Oio,12.3909,-15.3391,0,72
+Guinea Bissau,Bissau,11.8431,-15.7402,0,72
+Guinea Bissau,Bissau Channel,11.6765,-15.7402,0,72
+Guinea Bissau,Bissau Novo,11.8765,-15.5902,0,72
+Guinea Bissau,Bissauzinho,11.9265,-15.7902,0,72
+Guinea Bissau,Catio,11.2932,-15.2401,0,72
+Guinea Bissau,Cima,12.2932,-14.3901,0,72
+Guinea Bissau,Eboco,11.2601,-15.6899,0,72
+Guinea Bissau,Egara,11.2934,-16.4399,0,72
+Guinea Bissau,Egbe,11.3601,-15.8732,0,72
+Guinea Bissau,Egine_Cacheu,12.2407,-16.4593,0,72
+Guinea Bissau,Egoba Island,11.3434,-16.0232,0,72
+Guinea Bissau,Eguba,11.3601,-16.0066,0,72
+Guinea Bissau,Ejatem_Cacheu,12.3584,-16.5055,0,72
+Guinea Bissau,Elacunda,12.6434,-14.0232,0,73
+Guinea Bissau,Elia_Cacheu,12.3148,-16.3835,0,72
+Guinea Bissau,Embalocunda,12.0768,-14.6066,0,72
+Guinea Bissau,Embande_Oio,12.1951,-15.6477,0,72
+Guinea Bissau,Embenhe,12.3768,-15.5566,0,72
+Guinea Bissau,Embunhe_Oio,12.1693,-15.4096,0,72
+Guinea Bissau,Empada,11.5601,-15.2232,0,72
+Guinea Bissau,Empanja,11.8934,-15.5899,0,72
+Guinea Bissau,Empanquinhame_Oio,12.1945,-15.4882,0,72
+Guinea Bissau,Enchanque_Oio,12.0884,-15.3921,0,72
+Guinea Bissau,Enchanque,12.0768,-15.4566,0,72
+Guinea Bissau,Encheia,12.3434,-15.5566,0,72
+Guinea Bissau,Enchela_Oio,12.0737,-15.4599,0,72
+Guinea Bissau,Encherte_Oio,12.0865,-15.5627,0,72
+Guinea Bissau,Enchumene,12.3934,-15.6066,0,72
+Guinea Bissau,Encoche_Oio,12.1179,-15.4174,0,72
+Guinea Bissau,Encome,12.0934,-15.3732,0,72
+Guinea Bissau,Endasse_Oio,12.1173,-15.3727,0,72
+Guinea Bissau,Endoja_Cacheu,12.389,-15.833,0,72
+Guinea Bissau,Endorna,11.7601,-14.8232,0,72
+Guinea Bissau,Engenegane,11.9601,-15.6566,0,72
+Guinea Bissau,Ensalma,11.9934,-15.6232,0,72
+Guinea Bissau,Enterramento,11.8768,-15.6399,0,72
+Guinea Bissau,Entre Meio,12.0434,-14.8399,0,72
+Guinea Bissau,Enxale,11.9934,-14.9566,0,72
+Guinea Bissau,Enxerto,12.0434,-15.7066,0,72
+Guinea Bissau,Enxude,11.8434,-15.4066,0,72
+Guinea Bissau,Enxugal_Oio,12.0579,-15.4282,0,72
+Guinea Bissau,Escoda Island,11.3434,-15.7066,0,72
+Guinea Bissau,Esperanca,12.5434,-14.7232,0,73
+Guinea Bissau,Essoukoudiak Bolon,12.3454,-16.6493,0,72
+Guinea Bissau,Esteiro da Ga Pessoa,11.5768,-15.4566,0,72
+Guinea Bissau,Esteiro de Intacha,11.5934,-15.4732,0,72
+Guinea Bissau,Etecunda,11.5101,-16.3066,0,72
+Guinea Bissau,Eticodeba,11.1768,-15.9232,0,72
+Guinea Bissau,Eticoga,11.5934,-15.9399,0,72
+Guinea Bissau,Etinhoque,11.0768,-16.1399,0,72
+Guinea Bissau,Etiogo,11.1934,-16.0899,0,72
+Guinea Bissau,Farim_Oio,12.4941,-15.2115,0,72
+Guinea Bissau,Gabu,12.2936,-14.2064,0,72
+Guinea Bissau,Gabu Uol,11.6936,-14.7897,0,72
+Guinea Bissau,Hankey Point,11.5604,-15.4563,0,72
+Guinea Bissau,Helacunda,12.3437,-14.1396,0,72
+Guinea Bissau,Hippo Creek,11.6604,-15.4396,0,72
+Guinea Bissau,Imboe_Oio,12.0974,-15.4367,0,72
+Guinea Bissau,Kabayana Creek_Cacheu,12.3201,-16.0932,0,72
+Guinea Bissau,Kabodo River,11.2774,-15.406,0,72
+Guinea Bissau,Kadangayel,12.6774,-14.3393,0,73
+Guinea Bissau,Kafuai River,11.3774,-15.2893,0,72
+Guinea Bissau,Kagboum,10.994,-14.9393,0,71
+Guinea Bissau,Kajio River,11.4607,-15.2226,0,72
+Guinea Bissau,Kajola River,11.3774,-15.3226,0,72
+Guinea Bissau,Kalebe,10.9774,-14.9893,0,71
+Guinea Bissau,Kanabak,11.2607,-15.706,0,72
+Guinea Bissau,Kanabak Reach,11.2607,-15.5726,0,72
+Guinea Bissau,Kandika,12.3107,-13.6893,0,72
+Guinea Bissau,Kanhenbe River,12.294,-16.1226,0,72
+Guinea Bissau,Kapey,11.6607,-14.1726,0,72
+Guinea Bissau,Karashe,11.544,-16.3226,0,72
+Guinea Bissau,Katak,10.9607,-15.0393,0,71
+Guinea Bissau,Katak Point,10.9607,-15.0893,0,71
+Guinea Bissau,Katon Creek_Cacheu,12.2385,-16.3568,0,72
+Guinea Bissau,Katon Island_Cacheu,12.2254,-16.3399,0,72
+Guinea Bissau,Kaur River,11.6607,-15.256,0,72
+Guinea Bissau,Kayanga,11.9774,-14.9893,0,72
+Guinea Bissau,Kayoum,12.3107,-13.7893,0,72
+Guinea Bissau,Kionmaka,11.644,-14.106,0,72
+Guinea Bissau,Kissen,11.944,-13.8393,0,72
+Guinea Bissau,Kissir_Cacheu,12.4376,-15.5651,0,72
+Guinea Bissau,Korbelha Island,11.494,-16.2226,0,72
+Guinea Bissau,Laba,12.3775,-13.8059,0,72
+Guinea Bissau,Labe,11.2441,-14.8059,0,72
+Guinea Bissau,Lagoa Bionra,11.7941,-15.0725,0,72
+Guinea Bissau,Lagoa de Cufada,11.7275,-15.0225,0,72
+Guinea Bissau,Lamanezinho,11.6775,-15.1559,0,72
+Guinea Bissau,Lamba,12.663,-15.2239,0,73
+Guinea Bissau,Lamo Coli Cherno,12.2941,-14.4892,0,72
+Guinea Bissau,Lamoi,12.5608,-14.8559,0,73
+Guinea Bissau,Lanchande,11.2775,-15.0725,0,72
+Guinea Bissau,Leibe Manga Tamba,11.7275,-14.0892,0,72
+Guinea Bissau,Lengueel,12.5608,-14.5892,0,73
+Guinea Bissau,Lenguel,11.4775,-14.9225,0,72
+Guinea Bissau,Lenque,12.0775,-14.5559,0,72
+Guinea Bissau,Lenquebembe,12.6775,-14.7892,0,73
+Guinea Bissau,Lenquerim,12.2941,-14.1892,0,72
+Guinea Bissau,Lenqueto,12.5441,-14.6559,0,73
+Guinea Bissau,Leon Creek,12.3608,-16.0725,0,72
+Guinea Bissau,Leto,12.3941,-15.4059,0,72
+Guinea Bissau,Libar_Oio,12.2761,-15.5481,0,72
+Guinea Bissau,Limane_Cacheu,12.4116,-15.5956,0,72
+Guinea Bissau,Limbi Afia,11.7441,-14.0725,0,72
+Guinea Bissau,Lome,12.0775,-15.3059,0,72
+Guinea Bissau,Louvado,11.7608,-15.3392,0,72
+Guinea Bissau,Lubacunda_Oio,12.3866,-15.3175,0,72
+Guinea Bissau,Lugajole,11.8108,-13.8392,0,72
+Guinea Bissau,Lugure,11.8108,-14.1059,0,72
+Guinea Bissau,Lumbutugo,12.5608,-14.1892,0,73
+Guinea Bissau,Mansoa_Oio,12.0842,-15.308,0,72
+Guinea Bissau,Vare_Oio,12.1385,-15.3813,0,72
+Guinea Bissau,Varela,12.3118,-16.5549,0,72
+Guinea Bissau,Vendu Canhanquie,11.6618,-14.5549,0,72
+Guinea Bissau,Warang Bank,11.6452,-16.6048,0,72
+Guinea Bissau,Warang Channel,11.6452,-16.3214,0,72
+Guinea Bissau,Xangol Carantaba,12.812,-14.688,0,73
+Guinea Bissau,Xedigan,11.5787,-15.938,0,72
+Guinea Bissau,Xime,11.9787,-14.9213,0,72
+Guinea Bissau,Zegzeg Island,11.2955,-16.3711,0,72

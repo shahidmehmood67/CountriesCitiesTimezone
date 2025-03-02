@@ -1,0 +1,49 @@
+Bulgaria,Aitos_Burgas,42.7000,27.2500,2,150
+Bulgaria,Aitoska_ or BU29,42.5000,27.3500,2,150
+Bulgaria,Blagoevgrad,42.0167,23.1000,2,141
+Bulgaria,Burgas,42.5000,27.4667,2,150
+Bulgaria,Gabrovo_ or BU36,41.8928,22.9350,2,140
+Bulgaria,Gabrovo,43.0000,25.2667,2,146
+Bulgaria,Gabrovo_ or BU31,42.6167,25.1667,2,145
+Bulgaria,Gabrovo_ or BU34,41.5500,24.7667,2,143
+Bulgaria,Gotse Delchev_Blagoevgrad,41.5667,23.7333,2,141
+Bulgaria,Hablkovo_ or BU37,43.6000,27.6167,2,152
+Bulgaria,Hadzi-Jeiles_Plovdiv,42.1000,25.2167,2,145
+Bulgaria,Hagichioi_ or BU37,43.8500,27.8500,2,152
+Bulgaria,Hagiolar_ or BU35,43.9167,26.8667,2,150
+Bulgaria,Hajar_ or BU35,43.3667,26.2833,2,149
+Bulgaria,Hamzalar_ or BU37,43.4333,28.0167,2,152
+Bulgaria,Hanishta Predel_ or BU36,41.8333,23.3000,2,141
+Bulgaria,Harman_ or BU29,42.2500,27.3833,2,150
+Bulgaria,Harmanata_ or BU29,42.0167,27.8333,2,150
+Bulgaria,Haskovska_ or BU31,41.9000,25.7167,2,146
+Bulgaria,Herakovo_ or BU36,42.7833,23.1167,2,142
+Bulgaria,Hermanli_Khaskovo,41.9333,25.9000,2,146
+Bulgaria,Horlec_ or BU33,43.7000,23.8333,2,144
+Bulgaria,Hristo-Danovo_ or BU34,42.7333,24.6000,2,144
+Bulgaria,Husar_Plovdiv,42.5000,24.7000,2,144
+Bulgaria,Pernik,42.6000,23.0333,2,141
+Bulgaria,Pleven,43.4167,24.6167,2,145
+Bulgaria,Plovdiv,42.1500,24.7500,2,144
+Bulgaria,Plovdivtsi_ or BU34,41.4167,24.8000,2,143
+Bulgaria,Ribnowo_ or BU36,41.7167,23.7667,2,141
+Bulgaria,Ruse_Razgrad,43.6333,26.5167,2,149
+Bulgaria,Ruse,43.8564,25.9708,2,148
+Bulgaria,Rusekastrenska_ or BU29,42.4000,27.3000,2,150
+Bulgaria,Rusenovtsi_ or BU32,42.9167,25.5167,2,146
+Bulgaria,Rusenski Lom_ or BU35,43.8333,25.9500,2,148
+Bulgaria,Shumen,43.2767,26.9292,2,150
+Bulgaria,Shumenski Visochini_ or BU37,43.2833,26.8167,2,150
+Bulgaria,Shumentsi_ or BU35,43.9667,26.6000,2,150
+Bulgaria,Sliven,42.6858,26.3292,2,148
+Bulgaria,Smolyan,41.5853,24.6919,2,143
+Bulgaria,Sofia_Sofiya-Grad,42.6833,23.3167,2,142
+Bulgaria,Sofiya-Grad,42.6667,23.3667,2,142
+Bulgaria,Stara Zagora,42.4328,25.6419,2,146
+Bulgaria,Tolbukhin_Dobrich,43.6833,27.9000,2,152
+Bulgaria,Varna,43.2167,27.9167,2,152
+Bulgaria,Varna Bay_ or BU37,43.1833,27.9333,2,152
+Bulgaria,Varna Lake_ or BU37,43.1833,27.8333,2,152
+Bulgaria,Varna-Devnya_ or BU37,43.2000,27.8000,2,151
+Bulgaria,Xanne Sandanski_Blagoevgrad,41.5667,23.2833,2,140
+Bulgaria,XII-i Rayon_Sofiya-Grad,42.6744,23.4292,2,142
