@@ -7,6 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.sm.android.countries.cities.R
+import com.sm.android.countries.cities.countries.repository.CitiesViewModel
 
 
 class CountriesFragment : Fragment() {

@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.widget.Toast
 import androidx.activity.viewModels
 import com.google.gson.Gson
-import com.sm.android.countries.cities.countries.CitiesViewModel
+import com.sm.android.countries.cities.countries.repository.CitiesViewModel
 import com.sm.android.countries.cities.countries.CountriesActivity
 import com.sm.android.countries.cities.countries.LocationDetails
 import com.sm.android.countries.cities.databinding.ActivityMainBinding
@@ -60,6 +60,11 @@ class MainActivity : AppCompatActivity() {
             vmCities.fetchCheckUpdatePreciseLocation()
         }
 
+        vmCities.countries.observe(this) { countrieslist ->
+            Toast.makeText(this, "Loaded ${countrieslist.size} countries", Toast.LENGTH_LONG).show()
+            vmCities.fetchCheckUpdatePreciseLocationTwo()
+        }
+
         vmCities.cityName.observe(this) { countryinfo ->
             countryinfo?.let {
                 val country = countryinfo.countryName
@@ -71,6 +76,20 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, "country: $country city: $city ", Toast.LENGTH_LONG).show()
             } ?: run {
                 binding.tvLocationZone.text = "city zone not found"
+            }
+        }
+
+        vmCities.selectedCity.observe(this) { selectedCity ->
+            selectedCity?.let {
+//                val country = countryinfo.countryName
+                val city = it.name
+                val lat = it.latitude
+                val long = it.longitude
+                val citydetail = String.format("city: %s\n lat:%s long:%s", city, lat, long)
+                binding.tvLocationZoneNew.text = citydetail
+                Toast.makeText(this, " city: $city ", Toast.LENGTH_LONG).show()
+            } ?: run {
+                binding.tvLocationZoneNew.text = "city zone not found"
             }
         }
     }
@@ -134,6 +153,7 @@ class MainActivity : AppCompatActivity() {
         if (onpaused){
             onpaused = false
             vmCities.fetchCheckUpdatePreciseLocation()
+            vmCities.fetchCheckUpdatePreciseLocationTwo()
         }
     }
 
