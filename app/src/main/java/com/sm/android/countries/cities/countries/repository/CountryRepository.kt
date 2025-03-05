@@ -19,19 +19,34 @@ class CountryRepository {
 
     suspend fun findCityByTimezone(countries: List<Country>, timezone: String): City? = withContext(Dispatchers.IO) {
         val parts = timezone.split("/")
-        if (parts.size != 2) return@withContext null // Invalid format
+        if (parts.size < 2) return@withContext null // Invalid format
 
-        val region = parts[0] // Example: "Europe"
-        val cityNameQuery = normalizeText(parts[1]) // Example: "Mariehamn"
+        val cityNameQuery = normalizeText(parts.last()) // Take the LAST part of the timezone
 
-        // 1️⃣ First, Try Finding the City Inside `cities[]`
-        countries.forEach { country ->
-            country.cities.find { normalizeText(it.name) == cityNameQuery }?.let { return@withContext it }
+        // 1️⃣ First, find the country with matching timezone
+        val matchedCountry = countries.find { country ->
+            country.timezones.any {
+                normalizeText(it.zoneName) == normalizeText(timezone)
+            }
         }
 
-        // 2️⃣ If No City Found, Search for Matching Country Timezone
-        countries.forEach { country ->
-            country.timezones.find { normalizeText(it.zoneName) == normalizeText(timezone) }?.let {
+        // If a country is found with matching timezone, search only its cities
+        matchedCountry?.let { country ->
+            // First, try simple direct match
+            country.cities.find { city ->
+                normalizeText(city.name) == cityNameQuery
+            }?.let { return@withContext it }
+
+            // If direct match fails, use complex similarity check
+            country.cities.find { city ->
+                val normalizedCityName = normalizeText(city.name)
+                isSimilar(cityNameQuery, normalizedCityName)
+            }?.let { return@withContext it }
+        }
+
+
+        // 2️⃣ If No City Found, then  Country
+        matchedCountry?.let {country->
                 return@withContext City(
                     id = -1, // No specific city ID
                     name = country.name, // Set country as city name
@@ -39,47 +54,55 @@ class CountryRepository {
                     longitude = country.longitude
                 )
             }
-        }
 
-        return@withContext null // No match found
+        // If no match found in the timezone's country, return null
+        return@withContext null
     }
 
-
-    suspend fun findCity(countries: List<Country>, cityName: String): City? = withContext(Dispatchers.IO) {
-        val normalizedQuery = normalizeText(cityName)
-
-        // 1️⃣ First, Try Exact Match (Case-Insensitive)
-        countries.forEach { country ->
-            country.cities.find { normalizeText(it.name) == normalizedQuery }?.let { return@withContext it }
-        }
-
-        // 2️⃣ If Not Found, Try Approximate Matching
-        countries.forEach { country ->
-            country.cities.find { isSimilar(normalizedQuery, normalizeText(it.name)) }?.let { return@withContext it }
-        }
-
-        return@withContext null // No match found
+    // Utility function for text normalization
+    fun normalizeText(input: String): String {
+        return input.lowercase()
+            .replace("[^a-z0-9]".toRegex(), "")
     }
 
-    private fun normalizeText(text: String): String {
-        return Normalizer.normalize(text, Normalizer.Form.NFD)
-            .replace(Regex("\\p{M}"), "") // Remove accents (é → e, ā → a, etc.)
-            .lowercase(Locale.ROOT)
-            .replace(Regex("[^a-z0-9]"), "") // Remove special characters
+    // Advanced similarity checking function
+    fun isSimilar(query: String, cityName: String): Boolean {
+        // More complex similarity checking
+        // Add your advanced similarity logic here
+        return cityName.contains(query) ||
+                query.length > 2 && (
+                cityName.startsWith(query) ||
+                        // Add more sophisticated similarity checks
+                        levenshteinDistance(query, cityName) <= minOf(query.length, cityName.length) / 3
+                )
     }
 
-    private fun isSimilar(query: String, cityName: String): Boolean {
-        if (cityName.contains(query)) return true
+    // Levenshtein distance for more advanced similarity
+    fun levenshteinDistance(s1: String, s2: String): Int {
+        val m = s1.length
+        val n = s2.length
+        val dp = Array(m + 1) { IntArray(n + 1) }
 
-        val similarPatterns = listOf(
-            "-" to "", "’" to "", "i" to "ī", "e" to "ē", "a" to "ā", "o" to "ō", "u" to "ū"
-        )
+        for (i in 0..m) dp[i][0] = i
+        for (j in 0..n) dp[0][j] = j
 
-        var modifiedCityName = cityName
-        similarPatterns.forEach { (old, new) ->
-            modifiedCityName = modifiedCityName.replace(old, new)
+        for (i in 1..m) {
+            for (j in 1..n) {
+                val cost = if (s1[i-1] == s2[j-1]) 0 else 1
+                dp[i][j] = minOf(
+                    dp[i-1][j] + 1,      // Deletion
+                    dp[i][j-1] + 1,      // Insertion
+                    dp[i-1][j-1] + cost  // Substitution
+                )
+            }
         }
 
-        return modifiedCityName.contains(query)
+        return dp[m][n]
     }
 }
+
+//Recheck again coutries time zones missings (will complete later)
+// Antartica, Australia
+
+//Recheck again for countries cities missings (will complete later)
+// Albania, Australia
