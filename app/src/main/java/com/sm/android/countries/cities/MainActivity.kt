@@ -14,6 +14,7 @@ import com.sm.android.countries.cities.countries.CountriesActivity
 import com.sm.android.countries.cities.countries.LocationDetails
 import com.sm.android.countries.cities.databinding.ActivityMainBinding
 import com.sm.android.countries.cities.selectlocation.SelectLocationCityActivity
+import com.sm.android.countries.cities.stickyheader.MainActivity2
 import com.sm.android.countries.cities.utils.prefManager
 import org.json.JSONObject
 import java.net.URL
@@ -55,6 +56,9 @@ class MainActivity : AppCompatActivity() {
         binding.apply {
             btnselectLocation.setOnClickListener {
                 startActivity(Intent(this@MainActivity, SelectLocationCityActivity::class.java))
+            }
+            btnHeaderRcv.setOnClickListener {
+                startActivity(Intent(this@MainActivity, MainActivity2::class.java))
             }
         }
 

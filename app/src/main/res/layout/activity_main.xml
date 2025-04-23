@@ -118,6 +118,17 @@
 
         />
 
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnHeaderRcv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Header Rcv"
+        app:layout_constraintTop_toBottomOf="@+id/btnselectLocation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+
+        />
+
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab"
