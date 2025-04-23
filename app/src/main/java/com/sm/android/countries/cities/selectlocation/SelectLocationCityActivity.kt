@@ -14,7 +14,8 @@ class SelectLocationCityActivity : AppCompatActivity() {
     private val binding: ActivitySelectLocationCityBinding by lazy { ActivitySelectLocationCityBinding.inflate(layoutInflater) }
     private val vmCities: CitiesNewViewModel by viewModels()
 
-    lateinit var cityAdapter : CityAdapter
+//    lateinit var cityAdapter : CityAdapter
+    lateinit var cityAdapter : CityAdapterSection
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
@@ -38,23 +39,37 @@ class SelectLocationCityActivity : AppCompatActivity() {
         }
     }
     fun setRCV() {
-        cityAdapter = CityAdapter { city ->
+        cityAdapter = CityAdapterSection { city ->
             Toast.makeText(this, "Clicked: ${city.name}", Toast.LENGTH_SHORT).show()
         }
 
         binding.recyclerView.apply {
             layoutManager = LinearLayoutManager(this@SelectLocationCityActivity)
             adapter = cityAdapter
+            addItemDecoration(StickyHeaderItemDecoration(
+                isHeader = { pos -> cityAdapter.currentList[pos] is ListItem.Header },
+                getHeaderText = { pos ->
+                    (cityAdapter.currentList[pos] as? ListItem.Header)?.title ?: ""
+                }
+            ))
         }
     }
-    fun observeData(){
-        vmCities.matchedCities.observe(this) { cities ->
+
+    fun observeData() {
+//        vmCities.matchedCities.observe(this) { cities ->
+//            if (cities.isNotEmpty()){
+//                cityAdapter.submitList(cities)
+//            }
+////            else{
+//                binding.progressBar.visibility = View.GONE
+////            }
+//        }
+
+        vmCities.matchedCitiesHeader.observe(this) { cities ->
             if (cities.isNotEmpty()){
                 cityAdapter.submitList(cities)
             }
-//            else{
                 binding.progressBar.visibility = View.GONE
-//            }
         }
     }
 }

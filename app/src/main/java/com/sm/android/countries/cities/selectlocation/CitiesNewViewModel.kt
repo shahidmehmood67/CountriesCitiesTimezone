@@ -36,6 +36,9 @@ class CitiesNewViewModel(application: Application) : AndroidViewModel(applicatio
     private val _matchedCities = MutableLiveData<List<City>>()
     val matchedCities: LiveData<List<City>> = _matchedCities
 
+    private val _matchedCitiesHeader = MutableLiveData<List<ListItem>>()
+    val matchedCitiesHeader: LiveData<List<ListItem>> = _matchedCitiesHeader
+
 
     private val _selectedCity = MutableLiveData<City?>()
     val selectedCity: LiveData<City?> = _selectedCity
@@ -88,9 +91,19 @@ class CitiesNewViewModel(application: Application) : AndroidViewModel(applicatio
             matchCountry.cities
         }
 
+        _matchedCitiesHeader.value =  buildSectionedCityList(cities)
         _matchedCities.value = cities
     }
 
+    // 2. SectionBuilder.kt
+    fun buildSectionedCityList(cities: List<City>): List<ListItem> {
+        return cities
+            .sortedBy { it.name }
+            .groupBy { it.name.first().uppercaseChar() }
+            .flatMap { (initial, group) ->
+                listOf(ListItem.Header(initial.toString())) + group.map { ListItem.CityItem(it) }
+            }
+    }
 
     fun getCitiesByCountry(countryName: String): List<CityInfo>? {
         return _countryMap.value?.get(countryName)?.cities
