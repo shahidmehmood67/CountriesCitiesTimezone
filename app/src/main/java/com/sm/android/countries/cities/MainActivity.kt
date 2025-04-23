@@ -13,6 +13,7 @@ import com.sm.android.countries.cities.countries.repository.CitiesViewModel
 import com.sm.android.countries.cities.countries.CountriesActivity
 import com.sm.android.countries.cities.countries.LocationDetails
 import com.sm.android.countries.cities.databinding.ActivityMainBinding
+import com.sm.android.countries.cities.selectlocation.SelectLocationCityActivity
 import com.sm.android.countries.cities.utils.prefManager
 import org.json.JSONObject
 import java.net.URL
@@ -31,7 +32,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
@@ -51,6 +51,12 @@ class MainActivity : AppCompatActivity() {
         initfunc()
 
         initobserver()
+
+        binding.apply {
+            btnselectLocation.setOnClickListener {
+                startActivity(Intent(this@MainActivity, SelectLocationCityActivity::class.java))
+            }
+        }
 
     }
 

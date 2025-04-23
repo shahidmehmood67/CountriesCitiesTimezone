@@ -1,4 +1,4 @@
-package com.sm.android.countries.cities.countries.repository
+package com.sm.android.countries.cities.selectlocation
 
 import android.content.Context
 import com.google.gson.Gson
@@ -7,11 +7,8 @@ import com.sm.android.countries.cities.countries.model.City
 import com.sm.android.countries.cities.countries.model.Country
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
-import java.text.Normalizer
-import java.util.Locale
 
 class CountryRepository {
-
     suspend fun getCountriesData(context: Context): List<Country> = withContext(Dispatchers.IO) {
         val jsonString = context.assets.open("data/countries_cities.json").bufferedReader().use { it.readText() }
         Gson().fromJson(jsonString, object : TypeToken<List<Country>>() {}.type)
