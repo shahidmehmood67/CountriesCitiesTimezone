@@ -12,12 +12,13 @@ import androidx.fragment.app.DialogFragment
 import androidx.fragment.app.activityViewModels
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.sm.android.countries.cities.R
-import com.sm.android.countries.cities.countries.model.Country
 import com.sm.android.countries.cities.databinding.DialogSelectCountriesBinding
+import com.sm.android.countries.cities.selectlocation.models.CountryAdapterSection
+import com.sm.android.countries.cities.selectlocation.models.ListItemCountry
 
 class CountriesDialog : DialogFragment() {
 
-    private lateinit var adapter: CountryAdapter
+    private lateinit var countryAdapter: CountryAdapterSection
 
     private val dialogLayoutBinding by lazy { DialogSelectCountriesBinding.inflate(layoutInflater) }
 
@@ -61,19 +62,47 @@ class CountriesDialog : DialogFragment() {
 
     private fun init(){
         with(dialogLayoutBinding){
-            adapter = CountryAdapter { selected ->
+
+            searchView.setOnQueryTextListener(object :
+                androidx.appcompat.widget.SearchView.OnQueryTextListener {
+                override fun onQueryTextSubmit(query: String): Boolean {
+                    viewModel.setCountrySearchQuery(query?.toString() ?: "")
+                    return false
+                }
+
+                override fun onQueryTextChange(newText: String): Boolean {
+                    viewModel.setCountrySearchQuery(newText?.toString() ?: "")
+                    return false
+                }
+            })
+
+            countryAdapter = CountryAdapterSection { selected ->
+                searchView.setQuery("", false)  // Clear text
+                searchView.clearFocus()         // Remove keyboard and focus
+                searchView.isIconified = true   // Collapse the search back (optional)
                 listener?.itemClicked(selected)
                 dismiss()
             }
 
             recyclerView.apply {
                 layoutManager = LinearLayoutManager(requireContext())
-                adapter = this@CountriesDialog.adapter
+                adapter = countryAdapter
             }
 
-            viewModel.countries.observe(viewLifecycleOwner) { data->
+            recyclerView.apply {
+                layoutManager = LinearLayoutManager(requireContext())
+                adapter = countryAdapter
+                addItemDecoration(StickyHeaderItemDecoration(
+                    isHeader = { pos -> countryAdapter.currentList[pos] is ListItemCountry.Header },
+                    getHeaderText = { pos ->
+                        (countryAdapter.currentList[pos] as? ListItemCountry.Header)?.title ?: ""
+                    }
+                ))
+            }
+
+            viewModel.headercountries.observe(viewLifecycleOwner) { data ->
                 if (data.isNotEmpty()){
-                    adapter.submitList(data)
+                    countryAdapter.submitList(data)
                 }
                 progressBar.visibility = View.GONE
             }

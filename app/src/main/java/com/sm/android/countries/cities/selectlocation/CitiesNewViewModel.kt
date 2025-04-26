@@ -10,7 +10,11 @@ import com.sm.android.countries.cities.countries.CityInfo
 import com.sm.android.countries.cities.countries.CountryInfo
 import com.sm.android.countries.cities.countries.model.City
 import com.sm.android.countries.cities.countries.model.Country
+import com.sm.android.countries.cities.selectlocation.models.ListItemCountry
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.debounce
+import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import java.time.ZoneId
@@ -30,6 +34,12 @@ class CitiesNewViewModel(application: Application) : AndroidViewModel(applicatio
     private val _countries = MutableLiveData<List<Country>>()
     val countries: LiveData<List<Country>> = _countries
 
+    private val _headercountries = MutableLiveData<List<ListItemCountry>>()
+    val headercountries: LiveData<List<ListItemCountry>> = _headercountries
+
+    private var originalCountries: List<ListItemCountry> = emptyList()
+    private var originalCities: List<ListItem> = emptyList()
+
     private val _matchedCountry = MutableLiveData<Country?>()
     val matchedCountry: LiveData<Country?> = _matchedCountry
 
@@ -43,7 +53,13 @@ class CitiesNewViewModel(application: Application) : AndroidViewModel(applicatio
     private val _selectedCity = MutableLiveData<City?>()
     val selectedCity: LiveData<City?> = _selectedCity
 
+    private val _searchCountryQuery = MutableStateFlow("")
+    private val _searchCityQuery = MutableStateFlow("")
+
     init {
+        observeCountrySearch()
+        observeCitySearch()
+
         fetchCountryByDeviceTimezone()
     }
 
@@ -62,10 +78,11 @@ class CitiesNewViewModel(application: Application) : AndroidViewModel(applicatio
                 country.timezones.any { it.zoneName == deviceTimeZone }
             }
 
-            _countries.value = allCountries
-
             setMatchedCountryData(matchedCountry)
 
+            val headerCountryList = buildSectionedCountriesList(allCountries)
+            originalCountries = headerCountryList
+            _headercountries.value = headerCountryList
         }
     }
 
@@ -87,12 +104,14 @@ class CitiesNewViewModel(application: Application) : AndroidViewModel(applicatio
                     longitude = matchCountry.longitude
                 )
             )
-        } else {
+        }
+        else {
             matchCountry.cities
         }
 
-        _matchedCitiesHeader.value =  buildSectionedCityList(cities)
-        _matchedCities.value = cities
+        val headerCitiesList = buildSectionedCityList(cities)
+        originalCities = headerCitiesList
+        _matchedCitiesHeader.value = headerCitiesList
     }
 
     // 2. SectionBuilder.kt
@@ -104,6 +123,81 @@ class CitiesNewViewModel(application: Application) : AndroidViewModel(applicatio
                 listOf(ListItem.Header(initial.toString())) + group.map { ListItem.CityItem(it) }
             }
     }
+
+    fun buildSectionedCountriesList(cities: List<Country>): List<ListItemCountry> {
+        return cities
+            .sortedBy { it.name }
+            .groupBy { it.name.first().uppercaseChar() }
+            .flatMap { (initial, group) ->
+                listOf(ListItemCountry.Header(initial.toString())) + group.map { ListItemCountry.ListItem(it) }
+            }
+    }
+
+    private fun observeCountrySearch() {
+        viewModelScope.launch {
+            _searchCountryQuery
+                .debounce(300) // 300ms delay after user stops typing
+                .distinctUntilChanged()
+                .collect { query ->
+                    filterCountries(query)
+                }
+        }
+    }
+
+    private fun observeCitySearch() {
+        viewModelScope.launch {
+            _searchCityQuery
+                .debounce(300)
+                .distinctUntilChanged()
+                .collect { query ->
+                    filterCities(query)
+                }
+        }
+    }
+
+
+    fun setCountrySearchQuery(query: String) {
+        _searchCountryQuery.value = query
+    }
+
+    fun setCitySearchQuery(query: String) {
+        _searchCityQuery.value = query
+    }
+
+
+    fun filterCountries(query: String?) {
+        val filteredList = if (query.isNullOrBlank()) {
+            originalCountries
+        } else {
+            originalCountries
+                .filterIsInstance<ListItemCountry.ListItem>()
+                .filter { it.city.name.contains(query.trim(), ignoreCase = true) }
+                .groupBy { it.city.name.first().uppercaseChar() }
+                .flatMap { (initial, group) ->
+                    listOf(ListItemCountry.Header(initial.toString())) + group
+                }
+        }
+        _headercountries.value = filteredList
+    }
+
+    fun filterCities(query: String?) {
+        val filteredList = if (query.isNullOrBlank()) {
+            originalCities
+        } else {
+            originalCities
+                .filterIsInstance<ListItem.CityItem>()
+                .filter { it.city.name.contains(query.trim(), ignoreCase = true) }
+                .groupBy { it.city.name.first().uppercaseChar() }
+                .flatMap { (initial, group) ->
+                    listOf(ListItem.Header(initial.toString())) + group
+                }
+        }
+        _matchedCitiesHeader.value = filteredList
+    }
+
+
+
+
 
     fun getCitiesByCountry(countryName: String): List<CityInfo>? {
         return _countryMap.value?.get(countryName)?.cities

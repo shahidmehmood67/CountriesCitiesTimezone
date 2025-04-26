@@ -14,7 +14,6 @@ class SelectLocationCityActivity : AppCompatActivity() {
     private val binding: ActivitySelectLocationCityBinding by lazy { ActivitySelectLocationCityBinding.inflate(layoutInflater) }
     private val vmCities: CitiesNewViewModel by viewModels()
 
-//    lateinit var cityAdapter : CityAdapter
     lateinit var cityAdapter : CityAdapterSection
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -36,6 +35,20 @@ class SelectLocationCityActivity : AppCompatActivity() {
                 })
                 dialog.show(supportFragmentManager, "CountriesDialog")
             }
+
+            searchView.setOnQueryTextListener(object :
+                androidx.appcompat.widget.SearchView.OnQueryTextListener {
+                override fun onQueryTextSubmit(query: String): Boolean {
+                    vmCities.setCitySearchQuery(query?.toString() ?: "")
+                    return false
+                }
+
+                override fun onQueryTextChange(newText: String): Boolean {
+                    vmCities.setCitySearchQuery(newText?.toString() ?: "")
+                    return false
+                }
+            })
+
         }
     }
     fun setRCV() {
@@ -56,15 +69,6 @@ class SelectLocationCityActivity : AppCompatActivity() {
     }
 
     fun observeData() {
-//        vmCities.matchedCities.observe(this) { cities ->
-//            if (cities.isNotEmpty()){
-//                cityAdapter.submitList(cities)
-//            }
-////            else{
-//                binding.progressBar.visibility = View.GONE
-////            }
-//        }
-
         vmCities.matchedCitiesHeader.observe(this) { cities ->
             if (cities.isNotEmpty()){
                 cityAdapter.submitList(cities)

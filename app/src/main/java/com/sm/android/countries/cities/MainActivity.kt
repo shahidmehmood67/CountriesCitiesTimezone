@@ -119,6 +119,10 @@ class MainActivity : AppCompatActivity() {
 
         val timeZoneDisplay = getDisplayNameFromTimezone()
         println("User TimezoneDisplay: $timeZoneDisplay")
+        val usaFlag = countryCodeToFlagEmoji("US")   // 🇺🇸
+        val indiaFlag = countryCodeToFlagEmoji("IN") // 🇮🇳
+        val franceFlag = countryCodeToFlagEmoji("FR") // 🇫🇷
+
 
         binding.tvTimeZone.text = timeZone
         binding.tvDisplay.text = timeZoneDisplay
@@ -127,7 +131,19 @@ class MainActivity : AppCompatActivity() {
         val formattedOffset = formatOffset(timeZoneutc.rawOffset)
         println("Formatted Offset: $formattedOffset") // Example: "UTC +5:30" for Asia/Kolkata
         binding.tvUtc.text = formattedOffset
+
+        binding.tvTimeZone.text = usaFlag
+        binding.tvDisplay.text = indiaFlag
+        binding.tvUtc.text = franceFlag
     }
+    fun countryCodeToFlagEmoji(countryCode: String): String {
+        return countryCode
+            .uppercase()
+            .map { char ->
+                Character.toChars(char.code + 127397).concatToString()
+            }.joinToString("")
+    }
+
 
     fun getSimCountry(): String? {
         val telephonyManager = getSystemService(Context.TELEPHONY_SERVICE) as TelephonyManager
