@@ -3,16 +3,31 @@ package com.sm.android.countries.cities.selectlocation
 import android.content.Context
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
+import com.sm.android.countries.cities.countries.CountryX
 import com.sm.android.countries.cities.countries.model.City
 import com.sm.android.countries.cities.countries.model.Country
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
+import kotlinx.serialization.decodeFromString
+import kotlinx.serialization.json.Json
 
 class CountryRepository {
     suspend fun getCountriesData(context: Context): List<Country> = withContext(Dispatchers.IO) {
         val jsonString = context.assets.open("data/countries_cities.json").bufferedReader().use { it.readText() }
         Gson().fromJson(jsonString, object : TypeToken<List<Country>>() {}.type)
     }
+
+
+
+    suspend fun getCountriesData2(context: Context): List<CountryX> = withContext(Dispatchers.IO) {
+        val jsonString = context.assets.open("data/countries_cities.json")
+            .bufferedReader()
+            .use { it.readText() }
+
+        val json = Json { ignoreUnknownKeys = true } // safer parsing
+        json.decodeFromString(jsonString)
+    }
+
 
     suspend fun findCityByTimezone(countries: List<Country>, timezone: String): City? = withContext(Dispatchers.IO) {
         val parts = timezone.split("/")

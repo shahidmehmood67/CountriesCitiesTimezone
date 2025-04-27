@@ -1,6 +1,7 @@
 plugins {
     alias(libs.plugins.androidApplication)
     alias(libs.plugins.jetbrainsKotlinAndroid)
+    id("org.jetbrains.kotlin.plugin.serialization") version "1.9.0"
 }
 
 android {
@@ -57,4 +58,8 @@ dependencies {
     implementation ("com.intuit.sdp:sdp-android:1.1.1")
     implementation ("com.intuit.ssp:ssp-android:1.1.1")
     implementation ("com.google.code.gson:gson:2.12.1")
+
+    // Kotlinx Serialization
+    implementation ("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.0")
+
 }

@@ -2,6 +2,7 @@ package com.sm.android.countries.cities.selectlocation
 
 import android.app.Application
 import android.os.Build
+import android.util.Log
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
@@ -71,16 +72,21 @@ class CitiesNewViewModel(application: Application) : AndroidViewModel(applicatio
 
     private fun fetchCountryByDeviceTimezone() {
         viewModelScope.launch {
+            Log.e("CitiesNewViewModel", "fetchCountryByDeviceTimezone: line:(75)");
             val allCountries = repository.getCountriesData(getApplication())
+            Log.e("CitiesNewViewModel", "fetchCountryByDeviceTimezone: line:(77)");
+
             val deviceTimeZone = TimeZone.getDefault().id
 
             val matchedCountry = allCountries.find { country ->
                 country.timezones.any { it.zoneName == deviceTimeZone }
             }
+            Log.e("CitiesNewViewModel", "fetchCountryByDeviceTimezone: line:(83)");
 
             setMatchedCountryData(matchedCountry)
-
+            Log.e("CitiesNewViewModel", "fetchCountryByDeviceTimezone: line:(86)");
             val headerCountryList = buildSectionedCountriesList(allCountries)
+            Log.e("CitiesNewViewModel", "fetchCountryByDeviceTimezone: line:(88)");
             originalCountries = headerCountryList
             _headercountries.value = headerCountryList
         }
@@ -108,8 +114,9 @@ class CitiesNewViewModel(application: Application) : AndroidViewModel(applicatio
         else {
             matchCountry.cities
         }
-
+        Log.e("CitiesNewViewModel", "setMatchedCountryData: line:(115)");
         val headerCitiesList = buildSectionedCityList(cities)
+        Log.e("CitiesNewViewModel", "setMatchedCountryData: line:(117)");
         originalCities = headerCitiesList
         _matchedCitiesHeader.value = headerCitiesList
     }
@@ -166,6 +173,7 @@ class CitiesNewViewModel(application: Application) : AndroidViewModel(applicatio
 
 
     fun filterCountries(query: String?) {
+        Log.e("CitiesNewViewModel", "filterCountries: line:(175)");
         val filteredList = if (query.isNullOrBlank()) {
             originalCountries
         } else {
@@ -177,10 +185,12 @@ class CitiesNewViewModel(application: Application) : AndroidViewModel(applicatio
                     listOf(ListItemCountry.Header(initial.toString())) + group
                 }
         }
+        Log.e("CitiesNewViewModel", "filterCountries: line:(187)");
         _headercountries.value = filteredList
     }
 
     fun filterCities(query: String?) {
+        Log.e("CitiesNewViewModel", "filterCities: line:(190)");
         val filteredList = if (query.isNullOrBlank()) {
             originalCities
         } else {
@@ -192,6 +202,7 @@ class CitiesNewViewModel(application: Application) : AndroidViewModel(applicatio
                     listOf(ListItem.Header(initial.toString())) + group
                 }
         }
+        Log.e("CitiesNewViewModel", "filterCities: line:(202)");
         _matchedCitiesHeader.value = filteredList
     }
 
